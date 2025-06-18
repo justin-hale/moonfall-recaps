@@ -1,7 +1,7 @@
 ---
 title: "Sessions"
-description: "Looks back a session summaries from the entire campaign."
+description: "Look back at session summaries from the entire campaign."
 cascade:
   showReadingTime: false
 ---
-Looks back a session summaries from the entire campaign.
+Look back at session summaries from the entire campaign.
