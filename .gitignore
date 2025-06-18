@@ -1,5 +1,4 @@
 # Build artifacts
-public/
 resources/_gen/
 
 # Hugo build lock
