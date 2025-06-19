@@ -4,6 +4,7 @@ date: 2024-08-16
 description: "The party is in the dwarven city of High Forge, a place with strict rules."
 summary: "The party is in the dwarven city of High Forge, a place with strict rules."
 featureimage: "https://d2a9bkgsuxmqe2.cloudfront.net/staging/podcast_uploaded_episode400/41448639/41448639-1723920027113-51135146463c2.jpg"
+podcastlink: "https://creators.spotify.com/pod/show/topher-hooper/episodes/C4-E3-Unraveling-Twilight-e2n9vfs"
 ---
 ### Olivia's Investigation
 - **Detective Olivia Cooper**, recently retired, begins the session by investigating a mysterious lockbox left in her name.

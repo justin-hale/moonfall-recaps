@@ -4,6 +4,7 @@ date: 2024-08-16
 description: "The party is in the dwarven city of High Forge, a place with strict rules."
 summary: "The party is in the dwarven city of High Forge, a place with strict rules."
 featureimage: "https://d2a9bkgsuxmqe2.cloudfront.net/staging/podcast_uploaded_episode400/41448639/41448639-1723918380058-9f3d300d07063.jpg"
+podcastlink: "https://creators.spotify.com/pod/show/topher-hooper/episodes/C4-E2-A-Rock-Show-And-A-Briefcase-e2n9urq"
 ---
 ### 🏙️ Setting: High Forge
 The party is in the dwarven city of **High Forge**, a place with strict rules. Foreigners are generally restricted to the **Market Ward** unless they have paperwork or sponsorship. The Market Ward is full of inns, traders, bars, and entertainment venues—and hosts the city’s underground racing scene.
