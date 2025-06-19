@@ -54,8 +54,8 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showRecentItems = 15
   showMoreLink = true
   showMoreLinkDest = "/sessions/"
-  cardView = false
-  cardViewScreenWidth = true
+  cardView = true
+  cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
   disableHeroImageFilter = false # only used when layout equals hero
 

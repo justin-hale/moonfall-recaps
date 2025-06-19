@@ -4,8 +4,9 @@ date: 2024-08-05
 description: "Beginning of our new campaign, Moonfall. Our \"heroes\" go on a night out into the city of Highforge."
 summary: "Beginning of our new campaign, Moonfall. Our \"heroes\" go on a night out into the city of Highforge."
 featureimage: "https://d2a9bkgsuxmqe2.cloudfront.net/staging/podcast_uploaded_episode400/41448639/41448639-1722888138489-a7a4bde8e442a.jpg"
+podcastlink: "https://creators.spotify.com/pod/show/topher-hooper/episodes/C4-E1-Dinner-and-Nightcap-e2mrnbk"
 ---
-# Session 1 Recap
+
 **Location:** High Forge, Market Ward – “The Cog and Steam” Tavern
 ### Party Members
 - **Hellasana Doomfall** – Electric lute-playing bard and frontwoman of Doomfall.
