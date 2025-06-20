@@ -3,13 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://moonfallsessions.com/sessions/session-23/</loc>
-    <lastmod>2025-06-13T00:00:00+00:00</lastmod>
+    <loc>http://moonfallsessions.com/groups/</loc>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://moonfallsessions.com/</loc>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://moonfallsessions.com/npcs/</loc>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://moonfallsessions.com/sessions/session-23/</loc>
     <lastmod>2025-06-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -39,19 +51,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://moonfallsessions.com/groups/</loc>
-    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://moonfallsessions.com/groups/lakeshore-vale-villagers/</loc>
-    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://moonfallsessions.com/npcs/</loc>
     <lastmod>2025-01-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
