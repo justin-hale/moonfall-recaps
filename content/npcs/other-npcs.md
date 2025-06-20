@@ -2,7 +2,7 @@
 title: "Notable NPCs - Supporting Cast"
 description: "A collection of twenty memorable individuals who have shaped the party's journey, from allies and enemies to quirky locals and mysterious figures"
 summary: "A collection of twenty memorable individuals who have shaped the party's journey, from allies and enemies to quirky locals and mysterious figures"
-date: "2025-12-12"
+date: "2025-01-01"
 ---
 
 # Notable NPCs - Supporting Cast

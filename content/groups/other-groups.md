@@ -2,7 +2,7 @@
 title: "Organizations, Factions & Collective Forces"
 description: "Twenty significant groups, organizations, and collective entities that have shaped the political, social, and supernatural landscape of the campaign"
 summary: "Twenty significant groups, organizations, and collective entities that have shaped the political, social, and supernatural landscape of the campaign"
-date: "2025-12-12"
+date: "2025-01-01"
 ---
 
 # Organizations, Factions & Collective Forces

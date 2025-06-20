@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Felonias Bru</copyright>
-    <lastBuildDate>Fri, 12 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://moonfallsessions.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://moonfallsessions.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>23: Memorial and Racing Preparations</title>
@@ -66,6 +66,26 @@
       
       <guid>http://moonfallsessions.com/npcs/sol/</guid>
       <description>An enormous dragon with starlight scales who guards the astral tree portal and tests those seeking to undergo the Skyhammer trials</description>
+      
+    </item>
+    
+    <item>
+      <title>Notable NPCs - Supporting Cast</title>
+      <link>http://moonfallsessions.com/npcs/other-npcs/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://moonfallsessions.com/npcs/other-npcs/</guid>
+      <description>A collection of twenty memorable individuals who have shaped the party&amp;rsquo;s journey, from allies and enemies to quirky locals and mysterious figures</description>
+      
+    </item>
+    
+    <item>
+      <title>Organizations, Factions &amp; Collective Forces</title>
+      <link>http://moonfallsessions.com/groups/other-groups/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://moonfallsessions.com/groups/other-groups/</guid>
+      <description>Twenty significant groups, organizations, and collective entities that have shaped the political, social, and supernatural landscape of the campaign</description>
       
     </item>
     
