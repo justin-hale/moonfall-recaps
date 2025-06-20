@@ -1,5 +1,5 @@
 ---
-title: "Session Ten: The Red Scare"
+title: "10: The Red Scare"
 date: 2024-10-12
 description: "The party uncovers a devil's grip on Milstrom"
 summary: "The party uncovers a devil's grip on Milstrom"

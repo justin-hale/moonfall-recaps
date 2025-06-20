@@ -1,5 +1,5 @@
 ---
-title: "Session Fifteen: On George's Heels"
+title: "15: On George's Heels"
 date: 2024-11-23
 description: "The party pursues George and the pilgrims up Grimvar's Spine, discovering a corrupted shrine and fighting to restore its protective wards."
 summary: "The party pursues George and the pilgrims up Grimvar's Spine, discovering a corrupted shrine and fighting to restore its protective wards."

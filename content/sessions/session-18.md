@@ -1,5 +1,5 @@
 ---
-title: "Session Eighteen: Winter Solstice"
+title: "18: Winter Solstice"
 date: 2024-12-21
 description: "The party returns to Milstrom for winter solstice festivities, only to face an evil doppelganger threatening their celebration."
 summary: "The party returns to Milstrom for winter solstice festivities, only to face an evil doppelganger threatening their celebration."

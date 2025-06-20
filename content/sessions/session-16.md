@@ -1,5 +1,5 @@
 ---
-title: "Session Sixteen: Olivia's Decision"
+title: "16: Olivia's Decision"
 date: 2024-12-12
 description: "The party rescues George from the Shadowfell and witnesses a catastrophic celestial event."
 summary: "The party rescues George from the Shadowfell and witnesses a catastrophic celestial event."

@@ -1,5 +1,5 @@
 ---
-title: "Session Six: Highforge Sprint"
+title: "6: Highforge Sprint"
 date: 2024-09-07
 description: "Our heroes race the Highforge Sprint!"
 summary: "Our heroes race the Highforge Sprint!"

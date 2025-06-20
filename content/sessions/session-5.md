@@ -1,5 +1,5 @@
 ---
-title: "Session Five: A Pretty Good Concert"
+title: "5: A Pretty Good Concert"
 date: 2024-09-01
 description: "Our heroes throw a pretty good concert."
 summary: "Our heroes throw a pretty good concert."

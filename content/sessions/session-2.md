@@ -1,5 +1,5 @@
 ---
-title: "Session Two: A Rock Show And A Briefcase"
+title: "2: A Rock Show And A Briefcase"
 date: 2024-08-09
 description: "The party is in the dwarven city of High Forge, a place with strict rules."
 summary: "The party is in the dwarven city of High Forge, a place with strict rules."

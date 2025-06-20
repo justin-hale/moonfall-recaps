@@ -1,5 +1,5 @@
 ---
-title: "Session Three: Unraveling Twilight"
+title: "3: Unraveling Twilight"
 date: 2024-08-16
 description: "The party is in the dwarven city of High Forge, a place with strict rules."
 summary: "The party is in the dwarven city of High Forge, a place with strict rules."

@@ -1,5 +1,5 @@
 ---
-title: "Session Nine: A Stranger at the Crossroads"
+title: "9: A Stranger at the Crossroads"
 date: 2024-10-05
 description: "The party enters the woods to break a fae bargain and strikes a dangerous deal with Mr. Crowley."
 summary: "The party enters the woods to break a fae bargain and strikes a dangerous deal with Mr. Crowley."

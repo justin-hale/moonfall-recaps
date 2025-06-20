@@ -1,5 +1,5 @@
 ---
-title: "Session Eight: Caravan Nights"
+title: "8: Caravan Nights"
 date: 2024-10-03
 description: "Tacocats take a moment to meet caravan folks."
 summary: "Tacocats take a moment to meet caravan folks."

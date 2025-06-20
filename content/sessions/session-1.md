@@ -1,5 +1,5 @@
 ---
-title: "Session One: Dinner and Nightcap"
+title: "1: Dinner and Nightcap"
 date: 2024-08-05
 description: "Beginning of our new campaign, Moonfall. Our \"heroes\" go on a night out into the city of Highforge."
 summary: "Beginning of our new campaign, Moonfall. Our \"heroes\" go on a night out into the city of Highforge."

@@ -1,5 +1,5 @@
 ---
-title: "Session Fourteen: Ascending Grimvar's Spine"
+title: "14: Ascending Grimvar's Spine"
 date: 2024-11-17
 description: "The party begins their pilgrimage up Grimvar's Spine mountain, where they encounter a peculiar shepherd and his unruly magical sheep."
 summary: "The party begins their pilgrimage up Grimvar's Spine mountain, where they encounter a peculiar shepherd and his unruly magical sheep."

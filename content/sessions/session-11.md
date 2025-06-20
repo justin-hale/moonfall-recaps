@@ -1,5 +1,5 @@
 ---
-title: "Session Eleven: You Only Live Once"
+title: "11: You Only Live Once"
 date: 2024-10-19
 description: "The party drinks Roscoe’s Everclear and uncovers Red’s royal past while wolves descend on the town"
 summary: "The party drinks Roscoe’s Everclear and uncovers Red’s royal past while wolves descend on the town"

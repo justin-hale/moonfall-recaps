@@ -1,5 +1,5 @@
 ---
-title: "Session Seventeen: The Skyhammers"
+title: "17: The Skyhammers"
 date: 2024-12-14
 description: "The party reaches Red's ancestral clan and discovers advanced technology, but Red must prove his lineage through dangerous trials."
 summary: "The party reaches Red's ancestral clan and discovers advanced technology, but Red must prove his lineage through dangerous trials."

@@ -1,5 +1,5 @@
 ---
-title: "Session Seven: Escape Highforge"
+title: "7: Escape Highforge"
 date: 2024-09-14
 description: "A Dragon Attacks! Our heroes seek to escape highforge!"
 summary: "A Dragon Attacks! Our heroes seek to escape highforge!"

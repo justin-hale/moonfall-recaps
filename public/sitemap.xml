@@ -3,19 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://moonfallsessions.com/</loc>
-    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+    <loc>http://moonfallsessions.com/sessions/session-23/</loc>
+    <lastmod>2025-06-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://moonfallsessions.com/sessions/session-18/</loc>
-    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+    <loc>http://moonfallsessions.com/</loc>
+    <lastmod>2025-06-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://moonfallsessions.com/sessions/</loc>
+    <lastmod>2025-06-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://moonfallsessions.com/sessions/session-22/</loc>
+    <lastmod>2025-06-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://moonfallsessions.com/sessions/session-21/</loc>
+    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://moonfallsessions.com/sessions/session-20/</loc>
+    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://moonfallsessions.com/sessions/session-18/</loc>
     <lastmod>2024-12-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

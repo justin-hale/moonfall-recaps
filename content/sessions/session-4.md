@@ -1,5 +1,5 @@
 ---
-title: "Session Four: Love and Betrayal"
+title: "4: Love and Betrayal"
 date: 2024-08-25
 description: "Our heroes get an assignment to sabotage some racecars."
 summary: "Our heroes get an assignment to sabotage some racecars."

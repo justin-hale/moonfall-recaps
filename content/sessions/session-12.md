@@ -1,5 +1,5 @@
 ---
-title: "Session Twelve: Out of the frying pan, into the Fire"
+title: "12ve: Out of the frying pan, into the Fire"
 date: 2024-10-26
 description: "The party pursues werewolves, recruits an unlikely ally, and faces their most dangerous battle yet."
 summary: "The party pursues werewolves, recruits an unlikely ally, and faces their most dangerous battle yet."
