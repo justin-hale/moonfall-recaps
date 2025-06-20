@@ -20,6 +20,16 @@
   pageRef = "player-characters"
   weight = 10
 
+[[main]]
+  name = "NPCs"
+  pageRef = "npcs"
+  weight = 10
+
+[[main]]
+  name = "Groups"
+  pageRef = "groups"
+  weight = 10
+
 #[[main]]
 #  name = "Parent"
 #  weight = 20

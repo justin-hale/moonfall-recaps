@@ -39,6 +39,30 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://moonfallsessions.com/groups/</loc>
+    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://moonfallsessions.com/groups/lakeshore-vale-villagers/</loc>
+    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://moonfallsessions.com/npcs/</loc>
+    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://moonfallsessions.com/npcs/sol/</loc>
+    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://moonfallsessions.com/sessions/session-18/</loc>
     <lastmod>2024-12-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -46,6 +70,12 @@
   </url>
   <url>
     <loc>http://moonfallsessions.com/sessions/session-17/</loc>
+    <lastmod>2024-12-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://moonfallsessions.com/groups/skyhammer-clan/</loc>
     <lastmod>2024-12-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -75,6 +105,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://moonfallsessions.com/npcs/zeke/</loc>
+    <lastmod>2024-11-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://moonfallsessions.com/sessions/session-12/</loc>
     <lastmod>2024-10-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -93,13 +129,31 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://moonfallsessions.com/npcs/roscoe/</loc>
+    <lastmod>2024-10-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://moonfallsessions.com/sessions/session-9/</loc>
     <lastmod>2024-10-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://moonfallsessions.com/npcs/crowley/</loc>
+    <lastmod>2024-10-05T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://moonfallsessions.com/sessions/session-8/</loc>
+    <lastmod>2024-10-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://moonfallsessions.com/npcs/eleanor/</loc>
     <lastmod>2024-10-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -130,6 +184,18 @@
   </url>
   <url>
     <loc>http://moonfallsessions.com/sessions/session-3/</loc>
+    <lastmod>2024-08-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://moonfallsessions.com/npcs/george/</loc>
+    <lastmod>2024-08-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://moonfallsessions.com/groups/twilight-company/</loc>
     <lastmod>2024-08-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
