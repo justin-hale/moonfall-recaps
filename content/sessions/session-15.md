@@ -78,7 +78,7 @@ The shrine consists of:
 ### **Initiative and Combatants**
 - **Enemies**: 
   - **Lacuna**: A corrupted, teleporting statue that causes despair and can phase between realities
-  - **Matt Damon**: A demon that manifests when the party begins dispelling corruption
+  - A demon that manifests when the party begins dispelling corruption
 - **Party Initiative**: Helisanna (22), Bru (14), Olivia (11), Silas (10), Red (9), Elspeth (5)
 
 ### **Round-by-Round Combat Summary**

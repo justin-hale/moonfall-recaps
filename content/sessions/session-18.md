@@ -1,5 +1,5 @@
 ---
-title: "18: Winter Solstice"
+title: "Winter Solstice Special"
 date: 2024-12-21
 description: "The party returns to Milstrom for winter solstice festivities, only to face an evil doppelganger threatening their celebration."
 summary: "The party returns to Milstrom for winter solstice festivities, only to face an evil doppelganger threatening their celebration."
@@ -9,7 +9,7 @@ podcastlink: "https://creators.spotify.com/pod/profile/topher-hooper/episodes/C4
 
 ## Session Overview
 
-The party returns to Milstrom just in time for the winter solstice celebration, where the entire village is decorated for the festivities with garlands, a skating rink, snowman building contests, and carolers. However, their peaceful celebration is disrupted when an evil doppelganger of Caspian (the Winter King's assistant) appears and corrupts the solstice magic, forcing the party into a series of battles to save the celebration.
+We take a break from the main story as the party returns to Milstrom just in time for the winter solstice celebration, where the entire village is decorated for the festivities with garlands, a skating rink, snowman building contests, and carolers. However, their peaceful celebration is disrupted when an evil doppelganger of Caspian (the Winter King's assistant) appears and corrupts the solstice magic, forcing the party into a series of battles to save the celebration.
 
 ## Opening: Solstice Festivities
 

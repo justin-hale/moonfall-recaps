@@ -9,7 +9,7 @@ podcastlink: "https://creators.spotify.com/pod/profile/topher-hooper/episodes/C4
 
 ## Opening Recap
 
-The session began with the party recounting their previous adventures. They had recently dealt with Magnolia's drug-addled state, discovered that Z was the murderer of Red's parents, found Z's journal after he burned down his own house, and learned he had fled to Eldoran. The party also negotiated with Tien's caravan to wait for their return for 200 gold, and Bodega set up shop in the town they had recently helped liberate.
+The session began with the party recounting their previous adventures. They had recently dealt with Magnolia's drug-addled state, discovered that Zeke was the murderer of Red's parents, found Zeke's journal after he burned down his own house, and learned he had fled to Eldoran. The party also negotiated with Tien's caravan to wait for their return for 200 gold, and Bo Dega set up shop in the town they had recently helped liberate.
 
 ## The Pilgrimage Begins
 

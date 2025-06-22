@@ -3,6 +3,7 @@ title: "22: Red's Last Fight"
 date: 2025-06-06
 description: "The party faces an impossible choice on a frozen mountaintop as destiny calls for the ultimate sacrifice."
 summary: "The party faces an impossible choice on a frozen mountaintop as destiny calls for the ultimate sacrifice."
+featureimage: "C4E22.png"
 podcastlink: "https://creators.spotify.com/pod/profile/topher-hooper/episodes/C4E22-June-6th-e34d032"
 ---
 

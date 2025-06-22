@@ -45,7 +45,7 @@ The party faces multiple types of shadow creatures emerging from the Shadowfell:
 
 **Round 1:**
 - **Helisanna** opens with **Thunderwave**, destroying one shadow but learning they have constitution saves
-- **Bru** casts **Fairy Fire**, outlining the shadows in blue light and granting advantage on attacks
+- **Bru** casts **Faerie Fire**, outlining the shadows in blue light and granting advantage on attacks
 - **Elspeth** systematically destroys shadows with her axe and magic gun, killing three in one turn
 
 **Round 2-3:**
@@ -84,7 +84,7 @@ The emotional reunion between **Olivia** and **George** reveals several importan
 
 ## The Eldoran Knight Encounter
 
-The party interacts with the **Eldoran Knight** who helped during combat. She wears the characteristic gem-embedded armor but her crystals appear dull and blackened rather than bright:
+The party interacts with the **Eric, Eldoran Knight** who helped during combat. She wears the characteristic gem-embedded armor but her crystals appear dull and blackened rather than bright:
 
 ### **Knight's Background**
 - She was sent on a mission to combat Shadowfell incursions
@@ -98,7 +98,7 @@ The party interacts with the **Eldoran Knight** who helped during combat. She we
 - Reveals that Eldoran forces fought the dragons but suffered casualties
 
 ### **Religious Tensions**
-The knight espouses disturbing views about religious warfare:
+Eric espouses disturbing views about religious warfare:
 *"It has become clear to us over the last century that we must extinguish other gods to gain validity in our own religion."*
 
 This leads to pointed criticism from the party about forced conversions and religious persecution.
@@ -118,7 +118,7 @@ The party decides to head down the mountain to **Jeremy the shepherd's** house f
 - Plans are made to eventually seek out his people in the mountains
 
 ### **Brief Encounters**
-- They pass **Erica** (the Eldoran knight from earlier sessions) who was eating a magical dinner
+- They pass **Eric** (the Eldoran knight from earlier) who was eating a magical dinner
 - **Silas** mocks her equipment, noting her crystals are "smoky and dull" unlike typical Eldoran gear
 
 ## Rest at Jeremy's Cottage

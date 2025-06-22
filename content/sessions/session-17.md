@@ -50,7 +50,7 @@ Upon reaching the mountain's summit, the party encounters Goliath sentries and i
 - **Advanced Technology**: Solar panels, electric lights, aluminum and steel construction
 - **The Rocket Platform**: A massive partially-constructed spacecraft dominates the village center
 - **Solarpunk Aesthetic**: Technology integrated harmoniously with the mountain environment
-- **Crystal-Powered Equipment**: White crystal technology similar to but distinct from Eldoran violaceous crystals
+- **Crystal-Powered Equipment**: White crystal technology similar to but distinct from Eldoran violessence crystals
 - **Defensive Preparations**: Guards equipped with railguns and crystal-embedded weapons
 
 ## Meeting Elder Ragar

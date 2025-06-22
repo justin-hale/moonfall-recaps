@@ -3,6 +3,7 @@ title: "23: Memorial and Racing Preparations"
 date: 2025-06-13
 description: "The party holds a memorial service for Red while discovering new threats and preparing for a dangerous racing event in Milstrom."
 summary: "The party holds a memorial service for Red while discovering new threats and preparing for a dangerous racing event in Milstrom."
+featureimage: "C4E23.png"
 podcastlink: "https://creators.spotify.com/pod/profile/topher-hooper/episodes/C4E23-June-13th-e34d08c"
 ---
 

@@ -2,79 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Npcs on Moonfall Sessions</title>
-    <link>http://moonfallsessions.com/npcs/</link>
+    <link>http://localhost:1313/npcs/</link>
     <description>Recent content in Npcs on Moonfall Sessions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Felonias Bru</copyright>
-    <lastBuildDate>Sat, 11 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://moonfallsessions.com/npcs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/npcs/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Sol</title>
-      <link>http://moonfallsessions.com/npcs/sol/</link>
+      <link>http://localhost:1313/npcs/sol/</link>
       <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://moonfallsessions.com/npcs/sol/</guid>
+      <guid>http://localhost:1313/npcs/sol/</guid>
       <description>An enormous dragon with starlight scales who guards the astral tree portal and tests those seeking to undergo the Skyhammer trials</description>
       
     </item>
     
     <item>
       <title>Notable NPCs - Supporting Cast</title>
-      <link>http://moonfallsessions.com/npcs/other-npcs/</link>
+      <link>http://localhost:1313/npcs/other-npcs/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://moonfallsessions.com/npcs/other-npcs/</guid>
+      <guid>http://localhost:1313/npcs/other-npcs/</guid>
       <description>A collection of twenty memorable individuals who have shaped the party&amp;rsquo;s journey, from allies and enemies to quirky locals and mysterious figures</description>
       
     </item>
     
     <item>
       <title>Zeke</title>
-      <link>http://moonfallsessions.com/npcs/zeke/</link>
+      <link>http://localhost:1313/npcs/zeke/</link>
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://moonfallsessions.com/npcs/zeke/</guid>
+      <guid>http://localhost:1313/npcs/zeke/</guid>
       <description>An Eldoran Empire spy who murdered Red&amp;rsquo;s adoptive parents and has been monitoring Goliath activities in the mountains</description>
       
     </item>
     
     <item>
       <title>Roscoe</title>
-      <link>http://moonfallsessions.com/npcs/roscoe/</link>
+      <link>http://localhost:1313/npcs/roscoe/</link>
       <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://moonfallsessions.com/npcs/roscoe/</guid>
+      <guid>http://localhost:1313/npcs/roscoe/</guid>
       <description>A bizarre Warforged with a makeshift digestive system who serves as an alcoholic oracle and guide in Milstrom&amp;rsquo;s underground tunnels</description>
       
     </item>
     
     <item>
       <title>Mr. Crowley</title>
-      <link>http://moonfallsessions.com/npcs/crowley/</link>
+      <link>http://localhost:1313/npcs/crowley/</link>
       <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://moonfallsessions.com/npcs/crowley/</guid>
+      <guid>http://localhost:1313/npcs/crowley/</guid>
       <description>A mysterious fae entity who appears at crossroads to make dangerous bargains, collecting powerful magical artifacts and targeting supernatural beings</description>
       
     </item>
     
     <item>
       <title>Eleanor</title>
-      <link>http://moonfallsessions.com/npcs/eleanor/</link>
+      <link>http://localhost:1313/npcs/eleanor/</link>
       <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://moonfallsessions.com/npcs/eleanor/</guid>
+      <guid>http://localhost:1313/npcs/eleanor/</guid>
       <description>A halfling hedge mage who leads Eleanor&amp;rsquo;s Wandering Coven and specializes in closing infernal portals and combating demonic corruption</description>
       
     </item>
     
     <item>
       <title>George</title>
-      <link>http://moonfallsessions.com/npcs/george/</link>
+      <link>http://localhost:1313/npcs/george/</link>
       <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://moonfallsessions.com/npcs/george/</guid>
+      <guid>http://localhost:1313/npcs/george/</guid>
       <description>Olivia Cooper&amp;rsquo;s grandson who works with the Twilight Company on Project Purple Patch, investigating supernatural threats and planar instabilities</description>
       
     </item>
