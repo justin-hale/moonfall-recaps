@@ -3,10 +3,8 @@ title: "Red (Thurnok Skyhammer)"
 date: "2024-06-14"
 description: "Goliath Cleric - Played By: Zach"
 summary: "Goliath Cleric - Played By: Zach"
+featureimage: "red.png"
 ---
-
-# Red (Thurnok Skyhammer)
-
 ## Background
 Red is a Goliath cleric and the secret prince of the Skyhammer clan, though he was raised by adoptive parents Marion and Robert Cross in the town of Milstrom. His true identity was hidden to protect him from the Eldoran Empire, which massacred his clan and stole their advanced technological knowledge. His adoptive parents were murdered by Zeke, an Eldoran spy who discovered Red's heritage.
 

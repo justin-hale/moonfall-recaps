@@ -3,9 +3,8 @@ title: "Elspeth Cooper"
 date: "2024-06-14"
 description: "Dwarf Artificer/Battle Smith/Paladin - Played By: Ali"
 summary: "Dwarf Artificer/Battle Smith/Paladin - Played By: Ali"
+featureimage: "elspeth.png"
 ---
-
-# Elspeth Cooper
 
 ## Background
 Elspeth Cooper is a skilled dwarf artificer and former professional racer who was controversially disqualified from the racing circuit after being framed for cheating. She believes her car was tampered with to make it appear she was overpowering her vehicle, leading to her fall from grace in the underground racing scene.

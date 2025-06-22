@@ -3,9 +3,8 @@ title: "Felonias 'Bru' Bru"
 date: "2024-06-14"
 description: "Halfling Artificer/Artillerist - Played By: Justin"
 summary: "Halfling Artificer/Artillerist - Played By: Justin"
+featureimage: "bru.png"
 ---
-
-# Felonias "Bru" Bru
 
 ## Background
 Bru is a halfling artificer with an insatiable love for pyrotechnics, explosives, and general chaos. Originally part of a criminal gang with Silas, he was involved in a heist that went wrong, leading to the deaths of other gang members when they stole a powerful orb from the Iron Claws organization.

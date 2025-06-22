@@ -3,9 +3,8 @@ title: "Helisanna Doomfall"
 date: "2024-06-14"
 description: "Human Bard/Warlock/College of Lore - Played By: Luke"
 summary: "Human Bard/Warlock/College of Lore - Played By: Luke"
+featureimage: "helisanna.png"
 ---
-
-# Helisanna Doomfall
 
 ## Background
 Helisanna is the electric lute-playing frontwoman of the metal band "Doomfall" and has made a warlock pact that manifests through her music. She created a new persona for herself, leaving behind her former identity in a transformation that brought both power and personal loss. Her performances are legendary, capable of inducing supernatural experiences in audiences.

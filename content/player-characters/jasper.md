@@ -3,9 +3,8 @@ title: "Lieutenant Jasper Gaines"
 date: "2024-06-14"
 description: "Human Barbarian/Path of the Berserker - Played By: Topher"
 summary: "Human Barbarian/Path of the Berserker - Played By: Topher"
+featureimage: "jasper.png"
 ---
-
-# Lieutenant Jasper Gaines
 
 ## Background
 Jasper Gaines is a human barbarian who joined the party during the winter solstice celebrations in Milstrom. He operates the "Gaines Brewery Bakery and Bankery" in Eldora and has connections to the Eldoran military, though his armor crystals are notably dull and blackened compared to typical Eldoran equipment.

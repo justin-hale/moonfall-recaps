@@ -3,9 +3,8 @@ title: "Retired Detective Olivia Cooper"
 date: "2024-06-14"
 description: "Dwarf Paladin/Oath of Devotion - Played By: Ellis"
 summary: "Dwarf Paladin/Oath of Devotion - Played By: Ellis"
+featureimage: "olivia.png"
 ---
-
-# Retired Detective Olivia Cooper
 
 ## Background
 Detective Olivia Cooper is a recently retired dwarf investigator with decades of law enforcement experience. She has taken up adventuring partially to search for her missing grandson George, who disappeared while working on Project Purple Patch for the Twilight Company. Her investigative skills and unwavering sense of justice make her an invaluable team member.

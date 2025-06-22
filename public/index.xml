@@ -356,7 +356,7 @@
       
       <guid>http://localhost:1313/player-characters/elspeth/</guid>
       <description>Dwarf Artificer/Battle Smith/Paladin - Played By: Ali</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/player-characters/elspeth/featured.png" />
+      
     </item>
     
     <item>
@@ -366,7 +366,7 @@
       
       <guid>http://localhost:1313/player-characters/bru/</guid>
       <description>Halfling Artificer/Artillerist - Played By: Justin</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/player-characters/bru/featured.png" />
+      
     </item>
     
     <item>
@@ -376,7 +376,7 @@
       
       <guid>http://localhost:1313/player-characters/helisanna/</guid>
       <description>Human Bard/Warlock/College of Lore - Played By: Luke</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/player-characters/helisanna/featured.png" />
+      
     </item>
     
     <item>
@@ -386,7 +386,7 @@
       
       <guid>http://localhost:1313/player-characters/jasper/</guid>
       <description>Human Barbarian/Path of the Berserker - Played By: Topher</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/player-characters/jasper/featured.png" />
+      
     </item>
     
     <item>
@@ -396,7 +396,7 @@
       
       <guid>http://localhost:1313/player-characters/red/</guid>
       <description>Goliath Cleric - Played By: Zach</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/player-characters/red/featured.png" />
+      
     </item>
     
     <item>
@@ -406,7 +406,7 @@
       
       <guid>http://localhost:1313/player-characters/olivia/</guid>
       <description>Dwarf Paladin/Oath of Devotion - Played By: Ellis</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/player-characters/olivia/featured.png" />
+      
     </item>
     
     <item>
@@ -416,7 +416,7 @@
       
       <guid>http://localhost:1313/player-characters/silas/</guid>
       <description>Halfling Rogue/Soulknife - Played By: Taylor</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/player-characters/silas/featured.png" />
+      
     </item>
     
   </channel>

@@ -3,9 +3,8 @@ title: "Silas Fairbanks"
 date: "2024-06-14"
 description: "Halfling Rogue/Soulknife - Played By: Taylor"
 summary: "Halfling Rogue/Soulknife - Played By: Taylor"
+featureimage: "silas.png"
 ---
-
-# Silas Fairbanks
 
 ## Background
 Silas is a scheming halfling rogue who serves as the manager of the metal band Doomfall while maintaining connections to various criminal organizations. He was formerly part of the Sisyphus Circle gang alongside Bru, and their failed heist of a powerful orb from the Iron Claws organization led to the deaths of their fellow gang members and put both of them in ongoing danger.
