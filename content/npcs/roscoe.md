@@ -36,7 +36,7 @@ Roscoe appears to be connected to a mysterious organization or hive-mind called 
 - Revealed Red's true identity as Prince Thurnok Skyhammer of the Goliath clan
 - Provided Marion Cross's journal detailing Red's royal heritage
 - Guided the party through Milstrom's underground tunnel system
-- Warned about Red Linen's demonic control over the town
+- Warned about Red Lennon's demonic control over the town
 - Offered directions to the corrupted shrine and pilgrim routes
 
 ## Notable Quotes

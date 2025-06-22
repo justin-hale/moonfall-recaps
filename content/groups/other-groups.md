@@ -31,13 +31,13 @@ Network of traveling magical practitioners who respond to supernatural threats a
 
 ## 6. **The Common Mug Tavern** *(Session 10)*
 **Social Hub | Political Theater**
-Central gathering place in Milstrom that serves as tavern, meeting hall, and courthouse. Hosted Red Linen's show trials and serves as the heart of community political discourse. Represents how local establishments become focal points for both social connection and political control.
+Central gathering place in Milstrom that serves as tavern, meeting hall, and courthouse. Hosted Red Lennon's show trials and serves as the heart of community political discourse. Represents how local establishments become focal points for both social connection and political control.
 
 ## 7. **High Forge Market Ward** *(Session 1)*
 **Dwarven Commercial District | Refugee Haven**
 The international trading sector of the dwarven city where foreigners are permitted to operate. Features the underground racing scene, entertainment venues, and serves as a cultural melting pot. Recently destroyed by dragon attacks, representing the vulnerability of cosmopolitan centers.
 
-## 8. **Red Linen's Communist Collective** *(Session 10)*
+## 8. **Red Lennon's Communist Collective** *(Session 10)*
 **Political Movement | Demonic Puppet State**
 Supernatural communist organization that took control of Milstrom through devil magic. Conducted show trials, demanded monthly sacrifices, and represented how legitimate political movements can be corrupted by supernatural forces. Demonstrates the intersection of ideology and otherworldly manipulation.
 

@@ -21,7 +21,7 @@ The session opens with a retrospective on **Silas’ backstory**:
 - The Iron Claws are now actively pursuing Silas by name—meaning his current identity has been compromised.
 
 Other shocking reveals include:
-- **Olivia’s family cat**, Bodega, is implicated in drug smuggling—using produce to transport a dangerous eye-drop drug called "V".
+- **Olivia’s friend**, Bo Dega, is implicated in drug smuggling—using produce to transport a dangerous eye-drop drug called "V".
 - Olivia is devastated to learn her local bodega may have been a front for narcotics.
 
 ## 💰 Loot Recap & Equipment Shopping
@@ -42,7 +42,7 @@ The party travels with the caravan toward **Milstrom**, Red's hometown.
 
 ## 🛑 Paladin Encounter: Religious Persecution
 
-A disturbing road encounter introduces **Eldoran paladins**—human knights wielding weapons and armor embedded with **violaceous crystals** (the same material powering Elspeth’s racer).
+A disturbing road encounter introduces **Eldoran paladins**—human knights wielding weapons and armor embedded with **violessence crystals** (the same material powering Elspeth’s racer).
 
 - They are **forcing refugees to swear allegiance to Empress Eldora**, demanding abandonment of their former gods.
 - A knight accosts a dwarven monk who refuses to forsake **Tyr**.

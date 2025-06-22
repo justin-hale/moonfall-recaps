@@ -79,7 +79,7 @@ The party remains in the refugee camp outside the ruined dwarven city of High Fo
 
 ## Epilogue
 - Back at the refugee camp, the party sees the family joyfully reunited: Bori, Sela, and Turek are all awake and well.
-- Olivia warns Hoboken (the monk of Steyr) to spread word about Crowley and to **warn others against making fae bargains**.
+- Olivia warns Hoboken (the monk of Tyr) to spread word about Crowley and to **warn others against making fae bargains**.
 - The party ends the night wary but victorious—having saved a child’s life, made a deal with a devilish fae, and unleashed possible consequences for the future.
 
 ---

@@ -49,13 +49,13 @@ Offered the party their first major job - guarding a caravan along the Gold Road
 **Underground Racing Informant | Cryptic Warner**
 Appeared at Elspeth's garage with the warning "You should not race. You are being targeted." Provided crucial intelligence about the saboteur: a short, green-skinned goblin wearing all black. His information helped the party identify the threat against Elspeth's racing career and prepare appropriate countermeasures.
 
-## 11. **Red Linen/Red Lennon** *(Session 10)*
+## 11. **Red Lennon/Red Lennon** *(Session 10)*
 **Devil | Communist Revolutionary Leader**
 The literal devil who took control of Milstrom through a corrupted communist political movement. Demanded monthly sacrifices at the druidic shrine and maintained supernatural control over the town's population. His influence created the oppressive political atmosphere that led to show trials and executions of dissidents like Willemay Hargreave.
 
 ## 12. **Willemay Hargreave** *(Session 10)*
 **Elven Dissident | Counter-Revolutionary**
-Sentenced to execution for questioning Red Linen's regime and warning about creeping authoritarianism. Her public trial at the Common Mug demonstrated the town's descent into totalitarian control. Devoted to Tyr and represented the last voices of opposition before the party's intervention broke the devil's hold on Milstrom.
+Sentenced to execution for questioning Red Lennon's regime and warning about creeping authoritarianism. Her public trial at the Common Mug demonstrated the town's descent into totalitarian control. Devoted to Tyr and represented the last voices of opposition before the party's intervention broke the devil's hold on Milstrom.
 
 ## 13. **Bodega/Bo** *(Session 8)*
 **Shopkeeper | Reluctant Criminal**
