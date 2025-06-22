@@ -71,8 +71,8 @@ When properly aligned, the constellations glowed with connecting lines of light,
 **Village Gossip**: Callum provided extensive gossip about the villagers:
 - **Finnick**: A large fisherman who feeds much of the town
 - **Thalos**: A blacksmith whom Callum considered "very rude"
-- **Rowan and Illa**: Two residents caught in a mutual but unspoken romantic attraction
-- **Elder Brian**: An elderly village leader
+- **Rowan and Isla**: Two residents caught in a mutual but unspoken romantic attraction
+- **Elder Bryn**: An elderly village leader
 
 ## Meeting the Locals
 
@@ -80,25 +80,25 @@ When properly aligned, the constellations glowed with connecting lines of light,
 
 **Bru's Explosive Innovation**: In a moment that would have lasting consequences, Bru introduced Finnick to fishing with dynamite. The first explosive was "on the house," but subsequent ones would cost five gold each. This led to multiple explosions in the lake and many dead fish floating to the surface.
 
-**Elder Brian**: The party found the supposed village leader digging through trash, searching for driftwood. Brian explained that he performed "prophecy rituals" using driftwood that supposedly predicted who would arrive in the village next. He claimed these rituals had successfully predicted the arrival of Callum and Illa, though he admitted one time it predicted no one would come.
+**Elder Bryn**: The party found the supposed village leader digging through trash, searching for driftwood. Bryn explained that he performed "prophecy rituals" using driftwood that supposedly predicted who would arrive in the village next. He claimed these rituals had successfully predicted the arrival of Callum and Isla, though he admitted one time it predicted no one would come.
 
 ## The Driftwood Debacle
 
-**The Quest**: Elder Brian desperately needed driftwood for his prophecy ritual, despite the fact that driftwood was readily available on the nearby beach. His inability to locate it himself suggested either incompetence or some other limitation.
+**The Quest**: Elder Bryn desperately needed driftwood for his prophecy ritual, despite the fact that driftwood was readily available on the nearby beach. His inability to locate it himself suggested either incompetence or some other limitation.
 
-**Bru's Stealth Mission**: Using psychic communication with Silas, Bru stealthily retrieved driftwood from the beach while Finnick was distracted by his new explosive fishing techniques. However, confusion arose when Finnick warned against giving the driftwood to "Silas" (meaning Elder Brian shouldn't be given the driftwood), but Bru misunderstood this as Finnick opposing the elder.
+**Bru's Stealth Mission**: Using psychic communication with Silas, Bru stealthily retrieved driftwood from the beach while Finnick was distracted by his new explosive fishing techniques. However, confusion arose when Finnick warned against giving the driftwood to "Silas" (meaning Elder Bryn shouldn't be given the driftwood), but Bru misunderstood this as Finnick opposing the elder.
 
-**Power Dynamics**: In a bizarre turn of events, Elder Brian declared that by bringing him the driftwood, Bru had proven his trustworthiness and could now be considered the "elder" or even "ruler" of the village. This led to Bru jokingly ordering Brian to fight Finnick to the death, much to Red and Silas's horror.
+**Power Dynamics**: In a bizarre turn of events, Elder Bryn declared that by bringing him the driftwood, Bru had proven his trustworthiness and could now be considered the "elder" or even "ruler" of the village. This led to Bru jokingly ordering Bryn to fight Finnick to the death, much to Red and Silas's horror.
 
-**Olivia's Intervention**: Growing increasingly frustrated with the circular conversations and apparent incompetence of the villagers, Olivia grabbed the driftwood from Elder Brian and threw it back into the water, pointing out that it would simply drift back to shore naturally.
+**Olivia's Intervention**: Growing increasingly frustrated with the circular conversations and apparent incompetence of the villagers, Olivia grabbed the driftwood from Elder Bryn and threw it back into the water, pointing out that it would simply drift back to shore naturally.
 
 ## Brewing Tensions and Mysteries
 
 **The Trial's Purpose**: Throughout these interactions, it became clear that Red's trial involved helping the people of Lakeshore Vale, though the specific requirements remained unclear. The party began identifying several potential quests:
 - Recovering Finnick's stolen fishing rod from Tanner
-- Resolving the unspoken romance between Rowan and Illa  
+- Resolving the unspoken romance between Rowan and Isla  
 - Dealing with Thomas, who supposedly won't do her chores
-- Managing Elder Brian's driftwood obsession
+- Managing Elder Bryn's driftwood obsession
 - Understanding Callum's role as an unreliable narrator
 
 **Village Dynamics**: The party began to suspect that Callum, their initial source of information, might be providing inverted or false information about the other villagers. Thalos the "rude" blacksmith had actually been friendly when they passed, and many of Callum's other assessments seemed questionable.

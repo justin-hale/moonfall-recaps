@@ -29,7 +29,7 @@ The party embarks on an impressive speedrun of village problems, helping multipl
 
 ### The Cave Investigation
 
-When young Thomas mentions strange sounds from a nearby cave, Silas investigates and discovers Saul waiting inside. Saul reveals the true nature of their situation: the villagers are trapped by monstrous creatures that attack every night, and the only way to escape is to defeat these abominations.
+When young Thomas mentions strange sounds from a nearby cave, Silas investigates and discovers Sol waiting inside. Sol reveals the true nature of their situation: the villagers are trapped by monstrous creatures that attack every night, and the only way to escape is to defeat these abominations.
 
 ### The Prophecy Vision
 
@@ -82,9 +82,9 @@ The battle becomes increasingly desperate as the monsters use diverse saving thr
 
 When the final abominations fall, their blood fills mystical glyphs carved into the tree platform, opening multiple portals around the area. The villagers are finally free to leave their astral tree prison, with some choosing to return home while others may seek new adventures.
 
-### Saul's Revelation
+### Sol's Revelation
 
-Saul appears after the battle, revealing his role as the one who guided them to this trial. He suggests the party could benefit from more training before "saving the world," hinting at greater challenges ahead. Multiple portals now offer opportunities for different adventures and training arcs.
+Sol appears after the battle, revealing his role as the one who guided them to this trial. He suggests the party could benefit from more training before "saving the world," hinting at greater challenges ahead. Multiple portals now offer opportunities for different adventures and training arcs.
 
 ### Character Development Moments
 
@@ -96,7 +96,7 @@ Saul appears after the battle, revealing his role as the one who guided them to 
 
 This session serves as both a breather episode with heartwarming community problem-solving and a significant plot advancement revealing the broader cosmic threats the party faces. The multiple portals opening at the end provides a framework for future adventures and potential guest DM opportunities.
 
-The successful completion of both the social challenges and combat encounters demonstrates the party's growing effectiveness as a team, while Saul's comments about needing more training before "saving the world" foreshadow larger conflicts ahead.
+The successful completion of both the social challenges and combat encounters demonstrates the party's growing effectiveness as a team, while Sol's comments about needing more training before "saving the world" foreshadow larger conflicts ahead.
 
 ## Notable Quotes and Moments
 
@@ -104,6 +104,6 @@ The successful completion of both the social challenges and combat encounters de
 - The party's exasperation with villagers who won't solve their own obvious problems
 - Silas's anime-style finishing move on Boog with the dramatic one-liner
 - The romantic development between Rowan and Isla through the crisis
-- Saul's mysterious presence and hints about greater challenges ahead
+- Sol's mysterious presence and hints about greater challenges ahead
 
 This session effectively balances character development, community building, world exploration, and high-stakes combat, providing satisfaction for multiple types of D&D gameplay preferences while advancing the overarching narrative.
