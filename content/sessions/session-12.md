@@ -1,5 +1,5 @@
 ---
-title: "12ve: Out of the frying pan, into the Fire"
+title: "12: Out of the frying pan, into the Fire"
 date: 2024-10-26
 description: "The party pursues werewolves, recruits an unlikely ally, and faces their most dangerous battle yet."
 summary: "The party pursues werewolves, recruits an unlikely ally, and faces their most dangerous battle yet."
@@ -9,7 +9,7 @@ podcastlink: "https://creators.spotify.com/pod/profile/topher-hooper/episodes/C4
 
 ## Into the Dark Woods
 
-The session begins with technical difficulties as the party prepares to pursue the Omega Wolfotron that has just dragged **Magnolia Redguard** into the forest. **Jasper "Red" Gaines** activates his **Large Form** ability, growing to 12 feet tall, and immediately darts into the woods after the wolves, driven by determination to rescue Magnolia despite having no particular attachment to her.
+The session begins as the party prepares to pursue the Alpha Wolf that has just dragged **Magnolia Redguard** into the forest. **Red** activates his **Large Form** ability, growing to 12 feet tall, and immediately darts into the woods after the wolves, driven by determination to rescue Magnolia despite having no particular attachment to her.
 
 Using his survival skills in the darkness, Red manages to pick up a blood trail despite the challenging conditions. The trail shows broken branches and blood splatters leading deeper into the woods, though the pace makes it difficult to catch up quickly.
 
@@ -19,7 +19,7 @@ The rest of the party quickly mobilizes to follow Red's pursuit:
 - **Silas Fairbanks** takes a moment to be healed by **Retired Detective Olivia Cooper** before rushing after Red
 - **Felonias Bru** and Silas ride on the back of Olivia's summoned goat for speed
 - **Elspeth Cooper** and **Helisanna** follow on foot, with Elspeth considering riding her steel defender **BoxBox**
-- Red casts a light cantrip above himself, creating a beacon for the others to follow
+- **Red** casts a light cantrip above himself, creating a beacon for the others to follow
 
 The party converges as they track the wolves deeper into the forest, with the goat-mounted riders able to keep pace with Red's enhanced speed.
 
@@ -27,7 +27,7 @@ The party converges as they track the wolves deeper into the forest, with the go
 
 Upon reaching a clearing, the party discovers three wolves surrounding what appears to be Magnolia's badly injured body. The confrontation quickly becomes complex when **Helisanna** casts **Command** on the alpha wolf, forcing it to approach. This reveals that the wolf can walk on two legs and shows clear signs of intelligence.
 
-**Silas** attempts to communicate with the wolves and realizes through an insight check that they possess unusual intelligence. Using his **Psychic Blades** telepathic connection, he establishes communication with the alpha wolf, who reveals himself to be **Frankie** - a werewolf who transforms between human and wolf form.
+**Silas** attempts to communicate with the wolves and realizes through an insight check that they possess unusual intelligence. Using his **Psychic Phone** telepathic connection, he establishes communication with the alpha wolf, who reveals himself to be **Frankie** - a werewolf who transforms between human and wolf form.
 
 ## An Unlikely Alliance
 
