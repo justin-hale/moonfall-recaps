@@ -63,8 +63,8 @@ The party remains in the refugee camp outside the ruined dwarven city of High Fo
 ---
 
 ## The Decision
-- Helisanna picks up the totem. Elspeth uses Identify and confirms it’s a powerful conjuration-linked item: a **Fae anchor** for the spirit known as **Tunlak**.
-- A ritual could potentially summon Tunlak, but the components are unknown.
+- Helisanna picks up the totem. Elspeth uses Identify and confirms it’s a powerful conjuration-linked item: a **Fae anchor** for the spirit known as **Toonlock**.
+- A ritual could potentially summon Toonlock, but the components are unknown.
 - The group debates whether to give the totem to Crowley, fearing long-term consequences.
 - Ultimately, they choose to **honor the deal**.
 
