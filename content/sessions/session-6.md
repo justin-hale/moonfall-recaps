@@ -9,7 +9,7 @@ podcastlink: "https://creators.spotify.com/pod/show/topher-hooper/episodes/C4-E6
 ## 🎭 Major Events
 ### Olivia's Solo Investigations
 - Olivia investigates Finnegan's Bakery, finding it suspiciously closed and hastily abandoned. She connects its sudden closure to the disappearance of a local figure and the growing dragon threat.
-- She then visits Bodega, who is also shutting down his shop due to fear of approaching dragons. Olivia arranges for Bodega and his cat to join the group's caravan, securing supplies and shelter.
+- She then visits Bo Dega, who is also shutting down his shop due to fear of approaching dragons. Olivia arranges for Bo Dega and his cat to join the group's caravan, securing supplies and shelter.
 ### Group Reconvenes Over Breakfast
 - The group finally gathers and shares scattered info: dragons are real, approaching the city, and causing mass evacuations. This catches several members off guard.
 - There is light-hearted bickering about the concert from the night before and whose actions were most impactful, with multiple characters claiming credit.
@@ -61,4 +61,4 @@ podcastlink: "https://creators.spotify.com/pod/show/topher-hooper/episodes/C4-E6
 ---
 ## 🐉 On the Horizon
 - Dragons have officially begun their attack on the city.
-- The party must now coordinate an escape — possibly with Bodega and others in tow — setting the stage for a city exodus under fire.
+- The party must now coordinate an escape — possibly with Bo Dega and others in tow — setting the stage for a city exodus under fire.

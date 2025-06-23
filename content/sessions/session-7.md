@@ -14,15 +14,15 @@ The session begins immediately after the conclusion of the race, with the party 
 
 They consider taking the old, secret tunnels beneath the city, once used by royalty and now largely forgotten. Though none of them are experts, Olivia recalls encountering smugglers who may have used the tunnels, and Bru and Silas speculate that their Twilight Company contact Victor may know a way out. However, Little Hovel, where Victor might be, is in the Market Ward — the area currently under siege.
 
-With no better options, the party resolves to head toward the chaos to rescue Victor. Olivia also remembers that Bodega, her great-grandson, is at her apartment, which is along the way.
+With no better options, the party resolves to head toward the chaos to rescue Victor. Olivia also remembers that Bo Dega, is at her apartment, which is along the way.
 
 ## Driving Into the Market Ward
 
 They begin the drive into the Market Ward against the flow of traffic. Guards at the gate are shocked but let them through. As they enter, they see dragons dive-bombing buildings, fireballs raining down, and a glowing golden magical dome protecting thousands of citizens. Jasper spots golden-armored soldiers forming this protective bubble using connected crystal shields — not High Forge soldiers, possibly Eldoran in origin.
 
-## Picking Up Victor and Bodega
+## Picking Up Victor and Bo Dega
 
-In the chaos, Elspeth is sent to retrieve Bodega separately. The rest of the party drives to Little Hovel, dodging dragon fire via group dexterity saves (blessed and bard-inspired), taking fire damage along the way. They finally find Victor, frantically trying to rescue a mix of essential and ridiculous items — including Girl Scout cookies, a piranha gun, and a folder of old tunnel maps (which he does not realize are valuable).
+In the chaos, Elspeth is sent to retrieve Bo Dega separately. The rest of the party drives to Little Hovel, dodging dragon fire via group dexterity saves (blessed and bard-inspired), taking fire damage along the way. They finally find Victor, frantically trying to rescue a mix of essential and ridiculous items — including Girl Scout cookies, a piranha gun, and a folder of old tunnel maps (which he does not realize are valuable).
 
 Victor is roped into the van and interrogated. He reveals he doesn’t know the tunnels himself but has the folder full of mining routes — potentially useful to navigate out. Olivia grabs it, and the group continues the escape.
 
@@ -44,7 +44,7 @@ The party debates where to hide the orb, almost placing it in the bag of holding
 
 ## Plans and Disguises
 
-At the aquafarm near the tunnel entrance, they rendezvous with Bodega and the Twilight Company crew (Cyrus, Mira, Lanny, Courtney). The party prepares to sneak past the Iron Claws with a multi-layered plan:
+At the aquafarm near the tunnel entrance, they rendezvous with Bo Dega and the Twilight Company crew (Cyrus, Mira, Lanny, Courtney). The party prepares to sneak past the Iron Claws with a multi-layered plan:
 - Paint the Vroomfall to disguise it.
 - Use disguise kits on the more recognizable members.
 - Hide Red and Silas in the bag of holding (without the orb).
