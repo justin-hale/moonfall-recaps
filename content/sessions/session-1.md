@@ -9,7 +9,7 @@ podcastlink: "https://creators.spotify.com/pod/show/topher-hooper/episodes/C4-E1
 
 **Location:** High Forge, Market Ward – “The Cog and Steam” Tavern
 ### Party Members
-- **Hellasana Doomfall** – Electric lute-playing bard and frontwoman of Doomfall.
+- **Helisanna Doomfall** – Electric lute-playing bard and frontwoman of Doomfall.
 - **Silas** – Scheming halfling rogue and manager of the band.
 - **Bru** – Goblin artificer and chaos gremlin with a flair for pyrotechnics.
 - **Red (formerly Blue)** – Goliath cleric, pacifist healer, and protector.
@@ -34,7 +34,7 @@ Outside, a figure named **Dirk** from the **Stephen Guild** offers the party a j
 The group is noncommittal and skeptical about the rate.
 ### Evening Activities
 The party splits up:
-### 🎸 Hellasana
+### 🎸 Helisanna
 - Investigates **The Little Hovel**, a dive metal club.
 - Signs up to perform a set at 1 AM after scoping out terrible opening acts.
 - Gains the attention of **Sandra Talks**, a sharply dressed talent agent scouting for a show.
@@ -47,10 +47,10 @@ The party splits up:
 - Red awkwardly wallflowers but eventually joins the others near the stage.
 - Elspeth probes for underground racing contacts but doesn’t find much.
 ### Concert of the Century
-Hellasana headlines the final act at The Little Hovel with support from Bru and Red:
+Helisanna headlines the final act at The Little Hovel with support from Bru and Red:
 - **Bru** engineers stage pyrotechnics synced to the set.
 - **Red** uses Thaumaturgy to enhance the flames with purple coloration.
-- **Hellasana** delivers a transcendent metal performance enhanced by Guidance and Enhance Ability from Red.
+- **Helisanna** delivers a transcendent metal performance enhanced by Guidance and Enhance Ability from Red.
 - Audience members’ eyes glow purple, magic fills the air, and a surreal, euphoric concert atmosphere takes over.
 - Performance rolls exceed 24. The show is an unforgettable success.
 ### Massive Payday

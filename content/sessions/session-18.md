@@ -24,7 +24,7 @@ The session opens with the village of Milstrom in full winter solstice celebrati
 - **Silas and Bru** operate a sketchy ice skate rental business, stealing townspeople's skates and relabeling them with their own branding
 - **Red** joins the snowman building contest with local children Billy, Jimmy, and Timmy, using his height advantage to build massive snowballs
 - **Elspeth** sets up a tinkering booth making sleds and ball-throwing devices for free (much to Silas's dismay)
-- **Hellasana** explores the beer garden and festivities
+- **Helisanna** explores the beer garden and festivities
 - **Olivia** observes the celebration
 
 ### Introduction of Jasper Gaines
@@ -62,11 +62,11 @@ The party must split their attention to handle three simultaneous magical attack
 The massive 30-foot Yule tree becomes bewitched, with its decorative ribbons transforming into deadly tendrils that pierce villagers and transform them into Christmas ornaments that get pulled onto the tree.
 
 **Combat Highlights**:
-- Hellasana uses Misty Step to get to high ground and attacks with Eldritch Blast
+- Helisanna uses Misty Step to get to high ground and attacks with Eldritch Blast
 - Olivia charges in with her battle axe, dealing massive damage with critical hits and Divine Smite
 - Jasper follows up with devastating greatsword attacks using his berserker rage
 - The party discovers a corrupted crystal tree topper that's controlling the magic
-- Hellasana destroys the crystal with psychic damage Eldritch Blasts, breaking the enchantment
+- Helisanna destroys the crystal with psychic damage Eldritch Blasts, breaking the enchantment
 
 **Resolution**: The tree is toppled and the crystal destroyed, freeing all the ornament-people and returning them to normal.
 
@@ -130,7 +130,7 @@ Once the protective wards are dispelled:
 ### Team Finishing Move
 
 The party coordinates a spectacular team attack:
-- Hellasana blasts Jasper with Eldritch Blast to propel him forward
+- Helisanna blasts Jasper with Eldritch Blast to propel him forward
 - Jasper and Olivia perform simultaneous cross-decapitation strikes
 - The attack reveals Negacast wasn't actually Caspian but some kind of construct or summoned being
 - Negacast dissolves into snow and ash, with a screaming skull at its core that also disintegrates
@@ -151,10 +151,10 @@ The real Caspian thanks the party and:
 The party participates in a "White Owlbear" gift exchange (their world's version of White Elephant):
 
 **Gifts Exchanged**:
-- **Hellasana receives**: Silas's "one crime carried out on your behalf" coupon
+- **Helisanna receives**: Silas's "one crime carried out on your behalf" coupon
 - **Jasper receives**: Olivia's detective magnifying glass  
 - **Elspeth receives**: VIP tickets for 10 to "Gaines Brewery Bakery and Bankery" in Eldora
-- **Olivia receives**: Hellasana's bottle of Emmervale Elixir from High Forge
+- **Olivia receives**: Helisanna's bottle of Emmervale Elixir from High Forge
 - **Red receives**: Elspeth's custom train track with mini Vroomfall and Doomfall cars
 - **Silas and Bru's exchange**: Deferred to next session
 

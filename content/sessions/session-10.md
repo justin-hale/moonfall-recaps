@@ -28,7 +28,7 @@ The group lists their reasons for entering Milstrom:
 - The last known location of Finnegan and George (Project Purple Patch).
 - A potential portal to hell.
 - Red's personal ties: family history and suspected involvement of the Twilight Company.
-- Possible show venue for Hellasana at the Common Mug tavern.
+- Possible show venue for Helisanna at the Common Mug tavern.
 
 
 ### Enter: The Vroomfall & Party Debate

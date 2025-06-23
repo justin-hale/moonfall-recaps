@@ -1,8 +1,8 @@
 ---
 title: "Interlude X: The Chaos God's Gift"
 date: 2025-05-16
-description: "The party is pulled into pocket dimensions where they face impossible moral choices and meet a imprisoned chaos god seeking revenge against Crowley."
-summary: "The party is pulled into pocket dimensions where they face impossible moral choices and meet a imprisoned chaos god seeking revenge against Crowley."
+description: "The party is pulled into pocket dimensions where they face impossible moral choices and meet a imprisoned chaos god seeking revenge."
+summary: "The party is pulled into pocket dimensions where they face impossible moral choices and meet a imprisoned chaos god seeking revenge."
 featureimage: "C4I10.png"
 podcastlink: "https://creators.spotify.com/pod/profile/topher-hooper/episodes/C4-interlude-May-16th--2025-DM-Justin-e337l63"
 ---

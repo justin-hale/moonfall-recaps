@@ -23,7 +23,7 @@ Originally attacked Milstrom as an alpha werewolf driven by hunger caused by dem
 
 ## 4. **Sandra Talks** *(Session 1)*
 **Talent Agent | Entertainment Industry**
-Sharp-dressed talent scout who offered Hellasana the massive 10,000 gold concert contract that launched their fame. Appeared at The Little Hovel during their breakout performance and recognized their potential immediately. Her contracts came with security expectations the party failed to fully understand, leading to criticism about venue management.
+Sharp-dressed talent scout who offered Helisanna the massive 10,000 gold concert contract that launched their fame. Appeared at The Little Hovel during their breakout performance and recognized their potential immediately. Her contracts came with security expectations the party failed to fully understand, leading to criticism about venue management.
 
 ## 5. **Caspian (Winter King's Assistant)** *(Session 18)*
 **Water Genasi | Seasonal Magic Specialist**

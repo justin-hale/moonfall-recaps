@@ -19,7 +19,7 @@ Armed religious zealots embedded with violaceous crystals who enforce Eldoran re
 
 ## 3. **Doomfall** *(Session 1)*
 **Metal Band | Cultural Phenomenon**
-Hellasana's electric lute-powered metal band that launched the party to fame with transcendent performances. Their concerts feature purple-eyed audiences, magical enhancement, and Bru's synchronized pyrotechnics. Represents the party's entry into celebrity culture and their platform for influence beyond adventuring.
+Helisanna's electric lute-powered metal band that launched the party to fame with transcendent performances. Their concerts feature purple-eyed audiences, magical enhancement, and Bru's synchronized pyrotechnics. Represents the party's entry into celebrity culture and their platform for influence beyond adventuring.
 
 ## 4. **Steven Guild** *(Session 1)*
 **Merchant Organization | Caravan Operators**

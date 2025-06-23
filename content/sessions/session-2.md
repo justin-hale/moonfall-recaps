@@ -10,7 +10,7 @@ podcastlink: "https://creators.spotify.com/pod/show/topher-hooper/episodes/C4-E2
 The party is in the dwarven city of **High Forge**, a place with strict rules. Foreigners are generally restricted to the **Market Ward** unless they have paperwork or sponsorship. The Market Ward is full of inns, traders, bars, and entertainment venues—and hosts the city’s underground racing scene.
 ### 🎸 Act I: The Rock Show & Social Hub
 - **Location**: A raucous rock venue in the Market Ward.
-- **Hellasana** has picked up a late-night performance slot. The crowd is small but energetic, and she becomes a local sensation for the night, gathering an impromptu fan club.
+- **Helisanna** has picked up a late-night performance slot. The crowd is small but energetic, and she becomes a local sensation for the night, gathering an impromptu fan club.
 - **Bru** assists with technical support, tearing down gear and lamenting poor-quality stage setup by the prior act.
 - **Silas** negotiates a lucrative performance contract with the venue while holding a mysterious briefcase full of gold.
 ### 🏁 Act II: Elspeth’s Underground Racing Comeback
@@ -40,11 +40,11 @@ Elspeth contemplates assembling her allies for these roles but hasn’t made for
 - A **Warforged named Racecar** arrives with a cryptic warning: *“You should not race. You are being targeted.”*
 - Racecar gives a clear description of the saboteur: a short, green-skinned goblin wearing black (turtleneck, gloves, pants). The team now has a suspect.
 - Olivia, suspicious, interrogates Racecar and confirms the sabotage warning is real, but Racecar cannot name the culprit.
-### 🍷 Act V: Hellasana & Bru’s Drunken Adventure
-- Hellasana and Bru, basking in post-show fame, party hard at the bar.
-- Hellasana handles adoring fans while Bru gets blackout drunk.
+### 🍷 Act V: Helisanna & Bru’s Drunken Adventure
+- Helisanna and Bru, basking in post-show fame, party hard at the bar.
+- Helisanna handles adoring fans while Bru gets blackout drunk.
 - Bru eventually falls into a pool on the way to the motel and wanders lost before finally finding his room around 7 a.m.
-- Hellasana secures her room with a fraction more dignity.
+- Helisanna secures her room with a fraction more dignity.
 ### 🔍 Act VI: Olivia’s Side Story – George & Finnegan
 - Olivia spends her night alone investigating the disappearance of her grand-nephew **George**.
 - She stops by a local **bodega** (owned by “Bo Dega”) and chats with a shopkeeper.
@@ -68,5 +68,5 @@ Elspeth contemplates assembling her allies for these roles but hasn’t made for
 - **Silas**: Schemer with connections and charm, navigating danger with subtlety.
 - **Red**: Loyal and strong, but possibly in over his head.
 - **Bru**: Technical genius and chaos goblin—unpredictable but valuable.
-- **Hellasana**: Rising star torn between fame and duty.
+- **Helisanna**: Rising star torn between fame and duty.
 - **Olivia**: Savvy and deeply invested in both family and justice.

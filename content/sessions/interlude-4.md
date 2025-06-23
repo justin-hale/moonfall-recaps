@@ -17,7 +17,7 @@ After successfully freeing the tortured angel from the vampire convent and obtai
 
 **Jasper's Healing**: **Red** uses his prepared **Remove Curse** spell to heal **Jasper** of the mummy rot that had been slowly killing him, though the barbarian still needs additional rest to fully recover his health. Red delivers a brief monologue about redemption and second chances while performing the healing.
 
-The party takes a long rest, with everyone except Jasper receiving the full benefits. **Hellasana** performs music for the grateful villagers, providing heroic inspiration to several party members.
+The party takes a long rest, with everyone except Jasper receiving the full benefits. **Helisanna** performs music for the grateful villagers, providing heroic inspiration to several party members.
 
 ## Entering The Hollow
 
@@ -43,7 +43,7 @@ The party encounters a **human musician** on his front porch playing banjo poorl
 - Smokes a corncob pipe
 - Plays with only two strings on his banjo
 
-**Hellasana** is openly critical of his musical abilities, while the others attempt to gather information about their quest.
+**Helisanna** is openly critical of his musical abilities, while the others attempt to gather information about their quest.
 
 #### Information Gathering
 
@@ -90,14 +90,14 @@ The perytons launch a coordinated assault, with most party members being targete
 **Opening Round Attacks**:
 - **Olivia**: Successfully deflects an attack with her AC 20
 - **Bru**: Manages to duck out of the way
-- **Hellasana**: Takes 18 damage and fails her strength save, getting knocked into the bog
+- **Helisanna**: Takes 18 damage and fails her strength save, getting knocked into the bog
 - **Red**: Takes 23 damage and is also knocked into the bog water
 - **Silas**: Avoids being targeted
 - **Jasper**: Avoids the attack
 
 ### The Bog Awakens
 
-As soon as **Hellasana** and **Red** land in the bog water, the previously motionless environment springs to life:
+As soon as **Helisanna** and **Red** land in the bog water, the previously motionless environment springs to life:
 
 **Undead Emergence**: The corpses in the water begin moving, with **eyes opening** and **heads turning** toward the living intruders. These **wights** attempt to drain life force from anyone in the water while wielding ancient weapons.
 
@@ -112,7 +112,7 @@ The combat becomes a desperate fight on multiple fronts:
 **Ranged Assault**: 
 - **Bru** uses **Scorching Ray** to target three different perytons, dealing significant damage with his **Arcane Firearm**
 - **Elspeth** provides covering fire with her magical gun while **BoxBox** positions for support
-- **Hellasana** attempts to escape the water using **Misty Step** but struggles with concentration underwater
+- **Helisanna** attempts to escape the water using **Misty Step** but struggles with concentration underwater
 
 **Rescue Operations**:
 - **Jasper** extends his shovel to help **Red** escape the bog
@@ -123,7 +123,7 @@ The combat becomes a desperate fight on multiple fronts:
 
 **Red's Support**: Uses **Emboldening Bond** to connect allies and later **Balm of Peace** to heal multiple party members while moving around the battlefield.
 
-**Hellasana's Creative Strategy**: Successfully uses **Command** (upcasted to target two creatures) to make a peryton "grovel," causing it to fall into the bog where the wights tear it apart.
+**Helisanna's Creative Strategy**: Successfully uses **Command** (upcasted to target two creatures) to make a peryton "grovel," causing it to fall into the bog where the wights tear it apart.
 
 **Bru's Protection**: His **Eldritch Cannon** provides temporary hit points to the party, which proves crucial for survival.
 
@@ -152,7 +152,7 @@ The combat becomes a desperate fight on multiple fronts:
 **Creature Identification**: **Olivia's** Arcana check (17) identifies the creatures as **perytons** - unnatural monsters shaped by fel magic that consume human hearts. Their strategy involved knocking victims into the bog to let the wights kill them, making heart extraction easier.
 
 **Loot Collection**: The party gathers trophies from the defeated perytons:
-- **Hellasana** takes antlers for stage decorations and potential mask-making
+- **Helisanna** takes antlers for stage decorations and potential mask-making
 - **Bru** collects various bones and skulls for props
 - **Elspeth** acquires feathers for her hair decoration project
 
@@ -172,7 +172,7 @@ The party demonstrates improved tactical coordination, with members supporting e
 
 **Olivia's Heroism**: Her decision to rescue **Silas** rather than save herself demonstrates her protective nature and police background.
 
-**Hellasana's Creativity**: Her use of **Command** to tactical advantage shows growing sophistication in spell usage.
+**Helisanna's Creativity**: Her use of **Command** to tactical advantage shows growing sophistication in spell usage.
 
 **Team Bonding**: The various rescue operations and mutual support reinforce the party's growing trust and coordination.
 

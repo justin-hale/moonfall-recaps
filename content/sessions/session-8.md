@@ -66,7 +66,7 @@ The caravan stops for the night at a seasonal festival site turned refugee camp.
 - Takes Frederick under his wing, probing him for intelligence.
 - Learns that **Project Purple Patch**, a mysterious effort related to missing Tyr pilgrims, seems centered around Milstrom.
 - Confirms that **Red’s family was likely involved in the coven**—raising more mystery around their deaths.
-- Discusses promoting another **Hellasana concert** to earn gold.
+- Discusses promoting another **Helisanna concert** to earn gold.
 
 ### Elspeth
 - Acquires 20 spare car parts from **Trevor**, a mechanic merchant.
@@ -95,7 +95,7 @@ The session ends with the party compiling a running list of objectives in Milstr
 - Investigate the **disappearance of Mayor Jed Carter**.
 - Follow leads on **Project Purple Patch** and the **missing Tyr pilgrims**, possibly linked to Red’s family.
 - Figure out the new **government structure** of Milstrom.
-- Set up a **Hellasana concert** for funds and influence.
+- Set up a **Helisanna concert** for funds and influence.
 - Reconnect with **Finnegan**, a go-between for the Twilight Company.
 
 Fred also returns, having located **100 MP3 blanks** and assisting with acquiring them for the next concert.
@@ -104,4 +104,4 @@ Fred also returns, having located **100 MP3 blanks** and assisting with acquirin
 
 ## 🌙 Final Thoughts
 
-The party rests under the stars as Bo's caravan and Tien's family merge with their group. Hellasana is drunk, Red is contemplative, Silas is scheming, and Olivia remains ever vigilant. With their next destination looming, Milstrom promises answers—but also deeper mystery and danger.
+The party rests under the stars as Bo's caravan and Tien's family merge with their group. Helisanna is drunk, Red is contemplative, Silas is scheming, and Olivia remains ever vigilant. With their next destination looming, Milstrom promises answers—but also deeper mystery and danger.

@@ -13,7 +13,7 @@ podcastlink: "https://creators.spotify.com/pod/show/topher-hooper/episodes/C4-E4
 ## Party Members Present
 - **Silas**
 - **Red**
-- **Hellasana**
+- **Helisanna**
 - **Bru** (later)
 - **Olivia** (temporarily NPC'd)
 - **Philbin** (gnome NPC, captured and interrogated)
@@ -34,7 +34,7 @@ podcastlink: "https://creators.spotify.com/pod/show/topher-hooper/episodes/C4-E4
 - An old cleric revives them.
 - The party coerces the gnomes to finish the bomb and repurpose it to sabotage Bay 10’s car.
 ### 5. **Sabotage Missions**
-- **Bay 10**: Silas plants the finished bomb under a racecar while Hellasana distracts guards with a dramatic act.
+- **Bay 10**: Silas plants the finished bomb under a racecar while Helisanna distracts guards with a dramatic act.
 - **Bay 12**: Silas and Bru sneak in. Bru welds the exhaust closed using artificer tools and spells. Silas stalls a suspicious dwarf with flirtation and misdirection.
 ### 6. **Aftermath and Arby’s Recon**
 - The group reconvenes.
