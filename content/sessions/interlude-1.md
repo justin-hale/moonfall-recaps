@@ -179,6 +179,5 @@ The party successfully navigates both vampire and angel threats to secure the my
 - The purpose of the heart-shaped silver key
 - The location and nature of the priest's stole
 - What additional challenges await inside the convent
-- The connection between this trial and Crowley's assault on Toonlock's realm
 
 This session effectively balanced horror elements with tactical combat, showcasing both the party's growing capabilities and the creative challenges that Toonlock's realm presents. The gothic vampire convent setting provided an atmospheric backdrop for memorable encounters that tested both combat skills and problem-solving abilities.
