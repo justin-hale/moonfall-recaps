@@ -1,76 +1,140 @@
 ---
 title: "Lieutenant Jasper Gaines"
-date: "2024-06-14"
-description: "Human Barbarian/Path of the Berserker - Played By: Topher"
-summary: "Human Barbarian/Path of the Berserker - Played By: Topher"
+date: "2024-12-21"
+description: "Former Eldoran soldier turned deserter who chose loyalty to friends over empire"
+summary: "Former Eldoran soldier turned deserter who chose loyalty to friends over empire"
 featureimage: "jasper.png"
 ---
 
+## Character Overview
+
+**Lieutenant Jasper Gaines** is a human Barbarian (Path of the Berserker) and former Eldoran soldier who deserted the Empire to fight alongside the party. He struggles with PTSD from his military service while running a family business.
+
+## Basic Information
+
+- **Race**: Human
+- **Class**: Barbarian (Path of the Berserker)
+- **Player**: Topher
+- **Military Rank**: Former Lieutenant in the Eldoran Army
+- **Business**: Owner/operator of "Gaines Brewery, Bakery, and Bankery"
+- **First Appearance**: Winter Solstice Special (Session 18)
+- **Departure**: Session 24
+
 ## Background
-Jasper Gaines is a human barbarian who joined the party during the winter solstice celebrations in Milstrom. He operates the "Gaines Brewery Bakery and Bankery" in Eldora and has connections to the Eldoran military, though his armor crystals are notably dull and blackened compared to typical Eldoran equipment.
 
-## Personality & Traits
-- **Community-Minded**: Demonstrates strong connections to local communities, particularly his friendship with Roscoe
-- **Heroic Instincts**: Immediately springs into action to protect innocent people during crises
-- **Practical Businessman**: Operates a successful multi-purpose business combining brewing, baking, and banking
-- **Loyal Friend**: Shows deep loyalty to those he cares about, especially longtime friends like Roscoe
-- **Straightforward**: Prefers direct action over complex schemes or negotiations
+Jasper served as a Lieutenant in the Eldoran military but suffered trauma from his service. He operates a family business that combines brewing, baking, and banking services. His friendship with Roscoe led him to deliver beer supplies to Milstrom, where he first encountered the party.
 
-## Equipment & Abilities
-- **Eldoran Armor**: Wears crystal-embedded armor, though his crystals appear dull and smoky rather than bright
-- **Hand Axes**: His preferred throwing weapons for both ranged and melee combat
-- **Greatsword**: Primary melee weapon used during berserker rage
-- **Berserker Rage**: Can enter a battle fury that enhances his combat effectiveness
-- **Enhanced Strength**: Uses his barbarian abilities for improved perception and athletics
+## Military Service and Desertion
+
+### Eldoran Army
+- Served as a Lieutenant with combat experience
+- Wore Eldoran armor with crystal embellishments (though his crystals were notably dull)
+- Trained in military tactics and combat operations
+- Developed PTSD from his service experiences
+
+### The Moral Choice
+During the Skyhammer clan battle, Jasper faced a critical decision when fellow Eldoran Knight Eric called for him to help kill the Goliaths. Instead of following military orders, he chose to protect innocent people, shouting "I won't let you kill them" and attacking Eric instead.
+
+### Consequences of Desertion
+- Officially AWOL from the Eldoran military
+- Potential court-martial if captured
+- The only witness to his desertion (Eric) was killed in the subsequent battle
+
+## Abilities and Equipment
+
+### Combat Capabilities
+- **Berserker Rage**: Enhanced strength and damage resistance
+- **Reckless Attack**: High-risk, high-reward combat style
+- **Multiple Attacks**: Devastating greatsword combinations
+- **Athletic Prowess**: Exceptional strength and physical capabilities
+
+### Equipment
+- **Greatsword**: His primary weapon for devastating melee attacks
+- **Hand Axes**: Secondary weapons for ranged and dual-wielding
+- **Eldoran Armor**: Crystal-embedded protection (left with party upon departure)
+
+### Combat Style
+- Aggressive front-line fighter who charges into battle
+- Uses berserker rage for enhanced damage and resistance
+- Coordinates well with party members for finishing moves
+- Demonstrates tactical thinking despite barbarian nature
 
 ## Key Relationships
-- **Roscoe**: Close friend and drinking buddy; Jasper delivers beer to Roscoe's establishment
-- **The Party**: Earned acceptance through heroic actions during the winter solstice crisis
-- **Eldoran Connections**: Has ties to the Eldoran Empire, though the exact nature remains unclear
-- **Milstrom Community**: Well-regarded by the townspeople for his heroic actions
+
+### Roscoe
+Long-standing friendship that led to Jasper's introduction to the party. Roscoe represents a connection to civilian life and normalcy.
+
+### The Party
+- **Moral Alignment**: Shared values about protecting innocent people
+- **Combat Coordination**: Effective teamwork in dangerous situations
+- **Emotional Support**: Provided comfort during Red's memorial service
+
+### Family Business
+Operates "Gaines Brewery, Bakery, and Bankery" which serves his local community and provides care for children who depend on his services.
 
 ## Character Development
-Jasper represents a bridge between the Eldoran Empire and the party's resistance activities:
-- **Integration**: Successfully proving himself worthy of the party's trust and acceptance
-- **Moral Compass**: Demonstrating that not all Eldoran-connected individuals support the Empire's extremist policies
-- **Combat Effectiveness**: Establishing himself as a powerful front-line fighter
-- **Community Leadership**: Building relationships and improving Eldoran reputation through heroic actions
 
-## Combat Role
-Jasper serves as a primary tank and damage dealer:
-- **Front-Line Fighter**: Charges into melee combat using berserker rage for enhanced damage
-- **Ranged Options**: Effective with thrown hand axes before closing to melee range
-- **Battlefield Mobility**: Uses his barbarian speed and athletics to control positioning
-- **Damage Absorption**: High hit points and rage resistance help him protect squishier party members
+### Military to Civilian Transition
+Jasper's journey from soldier to deserter shows his moral growth and willingness to prioritize human decency over institutional loyalty.
 
-## Notable Moments
-- **Winter Solstice Hero**: Immediately attacked the corrupted Winter King impostor during the solstice crisis
-- **Flaming Sword Strike**: Performed an incredible sliding attack while lighting his sword on fire with bardic inspiration
-- **Team Player**: Coordinated spectacular finishing moves with other party members during boss fights
-- **Community Defender**: Consistently prioritized protecting innocent villagers over personal safety
+### Trauma Processing
+His PTSD from military service affects his decisions and ultimately leads to his departure from the party when violence triggers too many painful memories.
 
-## Business Operations
-- **Gaines Brewery**: Produces and delivers alcoholic beverages throughout the region
-- **Gaines Bakery**: Provides baked goods and food services
-- **Gaines Bankery**: Offers financial services (the exact nature of this remains mysterious)
-- **VIP Services**: The party has obtained tickets for VIP treatment at his establishments
+### Leadership Moments
+Despite his trauma, Jasper demonstrated natural leadership and moral courage when facing difficult choices.
 
-## Current Goals
-- Continue integrating with the party and proving his trustworthiness
-- Support the fight against cosmic threats while maintaining his business operations
-- Improve relations between moderate Eldoran citizens and resistance communities
-- Develop his barbarian abilities and combat effectiveness
-- Maintain his friendship with Roscoe and other community connections
+## Notable Achievements
 
-## Eldoran Connections
-- **Military Background**: His "Lieutenant" title suggests military service or rank
-- **Unusual Equipment**: His dull, blackened crystals suggest he may not be in good standing with the Empire
-- **Moderate Politics**: Shows none of the religious extremism typical of Eldoran knights
-- **Business Independence**: Operates his own enterprises rather than serving direct Imperial interests
+### Combat Contributions
+- **Winter Solstice Defense**: Instrumental in defeating Negacast and protecting the village celebration
+- **Eric Battle**: Refused to follow Eldoran orders and helped defeat the corrupted knight
+- **Consistent Damage**: Reliable front-line fighter with devastating greatsword attacks
 
-## Quirks & Mannerisms
-- Immediately trusts and befriends Roscoe despite the warforged's eccentricities
-- Prefers action over lengthy discussions or planning
-- Shows remarkable skill at coordinating with allies despite being new to the group
-- Maintains his business relationships even while adventuring
-- Demonstrates surprising tactical awareness for a straightforward barbarian
+### Moral Courage
+- **Desertion Decision**: Chose moral principles over military obligation
+- **Protecting Innocents**: Consistently prioritized civilian safety over combat objectives
+- **Standing Against Empire**: Willingly fought against his former comrades to protect the Goliaths
+
+### Community Impact
+- **Winter Solstice Hero**: Helped save the village celebration and improve Eldoran-Milstrom relations
+- **Business Operations**: Maintained services that supported local children and community
+
+## Departure and Legacy
+
+### Reasons for Leaving
+Jasper left the party in Session 24 due to:
+- PTSD triggered by recent violence and warfare
+- Feeling that his strength caused more destruction than good
+- Desire to return to his family business and the children who depend on him
+- Traumatic memories from Red's sacrifice reminding him of wartime losses
+
+### Parting Gifts
+- **Eldoran Armor**: Left crystal-embedded protection for the party's use
+- **VIP Tickets**: Access to Gaines Brewery, Bakery, and Bankery in Eldoran
+- **Open Invitation**: Promise of assistance if the party visits Eldoran
+
+### Olivia's Counsel
+Olivia encouraged Jasper to seek mental health support and talk to someone about his trauma, showing understanding of his psychological struggles.
+
+## Current Status
+
+Jasper has returned to Eldoran to resume operation of his family business. His status as a deserter remains unclear, though the death of the only witness (Eric) may protect him from immediate consequences.
+
+### Business Operations
+- **Gaines Brewery, Bakery, and Bankery**: Unique combination business serving the local community
+- **Child Care Services**: Supports children who depend on his services
+- **VIP Access**: The party holds tickets for future visits
+
+### Potential Complications
+- **Military Desertion**: Could face court-martial if his status is discovered
+- **Imperial Scrutiny**: His connection to the party might draw unwanted attention
+- **PTSD Treatment**: Needs ongoing support for his mental health struggles
+
+### Future Possibilities
+- **Safe Haven**: His business could provide sanctuary for the party in Eldoran
+- **Political Connections**: His military background might prove useful for intelligence
+- **Personal Growth**: Time away from combat might help him process his trauma
+
+## Character Themes
+
+Jasper's story explores themes of moral courage, the costs of military service, and the difficulty of transitioning from soldier to civilian life. His choice to desert the Empire for moral principles demonstrates character growth and the power of found family relationships over institutional loyalty.

@@ -1,56 +1,100 @@
 ---
 title: "Elspeth Cooper"
-date: "2024-06-14"
-description: "Dwarf Artificer/Battle Smith/Paladin - Played By: Ali"
-summary: "Dwarf Artificer/Battle Smith/Paladin - Played By: Ali"
+date: "2024-08-05"
+description: "Dwarf Artificer and former professional racer seeking justice for her disqualification"
+summary: "Dwarf Artificer and former professional racer seeking justice for her disqualification"
 featureimage: "elspeth.png"
 ---
 
+## Character Overview
+
+**Elspeth Cooper** is a dwarf Artificer (Battle Smith) / Paladin and former professional racer who was controversially disqualified from the racing circuit. She seeks to clear her name while using her technical expertise and combat skills to support her companions.
+
+## Basic Information
+
+- **Race**: Dwarf
+- **Class**: Artificer (Battle Smith) / Paladin
+- **Player**: Ali
+- **Family**: Related to Retired Detective Olivia Cooper
+- **First Appearance**: Session 1
+
 ## Background
-Elspeth Cooper is a skilled dwarf artificer and former professional racer who was controversially disqualified from the racing circuit after being framed for cheating. She believes her car was tampered with to make it appear she was overpowering her vehicle, leading to her fall from grace in the underground racing scene.
 
-## Personality & Traits
-- **Diplomatic Problem-Solver**: Elspeth consistently attempts peaceful resolutions to conflicts and serves as the party's voice of reason
-- **Technically Minded**: Excellent at tinkering, mechanics, and understanding complex technological systems
-- **Protective**: Shows fierce loyalty to her companions and mechanical creations
-- **Awkward Romantic**: Her romantic encounters tend to be endearingly awkward, as demonstrated by her developing relationship with a guard she met during a mission
+Elspeth was a professional racer who was disqualified from the circuit for alleged vehicle tampering and overpowering. She believes she was framed and that her car had been sabotaged by someone else. This controversy led her to the underground racing scene in High Forge, where she met the rest of the party.
 
-## Equipment & Abilities
-- **BoxBox**: Her beloved steel defender companion, a mechanical creature that fights alongside her and provides tactical support
-- **Magic Gun**: Uses firearms enhanced with magical properties
-- **Green Flame Blade**: Combines weapon attacks with magical fire damage
-- **Crossbow**: Reliable ranged weapon for tactical combat
-- **Tinkering Tools**: Can craft and repair mechanical devices, including building traps and alarms
+## Abilities and Equipment
+
+### Combat Capabilities
+- **Magical Gun**: Her primary ranged weapon
+- **Battle Axe**: For melee combat
+- **Green Flame Blade**: Enhances her melee attacks with fire damage
+- **Divine Smite**: Paladin ability for extra radiant damage
+
+### Artificer Skills
+- **Steel Defender**: BoxBox, her loyal mechanical companion
+- **Infusions**: Various magical enhancements for equipment
+- **Technical Expertise**: Capable of building and modifying vehicles and equipment
+
+### Equipment
+- **The Zoomfall**: Her racing car, enhanced with various modifications
+- **BoxBox**: Steel defender companion that serves multiple roles
+- **Magical Gun**: Artificer-crafted ranged weapon
+- **Racing Modifications**: Wheel spikes, spoilers, and crystal power systems
 
 ## Key Relationships
-- **Family**: Related to Detective Olivia Cooper (likely grandmother/granddaughter relationship)
-- **BoxBox**: Deep bond with her mechanical companion, treating it as a trusted friend
-- **Romantic Interest**: Dating a human guard with red hair, a ponytail, neck tattoo, and nose piercing who works security and lives in Milstrom
-- **Racing Contacts**: Former connections in the underground racing scene, including rival racer Thelvult
+
+### BoxBox
+Her steel defender companion, an automaton that serves as both combat ally and technical assistant. BoxBox has been captured and rescued multiple times, showing Elspeth's protective nature toward her creation.
+
+### Olivia Cooper
+Family member (specific relationship unclear) who shares her investigative instincts and protective nature.
+
+### Romantic Interest
+Developed a relationship with a red-haired guard she met during a Twilight Company mission. Despite typical awkwardness, she successfully obtained the woman's contact information.
+
+### Racing Community
+- **Thelvult**: Former associate from her professional racing days
+- **Miss Talks**: Punk-rock headhunter managing race entries
+- **The Warden**: Underground race organizer
 
 ## Character Development
-Elspeth has evolved from a disgraced racer seeking redemption to a reliable team member who balances technical expertise with combat effectiveness. Her journey involves:
-- **Proving Her Innocence**: Working to clear her name in the racing world
-- **Finding New Purpose**: Transitioning from racing glory to heroic adventuring
-- **Building Relationships**: Learning to trust others and develop romantic connections
-- **Technical Innovation**: Constantly improving her mechanical creations and magical abilities
 
-## Combat Role
-Elspeth serves as a versatile combatant who can:
-- Deal consistent damage with her magic gun and Green Flame Blade
-- Provide tactical support through BoxBox's positioning and abilities
-- Offer utility through her artificer infusions and mechanical knowledge
-- Support the party with her paladin abilities and healing
+### Professional Vindication
+Throughout the campaign, Elspeth works to restore her reputation in the racing community while proving her technical competence through various challenges.
 
-## Notable Moments
-- Successfully racing and winning the Highforge Sprint despite sabotage attempts
-- Building elaborate traps and security systems to protect the party's vehicles
-- Coordinating with BoxBox in complex tactical maneuvers during combat
-- Playing matchmaker with her summoned mount Bob and Jeremy's sheep Bessie
-- Identifying magical items and understanding complex enchantments
+### Combat Evolution
+Her multiclass progression shows growth from pure artificer to someone willing to take divine oaths, suggesting deeper moral convictions developing over time.
 
-## Current Goals
-- Continue developing her relationship with her new girlfriend
-- Help the party navigate the cosmic threats facing their world
-- Maintain and upgrade BoxBox's capabilities
-- Eventually return to racing to prove her innocence and reclaim her reputation
+### Leadership Moments
+Often serves as the party's technical expert and voice of reason, particularly during equipment-related challenges and vehicle operations.
+
+## Notable Achievements
+
+### Racing Victories
+- Won the Highforge Sprint despite sabotage attempts
+- Dominated the dangerous mountain race organized by The Warden
+- Gained official membership in the underground racing circuit
+
+### Technical Innovations
+- Enhanced the Zoomfall with various combat and performance modifications
+- Built sleds and ball-throwing devices for townspeople
+- Contributed to advanced technology projects including rocket schematics
+
+### Combat Contributions
+- Consistently effective in ranged combat with her magical gun
+- Coordinated attacks with BoxBox for tactical advantages
+- Used Green Flame Blade and Divine Smite to devastating effect
+
+## Current Status
+
+Elspeth continues to travel with the party as they navigate increasingly dangerous political and supernatural threats. Her technical expertise and racing skills have proven invaluable, and she has established herself as both a formidable combatant and reliable team member.
+
+### Equipment Status
+- **The Warden's Signet**: Magical ring providing advantages for vehicle operations
+- **Enhanced Zoomfall**: Racing car with crystal power systems and combat modifications
+- **Advanced Crystals**: Collection from various adventures for powering inventions
+
+### Ongoing Plots
+- Continued development of her romantic relationship
+- Racing circuit reputation and future competitions
+- Technical projects involving advanced schematics and magical technology

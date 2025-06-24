@@ -1,85 +1,140 @@
 ---
 title: "Retired Detective Olivia Cooper"
-date: "2024-06-14"
-description: "Dwarf Paladin/Oath of Devotion - Played By: Ellis"
-summary: "Dwarf Paladin/Oath of Devotion - Played By: Ellis"
+date: "2024-08-05"
+description: "Elderly dwarf paladin and former police detective with unmatched investigative skills"
+summary: "Elderly dwarf paladin and former police detective with unmatched investigative skills"
 featureimage: "olivia.png"
 ---
 
+## Character Overview
+
+**Retired Detective Olivia Cooper** is a dwarf Paladin (Oath of Devotion) and former police detective whose investigative expertise and divine combat abilities make her the party's moral compass and tactical leader.
+
+## Basic Information
+
+- **Race**: Dwarf
+- **Class**: Paladin (Oath of Devotion)
+- **Player**: Ellis
+- **Profession**: Former Police Detective
+- **Family**: Related to Elspeth Cooper, has a missing grandson named George
+- **First Appearance**: Session 1
+
 ## Background
-Detective Olivia Cooper is a recently retired dwarf investigator with decades of law enforcement experience. She has taken up adventuring partially to search for her missing grandson George, who disappeared while working on Project Purple Patch for the Twilight Company. Her investigative skills and unwavering sense of justice make her an invaluable team member.
 
-## Personality & Traits
-- **Investigative Mind**: Applies her detective training to uncover clues, question suspects, and solve mysteries
-- **Strong Moral Compass**: Devoted to justice and protecting innocent people, sometimes to a fault
-- **Protective Grandmother**: Fiercely devoted to finding and protecting her grandson George
-- **Leadership Qualities**: Often takes charge in social situations and guides party decision-making
-- **Justice-Focused**: Believes in law and order, though willing to work outside the system when necessary
+Olivia served as a police detective before retirement, developing exceptional investigative skills and a strong sense of justice. Her personal mission to find her missing grandson George initially drove her involvement with the party, but she has since become deeply committed to their shared adventures.
 
-## Equipment & Abilities
-- **Battle Axe**: Her primary weapon, often enhanced with Divine Smite and sacred magic
-- **Sacred Weapon**: Can imbue her weapons with divine radiance
-- **Divine Smite**: Channels divine energy through her attacks for devastating damage against evil
-- **Healing Magic**: Lay on Hands and other paladin healing abilities
-- **Bob (B-A-A-A-A-B)**: Her summoned fey ram companion, who has romantic adventures with magical sheep
+### Personal Tragedy
+Her husband died in a cupcake explosion at his bakery, a traumatic memory that affects her deeply and represents the kind of senseless loss that drives her pursuit of justice.
+
+## Abilities and Equipment
+
+### Combat Capabilities
+- **Battle Axe**: Her signature melee weapon
+- **Divine Smite**: Devastating radiant damage against evil creatures
+- **Sacred Weapon**: Enhances her attacks with divine light
+- **Channel Divinity**: Various paladin abilities including healing and protection
+
+### Investigative Skills
+- **Zone of Truth**: Forces honesty during interrogations
+- **Insight Checks**: Exceptional ability to read people and situations
+- **Detective Expertise**: Professional investigative techniques and knowledge
+- **Evidence Analysis**: Skilled at piecing together clues and solving mysteries
+
+### Divine Magic
+- **Lay on Hands**: Healing ability for herself and allies
+- **Misty Step**: Tactical teleportation via Fey Step
+- **Aid**: Enhances allies' hit points and resilience
+- **Protection Spells**: Various defensive magic for the party
 
 ## Key Relationships
-- **George**: Her beloved grandson who works for the Twilight Company and was missing during Project Purple Patch
-- **Elspeth Cooper**: Related family member (likely granddaughter), shares the Cooper name and family bonds
-- **Bodega (Bo)**: Her great-grandson who ran a convenience store but got involved in drug smuggling
-- **Late Husband**: Died in a tragic cupcake explosion at his bakery, a source of ongoing grief
-- **Bob the Ram**: Her loyal fey companion who has developed his own romantic subplot
+
+### George (Grandson)
+Her missing grandson who was working with the Twilight Company on Project Purple Patch. Successfully rescued from the Shadowfell, though she remains concerned about his involvement with "shady" organizations.
+
+### Elspeth Cooper
+Family member who shares her investigative instincts and moral convictions. Their relationship demonstrates strong family bonds and mutual support.
+
+### Bob the Ram (B-A-A-A-A-B)
+Her summoned fey mount, whose romantic relationship with Bessie the lightning ewe led to the creation of "a more perfect goat" offspring.
+
+### Bo Dega
+Former bodega owner who she discovered was involved in drug smuggling, causing her personal devastation about not recognizing criminal activity in someone she trusted.
+
+## Signature Traits
+
+### Detective Methodology
+- **Professional Interrogation**: Uses Zone of Truth and intimidation techniques
+- **Evidence Collection**: Methodical approach to gathering and analyzing clues
+- **Witness Protection**: Strong instinct to protect innocent people
+- **Pattern Recognition**: Exceptional ability to connect seemingly unrelated events
+
+### Combat Leadership
+- **Front-Line Fighter**: Despite her age, charges fearlessly into melee combat
+- **Divine Warrior**: Her radiant damage is particularly effective against undead and fiends
+- **Protective Instincts**: Uses teleportation abilities to save endangered allies
+- **Tactical Coordination**: Coordinates team strategies during complex battles
+
+### Moral Authority
+- **Justice-Focused**: Unwavering commitment to doing what's right
+- **Professional Standards**: Maintains high ethical expectations for herself and others
+- **Protective Nature**: Fierce defender of family and innocent people
+- **Community Leadership**: Natural authority figure who others look to for guidance
 
 ## Character Development
-Olivia's journey involves balancing her law enforcement background with the moral complexities of resistance work:
-- **From Retirement to Adventure**: Reluctantly returning to active investigation and combat
-- **Family Devotion**: Prioritizing family relationships while managing their involvement in dangerous activities
-- **Moral Flexibility**: Learning when to bend rules for the greater good
-- **Divine Calling**: Embracing her paladin abilities and connection to divine justice
 
-## Combat Role
-Olivia serves as a frontline tank and healer:
-- **Melee Powerhouse**: Uses Divine Smite and Sacred Weapon for massive damage against evil creatures
-- **Defensive Support**: High AC and hit points allow her to protect squishier party members
-- **Emergency Healing**: Lay on Hands and healing spells keep the party operational
-- **Divine Magic**: Access to paladin spells for utility and support
+### Family Bonds
+The successful rescue of George strengthened her commitment to family while raising new concerns about his association with criminal organizations.
 
-## Notable Moments
-- **George's Rescue**: Impulsively broke open a Shadowfell portal with Divine Smite to save her grandson
-- **Interrogation Expert**: Successfully questioned multiple suspects using her detective skills
-- **Monster Slayer**: Delivered devastating attacks against devils, demons, and corrupted creatures
-- **Matchmaker**: Her ram Bob successfully romanced Bessie the lightning sheep
-- **Family Protector**: Consistently prioritized family safety over strategic considerations
+### Combat Evolution
+Her progression from detective to divine warrior shows adaptation to increasingly supernatural threats while maintaining her investigative core.
 
-## Detective Background
-- **Investigative Training**: Skilled at gathering evidence, interviewing witnesses, and solving crimes
-- **Criminal Contacts**: Knowledge of underworld operations and criminal behavior patterns
-- **Intimidation Skills**: Uses her authority and presence to extract information
-- **Conspiracy Board**: Maintains detailed investigation notes about ongoing mysteries
+### Leadership Growth
+Became the party's unofficial moral leader and strategic planner, particularly during complex social and political situations.
 
-## Family Mysteries
-- **George's Activities**: Investigating his involvement with the Twilight Company and Project Purple Patch
-- **Bodega's Crimes**: Managing her great-grandson's involvement in drug smuggling operations
-- **Family History**: Uncovering connections between family members and resistance activities
+## Notable Achievements
 
-## Current Goals
-- **Protect George**: Ensure her grandson's safety while respecting his independence and choices
-- **Fight Corruption**: Use her divine abilities to combat evil in all its forms
-- **Support the Party**: Provide leadership and moral guidance during their adventures
-- **Family Rehabilitation**: Help Bodega stay on the right path and avoid criminal activities
-- **Divine Justice**: Serve as an instrument of justice against cosmic threats
+### Investigative Successes
+- **George's Rescue**: Successfully tracked and rescued her grandson from the Shadowfell
+- **Murder Mystery Solving**: Uncovered the truth behind Red's parents' deaths
+- **Criminal Network Exposure**: Revealed connections between various criminal organizations
+- **Evidence Analysis**: Consistently provides crucial intelligence through investigation
 
-## Paladin Oath
-As a Devotion Paladin, Olivia is committed to:
-- **Honesty**: Telling the truth and keeping her word
-- **Courage**: Never fearing to act against evil
-- **Compassion**: Helping others and protecting the innocent
-- **Honor**: Treating others with dignity and respect
-- **Duty**: Taking responsibility for her actions and their consequences
+### Combat Victories
+- **Divine Smite Mastery**: Devastating effectiveness against undead and fiends
+- **Heroic Rescues**: Multiple instances of saving party members from certain death
+- **Strategic Leadership**: Coordinated complex battles and tactical maneuvers
+- **Wrestling Expertise**: Surprisingly effective grappling skills from "water aerobics" training
 
-## Quirks & Mannerisms
-- Applies detective methodologies to fantasy situations with mixed results
-- Shows fierce protective instincts when family members are threatened
-- Sometimes acts impulsively when loved ones are in danger
-- Has strong opinions about proper law enforcement procedures
-- Develops unexpected relationships with magical creatures (like Bob the ram)
+### Community Impact
+- **Milstrom Politics**: Provided guidance during the town's governmental restructuring
+- **Winter Solstice Defense**: Key role in protecting the village celebration
+- **Moral Guidance**: Consistent voice of reason and ethical direction for the party
+
+## Current Status
+
+Olivia continues to serve as the party's investigative specialist and moral compass while managing her complex feelings about George's association with the Twilight Company.
+
+### Equipment Status
+- **Detective Tools**: Magnifying glass and other investigative equipment
+- **Propulsion Shield**: Magical shield from Bru that pushes attackers away
+- **Quilted Blankets**: Gifts from Magnolia representing comfort and community
+- **Battle Axe**: Enhanced through various magical effects and divine blessings
+
+### Family Situation
+- **George's Safety**: Successfully rescued but concerned about his continued involvement with questionable organizations
+- **Family Protection**: Balances adventuring with ensuring family members remain safe
+- **Community Ties**: Maintains connections to various settlements through their adventures
+
+### Professional Legacy
+- **Detective Reputation**: Known for thorough investigation and unwavering justice
+- **Divine Calling**: Her paladin abilities represent a natural evolution of her protective instincts
+- **Mentorship Role**: Provides guidance to younger party members and community leaders
+
+## Notable Quotes and Moments
+
+- **Professional Introduction**: Insists on being called "Retired Detective Olivia Cooper" rather than first names
+- **Zone of Truth Interrogations**: Consistently effective at extracting crucial information from suspects
+- **Wrestling Excellence**: Multiple instances of defeating opponents through grappling despite her age
+- **Moral Clarity**: Provides uncompromising ethical guidance during complex situations
+
+Olivia represents the intersection of mundane investigative skills and divine purpose, showing how professional dedication to justice can evolve into literal divine calling. Her combination of practical detective work and supernatural combat abilities makes her uniquely effective at both solving mysteries and fighting evil.

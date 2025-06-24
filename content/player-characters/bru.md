@@ -1,69 +1,124 @@
 ---
 title: "Felonias 'Bru' Bru"
-date: "2024-06-14"
-description: "Halfling Artificer/Artillerist - Played By: Justin"
-summary: "Halfling Artificer/Artillerist - Played By: Justin"
+date: "2024-08-05"
+description: "Chaotic goblin artificer with a love of explosives, fire, and mysterious beverages"
+summary: "Chaotic goblin artificer with a love of explosives, fire, and mysterious beverages"
 featureimage: "bru.png"
 ---
 
+## Character Overview
+
+**Felonias "Bru" Bru** is a goblin Artificer (Artillerist) known for his chaotic energy, love of explosives, and obsession with a mysterious chunky alcoholic beverage called "Brown." Despite his unpredictable nature, he's a brilliant inventor and loyal friend.
+
+## Basic Information
+
+- **Race**: Goblin
+- **Class**: Artificer (Artillerist)
+- **Player**: Justin
+- **Real Name**: Unknown (his actual first name remains a mystery to the party)
+- **First Appearance**: Session 1
+
 ## Background
-Bru is a halfling artificer with an insatiable love for pyrotechnics, explosives, and general chaos. Originally part of a criminal gang with Silas, he was involved in a heist that went wrong, leading to the deaths of other gang members when they stole a powerful orb from the Iron Claws organization.
 
-## Personality & Traits
-- **Chaos Gremlin**: Delights in creating explosive situations and generally causing controlled mayhem
-- **Pyrotechnic Enthusiast**: Has an almost obsessive love for fire, explosions, and anything that goes "boom"
-- **Surprisingly Tactical**: Despite his chaotic nature, shows strategic thinking in combat and leadership situations
-- **Natural Leader of Misfits**: Has successfully formed and leads "Bru's Army" consisting of magical creatures
-- **Innovative Problem Solver**: Approaches challenges with creative (often explosive) solutions
+Bru was formerly part of a criminal gang with [Silas](/player-characters/silas), participating in a heist that went wrong and resulted in the deaths of other gang members. This shared tragic past bonds him with [Silas](/player-characters/silas), though their relationship is often antagonistic on the surface.
 
-## Equipment & Abilities
-- **Eldritch Cannon**: His signature artificer creation, typically configured as a flamethrower or force ballista
-- **Explosives**: Various grenades, dynamite, and pyrotechnic devices
-- **Tinker Tools**: Can craft and modify magical and mechanical devices
-- **Kevin**: His loyal minion who assists with various tasks
-- **Fireworks Arsenal**: Custom-built firework cannons and display devices
+## Abilities and Equipment
+
+### Artificer Specializations
+- **Eldritch Cannon**: His signature ability, deployable in multiple configurations
+  - **Force Ballista**: Ranged damage and knockback effects
+  - **Protector**: Provides temporary hit points to allies
+  - **Flaminator**: Flamethrower variant for area damage
+
+### Magical Abilities
+- **Pyrotechnics**: Creates fireworks and blinding effects
+- **Shatter**: Thunder damage spell particularly effective against constructs
+- **Color Spray**: Blinding rainbow effects
+- **Faerie Fire**: Outlines enemies for tactical advantage
+
+### Inventions and Gadgets
+- **Kevin**: His homunculus servant who often runs around screaming
+- **Dynamite**: Seemingly endless supply for fishing and combat
+- **Stage Pyrotechnics**: Complex firework systems for concerts
+- **Firework Cannons**: Mounted turrets for both entertainment and defense
 
 ## Key Relationships
-- **Silas Fairbanks**: Former criminal partner and current party member; they share a complicated history from their gang days
-- **"Bru's Army"**: Leader of a growing collection of magical creatures including:
-  - Three dimensional-shifting lambs from Jeffrey's farm
-  - Gus the cliff-climbing ram
-  - Kevin his minion
-  - Various other creatures he's recruited
-- **Jeffrey Thompson**: The shepherd who serves as "upper middle management" in Bru's Army
+
+### Kevin (Homunculus)
+His loyal but high-strung mechanical servant who serves as comic relief and occasional sacrifice for dangerous tasks.
+
+### Silas Fairbanks
+Former partner in crime with a complex relationship built on shared trauma and mutual protection, despite frequent bickering.
+
+### "Bru's Army"
+A collection of magical creatures he's recruited:
+- Three dimensional-shifting lambs from Jeffrey's farm
+- Gus the cliff-climbing ram
+- Various other magical creatures attracted to his chaotic energy
+
+### Crimson the Cardinal
+A mechanical cardinal familiar created as a memorial to Red, equipped with a jetpack instead of natural flight.
+
+## Signature Traits
+
+### The Brown Obsession
+Bru is obsessed with a mysterious drink called "Brown" - described as a chunky, alcoholic beverage that he insists all alcohol should be. He frequently modifies drinks by adding dirt or other substances to make them "brown."
+
+### Explosive Solutions
+His go-to solution for most problems involves explosives, fireworks, or fire. This has led to both spectacular successes and dangerous mishaps.
+
+### Military Leadership
+Despite his chaotic nature, he has shown surprising aptitude for organizing and leading his "army" of magical creatures.
+
+### Technical Genius
+Behind the chaos, Bru is genuinely brilliant at magical engineering and has contributed to advanced projects including rocket ship modifications.
 
 ## Character Development
-Bru has grown from a simple criminal explosives expert to a leader and innovator:
-- **From Criminal to Hero**: Transitioning from petty crime to saving towns and fighting cosmic threats
-- **Leadership Skills**: Discovering his natural ability to lead and organize unusual groups
-- **Technical Innovation**: Constantly improving his explosive and magical devices
-- **Strategic Thinking**: Learning to apply his chaotic energy in tactically useful ways
 
-## Combat Role
-Bru serves as the party's demolitions expert and area damage dealer:
-- **Artillery Support**: Uses his Eldritch Cannon for consistent damage and battlefield control
-- **Area Damage**: Specializes in spells like Thunderwave and Shatter for crowd control
-- **Utility Casting**: Provides magical support through artificer spells and infusions
-- **Battlefield Innovation**: Creates explosive solutions to tactical problems
+### From Chaos to Leadership
+While maintaining his chaotic energy, Bru has grown into leadership roles, particularly with his magical creature army and technical projects.
 
-## Notable Moments
-- Setting up elaborate pyrotechnic displays during Helisanna's concerts
-- Introducing explosive fishing techniques to Finnick, revolutionizing the local fishing industry
-- Successfully leading magical sheep in military formations
-- Building and installing dual-purpose firework/defense cannons at concert venues
-- Becoming the unofficial "elder" of Lakeshore Vale through shrewd political maneuvering
-- Witnessing the destruction of the real moon during his night watch
+### Loyalty and Protection
+His fierce loyalty to his friends, especially after Red's sacrifice, shows his deeper emotional connections beneath the comedic exterior.
 
-## Current Goals
-- Expand and train "Bru's Army" into an effective fighting force
-- Continue developing new explosive and magical technologies
-- Support the party in their fight against cosmic-level threats
-- Find more creatures and misfits to add to his growing army
-- Perfect his explosive fishing techniques (despite environmental concerns)
+### Technical Innovation
+His inventions have become increasingly sophisticated, from simple fireworks to complex magical devices and theoretical rocket modifications.
 
-## Quirks & Mannerisms
-- Insists on making explosives "brown" by adding dirt or other substances
-- Often gets distracted by opportunities to blow things up
-- Surprisingly good at political maneuvering and leadership
-- Has a tendency to solve problems through creative applications of explosives
-- Shows unexpected loyalty and care for his army members and party
+## Notable Achievements
+
+### Combat Contributions
+- Consistently effective area damage with his Eldritch Cannon
+- Creative use of explosives in both combat and problem-solving
+- Successful coordination of magical creatures in battle
+
+### Technical Innovations
+- Advanced pyrotechnic systems for Helisanna's concerts
+- Explosive fishing techniques that revolutionized local fishing
+- Contributions to rocket ship and advanced technology projects
+- Creation of memorial items and magical tattoos
+
+### Leadership Moments
+- Successfully organized and trained his army of magical creatures
+- Briefly declared "elder" of Lakeshore Vale village
+- Coordinated complex sabotage operations during races
+
+## Current Status
+
+Bru continues to serve as the party's explosives expert and technical innovator, while maintaining his chaotic but loyal personality. His growing collection of magical creatures and increasing technical sophistication suggest continued character growth.
+
+### Current Projects
+- Managing and training his magical creature army
+- Working on advanced rocket ship modifications
+- Developing new explosive and pyrotechnic techniques
+- Creating memorial items for fallen party members
+
+### Equipment Status
+- Fully functional Eldritch Cannon with multiple configurations
+- Extensive collection of explosives and pyrotechnic devices
+- Magical creature companions and familiars
+- Advanced crafting materials and magical components
+
+### Ongoing Mysteries
+- His true first name remains unknown to the party
+- The exact nature and source of his "Brown" obsession
+- The full extent of his technical abilities and future inventions

@@ -1,95 +1,156 @@
 ---
 title: "Red (Thurnok Skyhammer)"
-date: "2024-06-14"
-description: "Goliath Cleric - Played By: Zach"
-summary: "Goliath Cleric - Played By: Zach"
+date: "2024-08-05"
+description: "Goliath cleric and lost prince who made the ultimate sacrifice to save his people"
+summary: "Goliath cleric and lost prince who made the ultimate sacrifice to save his people"
 featureimage: "red.png"
 ---
+
+## Character Overview
+
+**Red**, whose true name was **Thurnok Skyhammer**, was a Goliath Cleric and the lost prince of the Skyhammer clan. His journey from sheltered healer to cosmic sacrifice represents one of the campaign's most tragic character arcs.
+
+## Basic Information
+
+- **Race**: Goliath
+- **Class**: Cleric
+- **Player**: Zach
+- **True Name**: Thurnok Skyhammer
+- **Titles**: Prince of the Skyhammer Clan
+- **First Appearance**: Session 1
+- **Final Fate**: Session 22 (transformed to power spaceship)
+
 ## Background
-Red is a Goliath cleric and the secret prince of the Skyhammer clan, though he was raised by adoptive parents Marion and Robert Cross in the town of Milstrom. His true identity was hidden to protect him from the Eldoran Empire, which massacred his clan and stole their advanced technological knowledge. His adoptive parents were murdered by Zeke, an Eldoran spy who discovered Red's heritage.
 
-## True Identity
-- **Birth Name**: Thurnok Skyhammer
-- **Royal Heritage**: Prince of the technologically advanced Skyhammer clan
-- **Bloodline Power**: Only his lineage can power the clan's starship technology
-- **Hidden Past**: Raised by Tyr-worshipping adoptive parents to keep him safe from Imperial forces
+### Early Life
+Red was born as Prince Thurnok Skyhammer but was hidden as an infant when Eldoran Knights attacked his village, killing most warriors and capturing scientists. The **Cross family** (Marion and Robert Cross), followers of Tyr, helped hide him in Milstrom where he was raised as their adopted son.
 
-## Personality & Traits
-- **Pacifist Healer**: Devoted to protecting and healing others rather than causing harm
-- **Moral Compass**: Serves as the party's ethical center and voice of compassion
-- **Identity Crisis**: Struggles with reconciling his royal heritage with his humble upbringing
-- **Divine Devotion**: Deeply committed to Tyr, the god of justice and protection
-- **Gentle Giant**: Despite his imposing size, shows remarkable gentleness and care for others
+### The Deception
+Red grew up believing he was an orphan taken in by the kind Cross family, unaware of his royal heritage or the cosmic importance of his bloodline until much later in his journey.
 
-## Equipment & Abilities
-- **Divine Magic**: Extensive healing and support spells from his cleric training
-- **Large Form**: Can grow to 12 feet tall using his racial abilities
-- **Ancestral Tomahawk**: A weapon gifted by Sol the dragon, representing his Skyhammer heritage
-- **Portal-Closing Amulet**: Given by Eleanor, can seal infernal rifts and dimensional portals
-- **Stone's Endurance**: Goliath racial ability to reduce incoming damage
+### The Truth Revealed
+Through Roscoe's revelations and his mother's journal, Red learned:
+- His real identity as Prince Thurnok Skyhammer
+- His adoptive parents were murdered by the Eldoran spy Zeke, not lost to illness
+- His bloodline was essential for powering Skyhammer clan technology
+- He was hidden by the Twilight Company to protect him from the Empire
+
+## Abilities and Equipment
+
+### Divine Magic
+- **Healing Abilities**: Primary role as party healer and support
+- **Channel Divinity**: Balm of Peace for mobile healing
+- **Emboldening Bond**: Connected allies with divine energy
+- **Spirit Guardians**: Summoned spectral Goliath warriors
+- **Spiritual Weapon**: Manifested divine tomahawks
+
+### Physical Abilities
+- **Large Form**: Could grow to 12 feet tall for enhanced reach and strength
+- **Stone's Endurance**: Racial ability to reduce damage
+- **Returning Weapon**: Tomahawk enhanced by Bru's infusions
+- **Divine Strike**: Enhanced weapon attacks with radiant energy
+
+### Equipment
+- **Tomahawk**: Signature weapon enhanced with returning properties
+- **Portal-Closing Amulet**: Gift from Eleanor for sealing infernal rifts
+- **Heritage Items**: Ancestral gifts from the Skyhammer clan
 
 ## Key Relationships
-- **Marion and Robert Cross**: His beloved adoptive parents who were murdered protecting his secret
-- **The Skyhammer Clan**: His birth family and royal heritage, including advanced technological civilization
-- **Elder Ragar**: Leader of the Skyhammer clan who confirmed Red's identity and bloodline
-- **Tyr**: His patron deity, god of justice and protection
-- **Sol**: The cosmic dragon who tested Red and gave him his ancestral weapon
+
+### The Cross Family (Adoptive Parents)
+Marion and Robert Cross raised Red with love and care, hiding his true identity to protect him. Their murder by Zeke was one of Red's most devastating discoveries.
+
+### The Party
+Red served as the moral compass and primary healer, with deep bonds to all party members:
+- **Protective Nature**: Constantly worried about his friends' safety
+- **Divine Support**: Provided crucial healing and buffs in every major battle
+- **Emotional Anchor**: His loss devastated the entire party
+
+### The Skyhammer Clan
+His birth family, including Elder Ragar, who needed his bloodline to power their spacecraft but may have deceived him about the full consequences of the process.
+
+### Tyr (Deity)
+His divine patron, though Red struggled with the more militant aspects of Tyr's justice-focused doctrine while maintaining his pacifist beliefs.
 
 ## Character Development
-Red's journey involves accepting his dual identity and cosmic destiny:
-- **Royal Awakening**: Learning about his true heritage and the responsibilities it entails
-- **Grief Processing**: Dealing with the murder of his adoptive parents and loss of his peaceful life
-- **Power Integration**: Learning to balance his divine abilities with his technological bloodline
-- **Leadership Growth**: Accepting his role in fighting cosmic threats and leading others
 
-## Combat Role
-Red serves as the party's primary healer and support character:
-- **Mass Healing**: Balm of Peace and other abilities to heal multiple party members
-- **Divine Support**: Emboldening Bond, Bless, and other buffs to enhance party effectiveness
-- **Emergency Healing**: Healing Word and Lay on Hands for critical moment rescues
-- **Utility Magic**: Dispel Magic, Augury, and other problem-solving spells
+### From Naive to Aware
+Red's journey involved discovering the truth about his past, his royal heritage, and the complex political forces that shaped his life.
 
-## Skyhammer Heritage
-- **Technological Bloodline**: His genetic makeup is somehow essential to powering advanced spacecraft
-- **Royal Responsibilities**: As prince, he's expected to lead his people's resistance against the Empire
-- **Massacre Survivor**: His clan was nearly wiped out by Eldoran forces seeking their technology
-- **Cosmic Mission**: His people are building starships to potentially destroy Eldora's artificial moon
+### Pacifist to Warrior
+Despite his peaceful nature, Red gradually accepted the need for violence to protect innocent people, though he never lost his healing-focused identity.
 
-## Notable Moments
-- **Moon Witness**: Witnessed the destruction of the real moon by Eldora's artificial satellite during his night watch
-- **Identity Revelation**: Learning his true name and heritage through his mother's hidden journal
-- **Portal Mastery**: Successfully using Eleanor's amulet to close dangerous Shadowfell rifts
-- **Divine Recognition**: Passing Sol the dragon's test about what "burns in his heart"
-- **Family Reunion**: Emotional meeting with Elder Ragar and acceptance by the Skyhammer clan
+### Prince to Sacrifice
+His ultimate transformation into the spaceship power source represents the completion of his tragic royal destiny.
 
-## Divine Abilities
-- **Channel Divinity**: Balm of Peace allows him to heal while moving across the battlefield
-- **Spell Variety**: Access to healing, protection, and utility spells appropriate to a Tyr cleric
-- **Divine Insight**: Religion checks and divine guidance for understanding supernatural threats
-- **Prayer and Augury**: Can seek divine guidance for important decisions
+## Notable Achievements
 
-## Tragic Backstory
-- **The Cross Murder**: His adoptive parents were poisoned by Zeke to appear as natural deaths
-- **Hidden Identity**: Lived his entire life unaware of his royal heritage and cosmic importance
-- **Peaceful Upbringing**: Raised with pacifist values that conflict with his warrior lineage
-- **Reluctant Hero**: Thrust into cosmic conflicts despite preferring a quiet, healing-focused life
+### Healing Mastery
+- **Party Survival**: His healing abilities kept the party alive through countless dangerous encounters
+- **Mass Healing**: Balm of Peace allowed him to heal multiple allies while moving
+- **Divine Intervention**: Multiple instances of crucial healing at exactly the right moment
+- **Remove Curse**: Successfully healed Jasper's mummy rot
 
-## Current Goals
-- **Cosmic Resistance**: Help his clan and others fight against Eldora's divine tyranny
-- **Master His Heritage**: Learn to use his bloodline powers to help power Skyhammer technology
-- **Protect Others**: Continue his mission of healing and protecting innocent people
-- **Honor the Dead**: Ensure his adoptive parents' sacrifice wasn't in vain
-- **Divine Service**: Remain faithful to Tyr while embracing his technological heritage
+### Combat Support
+- **Emboldening Bond**: Connected allies with divine energy providing combat bonuses
+- **Spirit Guardians**: Spectral warriors that controlled battlefields
+- **Spiritual Weapon**: Consistent damage output while maintaining healing focus
+- **Tactical Buffs**: Bless, Aid, and other support spells that enhanced party effectiveness
 
-## Trials and Tests
-- **Wormhole Trials**: Must prove his royal bloodline through dangerous ancestral tests
-- **Leadership Challenges**: Learning to lead others despite his humble, pacifist nature
-- **Identity Integration**: Balancing his Tyr devotion with Skyhammer technological traditions
-- **Cosmic Responsibility**: Accepting his role in galaxy-spanning conflicts against divine tyranny
+### Character Moments
+- **Religious Knowledge**: Exceptional understanding of divine magic and cosmic threats
+- **Moral Guidance**: Served as the party's ethical compass during difficult decisions
+- **Protective Instincts**: Consistently prioritized others' safety over his own
+- **Heritage Discovery**: Handled the revelation of his royal identity with grace and responsibility
 
-## Quirks & Mannerisms
-- Often approaches problems with healing and protection rather than violence
-- Shows remarkable humility despite his royal heritage and growing power
-- Frequently seeks divine guidance through prayer and augury
-- Struggles with confidence in leadership roles despite his natural compassion
-- Maintains his gentle demeanor even when using his intimidating Large Form ability
+## The Ultimate Sacrifice
+
+### The Skyhammer Transformation
+In Session 22, Red made the decision to enter the Skyhammer clan's power chamber to enable their spaceship's launch, despite not fully understanding the consequences.
+
+### The Process
+- Red's consciousness merged with the spaceship's systems
+- His organic form became permanently integrated with the vessel
+- The transformation caused "horrible pain" and cannot be reversed
+- His personality and memories may persist within the ship's AI
+
+### The Aftermath
+- The party was devastated by the loss of their friend and healer
+- **Bru** became violently angry at the Skyhammer Elder who orchestrated the sacrifice
+- The party refused to join the space colonization mission and left the clan
+- Red's transformation enabled the Goliaths to escape Eldoran persecution
+
+## Legacy and Impact
+
+### Memorial Tributes
+- **Bru** created magical tattoos as permanent memorials to Red
+- **Crimson the Cardinal**: Bru's mechanical familiar created in Red's honor
+- **Party Dedication**: His sacrifice strengthened the bonds between remaining members
+
+### Ongoing Questions
+- **Consciousness Survival**: Whether Red's personality persists within the spaceship
+- **Future Contact**: Possibility of communication with the transformed Red
+- **Cosmic Purpose**: His sacrifice may have larger implications for fighting cosmic threats
+
+### Character Themes
+Red's story explores themes of:
+- **Hidden Identity**: The burden of royal heritage and cosmic destiny
+- **Sacrifice**: The cost of protecting others and fulfilling destiny
+- **Family**: Both chosen family (the party) and birth family (Skyhammer clan)
+- **Divine Purpose**: The intersection of personal choice and cosmic necessity
+
+## Current Status
+
+Red no longer exists as a playable character, having been transformed into the power source for the Skyhammer clan's spaceship. His consciousness may persist within the vessel's systems, but he is effectively lost to the party.
+
+### The Spaceship Entity
+- **Merged Consciousness**: Red's personality may influence the ship's AI
+- **Cosmic Mission**: The vessel carries Goliath colonists away from Eldoran persecution
+- **Unknown Future**: Whether Red can be restored or will remain permanently transformed
+
+### Party Impact
+- **Healing Gap**: The party lost their primary healer and support character
+- **Emotional Trauma**: Red's sacrifice created lasting psychological effects on his friends
+- **Moral Legacy**: His example of selfless protection continues to influence party decisions
+
+Red's transformation represents one of the campaign's most significant character developments, showing how personal growth and heroic sacrifice can have cosmic-level consequences while exploring the painful costs of destiny and duty.

@@ -1,91 +1,149 @@
 ---
 title: "Silas Fairbanks"
-date: "2024-06-14"
-description: "Halfling Rogue/Soulknife - Played By: Taylor"
-summary: "Halfling Rogue/Soulknife - Played By: Taylor"
+date: "2024-08-05"
+description: "Scheming halfling rogue with psychic abilities and a dangerous criminal past"
+summary: "Scheming halfling rogue with psychic abilities and a dangerous criminal past"
 featureimage: "silas.png"
 ---
 
+## Character Overview
+
+**Silas Fairbanks** is a halfling Rogue (Soulknife) who serves as the band's manager while harboring a dangerous criminal past. His psychic abilities and scheming nature make him invaluable for both legitimate business and illegal operations.
+
+## Basic Information
+
+- **Race**: Halfling
+- **Class**: Rogue (Soulknife)
+- **Player**: Taylor
+- **Profession**: Band manager and booking agent for "Doomfall"
+- **Criminal Background**: Former member of the Sisyphus Circle gang
+- **First Appearance**: Session 1
+
 ## Background
-Silas is a scheming halfling rogue who serves as the manager of the metal band Doomfall while maintaining connections to various criminal organizations. He was formerly part of the Sisyphus Circle gang alongside Bru, and their failed heist of a powerful orb from the Iron Claws organization led to the deaths of their fellow gang members and put both of them in ongoing danger.
 
-## Personality & Traits
-- **Natural Schemer**: Always looking for angles, opportunities, and ways to profit from situations
-- **Loyal Friend**: Despite his mercenary exterior, shows deep loyalty to party members and former associates
-- **Entrepreneur**: Constantly developing new business ventures, from concert recordings to rental services
-- **Tactical Thinker**: Excellent at planning, infiltration, and coordinating complex operations
-- **Morally Flexible**: Willing to use criminal methods for ultimately heroic purposes
+Silas was previously part of the **Sisyphus Circle**, a criminal gang that attempted to steal a dragon orb from the **Iron Claws** organization. The heist went catastrophically wrong, resulting in the deaths of other gang members and leaving Silas as one of the few survivors along with Bru.
 
-## Equipment & Abilities
-- **Psychic Blades**: Manifests daggers of pure psychic energy that can target mental vulnerabilities
-- **Telepathic Communication**: Can establish psychic links between party members for coordination
-- **Lockpicking Tools**: Master at bypassing security systems and infiltrating restricted areas
-- **Stealth Gear**: Expert at moving unseen and unheard
-- **The Stolen Orb**: Possesses a powerful glass sphere containing a cosmic dragon entity
+### The Dragon Orb Heist
+The theft of a glass orb containing the cosmic dragon **"Everything"** from Helja and the Iron Claws has made Silas a high-priority target with the largest bounty on his head among the party members.
+
+## Abilities and Equipment
+
+### Psychic Powers
+- **Psychic Blades**: Can manifest and throw psychic daggers for combat
+- **Psychic Phone**: Telepathic communication ability linking multiple party members
+- **Sneak Attack**: Devastating precision strikes enhanced by psychic energy
+- **Psychic Whispers**: Can implant memories or thoughts in others' minds
+
+### Rogue Skills
+- **Expertise**: Master of stealth, sleight of hand, and deception
+- **Reliable Talent**: Exceptional competence in skilled tasks
+- **Cunning Action**: Enhanced mobility and positioning in combat
+- **Evasion**: Superior ability to avoid area-of-effect attacks
+
+### Equipment
+- **The Dragon Orb**: Dangerous cosmic communication device containing the entity "Everything"
+- **Silver and Amethyst Necklace**: Stolen Tyr priest jewelry
+- **Professional Thief Tools**: Lockpicks and other criminal equipment
+- **Spell Wrought Tattoo**: Memorial gift from Bru providing spell slot recovery
 
 ## Key Relationships
-- **Bru**: Former criminal partner and current party member; they share guilt over their gang's destruction
-- **Helisanna**: Acts as manager for her band Doomfall, handling business and promotional aspects
-- **Iron Claws Gang**: Actively hunted by this criminal organization for stealing their powerful orb
-- **Helja Ungart**: Gang leader who has placed a bounty on Silas for the theft
-- **Twilight Company**: Has infiltrated the organization using the alias "Martin Birchwood"
+
+### Bru (Felonias)
+Former partner in the Sisyphus Circle with a relationship built on shared trauma and mutual protection. Their bond is tested by frequent bickering but remains strong.
+
+### "Muscle Mommy" Naomi
+Romantic relationship with a muscular half-orc spa worker and single mother. Despite his anxiety about the relationship, he successfully maintains contact and affection.
+
+### The Dragon "Everything"
+Maintains dangerous communication with the cosmic entity through the stolen orb, walking a diplomatic tightrope to gather intelligence while avoiding cosmic-level threats.
+
+### Iron Claws Organization
+Primary antagonist group actively hunting him due to the dragon orb theft. Led by Helja, they represent his most dangerous ongoing threat.
+
+## Signature Traits
+
+### Entrepreneurial Schemes
+- **Business Management**: Legitimate band management and booking operations
+- **Charity Scams**: Successfully convinced bar patrons to donate for Helisanna's fake illness
+- **Recording Business**: Plans to sell exclusive concert recordings for profit
+- **Criminal Consulting**: Offers "one crime carried out on your behalf" as gifts
+
+### Master Thief
+- **Legendary Stealth**: Consistently achieves stealth rolls in the high 20s or 30s
+- **Pickpocketing Excellence**: Successfully steals from allies and enemies alike
+- **Lock Picking**: Master of infiltration and security bypass
+- **Information Gathering**: Exceptional at surveillance and intelligence collection
+
+### Diplomatic Manipulation
+- **Silver Tongue**: High charisma and deception skills for negotiation
+- **Intelligence Gathering**: Skilled at extracting information through conversation
+- **Strategic Thinking**: Excellent tactical planning and risk assessment
+- **Moral Flexibility**: Willing to use questionable methods for party goals
 
 ## Character Development
-Silas is evolving from pure criminal opportunist to reluctant hero:
-- **From Selfish to Loyal**: Learning to prioritize party welfare over personal profit
-- **Criminal to Resistance**: Using his illegal skills for ultimately heroic purposes
-- **Past Consequences**: Dealing with the ongoing threat from his criminal history
-- **Psychic Growth**: Developing his soulknife abilities and telepathic connections
 
-## Combat Role
-Silas functions as the party's scout, infiltrator, and precision damage dealer:
-- **Sneak Attacks**: Uses stealth and positioning for devastating surprise attacks
-- **Battlefield Control**: Psychic blades can target enemy weaknesses and mental defenses
-- **Information Gathering**: Reconnaissance and intelligence work before and during encounters
-- **Team Coordination**: Telepathic abilities allow for silent communication and tactical coordination
+### From Criminal to Manager
+His evolution from pure criminal to legitimate business manager shows growth while maintaining his valuable illegal skills.
 
-## Business Ventures
-- **Band Management**: Handles bookings, contracts, and promotional activities for Doomfall
-- **Concert Recordings**: Developed a scheme to record and sell exclusive live performance audio
-- **Equipment Rental**: Partners with Bru in questionable skate rental and equipment services
-- **Negotiation Services**: Often handles financial discussions and contract negotiations for the party
+### Relationship Growth
+His successful romantic relationship with Naomi represents personal development beyond his typically transactional approach to relationships.
 
-## Notable Moments
-- **Master Infiltrator**: Successfully penetrated Johnny Travolta's party and gathered crucial intelligence
-- **Tactical Coordinator**: Established psychic communication networks during major battles
-- **Evidence Gatherer**: Discovered crucial information about Red's parents' murder in Zeke's journal
-- **Precision Striker**: Delivered killing blows to major threats using psychic daggers and tactical positioning
-- **Reluctant Hero**: Consistently chooses party welfare over personal safety despite his mercenary nature
+### Leadership Emergence
+Increasingly serves as the party's strategic planner and negotiator, particularly for complex social and criminal situations.
 
-## Criminal Background
-- **Sisyphus Circle**: Former member of a criminal gang that was destroyed during a heist gone wrong
-- **The Iron Claws Heist**: Stole a powerful cosmic orb, leading to the deaths of other gang members
-- **Wanted Criminal**: Actively hunted by the Iron Claws organization with a substantial bounty
-- **Underground Contacts**: Maintains connections in criminal networks for information and resources
+## Notable Achievements
 
-## Psychic Abilities
-- **Soulknife Powers**: Manifests weapons and tools from pure psychic energy
-- **Telepathic Links**: Can connect multiple party members for silent communication
-- **Mental Targeting**: Psychic blades can exploit psychological vulnerabilities in enemies
-- **Enhanced Awareness**: Uses psychic abilities for improved perception and investigation
+### Combat Excellence
+- **Sneak Attack Master**: Consistently devastating damage through precision strikes
+- **Tactical Positioning**: Expert use of stealth and mobility for combat advantage
+- **Finishing Moves**: Multiple instances of eliminating major threats with perfect strikes
+- **Anime-Style Combat**: Spectacular finishing moves including the dramatic "Boog assassination"
 
-## Current Goals
-- **Party Success**: Ensure the team's survival and success in their cosmic-level missions
-- **Profit Optimization**: Find ways to make money while saving the world
-- **Criminal Past**: Manage the ongoing threat from the Iron Claws and other criminal enemies
-- **Orb Mystery**: Understand the true power and purpose of the stolen cosmic orb
-- **Business Empire**: Expand his various entrepreneurial ventures
+### Criminal Operations
+- **Intelligence Gathering**: Successfully infiltrated multiple organizations for information
+- **Heist Coordination**: Planned and executed complex theft operations
+- **Surveillance Excellence**: Consistently provides crucial intelligence through reconnaissance
+- **Contract Theft**: Successfully stole organized crime documents revealing broader conspiracies
 
-## The Cosmic Orb
-- **Appearance**: Glass sphere containing what appears to be a galaxy or cosmic dragon
-- **Danger**: Cannot be stored in a Bag of Holding due to risk of dimensional collapse
-- **Power**: Described as a communication device to another plane or cosmic entity
-- **Recognition**: The entity within knows Olivia personally and speaks her name
-- **Consequences**: The theft of this artifact has made Silas a priority target for elimination
+### Business Success
+- **Concert Contracts**: Negotiated lucrative performance deals including the 10,000 gold Sandra Talks contract
+- **Recording Sales**: Successful marketing and sale of exclusive concert recordings
+- **Strategic Partnerships**: Built relationships with various criminal and legitimate organizations
+- **Band Management**: Effectively manages Doomfall's business operations
 
-## Quirks & Mannerisms
-- Always calculating potential profit margins and business opportunities
-- Uses criminal skills and contacts for ultimately heroic purposes
-- Shows unexpected loyalty and protectiveness toward party members
-- Maintains multiple false identities and cover stories
-- Balances greed with genuine care for his friends' welfare
+## Current Status
+
+Silas continues to balance legitimate band management with criminal activities while being actively hunted by the Iron Claws for the dragon orb theft.
+
+### The Dragon Orb Situation
+- **Cosmic Communication**: Maintains dangerous contact with the entity "Everything"
+- **Intelligence Value**: Uses the orb to gather information about cosmic threats
+- **Diplomatic Balance**: Attempts to maintain the illusion of cooperation while gathering intelligence
+- **Existential Threat**: The orb represents both incredible power and ultimate danger
+
+### Criminal Pursuits
+- **Bounty Hunter Targets**: Largest bounty among party members due to the orb theft
+- **Iron Claws Conflict**: Ongoing war with Helja's criminal organization
+- **Twilight Company Relations**: Maintains connections with resistance organizations
+- **Underground Networks**: Extensive contacts in various criminal enterprises
+
+### Personal Relationships
+- **Naomi Romance**: Successfully maintaining relationship despite distance and danger
+- **Party Loyalty**: Deep bonds with companions despite professional criminal approach
+- **Family Dynamics**: Protective of party members while maintaining emotional boundaries
+
+## Future Concerns
+
+### The Dragon Threat
+The cosmic entity "Everything" represents a solar system-level threat that could use Silas as a conduit for invasion.
+
+### Criminal Consequences
+His theft of the dragon orb has made him a permanent target for one of the most powerful criminal organizations in the region.
+
+### Moral Complexity
+Balancing legitimate business success with criminal skills and contacts creates ongoing ethical dilemmas.
+
+### Relationship Maintenance
+Managing his romance with Naomi while living a dangerous criminal lifestyle presents ongoing challenges.
+
+Silas represents the classic "gentleman thief" archetype evolved into a modern criminal entrepreneur, showing how illegal skills can serve heroic purposes while creating dangerous complications. His psychic abilities and criminal expertise make him uniquely valuable for both infiltration and combat operations.
