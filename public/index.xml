@@ -180,26 +180,6 @@
     </item>
     
     <item>
-      <title>Sol</title>
-      <link>http://moonfallsessions.com/npcs/sol/</link>
-      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://moonfallsessions.com/npcs/sol/</guid>
-      <description>An enormous dragon with starlight scales who guards the astral tree portal and tests those seeking to undergo the Skyhammer trials</description>
-      
-    </item>
-    
-    <item>
-      <title>Notable NPCs - Supporting Cast</title>
-      <link>http://moonfallsessions.com/npcs/other-npcs/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://moonfallsessions.com/npcs/other-npcs/</guid>
-      <description>A collection of twenty memorable individuals who have shaped the party&amp;rsquo;s journey, from allies and enemies to quirky locals and mysterious figures</description>
-      
-    </item>
-    
-    <item>
       <title>Organizations, Factions &amp; Collective Forces</title>
       <link>http://moonfallsessions.com/groups/other-groups/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
@@ -290,16 +270,6 @@
     </item>
     
     <item>
-      <title>Zeke</title>
-      <link>http://moonfallsessions.com/npcs/zeke/</link>
-      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://moonfallsessions.com/npcs/zeke/</guid>
-      <description>An Eldoran Empire spy who murdered Red&amp;rsquo;s adoptive parents and has been monitoring Goliath activities in the mountains</description>
-      
-    </item>
-    
-    <item>
       <title>12: Out of the frying pan, into the Fire</title>
       <link>http://moonfallsessions.com/sessions/session-12/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
@@ -330,16 +300,6 @@
     </item>
     
     <item>
-      <title>Roscoe</title>
-      <link>http://moonfallsessions.com/npcs/roscoe/</link>
-      <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://moonfallsessions.com/npcs/roscoe/</guid>
-      <description>A bizarre Warforged with a makeshift digestive system who serves as an alcoholic oracle and guide in Milstrom&amp;rsquo;s underground tunnels</description>
-      
-    </item>
-    
-    <item>
       <title>9: A Stranger at the Crossroads</title>
       <link>http://moonfallsessions.com/sessions/session-9/</link>
       <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
@@ -350,12 +310,12 @@
     </item>
     
     <item>
-      <title>Mr. Crowley</title>
-      <link>http://moonfallsessions.com/npcs/crowley/</link>
+      <title>Major Antagonists</title>
+      <link>http://moonfallsessions.com/npcs/antagonists/</link>
       <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://moonfallsessions.com/npcs/crowley/</guid>
-      <description>A mysterious fae entity who appears at crossroads to make dangerous bargains, collecting powerful magical artifacts and targeting supernatural beings</description>
+      <guid>http://moonfallsessions.com/npcs/antagonists/</guid>
+      <description>Primary villains and cosmic threats opposing the party throughout the campaign</description>
       
     </item>
     
@@ -366,16 +326,6 @@
       
       <guid>http://moonfallsessions.com/sessions/session-8/</guid>
       <description>Tacocats take a moment to meet caravan folks.</description>
-      
-    </item>
-    
-    <item>
-      <title>Eleanor</title>
-      <link>http://moonfallsessions.com/npcs/eleanor/</link>
-      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://moonfallsessions.com/npcs/eleanor/</guid>
-      <description>A halfling hedge mage who leads Eleanor&amp;rsquo;s Wandering Coven and specializes in closing infernal portals and combating demonic corruption</description>
       
     </item>
     
@@ -430,16 +380,6 @@
     </item>
     
     <item>
-      <title>George</title>
-      <link>http://moonfallsessions.com/npcs/george/</link>
-      <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://moonfallsessions.com/npcs/george/</guid>
-      <description>Olivia Cooper&amp;rsquo;s grandson who works with the Twilight Company on Project Purple Patch, investigating supernatural threats and planar instabilities</description>
-      
-    </item>
-    
-    <item>
       <title>Twilight Company</title>
       <link>http://moonfallsessions.com/groups/twilight-company/</link>
       <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
@@ -450,12 +390,52 @@
     </item>
     
     <item>
+      <title>Twilight Company Members</title>
+      <link>http://moonfallsessions.com/npcs/twilight/</link>
+      <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://moonfallsessions.com/npcs/twilight/</guid>
+      <description>Elite military unit members known for handling unconventional threats and resistance operations</description>
+      
+    </item>
+    
+    <item>
+      <title>Villagers and Locals</title>
+      <link>http://moonfallsessions.com/npcs/locals/</link>
+      <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://moonfallsessions.com/npcs/locals/</guid>
+      <description>Community leaders, craftspeople, and local residents who provide services and local knowledge</description>
+      
+    </item>
+    
+    <item>
       <title>2: A Rock Show And A Briefcase</title>
       <link>http://moonfallsessions.com/sessions/session-2/</link>
       <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
       
       <guid>http://moonfallsessions.com/sessions/session-2/</guid>
       <description>The party is in the dwarven city of High Forge, a place with strict rules.</description>
+      
+    </item>
+    
+    <item>
+      <title>Family and Personal Connections</title>
+      <link>http://moonfallsessions.com/npcs/connections/</link>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://moonfallsessions.com/npcs/connections/</guid>
+      <description>Family members, loved ones, and personal relationships that drive character motivations</description>
+      
+    </item>
+    
+    <item>
+      <title>Racist Community</title>
+      <link>http://moonfallsessions.com/npcs/racist/</link>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://moonfallsessions.com/npcs/racist/</guid>
+      <description>Professional racers, mechanics, and underground circuit participants in the dangerous world of competitive racing</description>
       
     </item>
     
@@ -476,6 +456,16 @@
       
       <guid>http://moonfallsessions.com/sessions/session-1/</guid>
       <description>Beginning of our new campaign, Moonfall. Our &amp;ldquo;heroes&amp;rdquo; go on a night out into the city of Highforge.</description>
+      
+    </item>
+    
+    <item>
+      <title>Business and Entertainment</title>
+      <link>http://moonfallsessions.com/npcs/business/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://moonfallsessions.com/npcs/business/</guid>
+      <description>Merchants, talent agents, and entertainment industry figures driving the economic landscape</description>
       
     </item>
     
@@ -536,6 +526,36 @@
       
       <guid>http://moonfallsessions.com/player-characters/silas/</guid>
       <description>Scheming halfling rogue with psychic abilities and a dangerous criminal past</description>
+      
+    </item>
+    
+    <item>
+      <title>Magical and Otherworldly</title>
+      <link>http://moonfallsessions.com/npcs/magical/</link>
+      <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://moonfallsessions.com/npcs/magical/</guid>
+      <description>Supernatural beings, magical entities, and otherworldly creatures with cosmic significance</description>
+      
+    </item>
+    
+    <item>
+      <title>Important Allies</title>
+      <link>http://moonfallsessions.com/npcs/allies/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://moonfallsessions.com/npcs/allies/</guid>
+      <description>Trusted companions and powerful allies who assist the party throughout their adventures</description>
+      
+    </item>
+    
+    <item>
+      <title>Religious and Political Figures</title>
+      <link>http://moonfallsessions.com/npcs/political/</link>
+      <pubDate>Sun, 25 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://moonfallsessions.com/npcs/political/</guid>
+      <description>Spiritual leaders, politicians, and authority figures shaping the campaign&amp;rsquo;s moral and political landscape</description>
       
     </item>
     
