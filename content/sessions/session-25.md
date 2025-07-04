@@ -1,8 +1,8 @@
 ---
-title: "25: Purple-Eyed Ravers and Racing Contracts"
+title: "25: Bounty Hunters and Broken Timelines"
 date: 2025-06-27
-description: "The party holds a memorial for Red while uncovering Helisanna's supernatural influence and preparing for a dangerous mountain race."
-summary: "The party holds a memorial for Red while uncovering Helisanna's supernatural influence and preparing for a dangerous mountain race."
+description: "The party conducts downtime activities in Milstrom, with Silas selling Joel headshots to fund their engineering projects while encountering alternate timeline versions of Marcus and Scarlett."
+summary: "The party conducts downtime activities in Milstrom, with Silas selling Joel headshots to fund their engineering projects while encountering alternate timeline versions of Marcus and Scarlett."
 featureimage: "C4E25.png"
 podcastlink: "https://creators.spotify.com/pod/profile/topher-hooper/episodes/C4E25-June-27th-e351oja"
 ---
