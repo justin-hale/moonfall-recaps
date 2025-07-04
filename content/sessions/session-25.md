@@ -1,184 +1,232 @@
 ---
-title: "25: Bounty Hunters and Broken Timelines"
+title: "25: Wanted Dead or Alive"
 date: 2025-06-27
-description: "The party conducts downtime activities in Milstrom, with Silas selling Joel headshots to fund their engineering projects while encountering alternate timeline versions of Marcus and Scarlett."
-summary: "The party conducts downtime activities in Milstrom, with Silas selling Joel headshots to fund their engineering projects while encountering alternate timeline versions of Marcus and Scarlett."
+description: "The party faces bounty hunters while preparing their return to High Forge, and discovers the true extent of their notoriety."
+summary: "The party faces bounty hunters while preparing their return to High Forge, and discovers the true extent of their notoriety."
 featureimage: "C4E25.png"
 podcastlink: "https://creators.spotify.com/pod/profile/topher-hooper/episodes/C4E25-June-27th-e351oja"
 ---
 
 ## Session Overview
 
-The party conducts downtime activities in Milstrom, with Silas selling Joel headshots to fund their engineering projects. They encounter alternate timeline versions of Marcus and Scarlett, successfully recruiting the scientist to help with their pocket village while steering her away from dangerous time travel research. Helisanna gathers intelligence at the refugee camp, learning about High Forge's occupation and making contact with Lark, a former Iron Claws member who offers to guide them into the city.
+The party continues their journey toward High Forge while dealing with the aftermath of their recent adventures. They face the reality of having significant bounties on their heads and encounter dangerous enemies seeking to collect the rewards.
 
-## Opening: Downtime Activities and Joel's Headshots
+## Downtime Activities and Resource Management
 
-The session begins with **Silas** conducting a downtime activity, selling the autographed **Joel** headshots that the party received during their interdimensional adventures. Silas collects all seven headshots from the party members (including Red's and Jasper's belongings) and approaches **Tien**, the tiefling who has established an arcane shop in Milstrom.
+### Silas's Joel Headshot Business
 
-### The Sales Negotiation
+**Silas** initiates a downtime activity to sell the autographed **Joel** headshots the party acquired during their interdimensional adventures. Working with **Tien** (the tiefling trader who has established an arcane shop in the area), Silas successfully negotiates a deal:
 
-**Silas** presents the mint condition, animated Joel headshots to **Tien**, claiming they came directly from Joel himself after the party helped him with interdimensional problems. Despite Tien not being a huge Joel fan personally, he recognizes the value of authentic memorabilia from a member of the legendary Steve Squad.
+**The Transaction**:
+- **7 autographed Joel headshots** (including Red's and Jasper's from their belongings)
+- **200 gold each** for a total of **1,400 gold**
+- Payment split between **700 gold in coin** and **700 gold in violessence crystals and arcane components**
+- The arcane materials go directly toward their **rocket ship schematics project**
 
-**The Deal**:
-- **Silas** asks for 200 gold per headshot (7 total = 1,400 gold)
-- **Tien** agrees to the price with **Olivia's** Zone of Truth confirming authenticity
-- Payment is half in coin, half in violessence crystals and arcane components
-- The materials are exactly what **Bru** and **Elspeth** need for their rocket schematics project
+**Tien's Background Knowledge**: Tien recognizes Joel as a member of the legendary **Steve Squad** but admits he's more of a **Helisanna Doomfall** fan, having several of her MP3s. The transaction proceeds smoothly due to **Olivia's** **Zone of Truth** verification of authenticity.
 
-### Downtime Crafting Progress
+### Engineering Progress
 
-**Bru** and **Elspeth** continue work on their advanced projects:
-- **Pocket Village**: **Elspeth** successfully completes her intelligence check for invention, **Bru** succeeds on his arcana check for construction
-- **Rocket Schematics**: Significant progress made with the 1,400 gold worth of materials from the Joel headshot sale
-- **Helisanna** provides bardic inspiration to help with the crafting process
+**Bru** and **Elspeth** continue their downtime work on advanced projects:
 
-The party notes they need three more successful sessions to complete the pocket village if rolls continue going well.
+**Pocket Village Construction**:
+- **Bru**: Rolls **22** on his Intelligence check (needed 22) for invention
+- **Elspeth**: Rolls **18** on her Arcana check (needed 18) for construction
+- **Helisanna** provides bardic inspiration to enhance their work
+- **Successfully complete another milestone** toward the pocket village project
 
-## Meeting Scarlett: The Alternate Timeline Scientist
+**Project Status**: The pocket village construction requires three more successful sessions to complete if the rolls continue to go well.
 
-While setting up camp by the river near the refugee settlement, the party encounters a familiar argument between a **French-accented male painter** and a **blonde woman conducting experiments**. The party recognizes them as younger, alternate versions of **Marcus** and **Scarlett** from the destroyed timeline they previously visited.
+## Meeting Scarlett
 
-### The Confrontation
+The party encounters **Scarlett**, a younger version of the scientist they met in Marcus's destroyed timeline. In this dimension, she specializes in **time and space research** rather than art, while **Marcus** is focused on painting rather than temporal engineering.
 
-**Bru** immediately becomes hostile toward **Marcus**, attempting to grapple him while demanding "the time gun." This leads to a chaotic scene where:
-- **Marcus** successfully throws **Bru** into bushes repeatedly
-- **Bru** uses **Color Spray** to blind Marcus in retaliation
-- The party discovers that in this timeline, **Scarlett** is the scientist working on time/dimensional travel while **Marcus** is the artist
+**Key Differences from the Previous Timeline**:
+- **Scarlett** is the scientist working on **dimensional and time travel theories**
+- **Marcus** is the artist focused on landscape painting
+- Their roles are essentially reversed from the destroyed timeline
 
-### Recruitment Success
+**Recruitment Success**: After some discussion about the dangers of time manipulation research, the party successfully convinces **Scarlett** to abandon her temporal experiments in exchange for helping with their **pocket dimension workspace** project. She brings valuable expertise in extra-dimensional magic that complements their existing schematics.
 
-Through careful negotiation, **Silas** convinces **Scarlett** to abandon her dangerous time travel research in favor of helping with their **pocket village** project. Key points:
-- **Scarlett** admits her time travel prototypes are "incredibly explosive" and feels like a dead end
-- She specializes in extra-dimensional space, making her perfect for their project
-- The party successfully redirects her from world-destroying research to helpful engineering
+## Gathering Intelligence at the Refugee Camp
 
-## Intelligence Gathering at the Campfire
+**Helisanna** conducts reconnaissance at the growing refugee camp, which has expanded significantly and developed semi-permanent structures since their last visit.
 
-**Helisanna** conducts reconnaissance at the refugee camp's evening storytelling circle, gathering crucial intelligence about High Forge and potential opportunities:
-
-### Information Discovered
+### Important Information Gathered
 
 **Smuggling Operations**:
-- A dwarf named **Maria** successfully smuggled a large haul through High Forge's back tunnels
-- The tunnels are patrolled but too vast for complete coverage
+- A dwarf named **Maria** successfully transported a large haul through High Forge's back tunnels
+- **Violessence smuggling** has become a lucrative black market trade between High Forge and Eldoran
 
 **Job Opportunities**:
-- **Sarah**: A telephone operator seeking help retrieving her grandfather's Sunstone hammer from High Forge
-- **Lab Assistant**: Offering cash for help with escaped specimens
-- **Bank Vault Crisis**: Clockwork guardians malfunctioning, vault security compromised
+- **Sarah** (telephone operator): Seeking help to retrieve her grandfather's **Sunstone hammer** from her shop in High Forge
+- **Lab assistant**: Looking for help with **escaped specimens** from High Forge universities, offering cash rewards
+- **David**: Bank vault issues - **clockwork guardians** malfunctioning, creating security vulnerabilities
 
-**Political Situation**:
-- **Helja** is collecting protection money and high taxes
-- These funds are being used as "religious donations" to appease the dragons
-- The dragons and Iron Claws are working together to maintain control
+**Economic Situation**:
+- **Helja** (Iron Claws leader) is collecting **protection money** and **high taxation** 
+- Funds are being donated to the **dragons** as appeasement to prevent them from eating the city's population
+- The dragons and Helja appear to be working in cooperation
 
-### The Conspiracy Theorist
+### Conspiracy Theories
 
-A raggedy man wearing a tin can helmet warns about a greater conspiracy:
-- Claims dragons, dancers, and even the secret resistance are all working together
-- Believes they're trying to "open the portal" and "bring back the old one"
-- Says it's all a "big welcome party" for some cosmic entity
-- Other campers dismiss him as crazy, but his warnings may be prophetic
+**Joaquin the Tin-Foil Hat Man**: A raggedy conspiracy theorist warns that:
+- **Dragons, Iron Claws, and the resistance** are all working together
+- They're collaborating to **open a portal** and **bring back "the old one"**
+- Scientists and soldiers are all part of a "big welcome party"
+- Everyone is being fooled and will be **brainwashed** unless they listen to his warnings
 
-## Meeting Lark: The Iron Claws Contact
+## Meeting Lark - The Inside Contact
 
-**Helisanna** makes contact with **Lark**, a scarred woman who reveals herself as a former **Iron Claws** member by showing her tattoo. Lark offers crucial assistance:
+**Helisanna** encounters **Lark**, a muscular woman with an **Iron Claws tattoo** who offers crucial assistance:
 
-### The Deal
-- **Lark** knows Iron Claws patrol patterns and tunnel systems
-- She can guide them safely into High Forge through the tunnels
-- In exchange, she wants help rescuing her brother **Tony's** family and their dog
-- She provides a sending stone for coordination
+### Lark's Background and Offer
 
-### Critical Intelligence
-- **Silas** has an extremely large bounty on his head from **Helja**
-- The Iron Claws attacked their concert previously (which Helisanna claims not to remember)
-- **Lark** strongly warns against using the "Taco Cat" name
-- She advises extreme caution, especially for anyone connected to **Silas**
+**Personal Information**:
+- Former **Iron Claws member** who has turned against the organization
+- Has inside knowledge of **tunnel patrol patterns** and Iron Claws operations
+- Seeking help to **rescue her brother Tony's family** (including a dog) from High Forge
 
-## Engineering Projects and Newcomer Integration
+**Intelligence Shared**:
+- **Taco Cat bounty**: **$50,000 dead or alive**
+- **Silas specifically** has an enormous price on his head from **Helja**
+- **Iron Claws** are actively searching for the party
+- Lark knows **safe tunnel routes** and can guide them into the city
 
-Back at camp, **Bru** and **Elspeth** work on integrating **Scarlett** into their projects while maintaining operational security:
+**Communication**: Provides the party with a **sending stone** for coordination when they're ready to infiltrate High Forge.
 
-### Project Collaboration
-- **Scarlett** is impressed by their rocket schematics quality
-- She experiences déjà vu moments, possibly from dimensional bleed-through
-- **Bru** continues his obsession with "Brown," his chunky alcoholic creation
-- **Scarlett** shows interest in smoothie-like efficiency of meals
+## Van Upgrades Attempt
 
-### Security Concerns
-The party can't reveal the source of their advanced schematics, maintaining compartmentalized information to protect their interdimensional contacts.
+**Elspeth** and **Silas** visit **Mr. X's** garage to acquire defensive upgrades for the Vroomfall before entering dangerous territory.
 
-## Return and Planning
+### Available Upgrades and Pricing
 
-**Helisanna** returns to update the party on her intelligence gathering:
+**Armor Options**:
+- **Basic armor plating**: **1,000 gold**
+- **Advanced crystal-based force fields**: **5,000 gold**
 
-### Mission Updates
-- Multiple job opportunities available in High Forge
-- Confirmed guide (Lark) willing to help infiltrate the city
-- **Silas** adopts the cover identity "Borat" for operational security
-- The party must be extremely careful about their wanted status
+**Offensive Capabilities**:
+- **Rocket launcher system**: **4,000 gold** (includes 10 rockets)
+- **Individual rockets**: **15 gold each** (can be manufactured by capable alchemists)
 
-### Tactical Considerations
-- Multiple factions want them dead: Iron Claws, Eldoran Knights, possibly dragons
-- They need to maintain low profiles and avoid advertising their presence
-- The refugee camp has grown significantly, possibly becoming a permanent settlement
+**Performance Enhancements**:
+- **Nitrous oxide system**: **7,000 gold** installed, **3,000-4,000 gold** for parts only
+- **NOS canisters**: **5 gold each**
 
-## Combat: The Bounty Hunter Ambush
+### Sponsorship Negotiation Failure
 
-The session concludes with a dangerous ambush as the party prepares to rest:
+**Silas** attempts to negotiate a sponsorship deal, emphasizing **Elspeth's** racing achievements:
+- **King of the Hill race winner**
+- **High Forge Grand Prix champion**
+- **Team Cooper** (legitimate racing) and **Team Taco Cat** (underground racing)
 
-### The Threat
-A heavily armored figure in black steel armor, accompanied by **the Jackals** mercenary group, surrounds their camp demanding the 50,000 gold bounty on "Taco Cat" - dead or alive.
+**Critical Error**: When **Silas** mentions the **Taco Cat** name, **Mr. X** immediately recognizes them as wanted criminals with a **$50,000 bounty** and refuses any business association. He becomes nervous and asks them to leave quickly to avoid bringing trouble to his shop.
 
-### The Battle
-**Initiative Order**: Helisanna (21), Elspeth (19), Silas (16), Bru (15)
+**Final Decision**: The party cannot afford the upgrades at current prices and decides to return later when they have more resources or when the bounty situation improves.
 
-**Round 1**:
-- **Helisanna** attempts **Suggestion** on the leader but he saves
-- **Elspeth** scouts enemy positions, identifying 4 total: the leader, two to the right, one to the left
-- She successfully shoots the closest enemy for 17 damage
-- **Silas** throws psychic daggers from concealment, hitting for 18 damage and tripping the target prone
+## The Bounty Hunter Ambush
 
-**Round 2-3**:
-- **Bru** uses his **Force Ballista** and **Firebolt** to eliminate enemies
-- The mercenaries attempt to shoot into the van but mostly miss
-- One heavily armored enemy on a mechanical horse attacks **Elspeth** with lance charges
+### Morning Attack
 
-**Critical Moments**:
-- **Elspeth** climbs on top of the van for better positioning but gets knocked unconscious by the leader's dual mace attacks
-- **Helisanna** uses **Eldritch Blast** with **Repelling Blast** to knock the leader off the van
-- **Silas** delivers emotional revenge attacks after seeing Elspeth's blood, killing the leader while declaring his loyalty to his friends
+As the party prepares for their long rest by the river, they're surrounded by the **Jackals** - a professional bounty hunter group seeking to collect the reward on their heads.
 
-### Victory and Consequences
-The party successfully eliminates all bounty hunters but one who flees. Key discoveries from searching the bodies:
-- These were **the Jackals**, a professional mercenary group
-- They had set explosive traps along the escape route
-- A second group was waiting at a cave halfway to High Forge
-- The party disarms the traps for 10 gold worth of explosive components
+**The Ultimatum**: *"Taco Cat, the bounty is $50,000 dead or alive. My associates and I would prefer alive. It's less messy, but we're not picky. Lay down your arms, you're surrounded. And the ground around you ain't as stable as you think it is."*
 
-## Character Development and Relationships
+### Combat: Fighting for Their Lives
 
-### Silas's Growing Bonds
-**Silas** demonstrates genuine care for his companions, particularly in his violent response to **Elspeth's** injury, showing his evolution from purely selfish motivations to protective loyalty.
+**Enemy Forces**:
+- **Heavy armored leader** with helmet and sword (the one making demands)
+- **Multiple positioned fighters** around the wood line and riverbank
+- **Mounted knight** on a mechanical horse with lance and mace
+- **Additional infantry** with crossbows and melee weapons
 
-### Helisanna's Operational Challenges
-**Helisanna's** tendency to be open about her identity creates security risks, requiring the party to coach her on maintaining operational cover when wanted by multiple factions.
+**Terrain Complications**: The bounty hunters had **pre-positioned explosive traps** around the van that would trigger when the party tried to leave.
+
+### Combat Highlights
+
+**Round 1 - Initial Assault**:
+- **Helisanna** attempts **Suggestion** on the leader but he makes his save
+- **Elspeth** spots multiple enemies through perception and engages with her magical gun, dealing **17 damage** to the closest threat
+- **Silas** uses stealth advantage to attack from the van, dealing **18 damage** and tripping an enemy prone with his **psychic daggers**
+
+**Round 2 - Escalating Violence**:
+- **Bru** deploys his **Eldritch Cannon** in **Force Ballista** mode and attempts **Firebolt** attacks
+- Enemy archers target the party through the van windows but miss their shots
+- A **mounted knight** on a mechanical horse attacks **Elspeth** with lance and mace, dealing significant damage
+
+**Round 3 - Desperate Defense**:
+- The **heavily armored leader** climbs onto the van roof and attacks **Elspeth** directly
+- **Multiple mace hits** with advantage knock **Elspeth unconscious** (death saves required)
+- **Helisanna** emerges from the van and uses **Eldritch Blast** with **Repelling Blast** to knock the leader off the van roof
+
+**Round 4 - Turning the Tide**:
+- **Silas** dramatically leaps from the van onto the fallen leader, dealing **27 damage** with his first attack enhanced by **bardic inspiration**
+- Using **Elspeth's blood** on his dagger, **Silas** delivers an emotional finishing blow: *"She may have been an idiot yesterday, but that's still my goddamn friend"*
+- **Bru** eliminates another enemy with his **Eldritch Cannon** and **Firebolt** combination
+
+**Final Round - Cleanup**:
+- **Helisanna** uses **Command** to force the last fleeing enemy to return
+- **Silas** eliminates the final bounty hunter with coordinated **psychic dagger** attacks
+- **Olivia** provides crucial healing to **Elspeth**, bringing her back to consciousness
+
+### Post-Combat Investigation
+
+**Evidence Discovered**:
+- The bounty hunters were **"The Jackals"** - a professional group specializing in high-value targets
+- **Planned coordination** with a second group positioned halfway to High Forge
+- **Pre-positioned explosive traps** around their campsite (successfully disarmed for **10 gold worth of scrap**)
+- **Official documentation** confirming the **$50,000 bounty** on Taco Cat
+
+**Intelligence Gathered**:
+- The **Iron Claws** are actively coordinating bounty hunter operations
+- **Multiple hunter groups** are working the area between the refugee camp and High Forge
+- The party's location and movement patterns are being tracked and predicted
+
+## Character Development and Consequences
+
+### Elspeth's Learning Experience
+
+**Elspeth** learns harsh lessons about operational security when dealing with wanted status:
+- **Never volunteer group affiliations** when conducting business
+- **Use cover identities** consistently when interacting with strangers
+- **Operational security** is crucial when multiple groups want you dead
+
+### Silas's Emotional Moment
+
+**Silas** demonstrates genuine care for his companions when he dramatically defends the unconscious **Elspeth**, showing character growth from purely self-interested to protective of his found family.
 
 ### Team Coordination
-The combat showcases excellent tactical coordination, with party members using their abilities synergistically and showing genuine concern for each other's welfare.
 
-## Ongoing Plot Threads
+The combat showcases the party's growing tactical sophistication:
+- **Coordinated positioning** between van interior and exterior
+- **Creative use of cover** and environmental advantages
+- **Effective healing rotations** to keep team members alive
+- **Successful focus-fire** tactics to eliminate priority targets
 
-1. **High Forge Infiltration**: The party has a guide and plan to enter through the tunnels
-2. **Bounty Pressure**: Multiple groups are actively hunting them for significant rewards
-3. **Dragon Politics**: The complex relationship between dragons, Iron Claws, and resistance forces
-4. **Advanced Projects**: Continued progress on rocket ship and pocket village construction
-5. **Scarlett's Integration**: Managing a potentially dangerous scientist while utilizing her expertise
-6. **Conspiracy Theories**: The warning about a greater cosmic threat may prove prophetic
+## Psychological Warfare and Message Sending
+
+After the battle, **Silas** proposes leaving the bounty hunters' bodies outside **Mr. X's** garage as retaliation for refusing to do business with them. The party compromises by loading the bodies in their van and dumping them at the shop with a clear message about what happens to those who cross them.
 
 ## Session Themes
 
-This episode effectively balances character development with plot advancement, showcasing the party's growing tactical sophistication while introducing new threats and allies. The bounty hunter attack demonstrates the real consequences of their wanted status, while the intelligence gathering reveals the complex political situation awaiting them in High Forge.
+This episode effectively explores the consequences of notoriety and the challenges of operating as wanted criminals. The session balances:
 
-**Helisanna's** challenge with operational security provides both comedy and tension, while **Silas's** emotional investment in protecting his friends shows significant character growth from his originally mercenary motivations.
+**Resource Management**: Continuing work on major projects while managing immediate needs
+**Social Challenges**: Navigating interactions when everyone wants to kill or capture you
+**Combat Tactics**: Fighting enemies who have prepared specifically to counter your group
+**Relationship Development**: Showing how shared danger strengthens party bonds
+
+## Ongoing Plot Threads
+
+1. **The $50,000 Bounty**: Multiple hunter groups actively pursuing the party
+2. **High Forge Infiltration**: Planning their return using **Lark's** inside knowledge
+3. **Dragon Cooperation**: Evidence that dragons and Iron Claws are working together
+4. **Portal Conspiracy**: **Joaquin's** warnings about a larger supernatural plot
+5. **Advanced Projects**: Continued progress on pocket village and rocket ship construction
+6. **Scarlett's Integration**: The dimensional specialist's role in future adventures
+
+## Session Conclusion
+
+The session ends with the party successfully defending themselves against professional bounty hunters but realizing the true extent of their notoriety. They now understand that their return to High Forge will require extreme caution, inside assistance, and careful planning to avoid the multiple groups seeking to collect the substantial reward on their heads.
+
+The encounter demonstrates that their reputation has spread far beyond local concerns - they're now dealing with organized criminal enterprises and professional hunters who view them as valuable prizes rather than heroes to be respected.
