@@ -28,7 +28,7 @@ The session begins with **Silas** conducting a downtime activity, selling the au
 ### Downtime Crafting Progress
 
 **Bru** and **Elspeth** continue work on their advanced projects:
-- **Pocket Village**: **Elspeth** successfully completes his intelligence check for invention, **Bru** succeeds on her arcana check for construction
+- **Pocket Village**: **Elspeth** successfully completes her intelligence check for invention, **Bru** succeeds on his arcana check for construction
 - **Rocket Schematics**: Significant progress made with the 1,400 gold worth of materials from the Joel headshot sale
 - **Helisanna** provides bardic inspiration to help with the crafting process
 
