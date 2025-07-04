@@ -9,7 +9,7 @@ podcastlink: "https://creators.spotify.com/pod/profile/topher-hooper/episodes/C4
 
 ## Session Overview
 
-The party returns to Milstrom to process Red's loss and discovers disturbing information about bounties on their heads, Helisanna's supernatural influence over her fans, and a dangerous underground racing event that could be their next challenge.
+The party conducts downtime activities in Milstrom, with Silas selling Joel headshots to fund their engineering projects. They encounter alternate timeline versions of Marcus and Scarlett, successfully recruiting the scientist to help with their pocket village while steering her away from dangerous time travel research. Helisanna gathers intelligence at the refugee camp, learning about High Forge's occupation and making contact with Lark, a former Iron Claws member who offers to guide them into the city.
 
 ## Opening: Downtime Activities and Joel's Headshots
 
@@ -28,7 +28,7 @@ The session begins with **Silas** conducting a downtime activity, selling the au
 ### Downtime Crafting Progress
 
 **Bru** and **Elspeth** continue work on their advanced projects:
-- **Pocket Village**: **Bru** successfully completes his intelligence check for invention, **Elspeth** succeeds on her arcana check for construction
+- **Pocket Village**: **Elspeth** successfully completes his intelligence check for invention, **Bru** succeeds on her arcana check for construction
 - **Rocket Schematics**: Significant progress made with the 1,400 gold worth of materials from the Joel headshot sale
 - **Helisanna** provides bardic inspiration to help with the crafting process
 
