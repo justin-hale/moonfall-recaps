@@ -1,6 +1,6 @@
 ---
 title: "25: Purple-Eyed Ravers and Racing Contracts"
-date: 2025-06-20
+date: 2025-06-27
 description: "The party holds a memorial for Red while uncovering Helisanna's supernatural influence and preparing for a dangerous mountain race."
 summary: "The party holds a memorial for Red while uncovering Helisanna's supernatural influence and preparing for a dangerous mountain race."
 featureimage: "C4E25.png"
