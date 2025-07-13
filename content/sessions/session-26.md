@@ -1,5 +1,3 @@
-Looking at this transcript, I can see this is Episode 26 from July 11th, 2025. Let me create a detailed summary of the events in this session.
-
 ---
 title: "26: Underground Connections"
 date: 2025-07-11

@@ -3,19 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://moonfallsessions.com/sessions/session-25/</loc>
-    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
+    <loc>http://moonfallsessions.com/sessions/session-26/</loc>
+    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://moonfallsessions.com/</loc>
-    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://moonfallsessions.com/sessions/</loc>
+    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://moonfallsessions.com/sessions/session-25/</loc>
     <lastmod>2025-06-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -365,11 +371,6 @@
   <url>
     <loc>http://moonfallsessions.com/npcs/political/</loc>
     <lastmod>2024-02-25T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://moonfallsessions.com/sessions/session-26/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
