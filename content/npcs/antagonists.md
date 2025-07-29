@@ -3,7 +3,7 @@ title: "Major Antagonists"
 date: "2024-10-05"
 description: "Primary villains and cosmic threats opposing the party throughout the campaign"
 summary: "Primary villains and cosmic threats opposing the party throughout the campaign"
-featureimage: "antagonists.png"
+featureimage: "antagonists.webp"
 ---
 
 The primary villains and cosmic threats that have shaped the party's journey, ranging from street-level criminals to cosmic entities bent on universal domination.

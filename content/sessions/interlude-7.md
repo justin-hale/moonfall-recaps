@@ -3,7 +3,7 @@ title: "Interlude VII: The Lotus Hotel Hangover"
 date: 2025-04-25
 description: "The party enjoys a wild night at a magical casino, only to wake up with no memory and a series of increasingly bizarre problems to solve."
 summary: "The party enjoys a wild night at a magical casino, only to wake up with no memory and a series of increasingly bizarre problems to solve."
-featureimage: "C4I7.png"
+featureimage: "C4I7.webp"
 podcastlink: "https://creators.spotify.com/pod/profile/topher-hooper/episodes/C4-interlude-April-25th--2025-DM-Ellis-e324okc"
 ---
 

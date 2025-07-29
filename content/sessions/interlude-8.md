@@ -3,7 +3,7 @@ title: "Interlude VIII: Cooking Combat Chaos"
 date: 2025-05-02
 description: "The party finds themselves transformed into food ingredients in a twisted cooking show competition hosted by Crowley."
 summary: "The party finds themselves transformed into food ingredients in a twisted cooking show competition hosted by Crowley."
-featureimage: "C4I8.png"
+featureimage: "C4I8.webp"
 podcastlink: "https://creators.spotify.com/pod/profile/topher-hooper/episodes/C4-interlude-May-2nd--2025-DM-Zack-e32b0sh"
 ---
 

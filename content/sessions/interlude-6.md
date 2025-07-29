@@ -3,7 +3,7 @@ title: "Interlude VI: The Final Ritual"
 date: 2025-04-18
 description: "The party completes their mission to help Toonlock by participating in a dangerous ritual while facing Crowley's final threats and earning powerful rewards."
 summary: "The party completes their mission to help Toonlock by participating in a dangerous ritual while facing Crowley's final threats and earning powerful rewards."
-featureimage: "C4I6.png"
+featureimage: "C4I6.webp"
 podcastlink: "https://creators.spotify.com/pod/profile/topher-hooper/episodes/C4-interlude-April-18th--2025-DM-Taylor-e320mo8"
 ---
 

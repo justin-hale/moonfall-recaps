@@ -3,7 +3,7 @@ title: "Felonias 'Bru' Bru"
 date: "2024-08-05"
 description: "Chaotic goblin artificer with a love of explosives, fire, and mysterious beverages"
 summary: "Chaotic goblin artificer with a love of explosives, fire, and mysterious beverages"
-featureimage: "bru.png"
+featureimage: "bru.webp"
 ---
 
 ## Character Overview

@@ -3,7 +3,7 @@ title: "Helisanna Doomfall"
 date: "2024-08-05"
 description: "Human bard/warlock and metal music frontwoman with supernatural influence over her audience"
 summary: "Human bard/warlock and metal music frontwoman with supernatural influence over her audience"
-featureimage: "helisanna.png"
+featureimage: "helisanna.webp"
 ---
 
 ## Character Overview

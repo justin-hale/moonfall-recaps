@@ -3,7 +3,7 @@ title: "Important Allies"
 date: "2024-02-28"
 description: "Trusted companions and powerful allies who assist the party throughout their adventures"
 summary: "Trusted companions and powerful allies who assist the party throughout their adventures"
-featureimage: "allies.png"
+featureimage: "allies.webp"
 ---
 
 Trusted companions, powerful entities, and reliable friends who have provided crucial assistance to the party throughout their adventures.

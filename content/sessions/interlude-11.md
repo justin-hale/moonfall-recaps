@@ -3,7 +3,7 @@ title: "Interlude XI: The Wrecked World of the Quizzites"
 date: 2025-05-30
 description: "The party visits a shattered world as a cautionary tale about the dangers of uncontrolled magical experimentation and time travel."
 summary: "The party visits a shattered world as a cautionary tale about the dangers of uncontrolled magical experimentation and time travel."
-featureimage: "C4I11.png"
+featureimage: "C4I11.webp"
 podcastlink: "https://creators.spotify.com/pod/profile/topher-hooper/episodes/C4-interlude-May-30th--2025-DM-Topher-e33kk86"
 ---
 

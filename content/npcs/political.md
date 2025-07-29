@@ -3,7 +3,7 @@ title: "Religious and Political Figures"
 date: "2024-02-25"
 description: "Spiritual leaders, politicians, and authority figures shaping the campaign's moral and political landscape"
 summary: "Spiritual leaders, politicians, and authority figures shaping the campaign's moral and political landscape"
-featureimage: "religion.png"
+featureimage: "religion.webp"
 ---
 
 The spiritual leaders, politicians, and authority figures whose decisions and beliefs shape the moral and political landscape of the campaign world.

@@ -3,7 +3,7 @@ title: "Elspeth Cooper"
 date: "2024-08-05"
 description: "Dwarf Artificer and former professional racer seeking justice for her disqualification"
 summary: "Dwarf Artificer and former professional racer seeking justice for her disqualification"
-featureimage: "elspeth.png"
+featureimage: "elspeth.webp"
 ---
 
 ## Character Overview

@@ -3,7 +3,7 @@ title: "22: The Red's Last Flight"
 date: 2025-06-06
 description: "The party faces an Eldoran Knight while Red makes the ultimate sacrifice to power his clan's escape vessel."
 summary: "The party faces an Eldoran Knight while Red makes the ultimate sacrifice to power his clan's escape vessel."
-featureimage: "C4E22.png"
+featureimage: "C4E22.webp"
 podcastlink: "https://creators.spotify.com/pod/profile/topher-hooper/episodes/C4E22-June-6th-e34d032"
 ---
 

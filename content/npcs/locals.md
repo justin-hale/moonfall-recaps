@@ -3,7 +3,7 @@ title: "Villagers and Locals"
 date: "2024-08-16"
 description: "Community leaders, craftspeople, and local residents who provide services and local knowledge"
 summary: "Community leaders, craftspeople, and local residents who provide services and local knowledge"
-featureimage: "locals.png"
+featureimage: "locals.webp"
 ---
 
 The community leaders, craftspeople, guards, and residents who form the backbone of various settlements and provide essential services, local knowledge, and cultural context.

@@ -3,7 +3,7 @@ title: "24: Voices from High Forge"
 date: 2025-06-20
 description: "The party receives a mysterious radio transmission and uncovers dangerous truths about the dragon orb while preparing for their return to High Forge."
 summary: "The party receives a mysterious radio transmission and uncovers dangerous truths about the dragon orb while preparing for their return to High Forge."
-featureimage: "C4E24.png"
+featureimage: "C4E24.webp"
 podcastlink: "https://creators.spotify.com/pod/profile/topher-hooper/episodes/C4E24-June-20th-e34it9n"
 ---
 

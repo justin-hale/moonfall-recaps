@@ -3,7 +3,7 @@ title: "Racist Community"
 date: "2024-08-09"
 description: "Professional racers, mechanics, and underground circuit participants in the dangerous world of competitive racing"
 summary: "Professional racers, mechanics, and underground circuit participants in the dangerous world of competitive racing"
-featureimage: "racers.png"
+featureimage: "racers.webp"
 ---
 
 The professional racers, mechanics, organizers, and underground circuit participants who make up the dangerous and competitive world of vehicle racing.

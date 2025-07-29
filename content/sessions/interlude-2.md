@@ -3,7 +3,7 @@ title: "Interlude II: Murder at the Manor"
 date: 2025-03-07
 description: "The party attends a birthday party that turns from game to deadly reality when a shapeshifting night hag is revealed as the true killer."
 summary: "The party attends a birthday party that turns from game to deadly reality when a shapeshifting night hag is revealed as the true killer."
-featureimage: "C4I2.png"
+featureimage: "C4I2.webp"
 podcastlink: "https://creators.spotify.com/pod/profile/topher-hooper/episodes/C4-Interlude-March-7th-e2vsn80"
 ---
 ## Clarifying Note

@@ -3,7 +3,7 @@ title: "Magical and Otherworldly"
 date: "2024-06-30"
 description: "Supernatural beings, magical entities, and otherworldly creatures with cosmic significance"
 summary: "Supernatural beings, magical entities, and otherworldly creatures with cosmic significance"
-featureimage: "magical.png"
+featureimage: "magical.webp"
 ---
 
 Supernatural beings, magical entities, and otherworldly creatures whose existence transcends normal reality and whose actions have cosmic significance or provide crucial magical services.

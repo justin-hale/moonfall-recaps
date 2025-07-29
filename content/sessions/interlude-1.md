@@ -3,7 +3,7 @@ title: "Interlude I: The Convent of Bloody Orchids"
 date: 2025-02-28
 description: "The party infiltrates a vampire convent to retrieve a priest's stole, battling undead nuns and terrifying angel statues."
 summary: "The party infiltrates a vampire convent to retrieve a priest's stole, battling undead nuns and terrifying angel statues."
-featureimage: "C4I1.png"
+featureimage: "C4I1.webp"
 podcastlink: "https://creators.spotify.com/pod/profile/topher-hooper/episodes/C4-Interlude-February-28th-e2vslhs"
 ---
 

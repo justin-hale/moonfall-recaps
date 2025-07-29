@@ -3,7 +3,7 @@ title: "Lieutenant Jasper Gaines"
 date: "2024-12-21"
 description: "Former Eldoran soldier turned deserter who chose loyalty to friends over empire"
 summary: "Former Eldoran soldier turned deserter who chose loyalty to friends over empire"
-featureimage: "jasper.png"
+featureimage: "jasper.webp"
 ---
 
 ## Character Overview

@@ -3,7 +3,7 @@ title: "Retired Detective Olivia Cooper"
 date: "2024-08-05"
 description: "Elderly dwarf paladin and former police detective with unmatched investigative skills"
 summary: "Elderly dwarf paladin and former police detective with unmatched investigative skills"
-featureimage: "olivia.png"
+featureimage: "olivia.webp"
 ---
 
 ## Character Overview

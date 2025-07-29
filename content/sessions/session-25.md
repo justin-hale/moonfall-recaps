@@ -3,7 +3,7 @@ title: "25: Wanted Dead or Alive"
 date: 2025-06-27
 description: "The party faces bounty hunters while preparing their return to High Forge, and discovers the true extent of their notoriety."
 summary: "The party faces bounty hunters while preparing their return to High Forge, and discovers the true extent of their notoriety."
-featureimage: "C4E25.png"
+featureimage: "C4E25.webp"
 podcastlink: "https://creators.spotify.com/pod/profile/topher-hooper/episodes/C4E25-June-27th-e351oja"
 ---
 

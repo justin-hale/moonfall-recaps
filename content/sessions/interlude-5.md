@@ -3,7 +3,7 @@ title: "Interlude V: The Wichita Sisters' Guardian"
 date: 2025-04-04
 description: "The party navigates treacherous fog and spider-infested cliffs to reach the Wichita Sisters' cave, only to face a massive guardian at the entrance."
 summary: "The party navigates treacherous fog and spider-infested cliffs to reach the Wichita Sisters' cave, only to face a massive guardian at the entrance."
-featureimage: "C4I5.png"
+featureimage: "C4I5.webp"
 podcastlink: "https://creators.spotify.com/pod/profile/topher-hooper/episodes/C4-interlude-April-4th--2025-DM-Taylor-e315l80"
 ---
 

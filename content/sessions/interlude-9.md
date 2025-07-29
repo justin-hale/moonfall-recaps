@@ -3,7 +3,7 @@ title: "Interlude IX: Recipe for Disaster"
 date: 2025-05-09
 description: "The party concludes their twisted cooking show dream with a dessert castle infiltration that quickly spirals into magical chaos and destruction."
 summary: "The party concludes their twisted cooking show dream with a dessert castle infiltration that quickly spirals into magical chaos and destruction."
-featureimage: "C4I9.png"
+featureimage: "C4I9.webp"
 podcastlink: "https://creators.spotify.com/pod/profile/topher-hooper/episodes/C4-interlude-May-9th--2025-DM-Zack-e32pvpk"
 ---
 

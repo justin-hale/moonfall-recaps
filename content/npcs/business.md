@@ -3,7 +3,7 @@ title: "Business and Entertainment"
 date: "2024-08-05"
 description: "Merchants, talent agents, and entertainment industry figures driving the economic landscape"
 summary: "Merchants, talent agents, and entertainment industry figures driving the economic landscape"
-featureimage: "business.png"
+featureimage: "business.webp"
 ---
 The merchants, talent agents, race organizers, and other business figures who control the economic and entertainment landscape of the campaign world.
 

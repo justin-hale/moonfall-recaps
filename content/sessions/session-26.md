@@ -3,7 +3,7 @@ title: "26: Underground Connections"
 date: 2025-07-11
 description: "The party infiltrates High Forge through underground tunnels, rescues Lark's family, and discovers the resistance headquarters amid a massive underground rave."
 summary: "The party infiltrates High Forge through underground tunnels, rescues Lark's family, and discovers the resistance headquarters amid a massive underground rave."
-featureimage: "C4E26.png"
+featureimage: "C4E26.webp"
 podcastlink: "https://creators.spotify.com/pod/profile/topher-hooper/episodes/C4E26-July-11th-e35f9op"
 ---
 

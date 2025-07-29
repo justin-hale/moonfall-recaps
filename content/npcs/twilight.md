@@ -3,7 +3,7 @@ title: "Twilight Company Members"
 date: "2024-08-16"
 description: "Elite military unit members known for handling unconventional threats and resistance operations"
 summary: "Elite military unit members known for handling unconventional threats and resistance operations"
-featureimage: "twilight.png"
+featureimage: "twilight.webp"
 ---
 
 An elite military unit that operates as both mercenary organization and resistance network, specializing in unconventional threats and morally-guided contract selection.

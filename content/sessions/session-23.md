@@ -3,7 +3,7 @@ title: "23: Purple-Eyed Ravers and Racing Contracts"
 date: 2025-06-13
 description: "The party holds a memorial for Red while uncovering Helisanna's supernatural influence and preparing for a dangerous mountain race."
 summary: "The party holds a memorial for Red while uncovering Helisanna's supernatural influence and preparing for a dangerous mountain race."
-featureimage: "C4E23.png"
+featureimage: "C4E23.webp"
 podcastlink: "https://creators.spotify.com/pod/profile/topher-hooper/episodes/C4E23-June-13th-e34d08c"
 ---
 

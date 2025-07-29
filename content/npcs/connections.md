@@ -3,7 +3,7 @@ title: "Family and Personal Connections"
 date: "2024-08-09"
 description: "Family members, loved ones, and personal relationships that drive character motivations"
 summary: "Family members, loved ones, and personal relationships that drive character motivations"
-featureimage: "family.png"
+featureimage: "family.webp"
 ---
 
 The beloved family members, romantic interests, and personal relationships that provide emotional stakes and drive character development throughout the campaign.
