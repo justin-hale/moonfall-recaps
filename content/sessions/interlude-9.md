@@ -21,19 +21,19 @@ The party finds themselves outside an elaborate **gingerbread castle** with seve
 - A **molasses moat** that would trap anyone who falls in
 - Guard towers with **red velvet cake guards** patrolling
 
-**Jasper's Impulsive Assault**: True to his barbarian nature, **Jasper** immediately attempts to bite through the castle wall. His attack on the jawbreaker exterior results in catastrophic failure - he takes 10 damage and loses the ability to speak for 30 minutes due to his broken jaw.
+**[Jasper](/player-characters/Jasper)'s Impulsive Assault**: True to his barbarian nature, **[Jasper](/player-characters/Jasper)** immediately attempts to bite through the castle wall. His attack on the jawbreaker exterior results in catastrophic failure - he takes 10 damage and loses the ability to speak for 30 minutes due to his broken jaw.
 
 ### Creative Infiltration
 
 With the direct approach proving disastrous, the party opts for stealth:
 
-**Silas's Reconnaissance**: Rolling an exceptional perception check (26), **Silas** spots accessible windows about 30 feet up that could provide alternative entry.
+**[Silas](/player-characters/Silas)'s Reconnaissance**: Rolling an exceptional perception check (26), **[Silas](/player-characters/Silas)** spots accessible windows about 30 feet up that could provide alternative entry.
 
-**Helisanna's Ascent**: **Helisanna** uses **Misty Step** to reach the upper level, discovering an archer's walkway that circles the castle's exterior. She successfully retrieves rope from a storage closet despite approaching guards.
+**[Helisanna](/player-characters/Helisanna)'s Ascent**: **[Helisanna](/player-characters/Helisanna)** uses **Misty Step** to reach the upper level, discovering an archer's walkway that circles the castle's exterior. She successfully retrieves rope from a storage closet despite approaching guards.
 
-**Master of Disguise**: **Helisanna** uses **Minor Illusion** twice to create convincing crates, hiding from guards with stealth rolls of 22 and 24. Her illusions are so perfect that guards actually stop to admire the "craftsmanship" of her fake crates.
+**Master of Disguise**: **[Helisanna](/player-characters/Helisanna)** uses **Minor Illusion** twice to create convincing crates, hiding from guards with stealth rolls of 22 and 24. Her illusions are so perfect that guards actually stop to admire the "craftsmanship" of her fake crates.
 
-**Group Ascent**: The party successfully climbs the rope to join **Helisanna**, with **Jasper** making an impressive athletics roll (22) despite his injured jaw.
+**Group Ascent**: The party successfully climbs the rope to join **[Helisanna](/player-characters/Helisanna)**, with **[Jasper](/player-characters/Jasper)** making an impressive athletics roll (22) despite his injured jaw.
 
 ## Meeting the Devil's Food Duke
 
@@ -42,25 +42,25 @@ With the direct approach proving disastrous, the party opts for stealth:
 The **Devil's Food Duke** appears as multiple illusions and assigns each party member a specific task designed to either play to their strengths or exploit their weaknesses:
 
 **Individual Assignments**:
-- **Bru**: Return books to their proper places in the wizard's library using the "Chewy Decimal System"
-- **Helisanna**: Perform waltz music (three-quarter time) in the ballroom for dancing guests
-- **Silas**: Steal a single mint leaf from the center of the royal gardens undetected
-- **Jasper**: Move jawbreakers down a hallway while maintaining his patience despite crowds
+- **[Bru](/player-characters/Bru)**: Return books to their proper places in the wizard's library using the "Chewy Decimal System"
+- **[Helisanna](/player-characters/Helisanna)**: Perform waltz music (three-quarter time) in the ballroom for dancing guests
+- **[Silas](/player-characters/Silas)**: Steal a single mint leaf from the center of the royal gardens undetected
+- **[Jasper](/player-characters/Jasper)**: Move jawbreakers down a hallway while maintaining his patience despite crowds
 
-The Duke claims to have foreseen all their actions, even producing a sketch of **Jasper** giving him the finger before Jasper actually does it.
+The Duke claims to have foreseen all their actions, even producing a sketch of **[Jasper](/player-characters/Jasper)** giving him the finger before [Jasper](/player-characters/Jasper) actually does it.
 
 ## Task Executions and Chaos
 
 ### Silas's Stealth Mission
 
-**Silas** demonstrates his mastery of stealth and infiltration:
+**[Silas](/player-characters/Silas)** demonstrates his mastery of stealth and infiltration:
 - **Perfect Reconnaissance**: Rolling a natural 20 perception (26 total), he spots all guard movements
 - **Flawless Execution**: Multiple stealth rolls of 21+ allow him to navigate the gardens undetected
 - **Quick Completion**: He successfully retrieves the mint leaf and heads to investigate the growing magical disturbance
 
 ### Helisanna's Musical Mastery
 
-**Helisanna's** ballroom performance becomes a triumph of creative adaptation:
+**[Helisanna](/player-characters/Helisanna)'s** ballroom performance becomes a triumph of creative adaptation:
 
 **Instrumental Challenges**: The ballroom contains no guitar, forcing her to adapt to unfamiliar instruments including a horn, kick drum, and cymbal.
 
@@ -69,13 +69,13 @@ The Duke claims to have foreseen all their actions, even producing a sketch of *
 - **Magical Enhancement**: Enchanted dancers bring her a **candy guitar** that projects sound without amplification
 - **Performance roll of 28**: Her final metal performance with full band setup entrances the entire audience
 
-**Unexpected Power**: **Helisanna's** performance proves so magically potent that the dancers' eyes glow purple, and she gains control over them, overriding even the **Duke's** magical influence.
+**Unexpected Power**: **[Helisanna](/player-characters/Helisanna)'s** performance proves so magically potent that the dancers' eyes glow purple, and she gains control over them, overriding even the **Duke's** magical influence.
 
 ### The Library Catastrophe
 
-**Bru** and **Jasper** turn a simple book-sorting task into magical disaster:
+**[Bru](/player-characters/Bru)** and **[Jasper](/player-characters/Jasper)** turn a simple book-sorting task into magical disaster:
 
-**The "Respining" Incident**: Instead of properly organizing books by the **Chewy Decimal System**, **Bru** has **Jasper** cut the spines off books with his greatsword, then surgically reattaches them to wrong books using glue.
+**The "Respining" Incident**: Instead of properly organizing books by the **Chewy Decimal System**, **[Bru](/player-characters/Bru)** has **[Jasper](/player-characters/Jasper)** cut the spines off books with his greatsword, then surgically reattaches them to wrong books using glue.
 
 **Magical Backlash**: The library's organization system, maintained by arcane magic, reacts violently to the improper modifications:
 - Books begin falling from shelves and swirling through the air
@@ -83,27 +83,27 @@ The Duke claims to have foreseen all their actions, even producing a sketch of *
 - The building itself starts shaking and cracking
 - A **mana storm** develops, creating chaos throughout the structure
 
-**Unintended Success**: While completely ignoring their assigned task, **Bru** and **Jasper** accidentally achieve their actual goal of destroying the castle.
+**Unintended Success**: While completely ignoring their assigned task, **[Bru](/player-characters/Bru)** and **[Jasper](/player-characters/Jasper)** accidentally achieve their actual goal of destroying the castle.
 
 ## The Final Confrontation
 
 ### Convergence of Chaos
 
 As the library destruction spreads throughout the castle, the party reconvenes:
-- **Silas** arrives to find his companions casually walking away from magical destruction
+- **[Silas](/player-characters/Silas)** arrives to find his companions casually walking away from magical destruction
 - **Book sampling**: They discover the flying books are actually various cake flavors (Black Forest, tiramisu)
-- **Helisanna's** concert continues with her now commanding 18 entranced dancers plus stage musicians
+- **[Helisanna](/player-characters/Helisanna)'s** concert continues with her now commanding 18 entranced dancers plus stage musicians
 
 ### Loss of Control
 
 The **Devil's Food Duke** arrives to find his carefully planned scenario completely derailed:
-- **Helisanna's** magical influence has corrupted even the **judges** (**The Blob** and **Miss Universe**)
+- **[Helisanna](/player-characters/Helisanna)'s** magical influence has corrupted even the **judges** (**The Blob** and **Miss Universe**)
 - His illusion powers prove ineffective against her musical enchantment
 - **Crowley** begins to realize he's losing control of the entire dream scenario
 
 ### Silas's Fire Solution
 
-**Silas** ends the confrontation decisively by using his **fire breath** ability (from being an Ashen Hell Pepper) to dispel all the **Duke's** illusions at once, revealing the real Duke standing alone and slightly singed.
+**[Silas](/player-characters/Silas)** ends the confrontation decisively by using his **fire breath** ability (from being an Ashen Hell Pepper) to dispel all the **Duke's** illusions at once, revealing the real Duke standing alone and slightly singed.
 
 **The Duke's Surrender**: Recognizing defeat, the **Duke** admits "I really don't want to do this" and surrenders rather than fight a battle he cannot win.
 
@@ -113,15 +113,15 @@ The **Devil's Food Duke** arrives to find his carefully planned scenario complet
 
 ### Waking Up
 
-The party successfully completes the dream sequence and awakens feeling refreshed and accomplished. In contrast, the party members who weren't part of this dream (**Red**, **Elspeth**, **Olivia**, and **Kevin**) wake up sick with food-related nightmares.
+The party successfully completes the dream sequence and awakens feeling refreshed and accomplished. In contrast, the party members who weren't part of this dream (**[Red](/player-characters/Red)**, **[Elspeth](/player-characters/Elspeth)**, **[Olivia](/player-characters/Olivia)**, and **Kevin**) wake up sick with food-related nightmares.
 
 ### Dream Rewards
 
 **Zack** awards the successful participants a **magical picnic basket** containing special food items that provide beneficial effects:
-- **Cheese** (from Helisanna's transformation)
-- **Jerky** (from Jasper's transformation)  
-- **Garlic** (from Bru's transformation)
-- **Chili** (from Silas's transformation)
+- **Cheese** (from [Helisanna](/player-characters/Helisanna)'s transformation)
+- **Jerky** (from [Jasper](/player-characters/Jasper)'s transformation)  
+- **Garlic** (from [Bru](/player-characters/Bru)'s transformation)
+- **Chili** (from [Silas](/player-characters/Silas)'s transformation)
 
 Each item provides magical benefits for 24 hours when consumed.
 
@@ -129,20 +129,20 @@ Each item provides magical benefits for 24 hours when consumed.
 
 ### Subverting Expectations
 
-This session showcases how the party's chaotic tendencies can turn even carefully planned scenarios into unpredictable adventures. **Bru** and **Jasper's** complete disregard for instructions creates more interesting results than following the prescribed challenges.
+This session showcases how the party's chaotic tendencies can turn even carefully planned scenarios into unpredictable adventures. **[Bru](/player-characters/Bru)** and **[Jasper](/player-characters/Jasper)'s** complete disregard for instructions creates more interesting results than following the prescribed challenges.
 
 ### Individual Strengths
 
-**Helisanna** demonstrates her true power as both musician and magical performer, showing that her abilities extend far beyond simple entertainment into genuine enchantment and crowd control.
+**[Helisanna](/player-characters/Helisanna)** demonstrates her true power as both musician and magical performer, showing that her abilities extend far beyond simple entertainment into genuine enchantment and crowd control.
 
-**Silas** proves his competence at stealth and problem-solving, easily completing his assigned task while remaining adaptable to changing circumstances.
+**[Silas](/player-characters/Silas)** proves his competence at stealth and problem-solving, easily completing his assigned task while remaining adaptable to changing circumstances.
 
 ### Creative Problem-Solving
 
 The session rewards creative thinking and character consistency over conventional approaches:
-- **Helisanna's** illusion crates becoming legendary in their perfection
-- **Bru's** "respining" technique causing magical chaos
-- **Silas's** straightforward competence cutting through complexity
+- **[Helisanna](/player-characters/Helisanna)'s** illusion crates becoming legendary in their perfection
+- **[Bru](/player-characters/Bru)'s** "respining" technique causing magical chaos
+- **[Silas](/player-characters/Silas)'s** straightforward competence cutting through complexity
 
 ### Dream Logic and Meta-Commentary
 
@@ -157,22 +157,22 @@ This dream sequence demonstrates **Crowley's** continued psychological warfare a
 ### Party Dynamics
 
 The session reinforces each character's core traits:
-- **Jasper's** impulsiveness and love of combat (and eating)
-- **Bru's** chaotic creativity and problem-solving through destruction
-- **Silas's** competence and pragmatism
-- **Helisanna's** growing magical power and performance abilities
+- **[Jasper](/player-characters/Jasper)'s** impulsiveness and love of combat (and eating)
+- **[Bru](/player-characters/Bru)'s** chaotic creativity and problem-solving through destruction
+- **[Silas](/player-characters/Silas)'s** competence and pragmatism
+- **[Helisanna](/player-characters/Helisanna)'s** growing magical power and performance abilities
 
 ### Future Implications
 
-**Helisanna's** display of crowd control magic and the party's ability to completely derail supernatural scenarios suggests they're becoming more formidable opponents for cosmic-level threats like **Crowley**.
+**[Helisanna](/player-characters/Helisanna)'s** display of crowd control magic and the party's ability to completely derail supernatural scenarios suggests they're becoming more formidable opponents for cosmic-level threats like **Crowley**.
 
 ## Notable Quotes and Moments
 
 **The Duke's Prophecy Failure**: Despite claiming to foresee everything, the **Duke** admits that once the party arrived, "none of it can be planned."
 
-**Bru's Innovation**: The invention of "respining" books as a method of magical sabotage.
+**[Bru](/player-characters/Bru)'s Innovation**: The invention of "respining" books as a method of magical sabotage.
 
-**Helisanna's Confidence**: Her casual acceptance of stage musicians and magical instruments as "just another night for Helisanna."
+**[Helisanna](/player-characters/Helisanna)'s Confidence**: Her casual acceptance of stage musicians and magical instruments as "just another night for [Helisanna](/player-characters/Helisanna)."
 
 **The Chewy Decimal System**: **Zack's** missed opportunity to call it the "Chewy Decimal System" instead of "Desi-Duimal System," leading to player commentary about perfect pun timing.
 

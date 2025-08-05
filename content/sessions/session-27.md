@@ -25,9 +25,9 @@ To establish trust, Victor ritually casts **Zone of Truth** using chalk circles,
 
 **Key Questions and Answers**:
 - Party members confirm they are not Iron Claws members
-- **Silas** admits he enjoys explosions and likes gold as his favorite element
-- **Olivia** reveals concern about the mysterious dragon orb they carry
-- **Ohma** introduces himself as a new party member, explaining his turtle nature
+- **[Silas](/player-characters/Silas)** admits he enjoys explosions and likes gold as his favorite element
+- **[Olivia](/player-characters/Olivia)** reveals concern about the mysterious dragon orb they carry
+- **[Ohma](/player-characters/Ohma)** introduces himself as a new party member, explaining his turtle nature
 
 **Victor's Forgetfulness**: Victor reveals he had completely forgotten about their radio conversation regarding sulfur, demonstrating his scattered mental state due to constant experimentation stress.
 
@@ -59,7 +59,7 @@ His plan involves explosive destruction of all facilities to eliminate V product
 
 ### The Ravers Connection
 
-**Sia** represents a third faction - the underground ravers affected by **Helisanna's** supernatural musical influence. Her plan involves throwing parties in the Under Lake, though this seems more recreational than strategic.
+**Sia** represents a third faction - the underground ravers affected by **[Helisanna](/player-characters/Helisanna)'s** supernatural musical influence. Her plan involves throwing parties in the Under Lake, though this seems more recreational than strategic.
 
 **The Ravers' Situation**:
 - Thousands of teenagers with purple eyes gather for massive underground parties
@@ -72,18 +72,18 @@ His plan involves explosive destruction of all facilities to eliminate V product
 ### Victor's Dangerous Timing System
 
 Victor provides three bombs with different countdown timers:
-- **40-minute timer** (taken by Bru)
-- **50-minute timer** (taken by Elspeth) 
-- **60-minute timer** (taken by Olivia)
+- **40-minute timer** (taken by [Bru](/player-characters/Bru))
+- **50-minute timer** (taken by [Elspeth](/player-characters/Elspeth)) 
+- **60-minute timer** (taken by [Olivia](/player-characters/Olivia))
 
 **Critical Error**: Victor activates all timers simultaneously upon releasing the bombs, creating an inflexible schedule requiring sequential facility attacks within strict time constraints.
 
-**Party Criticism**: The team immediately recognizes this as poor planning, with **Bru** being acknowledged as superior at bomb construction and timing mechanisms.
+**Party Criticism**: The team immediately recognizes this as poor planning, with **[Bru](/player-characters/Bru)** being acknowledged as superior at bomb construction and timing mechanisms.
 
 ### Strategic Route Planning
 
-**Ohma's** exceptional survival check (23) reveals Victor has carefully calculated timing to allow sequential facility attacks, but the party must hurry. The route requires:
-- **10 minutes** to reach the first facility (reduced to 7 with Ohma's assistance)
+**[Ohma](/player-characters/Ohma)'s** exceptional survival check (23) reveals Victor has carefully calculated timing to allow sequential facility attacks, but the party must hurry. The route requires:
+- **10 minutes** to reach the first facility (reduced to 7 with [Ohma](/player-characters/Ohma)'s assistance)
 - **Sequential timing** to hit all three targets within the countdown windows
 - **Split-second coordination** to avoid being caught in explosive radius
 
@@ -91,25 +91,25 @@ Victor provides three bombs with different countdown timers:
 
 ### The Throwing Sequence
 
-**Coordinated Athletics**: **Olivia** and **Ohma** work together to launch **Silas** onto the 40-foot building roof using their combined superhuman strength.
+**Coordinated Athletics**: **[Olivia](/player-characters/Olivia)** and **[Ohma](/player-characters/Ohma)** work together to launch **[Silas](/player-characters/Silas)** onto the 40-foot building roof using their combined superhuman strength.
 
 **Success Rolls**:
-- **Olivia**: Athletics check of 24 (with Flash of Genius boost)
-- **Ohma**: Athletics check of 23 (with bardic inspiration)
-- **Silas**: Acrobatics check of 30 (natural 20) and Stealth check of 28
+- **[Olivia](/player-characters/Olivia)**: Athletics check of 24 (with Flash of Genius boost)
+- **[Ohma](/player-characters/Ohma)**: Athletics check of 23 (with bardic inspiration)
+- **[Silas](/player-characters/Silas)**: Acrobatics check of 30 (natural 20) and Stealth check of 28
 
-The spectacular throw results in Silas executing a perfect landing while protecting the bomb, rolling silently across the roof to avoid detection.
+The spectacular throw results in [Silas](/player-characters/Silas) executing a perfect landing while protecting the bomb, rolling silently across the roof to avoid detection.
 
 ### Breaking and Entering
 
-**Silas** demonstrates his expertise by:
+**[Silas](/player-characters/Silas)** demonstrates his expertise by:
 - Picking the maintenance hatch lock with Sleight of Hand (28 total)
 - Keeping the high-quality lock as a trophy
 - Successfully infiltrating the facility using rope and stealth techniques
 
 ### Human Experimentation Discovery
 
-**The Horror Revealed**: Inside the facility, Silas discovers twelve glass chambers containing people in various states of V-induced experimentation:
+**The Horror Revealed**: Inside the facility, [Silas](/player-characters/Silas) discovers twelve glass chambers containing people in various states of V-induced experimentation:
 
 **Test Subject Conditions**:
 - **Subject 7**: "More agreeable" according to notes
@@ -117,29 +117,29 @@ The spectacular throw results in Silas executing a perfect landing while protect
 - **Subject 13**: "Dead, removed later"
 - **Subject 3**: Unconscious and slumped in their chamber
 
-**The Lucid Victim**: A young human woman (approximately 20 years old) with purple veins and lips presses against her glass chamber, begging for release. **Silas's** exceptional insight check (natural 20, 28 total) reveals she has fought through the V-induced haze enough to maintain coherent thought and genuine desperation.
+**The Lucid Victim**: A young human woman (approximately 20 years old) with purple veins and lips presses against her glass chamber, begging for release. **[Silas](/player-characters/Silas)'s** exceptional insight check (natural 20, 28 total) reveals she has fought through the V-induced haze enough to maintain coherent thought and genuine desperation.
 
 ### Moral Decision Under Pressure
 
-With less than three minutes remaining on the bomb timer, **Silas** faces a critical choice:
+With less than three minutes remaining on the bomb timer, **[Silas](/player-characters/Silas)** faces a critical choice:
 
 **The Rescue**: He releases the lucid woman, who immediately escapes with superhuman speed enhanced by V withdrawal effects.
 
-**Mass Liberation**: Despite recognizing the other subjects appear more volatile and unpredictable, Silas chooses to open all chambers, giving everyone a chance to escape before the explosion.
+**Mass Liberation**: Despite recognizing the other subjects appear more volatile and unpredictable, [Silas](/player-characters/Silas) chooses to open all chambers, giving everyone a chance to escape before the explosion.
 
-**Philosophical Justification**: He asks himself "What would Olivia do?" and chooses to prioritize saving lives over personal safety.
+**Philosophical Justification**: He asks himself "What would [Olivia](/player-characters/Olivia) do?" and chooses to prioritize saving lives over personal safety.
 
 ## The Explosive Escape
 
 ### Dramatic Window Exit
 
-**Silas** jumps through a third-story window shouting "Catch me!" while six naked, purple-veined former test subjects follow behind him. The scene creates chaos as the rescued subjects immediately attack Iron Claws guards with their bare hands.
+**[Silas](/player-characters/Silas)** jumps through a third-story window shouting "Catch me!" while six naked, purple-veined former test subjects follow behind him. The scene creates chaos as the rescued subjects immediately attack Iron Claws guards with their bare hands.
 
 ### Coordinated Rescue
 
-**Ohma** demonstrates his monk abilities by:
+**[Ohma](/player-characters/Ohma)** demonstrates his monk abilities by:
 - Making a running jump to gain extra height  
-- Successfully catching **Silas** in mid-air (Dexterity check: 15)
+- Successfully catching **[Silas](/player-characters/Silas)** in mid-air (Dexterity check: 15)
 - Using **Slow Fall** to reduce damage by 35 points
 - Ensuring both land safely despite the dangerous height
 
@@ -184,22 +184,22 @@ The party arrives at the Distribution Center (housed in the old Stone Hammer Bre
 ### Combat: The Crossbow Squad Battle
 
 **Initiative and Opening Moves**:
-- **Bru** (22): Opens with his **Eldritch Cannon** in Flamethrower mode, hitting Grimjaw and two soldiers (10 damage to one, 5 damage to others who saved)
-- **Helisanna** (17): Casts **Hex** on Grimjaw, then delivers two **Eldritch Blast** attacks (16 and 12 damage respectively)
-- **Ohma** (12): Closes distance and delivers two **Force** damage attacks (9 and 11 damage), then uses **Stunning Strike** to incapacitate Grimjaw
+- **[Bru](/player-characters/Bru)** (22): Opens with his **Eldritch Cannon** in Flamethrower mode, hitting Grimjaw and two soldiers (10 damage to one, 5 damage to others who saved)
+- **[Helisanna](/player-characters/Helisanna)** (17): Casts **Hex** on Grimjaw, then delivers two **Eldritch Blast** attacks (16 and 12 damage respectively)
+- **[Ohma](/player-characters/Ohma)** (12): Closes distance and delivers two **Force** damage attacks (9 and 11 damage), then uses **Stunning Strike** to incapacitate Grimjaw
 
-**Gas Hazard Complications**: Grimjaw's armor releases poisonous gas when damaged, forcing Constitution saves from nearby attackers. **Ohma** fails his save and becomes incapacitated, falling unconscious next to the stunned lieutenant.
+**Gas Hazard Complications**: Grimjaw's armor releases poisonous gas when damaged, forcing Constitution saves from nearby attackers. **[Ohma](/player-characters/Ohma)** fails his save and becomes incapacitated, falling unconscious next to the stunned lieutenant.
 
 **Coordinated Assault**:
-- **Silas**: Delivers devastating sneak attack for 23 psychic damage, then hides behind cover (Stealth: 22)
-- **Olivia**: Charges in mounted on **Bob**, dealing 17 damage with her first attack and successfully shaking off the gas effects
-- **Elspeth**: Finishes Grimjaw with a **Branding Smite** gun attack (19 piercing + 7 radiant damage), dramatically declaring the bomb threat
+- **[Silas](/player-characters/Silas)**: Delivers devastating sneak attack for 23 psychic damage, then hides behind cover (Stealth: 22)
+- **[Olivia](/player-characters/Olivia)**: Charges in mounted on **Bob**, dealing 17 damage with her first attack and successfully shaking off the gas effects
+- **[Elspeth](/player-characters/Elspeth)**: Finishes Grimjaw with a **Branding Smite** gun attack (19 piercing + 7 radiant damage), dramatically declaring the bomb threat
 
-**Crossbow Retaliation**: The seven remaining soldiers unleash a coordinated volley at **Olivia**, scoring multiple hits for 35 total damage despite her AC 20 armor.
+**Crossbow Retaliation**: The seven remaining soldiers unleash a coordinated volley at **[Olivia](/player-characters/Olivia)**, scoring multiple hits for 35 total damage despite her AC 20 armor.
 
 ### Victory and Intimidation
 
-**Elspeth's** successful intimidation (21 total) after killing Grimjaw causes the demoralized crossbow soldiers to flee. The party successfully plants their second bomb without further resistance.
+**[Elspeth](/player-characters/Elspeth)'s** successful intimidation (21 total) after killing Grimjaw causes the demoralized crossbow soldiers to flee. The party successfully plants their second bomb without further resistance.
 
 **The Second Explosion**: Unlike the first facility, this explosion is more controlled with no shockwave, successfully destroying the distribution center and catching it on fire without widespread collateral damage.
 
@@ -207,13 +207,13 @@ The party arrives at the Distribution Center (housed in the old Stone Hammer Bre
 
 ### Moral Complexity Under Pressure
 
-**Silas's** decision to release all test subjects despite time constraints demonstrates character growth from purely self-interested to genuinely heroic, even when personal survival is at stake.
+**[Silas](/player-characters/Silas)'s** decision to release all test subjects despite time constraints demonstrates character growth from purely self-interested to genuinely heroic, even when personal survival is at stake.
 
 ### Combat Coordination
 
 The battle showcases improved party tactics:
-- **Ohma's** stunning strike creating opportunities for allies
-- **Elspeth's** protective positioning in front of wounded **Olivia**
+- **[Ohma](/player-characters/Ohma)'s** stunning strike creating opportunities for allies
+- **[Elspeth](/player-characters/Elspeth)'s** protective positioning in front of wounded **[Olivia](/player-characters/Olivia)**
 - **Coordinated focus fire** eliminating priority targets efficiently
 - **Creative use of mounts and positioning** for tactical advantages
 
@@ -226,21 +226,21 @@ The session establishes **Victor** as well-meaning but dangerously unprepared, w
 1. **The Third Facility**: The Synthesis Plant remains as their final target
 2. **Human Experimentation**: The rescued test subjects represent ongoing atrocities requiring investigation
 3. **Victor's Radio Contact**: His transmission was cut off during Sia's scream, suggesting complications at headquarters
-4. **Purple-Eyed Ravers**: The connection between Helisanna's influence and the V-drug epidemic continues developing
+4. **Purple-Eyed Ravers**: The connection between [Helisanna](/player-characters/Helisanna)'s influence and the V-drug epidemic continues developing
 5. **Tribute Payments**: Lady Corwin's information about gold shipments "up the mountain" suggests larger conspiracy
 
 ## Technical and Mechanical Highlights
 
 ### New Combat Applications
 
-- **Ohma's** monk abilities proving effective for both offense and mobility support
+- **[Ohma](/player-characters/Ohma)'s** monk abilities proving effective for both offense and mobility support
 - **Coordinated throwing techniques** using multiple party members' strength bonuses
 - **Environmental hazards** (poisonous gas) requiring tactical adaptation
 - **Mount combat** with **Bob** providing advantages and complications
 
 ### Stealth and Infiltration
 
-- **Silas's** skill monkey abilities allowing complex solo operations
+- **[Silas](/player-characters/Silas)'s** skill monkey abilities allowing complex solo operations
 - **Creative problem-solving** under extreme time pressure
 - **Lock picking and rope work** demonstrating practical adventuring skills
 

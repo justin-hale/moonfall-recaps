@@ -88,11 +88,11 @@ An elite military unit that operates as both mercenary organization and resistan
 
 **Session Appearances:**
 - **Session 7:** Part of group evacuating High Forge with party
-- **Session 8:** Reluctantly abandons drug cargo on Olivia's demands
+- **Session 8:** Reluctantly abandons drug cargo on [Olivia](/player-characters/Olivia)'s demands
 
 **Background:** Member of Twilight Company group traveling with party during High Forge evacuation.
 
-**Notable Events:** Involved in controversy over illegal drug "V" transportation, forced to sink contraband in lake on Olivia's moral objections.
+**Notable Events:** Involved in controversy over illegal drug "V" transportation, forced to sink contraband in lake on [Olivia](/player-characters/Olivia)'s moral objections.
 
 ---
 

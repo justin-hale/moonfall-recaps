@@ -9,9 +9,9 @@ podcastlink: "https://creators.spotify.com/pod/profile/topher-hooper/episodes/C4
 
 ## Session Recap and Setup
 
-The session begins with the party having successfully helped Jeffrey corral his escaped magical sheep. They recruited several of Jeffrey's lambs, which are now following Bru around as he attempts to train them in military formations. The party has received magical **Woolen Cloaks of the Mountain Guardians** from Jeffrey - these self-resizing magical cloaks provide resistance to cold damage both environmental and in combat.
+The session begins with the party having successfully helped Jeffrey corral his escaped magical sheep. They recruited several of Jeffrey's lambs, which are now following [Bru](/player-characters/Bru) around as he attempts to train them in military formations. The party has received magical **Woolen Cloaks of the Mountain Guardians** from Jeffrey - these self-resizing magical cloaks provide resistance to cold damage both environmental and in combat.
 
-The party is now pursuing George (Olivia's grandson) and a group of Tyr pilgrims up Grimvar's Spine, following the trail of **Project Purple Patch** - a Twilight Company investigation into supernatural disturbances in the mountain region.
+The party is now pursuing George ([Olivia](/player-characters/Olivia)'s grandson) and a group of Tyr pilgrims up Grimvar's Spine, following the trail of **Project Purple Patch** - a Twilight Company investigation into supernatural disturbances in the mountain region.
 
 ## The Ascent of Grimvar's Spine
 
@@ -21,7 +21,7 @@ As the party climbs higher up the mountain following an established stone pathwa
 - **Supernatural Activity**: The party encounters translucent figures of religious pilgrims in Tyr vestments who appear to be caught in mid-conversation, discussing "the breach," efforts to "close the breach," and their failure
 - **Psychological Effects**: Party members begin experiencing an oppressive feeling of being watched, with movement glimpsed in peripheral vision that disappears when looked at directly
 
-**Perception Check Results**: Silas and Red are able to make out details of the ghostly pilgrims and catch fragments of their conversations about a failed mission to seal some kind of breach.
+**Perception Check Results**: [Silas](/player-characters/Silas) and [Red](/player-characters/Red) are able to make out details of the ghostly pilgrims and catch fragments of their conversations about a failed mission to seal some kind of breach.
 
 ## Discovery of the Abandoned Campsite
 
@@ -34,24 +34,24 @@ The party discovers a cold campsite in a clearing containing:
 - Religious vestments and Tyr scripture, particularly early dwarven Tyr stories
 
 ### **Father Jacob's Journal**
-Helisanna discovers and reads aloud a journal entry from **Father Jacob**, dated the 3rd moon of October (about a week prior):
+[Helisanna](/player-characters/Helisanna) discovers and reads aloud a journal entry from **Father Jacob**, dated the 3rd moon of October (about a week prior):
 
 *"By Tyr's guiding hand, we have reached the shrine on Grimvar's spine. The Ascendants tested our resolve, yet we remain steadfast in our mission. The breach must be sealed, for the rift to the Shadowfell grows ever more unstable. Its malevolence seeps into our world, corrupting all it touches. We go through the divine words as instructed, but something is amiss. The shadows move as though alive, whispering to us, mocking our efforts. I sense a presence here, ancient and insidious, feeding on the despair of this place. The others feel it too. Our strength wanes not from the climb but from the oppressive weight in the air."*
 
 The journal continues, describing how they discovered remnants of previous failed attempts and mentions George having visions of "dark twisted figures on the other side of the rift waiting to pull us through."
 
 ### **George's Personal Effects**
-Olivia searches for and finds George's belongings, including his journal which reveals:
+[Olivia](/player-characters/Olivia) searches for and finds George's belongings, including his journal which reveals:
 - He had caught up with the Tyr pilgrims as part of Project Purple Patch
 - The mission involves closing a rift from which demons are emerging from the Shadow Realm  
 - There are mentions of "the chosen one" who was "lost amongst the giants and Goliaths in the mountains"
 - Plans to continue investigating mountain clans after sealing the rift
 
-### **Silas's Secret Discovery**
-While the others are distracted, Silas successfully steals a valuable **silver necklace with amethyst crystals** - traditional Tyr priest jewelry with large interconnected hoops, each containing an amethyst.
+### **[Silas](/player-characters/Silas)'s Secret Discovery**
+While the others are distracted, [Silas](/player-characters/Silas) successfully steals a valuable **silver necklace with amethyst crystals** - traditional Tyr priest jewelry with large interconnected hoops, each containing an amethyst.
 
 ### **Additional Supplies Found**
-- Red discovers one **potion of minor healing**
+- [Red](/player-characters/Red) discovers one **potion of minor healing**
 - About 1 gold and 10 silver scattered among the belongings
 
 ## Approaching the Corrupted Shrine
@@ -60,10 +60,10 @@ Following the stone pathway marked with Tyr's scales iconography, the party reac
 
 ### **Intensifying Psychological Effects**
 All party members are struck by overwhelming feelings of **grief and dread**, causing them to relive their most traumatic memories:
-- **Olivia**: The death of her husband in a cupcake explosion at his bakery
-- **Red**: Finding his deceased parents  
-- **Helisanna**: The grief of losing her former self when she created her new persona
-- **Silas**: The deaths of other Sisyphus Circle members during the failed heist with Bru
+- **[Olivia](/player-characters/Olivia)**: The death of her husband in a cupcake explosion at his bakery
+- **[Red](/player-characters/Red)**: Finding his deceased parents  
+- **[Helisanna](/player-characters/Helisanna)**: The grief of losing her former self when she created her new persona
+- **[Silas](/player-characters/Silas)**: The deaths of other Sisyphus Circle members during the failed heist with [Bru](/player-characters/Bru)
 
 ### **The Corrupted Shrine Structure**
 The shrine consists of:
@@ -71,7 +71,7 @@ The shrine consists of:
 - **Central Statue**: A weeping dwarf woman holding a vase, meant to represent a story of devotion and community service, but corrupted to appear sad instead of confident
 - **Corrupted Magic**: Silver chains of divine binding magic flowing from the pillars to the statue, being cut through and corrupted by streams of black smoke
 
-**Red's Religion Check (25)**: Recognizes this as a corruption of a traditional Tyr shrine where protective wards have been compromised by demonic influence. The statue represents a woman who fetched water daily regardless of circumstances - normally depicted as confident and forward-looking, but now corrupted to appear grief-stricken.
+**[Red](/player-characters/Red)'s Religion Check (25)**: Recognizes this as a corruption of a traditional Tyr shrine where protective wards have been compromised by demonic influence. The statue represents a woman who fetched water daily regardless of circumstances - normally depicted as confident and forward-looking, but now corrupted to appear grief-stricken.
 
 ## Combat: The Battle for the Shrine
 
@@ -79,36 +79,36 @@ The shrine consists of:
 - **Enemies**: 
   - **Lacuna**: A corrupted, teleporting statue that causes despair and can phase between realities
   - A demon that manifests when the party begins dispelling corruption
-- **Party Initiative**: Helisanna (22), Bru (14), Olivia (11), Silas (10), Red (9), Elspeth (5)
+- **Party Initiative**: [Helisanna](/player-characters/Helisanna) (22), [Bru](/player-characters/Bru) (14), [Olivia](/player-characters/Olivia) (11), [Silas](/player-characters/Silas) (10), [Red](/player-characters/Red) (9), [Elspeth](/player-characters/Elspeth) (5)
 
 ### **Round-by-Round Combat Summary**
 
 **Round 1:**
-- **Helisanna**: Casts Mirror Image for protection and gives Red bardic inspiration
-- **Bru**: Creates and places his Eldritch Cannon (flamethrower variant) on Olivia's shoulder
-- **Lacuna**: Teleports closer and hits most of the party with a despair effect (DC 20 Wisdom save) - only Red succeeds, causing all others to have attacks made against them with advantage for one minute
-- **Olivia**: Charges in with her battleaxe, using Sacred Weapon and Divine Smite for massive radiant damage (22 total), attempts to topple the statue but it's immune
-- **Silas**: Successfully repairs one of the corrupted ward pillars using religion checks, causing silver chains to glow and begin restraining the statue
-- **Red**: Uses Dispel Magic to cleanse corruption from a second pillar, further weakening Lacuna's defenses
+- **[Helisanna](/player-characters/Helisanna)**: Casts Mirror Image for protection and gives [Red](/player-characters/Red) bardic inspiration
+- **[Bru](/player-characters/Bru)**: Creates and places his Eldritch Cannon (flamethrower variant) on [Olivia](/player-characters/Olivia)'s shoulder
+- **Lacuna**: Teleports closer and hits most of the party with a despair effect (DC 20 Wisdom save) - only [Red](/player-characters/Red) succeeds, causing all others to have attacks made against them with advantage for one minute
+- **[Olivia](/player-characters/Olivia)**: Charges in with her battleaxe, using Sacred Weapon and Divine Smite for massive radiant damage (22 total), attempts to topple the statue but it's immune
+- **[Silas](/player-characters/Silas)**: Successfully repairs one of the corrupted ward pillars using religion checks, causing silver chains to glow and begin restraining the statue
+- **[Red](/player-characters/Red)**: Uses Dispel Magic to cleanse corruption from a second pillar, further weakening Lacuna's defenses
 
 **Round 2:**
-- **Elspeth**: Flanks with Olivia, using Green Flame Blade and her crossbow for solid damage
-- **Helisanna**: Dominates with Eldritch Blast, dealing 50 damage in a single turn through critical hits and Hex
-- **Demon Manifestation**: When Red dispels the second pillar, a demon appears demanding "What are you doing to my temple?"
-- **Lacuna**: Teleports to Elspeth and deals massive damage (29 psychic), nearly killing her
+- **[Elspeth](/player-characters/Elspeth)**: Flanks with [Olivia](/player-characters/Olivia), using Green Flame Blade and her crossbow for solid damage
+- **[Helisanna](/player-characters/Helisanna)**: Dominates with Eldritch Blast, dealing 50 damage in a single turn through critical hits and Hex
+- **Demon Manifestation**: When [Red](/player-characters/Red) dispels the second pillar, a demon appears demanding "What are you doing to my temple?"
+- **Lacuna**: Teleports to [Elspeth](/player-characters/Elspeth) and deals massive damage (29 psychic), nearly killing her
 
 **Round 3-4:**
-- **Olivia**: Uses Lay on Hands to heal Elspeth multiple times, keeping her alive through the fight
-- **Bru**: Activates his cannon for area damage and casts Firebolt
-- **Silas**: Works on the third pillar while the others hold the line
-- **Red**: Heals the party with Balm of Peace and summons a Spiritual Weapon
-- **Lacuna**: Continues teleporting and dealing heavy damage, knocking out both Olivia and Elspeth at different points
+- **[Olivia](/player-characters/Olivia)**: Uses Lay on Hands to heal [Elspeth](/player-characters/Elspeth) multiple times, keeping her alive through the fight
+- **[Bru](/player-characters/Bru)**: Activates his cannon for area damage and casts Firebolt
+- **[Silas](/player-characters/Silas)**: Works on the third pillar while the others hold the line
+- **[Red](/player-characters/Red)**: Heals the party with Balm of Peace and summons a Spiritual Weapon
+- **Lacuna**: Continues teleporting and dealing heavy damage, knocking out both [Olivia](/player-characters/Olivia) and [Elspeth](/player-characters/Elspeth) at different points
 
 **Final Round:**
-- **Helisanna**: Successfully dispels the final pillar corruption, causing the demon to dissipate and weakening Lacuna significantly
+- **[Helisanna](/player-characters/Helisanna)**: Successfully dispels the final pillar corruption, causing the demon to dissipate and weakening Lacuna significantly
 - **Restored Wards**: With all pillars cleansed, Lacuna becomes fully corporeal and loses her damage resistances
-- **Bru**: Deals significant thunder damage with Shatter (21 damage)
-- **Silas**: Delivers the killing blow with a critical sneak attack for 31 damage, using his psychic powers to target the creature's life force core
+- **[Bru](/player-characters/Bru)**: Deals significant thunder damage with Shatter (21 damage)
+- **[Silas](/player-characters/Silas)**: Delivers the killing blow with a critical sneak attack for 31 damage, using his psychic powers to target the creature's life force core
 
 ### **Combat Resolution**
 As Lacuna dies, she appears relieved to be freed from her corrupted existence. The shrine's protective wards fully activate, silver chains properly connecting all pillars to the central statue, and the oppressive atmosphere lifts.
@@ -131,7 +131,7 @@ With the shrine cleansed and the immediate threat eliminated, the party discover
 
 ### **Loot and Resources**
 - Magical cold-resistant cloaks (party-wide)
-- Silver and amethyst Tyr priest necklace (Silas, secretly)
+- Silver and amethyst Tyr priest necklace ([Silas](/player-characters/Silas), secretly)
 - Minor healing potion
 - Small amount of gold and silver
 - Intelligence about Project Purple Patch and the planar breaches

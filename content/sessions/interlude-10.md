@@ -18,15 +18,15 @@ The party awakens to alarm bells in the astral tree village, discovering a fire 
 The party finds themselves on a semicircular stage before a packed audience, with a masked announcer in white controlling the proceedings. Each party member must draw from a deck of tarot cards, with their selections transforming into mystical items:
 
 **The Card Drawings**:
-- **Red** (card 11): Draws a card representing "blend, balance, find" and receives a **vial of clear liquid** that tastes like tears
-- **Jasper** (card 1, **The Hierophant**): Gets a **gold coin** with the announcer's mask etched into it
-- **Silas** (**The Hermit**): Receives a **lantern** that "sees truth" after delivering a theatrical bow
-- **Elspeth** (**The Sun**): Obtains a **feather** described as lifting burdens
-- **Bru** (**The Violet Crown**): Is struck by a crystal arrow and nearly dies, beginning a pattern of near-death experiences
+- **[Red](/player-characters/Red)** (card 11): Draws a card representing "blend, balance, find" and receives a **vial of clear liquid** that tastes like tears
+- **[Jasper](/player-characters/Jasper)** (card 1, **The Hierophant**): Gets a **gold coin** with the announcer's mask etched into it
+- **[Silas](/player-characters/Silas)** (**The Hermit**): Receives a **lantern** that "sees truth" after delivering a theatrical bow
+- **[Elspeth](/player-characters/Elspeth)** (**The Sun**): Obtains a **feather** described as lifting burdens
+- **[Bru](/player-characters/Bru)** (**The Violet Crown**): Is struck by a crystal arrow and nearly dies, beginning a pattern of near-death experiences
 
 ### Bru's Critical Condition
 
-**Bru** suffers severe injuries from the crystal arrow, beginning a recurring theme throughout the session where he hovers near death. Despite multiple healing attempts from **Red** and **Elspeth**, his wounds resist magical healing, forcing **Jasper** to carry him in a makeshift baby carrier.
+**[Bru](/player-characters/Bru)** suffers severe injuries from the crystal arrow, beginning a recurring theme throughout the session where he hovers near death. Despite multiple healing attempts from **[Red](/player-characters/Red)** and **[Elspeth](/player-characters/Elspeth)**, his wounds resist magical healing, forcing **[Jasper](/player-characters/Jasper)** to carry him in a makeshift baby carrier.
 
 ## The Canyon Sacrifice
 
@@ -40,7 +40,7 @@ The party is transported to a desert plateau where they witness a monthly town s
 
 ### The Decision and Consequences
 
-After extensive debate, the party chooses to sacrifice **Garen** while giving him **Elspeth's feather**, hoping it will save him from the fall. The strategy fails, and Garen dies. However, their decision sets in motion a chain of events:
+After extensive debate, the party chooses to sacrifice **Garen** while giving him **[Elspeth](/player-characters/Elspeth)'s feather**, hoping it will save him from the fall. The strategy fails, and Garen dies. However, their decision sets in motion a chain of events:
 
 **Long-term Impact**: Without Garen's engineering expertise, the town's infrastructure fails during storms. Though **Etta** keeps people healthy during the exodus, the community eventually abandons the sacrifice system entirely and relocates, ending the cycle of monthly deaths.
 
@@ -51,10 +51,10 @@ After extensive debate, the party chooses to sacrifice **Garen** while giving hi
 The party encounters a circus barker running games with a massive spinning wheel containing various symbols. Each party member experiences different magical effects:
 
 **Game Results**:
-- **Jasper**: Spins a pepper symbol, experiences intense sneezing that causes him to explode into confetti, and reappear teleported behind **Silas**
-- **Elspeth**: Lands on a heart with arrow, becoming temporarily infatuated with **Red** (successfully resists acting on it)
-- **Red**: Gets a magnetic symbol, causing metal objects to stick to his body
-- **Silas**: Disappears to a psychiatrist's office where he receives therapy about abandonment issues and returns with a prescription for "two laughs a day with water"
+- **[Jasper](/player-characters/Jasper)**: Spins a pepper symbol, experiences intense sneezing that causes him to explode into confetti, and reappear teleported behind **[Silas](/player-characters/Silas)**
+- **[Elspeth](/player-characters/Elspeth)**: Lands on a heart with arrow, becoming temporarily infatuated with **[Red](/player-characters/Red)** (successfully resists acting on it)
+- **[Red](/player-characters/Red)**: Gets a magnetic symbol, causing metal objects to stick to his body
+- **[Silas](/player-characters/Silas)**: Disappears to a psychiatrist's office where he receives therapy about abandonment issues and returns with a prescription for "two laughs a day with water"
 - **Kevin**: Witnesses a disturbing performance where one entertainer decapitates another and transplants the head onto a different body
 
 ### Escalating Chaos
@@ -97,7 +97,7 @@ In the final realm, the party encounters **Velz’eth**, a chaos god who has bee
 
 Upon returning to the astral tree, the party discovers:
 - The fire has been extinguished, leaving only ash and small embers
-- **Bru** is completely healed with no trace of his wounds
+- **[Bru](/player-characters/Bru)** is completely healed with no trace of his wounds
 - Their items now bear the mark "Property of V" (Velz’eth)
 
 ### Enhanced Abilities
@@ -120,7 +120,7 @@ The revelation of **Crowley's** alternate identity and possible alliance with **
 
 ### Team Dynamics
 
-Despite the stressful scenarios, the party demonstrates strong cohesion, particularly in their care for the critically injured **Bru** and their unanimous decision-making in crisis situations.
+Despite the stressful scenarios, the party demonstrates strong cohesion, particularly in their care for the critically injured **[Bru](/player-characters/Bru)** and their unanimous decision-making in crisis situations.
 
 ## Ongoing Plot Threads
 

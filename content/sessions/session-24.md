@@ -18,21 +18,21 @@ The session opens with final preparations for the dangerous mountain race organi
 ### Team Strategy and Roles
 
 **Team Assignments**:
-- **Elspeth**: Primary driver of the Doomfall race car
-- **Olivia**: Co-pilot providing combat support and navigation assistance
-- **BoxBox**: Elspeth's steel defender riding in the car's special compartment
-- **Silas and Helisanna**: Support team in the Vroomfall van, scouting ahead for obstacles and conducting sabotage operations
-- **Bru**: Artillery specialist providing explosive support
+- **[Elspeth](/player-characters/Elspeth)**: Primary driver of the Doomfall race car
+- **[Olivia](/player-characters/Olivia)**: Co-pilot providing combat support and navigation assistance
+- **BoxBox**: [Elspeth](/player-characters/Elspeth)'s steel defender riding in the car's special compartment
+- **[Silas](/player-characters/Silas) and [Helisanna](/player-characters/Helisanna)**: Support team in the Vroomfall van, scouting ahead for obstacles and conducting sabotage operations
+- **[Bru](/player-characters/Bru)**: Artillery specialist providing explosive support
 
 ### Sabotage Operations
 
-Building on their previous race experience, **Silas** successfully drugs competitors **Thelvolt** and another racer using the mysterious substance from their adventure with Marvin, hoping to impair Elspeth's competition.
+Building on their previous race experience, **[Silas](/player-characters/Silas)** successfully drugs competitors **Thelvolt** and another racer using the mysterious substance from their adventure with Marvin, hoping to impair [Elspeth](/player-characters/Elspeth)'s competition.
 
-**Equipment Upgrades**: **Elspeth** enhances her race car with wheel spikes for offensive capability and a spoiler for improved aerodynamics, while planning to use their crystal collection to power the vehicle.
+**Equipment Upgrades**: **[Elspeth](/player-characters/Elspeth)** enhances her race car with wheel spikes for offensive capability and a spoiler for improved aerodynamics, while planning to use their crystal collection to power the vehicle.
 
 ### Final Preparations
 
-**Olivia** casts **Aid** on Elspeth, Helisanna, and herself, providing 5 extra hit points each for the dangerous mountain journey. The team establishes radio communication using call signs "Driving Miss Daisy" (Elspeth's car) and "Ellie and the Short Stacks" (the support van).
+**[Olivia](/player-characters/Olivia)** casts **Aid** on [Elspeth](/player-characters/Elspeth), [Helisanna](/player-characters/Helisanna), and herself, providing 5 extra hit points each for the dangerous mountain journey. The team establishes radio communication using call signs "Driving Miss Daisy" ([Elspeth](/player-characters/Elspeth)'s car) and "Ellie and the Short Stacks" (the support van).
 
 ## The High Stakes Mountain Race
 
@@ -41,47 +41,47 @@ Building on their previous race experience, **Silas** successfully drugs competi
 **The Challenge**: As racers begin the mountain ascent, the Vroomfall team scouts ahead and identifies an ambush by the **Shield Bros team** positioned to ram other cars on a precarious mountain path.
 
 **Coordinated Sabotage**:
-- **Bru** (Intelligence check: 21) analyzes the terrain and identifies the perfect explosive placement to create maximum chaos
-- **Silas** (Sleight of Hand: 28) precisely plants dynamite in the Shield Bros' truck engine
-- The perfectly timed explosion destroys the ambush vehicle and triggers an avalanche that clears a safe path for Elspeth while blocking other racers behind dangerous debris
+- **[Bru](/player-characters/Bru)** (Intelligence check: 21) analyzes the terrain and identifies the perfect explosive placement to create maximum chaos
+- **[Silas](/player-characters/Silas)** (Sleight of Hand: 28) precisely plants dynamite in the Shield Bros' truck engine
+- The perfectly timed explosion destroys the ambush vehicle and triggers an avalanche that clears a safe path for [Elspeth](/player-characters/Elspeth) while blocking other racers behind dangerous debris
 
-**Early Lead**: **Elspeth** (Driving check: 28) expertly navigates through the cleared path, establishing a commanding early lead over the competition.
+**Early Lead**: **[Elspeth](/player-characters/Elspeth)** (Driving check: 28) expertly navigates through the cleared path, establishing a commanding early lead over the competition.
 
 ### Stage Two: Stone Golem Encounter
 
-**The Threat**: Two massive stone golems emerge from the mountainside as Elspeth approaches, threatening to crush any passing vehicles with thrown boulders.
+**The Threat**: Two massive stone golems emerge from the mountainside as [Elspeth](/player-characters/Elspeth) approaches, threatening to crush any passing vehicles with thrown boulders.
 
 **Combat Sequence**:
-- **Elspeth** (multiple driving checks of 25+) expertly maneuvers around the initial golem attacks while maintaining speed
-- **Olivia** throws pocket dynamite (6 damage) at one golem from the van's position
+- **[Elspeth](/player-characters/Elspeth)** (multiple driving checks of 25+) expertly maneuvers around the initial golem attacks while maintaining speed
+- **[Olivia](/player-characters/Olivia)** throws pocket dynamite (6 damage) at one golem from the van's position
 - The golems counterattack with massive thrown rocks, dealing 22 combined damage to the race car and bringing it to nearly half health
-- **Elspeth** uses her **Telekinetic Shove** ability to push one golem backward, preventing a devastating second attack
-- **Olivia** takes over driving while Elspeth attempts emergency repairs using her technical skills
+- **[Elspeth](/player-characters/Elspeth)** uses her **Telekinetic Shove** ability to push one golem backward, preventing a devastating second attack
+- **[Olivia](/player-characters/Olivia)** takes over driving while [Elspeth](/player-characters/Elspeth) attempts emergency repairs using her technical skills
 
-**Dynamic Escape**: Despite significant vehicle damage, Elspeth's expert driving keeps them ahead of both the competition and the pursuing golems as they continue toward the summit.
+**Dynamic Escape**: Despite significant vehicle damage, [Elspeth](/player-characters/Elspeth)'s expert driving keeps them ahead of both the competition and the pursuing golems as they continue toward the summit.
 
 ### Stage Three: The Summit Challenge
 
-**Reaching the Crest**: Elspeth arrives at the wind-swept summit far ahead of other competitors, but discovers that race rules specifically require the driver to personally retrieve the crest.
+**Reaching the Crest**: [Elspeth](/player-characters/Elspeth) arrives at the wind-swept summit far ahead of other competitors, but discovers that race rules specifically require the driver to personally retrieve the crest.
 
-**The Rules Dilemma**: When **Olivia** volunteers to grab the crest (hoping to protect Elspeth for the crucial return journey), hostile **wraiths** suddenly appear, declaring "The rules have been broken! They must be mended!"
+**The Rules Dilemma**: When **[Olivia](/player-characters/Olivia)** volunteers to grab the crest (hoping to protect [Elspeth](/player-characters/Elspeth) for the crucial return journey), hostile **wraiths** suddenly appear, declaring "The rules have been broken! They must be mended!"
 
 **Wraith Combat**:
-- The spectral entities launch surprise attacks on Olivia but miss their initial strikes
-- Elspeth attempts to throw the crest to Olivia but fails due to harsh winds and her position (rolled a 1)
-- Olivia becomes grappled by wraith attacks but uses **Misty Step** to escape back to the car
-- Recognizing the supernatural enforcement, Elspeth personally retrieves the crest as required
+- The spectral entities launch surprise attacks on [Olivia](/player-characters/Olivia) but miss their initial strikes
+- [Elspeth](/player-characters/Elspeth) attempts to throw the crest to [Olivia](/player-characters/Olivia) but fails due to harsh winds and her position (rolled a 1)
+- [Olivia](/player-characters/Olivia) becomes grappled by wraith attacks but uses **Misty Step** to escape back to the car
+- Recognizing the supernatural enforcement, [Elspeth](/player-characters/Elspeth) personally retrieves the crest as required
 - Once the rules are properly followed, the wraiths disappear, satisfied with the compliance
 
 ### Stage Four: The Descent Gauntlet
 
-**Continued Advantages**: The Vroomfall team's earlier explosion continues to benefit Elspeth, as she can drive through the clear path they created while other racers struggle with debris and unstable terrain.
+**Continued Advantages**: The Vroomfall team's earlier explosion continues to benefit [Elspeth](/player-characters/Elspeth), as she can drive through the clear path they created while other racers struggle with debris and unstable terrain.
 
 **Pursuing Threats**: 
 - A more aggressive stone golem emerges, crawling along the ground in pursuit of the leading car
-- **Olivia** throws dynamite (Athletics check: 19) with devastating accuracy, hitting the creature directly and forcing it to retreat into the mountainside
+- **[Olivia](/player-characters/Olivia)** throws dynamite (Athletics check: 19) with devastating accuracy, hitting the creature directly and forcing it to retreat into the mountainside
 
-**Multiple Challenges**: Elspeth faces a series of increasingly difficult obstacles during the descent:
+**Multiple Challenges**: [Elspeth](/player-characters/Elspeth) faces a series of increasingly difficult obstacles during the descent:
 - **First check (25)**: Successfully extends her lead against the pursuing golem
 - **Second check (22)**: Navigates additional environmental hazards and unstable terrain  
 - **Third check (25)**: Outpaces another mountain creature emerging from the rocks
@@ -89,22 +89,22 @@ Building on their previous race experience, **Silas** successfully drugs competi
 
 ### Victory and Celebration
 
-**Dominant Performance**: Elspeth wins the race by such a wide margin that other competitors are still dealing with the stone golems on the mountain when she crosses the finish line.
+**Dominant Performance**: [Elspeth](/player-characters/Elspeth) wins the race by such a wide margin that other competitors are still dealing with the stone golems on the mountain when she crosses the finish line.
 
 **Victory Rewards**:
 - **The Warden's Signet**: A magical ring providing advantages for any vehicle operation (not limited to race cars)
 - **Racing Circuit Membership**: Official recognition in the underground racing community
 - **Community Recognition**: Establishment as elite racers capable of handling extreme challenges
 
-**Victory Tradition**: Following racing customs, Elspeth celebrates by performing a dramatic burnout and pouring "Brown" (Bru's favorite chunky alcoholic stew) all over Bru, much to everyone's amusement.
+**Victory Tradition**: Following racing customs, [Elspeth](/player-characters/Elspeth) celebrates by performing a dramatic burnout and pouring "Brown" ([Bru](/player-characters/Bru)'s favorite chunky alcoholic stew) all over [Bru](/player-characters/Bru), much to everyone's amusement.
 
 ## The Radio Transmission
 
-While celebrating their racing victory in the Vroomfall, **Bru** intercepts an unexpected radio transmission on Red's old communication device.
+While celebrating their racing victory in the Vroomfall, **[Bru](/player-characters/Bru)** intercepts an unexpected radio transmission on [Red](/player-characters/Red)'s old communication device.
 
 ### The Conversation
 
-**Bru** overhears a conversation between **Victor** (their former Twilight Company associate) and an unknown female voice:
+**[Bru](/player-characters/Bru)** overhears a conversation between **Victor** (their former Twilight Company associate) and an unknown female voice:
 
 **Key Intelligence Revealed**:
 - Victor needs sulfur for explosive-making operations
@@ -115,9 +115,9 @@ While celebrating their racing victory in the Vroomfall, **Bru** intercepts an u
 
 ### Bru's Intervention
 
-**Bru** accidentally interrupts the transmission by asking "Are you making a bomb?" This leads to a tense moment before Victor recognizes Bru's voice and demands verification of his identity.
+**[Bru](/player-characters/Bru)** accidentally interrupts the transmission by asking "Are you making a bomb?" This leads to a tense moment before Victor recognizes [Bru](/player-characters/Bru)'s voice and demands verification of his identity.
 
-**Identity Confirmation**: Victor tests Bru's knowledge by asking about technical details of the piranha gun design, which Bru passes, leading to a more open conversation about their respective situations.
+**Identity Confirmation**: Victor tests [Bru](/player-characters/Bru)'s knowledge by asking about technical details of the piranha gun design, which [Bru](/player-characters/Bru) passes, leading to a more open conversation about their respective situations.
 
 ### Victor's Operations
 
@@ -129,26 +129,26 @@ While celebrating their racing victory in the Vroomfall, **Bru** intercepts an u
 
 ## Dragon Orb Investigation
 
-Following the radio transmission, the party conducts a thorough examination of the mysterious orb Silas stole from Helja, leading to crucial discoveries about its true nature and cosmic-level implications.
+Following the radio transmission, the party conducts a thorough examination of the mysterious orb [Silas](/player-characters/Silas) stole from Helja, leading to crucial discoveries about its true nature and cosmic-level implications.
 
 ### Silas's Dangerous Communication
 
-**Making Contact**: **Silas** bravely volunteers to communicate with the entity within the orb, touching it despite the obvious dangers involved.
+**Making Contact**: **[Silas](/player-characters/Silas)** bravely volunteers to communicate with the entity within the orb, touching it despite the obvious dangers involved.
 
 **The Entity**: The dragon identifies himself as **"Everything"** and immediately demonstrates his overwhelming presence and power during their psychic conversation.
 
 **Key Revelations from the Exchange**:
 - The dragon needs someone to open a dimensional rift to bring him to their world
-- He's willing to "eat" Helja if Silas cooperates with his plans
+- He's willing to "eat" Helja if [Silas](/player-characters/Silas) cooperates with his plans
 - He claims to be "closer than you think" to breaking through on his own
 - He offers alliance but also threatens to "bury them in the ground" if they refuse cooperation
-- He specifically asks what Helja means to Silas, suggesting complex relationships between all parties
+- He specifically asks what Helja means to [Silas](/player-characters/Silas), suggesting complex relationships between all parties
 
-**Silas's Diplomatic Strategy**: Rather than commit to anything concrete, Silas diplomatically deflects by saying he needs to "sleep on" any business decisions, successfully gathering intelligence while avoiding immediate commitments or confrontation.
+**[Silas](/player-characters/Silas)'s Diplomatic Strategy**: Rather than commit to anything concrete, [Silas](/player-characters/Silas) diplomatically deflects by saying he needs to "sleep on" any business decisions, successfully gathering intelligence while avoiding immediate commitments or confrontation.
 
 ### Bru's Arcana Mastery
 
-**Critical Analysis**: **Bru** performs an exceptional analysis of the orb's magical properties, rolling a natural 20 on his Arcana check and revealing crucial technical information.
+**Critical Analysis**: **[Bru](/player-characters/Bru)** performs an exceptional analysis of the orb's magical properties, rolling a natural 20 on his Arcana check and revealing crucial technical information.
 
 **Orb Mechanics Discovered**:
 - Functions as an extremely high-level magical communication device requiring 8th-9th level spells to create
@@ -166,7 +166,7 @@ Following the radio transmission, the party conducts a thorough examination of t
 - The orb can be scryed upon by anyone who knows of its existence and has appropriate magic
 - Helja could potentially spy on them through the orb if she possesses the right divination spells
 - Physical covering prevents visual scrying but does not block audio detection
-- **Silas's psychic phone ability** could be used to anchor multiple people during communication, preventing them from being lost in the dragon's realm
+- **[Silas](/player-characters/Silas)'s psychic phone ability** could be used to anchor multiple people during communication, preventing them from being lost in the dragon's realm
 
 ## Strategic Planning Session
 
@@ -197,34 +197,34 @@ The party develops a comprehensive strategy for dealing with their multiple high
 
 ## Jasper's Departure
 
-In an emotionally significant scene, **Jasper Gaines** makes the difficult decision to leave the party and return home to Eldoran.
+In an emotionally significant scene, **[Jasper](/player-characters/Jasper) Gaines** makes the difficult decision to leave the party and return home to Eldoran.
 
 ### The Farewell Conversation
 
-**Jasper's Reasoning**:
+**[Jasper](/player-characters/Jasper)'s Reasoning**:
 - The recent violence and warfare have triggered traumatic memories from his military service
 - He feels his strength causes more destruction than good, despite his heroic intentions
 - He wants to return to his family business and the children who depend on him
-- The events at the mountaintop with Red's sacrifice brought back painful associations with war
+- The events at the mountaintop with [Red](/player-characters/Red)'s sacrifice brought back painful associations with war
 
-**Olivia's Counsel**: **Olivia** demonstrates her caring nature by encouraging Jasper to find someone to talk to about his mental health and trauma, showing understanding of his psychological struggles.
+**[Olivia](/player-characters/Olivia)'s Counsel**: **[Olivia](/player-characters/Olivia)** demonstrates her caring nature by encouraging [Jasper](/player-characters/Jasper) to find someone to talk to about his mental health and trauma, showing understanding of his psychological struggles.
 
-**Parting Gifts**: Jasper leaves behind:
+**Parting Gifts**: [Jasper](/player-characters/Jasper) leaves behind:
 - His **Eldoran armor** with crystal embellishments for the party to use
 - **VIP tickets** to his establishment, **Gaines Brewery, Bakery, and Bankery**
 - A heartfelt note promising assistance if they ever visit Eldoran
 
 ### Character Concerns
 
-**Desertion Implications**: The party worries about whether Jasper will face consequences for abandoning his military post and fighting against an Eldoran knight, though they note the only witness to his desertion (Eric) is dead.
+**Desertion Implications**: The party worries about whether [Jasper](/player-characters/Jasper) will face consequences for abandoning his military post and fighting against an Eldoran knight, though they note the only witness to his desertion (Eric) is dead.
 
-**Emotional Impact**: Jasper's departure represents another loss for the group, though this one is by choice rather than death, adding complexity to their feelings about his decision.
+**Emotional Impact**: [Jasper](/player-characters/Jasper)'s departure represents another loss for the group, though this one is by choice rather than death, adding complexity to their feelings about his decision.
 
 ## New Allies and Equipment
 
 ### Crimson the Cardinal
 
-**Bru** uses his magical abilities to create a new familiar as a memorial to Red - a mechanical cardinal named **Crimson** equipped with a jetpack instead of natural flight. This flightless bird with artificial propulsion serves as both a practical tool and an emotional tribute to their lost friend.
+**[Bru](/player-characters/Bru)** uses his magical abilities to create a new familiar as a memorial to [Red](/player-characters/Red) - a mechanical cardinal named **Crimson** equipped with a jetpack instead of natural flight. This flightless bird with artificial propulsion serves as both a practical tool and an emotional tribute to their lost friend.
 
 ### Equipment and Resources Assessment
 
@@ -248,7 +248,7 @@ The session concludes with the party beginning their journey back toward High Fo
 - Bright glowing figures of Eldoran knights patrolling the roads between cities
 - A strange calm after their recent intense adventures, though tension remains about their destination
 
-**Character Reflection**: The peaceful travel provides time for emotional processing, with **Silas** particularly noting both the comfort of his remaining companions and the persistent sadness of Red's empty seat in the van.
+**Character Reflection**: The peaceful travel provides time for emotional processing, with **[Silas](/player-characters/Silas)** particularly noting both the comfort of his remaining companions and the persistent sadness of [Red](/player-characters/Red)'s empty seat in the van.
 
 **Foreshadowing**: Despite the momentary peace, everyone understands they're heading into extremely dangerous territory where multiple powerful enemies await their arrival.
 
@@ -259,12 +259,12 @@ The session concludes with the party beginning their journey back toward High Fo
 3. **Helja's Power**: The criminal mastermind now effectively rules High Forge and actively hunts the party
 4. **Tunnel Infiltration**: Developing plans to use underground routes to avoid Iron Claws detection systems
 5. **Advanced Schematics**: Continued work on rocket ship and pocket village construction projects
-6. **Jasper's Future**: Potential complications from his return to Eldoran as a deserter, and the VIP tickets providing future adventure opportunities
+6. **[Jasper](/player-characters/Jasper)'s Future**: Potential complications from his return to Eldoran as a deserter, and the VIP tickets providing future adventure opportunities
 
 ## Session Themes
 
 This episode effectively balances high-octane action with character development and plot advancement, providing crucial intelligence about enemy situations while exploring the emotional costs of their ongoing adventures. The racing sequence demonstrates the party's growing tactical sophistication and teamwork, while the dragon orb investigation reveals the truly cosmic scale of threats they're confronting.
 
-**Jasper's** departure adds emotional weight to the ongoing dangers they face, showing how trauma and moral complexity affect even the strongest characters. The session's conclusion, with the peaceful journey toward High Forge, provides necessary breathing space before what promises to be their most dangerous arc yet, while the various revelations about Victor, Helja, and the dragon set up multiple interconnected challenges for future sessions.
+**[Jasper](/player-characters/Jasper)'s** departure adds emotional weight to the ongoing dangers they face, showing how trauma and moral complexity affect even the strongest characters. The session's conclusion, with the peaceful journey toward High Forge, provides necessary breathing space before what promises to be their most dangerous arc yet, while the various revelations about Victor, Helja, and the dragon set up multiple interconnected challenges for future sessions.
 
 The episode showcases the campaign's evolution from local adventures to cosmic-scale threats, while maintaining focus on character relationships and personal growth amid increasingly dangerous circumstances.

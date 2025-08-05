@@ -15,9 +15,9 @@ The party continues their mission to help **Toonlock** defend his realm from **C
 
 After successfully freeing the tortured angel from the vampire convent and obtaining the priest's stole, the party returns to **Lakeshore Vale** (the astral tree village) where they are celebrated as heroes for ending the nightly monster attacks.
 
-**Jasper's Healing**: **Red** uses his prepared **Remove Curse** spell to heal **Jasper** of the mummy rot that had been slowly killing him, though the barbarian still needs additional rest to fully recover his health. Red delivers a brief monologue about redemption and second chances while performing the healing.
+**[Jasper](/player-characters/Jasper)'s Healing**: **[Red](/player-characters/Red)** uses his prepared **Remove Curse** spell to heal **[Jasper](/player-characters/Jasper)** of the mummy rot that had been slowly killing him, though the barbarian still needs additional rest to fully recover his health. [Red](/player-characters/Red) delivers a brief monologue about redemption and second chances while performing the healing.
 
-The party takes a long rest, with everyone except Jasper receiving the full benefits. **Helisanna** performs music for the grateful villagers, providing heroic inspiration to several party members.
+The party takes a long rest, with everyone except [Jasper](/player-characters/Jasper) receiving the full benefits. **[Helisanna](/player-characters/Helisanna)** performs music for the grateful villagers, providing heroic inspiration to several party members.
 
 ## Entering The Hollow
 
@@ -28,7 +28,7 @@ The party uses **Toonlock's** magic to travel to **The Hollow**, emerging throug
 **Environmental Details**:
 - Ankle-deep boggy water immediately upon arrival
 - Dense fog rolling over different areas
-- **Red** casts **Light** to illuminate their surroundings
+- **[Red](/player-characters/Red)** casts **Light** to illuminate their surroundings
 - A naturally formed earthen path leading away from their arrival point
 
 ### The Frog Village
@@ -43,7 +43,7 @@ The party encounters a **human musician** on his front porch playing banjo poorl
 - Smokes a corncob pipe
 - Plays with only two strings on his banjo
 
-**Helisanna** is openly critical of his musical abilities, while the others attempt to gather information about their quest.
+**[Helisanna](/player-characters/Helisanna)** is openly critical of his musical abilities, while the others attempt to gather information about their quest.
 
 #### Information Gathering
 
@@ -61,7 +61,7 @@ The banjo player provides crucial intelligence about their destination:
 
 ### Discovery of the Corpses
 
-As the party travels deeper into the swamp, **Bru** (with his high passive perception) notices disturbing shapes in the water around the path. Investigation reveals:
+As the party travels deeper into the swamp, **[Bru](/player-characters/Bru)** (with his high passive perception) notices disturbing shapes in the water around the path. Investigation reveals:
 
 **The Dead in the Water**:
 - Dozens of bodies scattered throughout the bog water
@@ -70,13 +70,13 @@ As the party travels deeper into the swamp, **Bru** (with his high passive perce
 - All corpses have had their **hearts ripped out**
 - Everything in the water (seaweed, algae, debris) is completely motionless
 
-**Olivia's** investigation (rolling 23) reveals that the water itself appears to be **magically stagnant** - nothing moves within it, as if frozen in time.
+**[Olivia](/player-characters/Olivia)'s** investigation (rolling 23) reveals that the water itself appears to be **magically stagnant** - nothing moves within it, as if frozen in time.
 
 ### The Peryton Ambush
 
 #### Initial Contact
 
-As the party continues along the path surrounded by the eerie still water and corpses, they encounter flying creatures moving through the trees. **Silas** spots them first with his high perception, identifying them as **humanoid-sized winged creatures** positioning themselves for an attack.
+As the party continues along the path surrounded by the eerie still water and corpses, they encounter flying creatures moving through the trees. **[Silas](/player-characters/Silas)** spots them first with his high perception, identifying them as **humanoid-sized winged creatures** positioning themselves for an attack.
 
 **Creature Description**:
 - **Perytons**: Eagle-like creatures with antlers protruding from their heads
@@ -88,16 +88,16 @@ As the party continues along the path surrounded by the eerie still water and co
 The perytons launch a coordinated assault, with most party members being targeted by diving attacks designed to knock them off the path and into the deadly bog water.
 
 **Opening Round Attacks**:
-- **Olivia**: Successfully deflects an attack with her AC 20
-- **Bru**: Manages to duck out of the way
-- **Helisanna**: Takes 18 damage and fails her strength save, getting knocked into the bog
-- **Red**: Takes 23 damage and is also knocked into the bog water
-- **Silas**: Avoids being targeted
-- **Jasper**: Avoids the attack
+- **[Olivia](/player-characters/Olivia)**: Successfully deflects an attack with her AC 20
+- **[Bru](/player-characters/Bru)**: Manages to duck out of the way
+- **[Helisanna](/player-characters/Helisanna)**: Takes 18 damage and fails her strength save, getting knocked into the bog
+- **[Red](/player-characters/Red)**: Takes 23 damage and is also knocked into the bog water
+- **[Silas](/player-characters/Silas)**: Avoids being targeted
+- **[Jasper](/player-characters/Jasper)**: Avoids the attack
 
 ### The Bog Awakens
 
-As soon as **Helisanna** and **Red** land in the bog water, the previously motionless environment springs to life:
+As soon as **[Helisanna](/player-characters/Helisanna)** and **[Red](/player-characters/Red)** land in the bog water, the previously motionless environment springs to life:
 
 **Undead Emergence**: The corpses in the water begin moving, with **eyes opening** and **heads turning** toward the living intruders. These **wights** attempt to drain life force from anyone in the water while wielding ancient weapons.
 
@@ -110,51 +110,51 @@ As soon as **Helisanna** and **Red** land in the bog water, the previously motio
 The combat becomes a desperate fight on multiple fronts:
 
 **Ranged Assault**: 
-- **Bru** uses **Scorching Ray** to target three different perytons, dealing significant damage with his **Arcane Firearm**
-- **Elspeth** provides covering fire with her magical gun while **BoxBox** positions for support
-- **Helisanna** attempts to escape the water using **Misty Step** but struggles with concentration underwater
+- **[Bru](/player-characters/Bru)** uses **Scorching Ray** to target three different perytons, dealing significant damage with his **Arcane Firearm**
+- **[Elspeth](/player-characters/Elspeth)** provides covering fire with her magical gun while **BoxBox** positions for support
+- **[Helisanna](/player-characters/Helisanna)** attempts to escape the water using **Misty Step** but struggles with concentration underwater
 
 **Rescue Operations**:
-- **Jasper** extends his shovel to help **Red** escape the bog
-- **Red** successfully grabs the shovel (insight check of 24) and gets pulled out (Jasper's athletics check of 21)
-- **Olivia** later performs a heroic rescue of **Silas** when he gets knocked into the bog
+- **[Jasper](/player-characters/Jasper)** extends his shovel to help **[Red](/player-characters/Red)** escape the bog
+- **[Red](/player-characters/Red)** successfully grabs the shovel (insight check of 24) and gets pulled out ([Jasper](/player-characters/Jasper)'s athletics check of 21)
+- **[Olivia](/player-characters/Olivia)** later performs a heroic rescue of **[Silas](/player-characters/Silas)** when he gets knocked into the bog
 
 ### Tactical Spellcasting
 
-**Red's Support**: Uses **Emboldening Bond** to connect allies and later **Balm of Peace** to heal multiple party members while moving around the battlefield.
+**[Red](/player-characters/Red)'s Support**: Uses **Emboldening Bond** to connect allies and later **Balm of Peace** to heal multiple party members while moving around the battlefield.
 
-**Helisanna's Creative Strategy**: Successfully uses **Command** (upcasted to target two creatures) to make a peryton "grovel," causing it to fall into the bog where the wights tear it apart.
+**[Helisanna](/player-characters/Helisanna)'s Creative Strategy**: Successfully uses **Command** (upcasted to target two creatures) to make a peryton "grovel," causing it to fall into the bog where the wights tear it apart.
 
-**Bru's Protection**: His **Eldritch Cannon** provides temporary hit points to the party, which proves crucial for survival.
+**[Bru](/player-characters/Bru)'s Protection**: His **Eldritch Cannon** provides temporary hit points to the party, which proves crucial for survival.
 
 ### Combat Escalation
 
-**Silas Nearly Dies**: Takes a critical hit for 36 damage, reducing him to only 10 HP and knocking him into the bog alongside **Olivia**.
+**[Silas](/player-characters/Silas) Nearly Dies**: Takes a critical hit for 36 damage, reducing him to only 10 HP and knocking him into the bog alongside **[Olivia](/player-characters/Olivia)**.
 
-**Heroic Rescue**: **Olivia** grabs **Silas** and pulls both of them out of the water with a successful athletics check (21), then uses **Lay on Hands** to heal him 10 points, giving him a **Werther's candy** as flavor.
+**Heroic Rescue**: **[Olivia](/player-characters/Olivia)** grabs **[Silas](/player-characters/Silas)** and pulls both of them out of the water with a successful athletics check (21), then uses **Lay on Hands** to heal him 10 points, giving him a **Werther's candy** as flavor.
 
-**Elspeth's Precision**: Delivers devastating attacks with her magical gun enhanced by **Branding Smite**, killing multiple perytons with precise headshots.
+**[Elspeth](/player-characters/Elspeth)'s Precision**: Delivers devastating attacks with her magical gun enhanced by **Branding Smite**, killing multiple perytons with precise headshots.
 
 ## Victory and Resolution
 
 ### Final Eliminations
 
 **Team Coordination**: The party systematically eliminates the remaining perytons through coordinated attacks:
-- **Red's** **Spiritual Weapon** scores a critical hit for 17 damage
-- **Silas** gets revenge with sneak attacks, including a dramatic finishing move
-- **Elspeth** and **BoxBox** provide consistent damage output
-- **Jasper** contributes with crossbow attacks
+- **[Red](/player-characters/Red)'s** **Spiritual Weapon** scores a critical hit for 17 damage
+- **[Silas](/player-characters/Silas)** gets revenge with sneak attacks, including a dramatic finishing move
+- **[Elspeth](/player-characters/Elspeth)** and **BoxBox** provide consistent damage output
+- **[Jasper](/player-characters/Jasper)** contributes with crossbow attacks
 
 **Strategic Retreat**: The final surviving peryton, realizing the ambush has completely failed, flees back into the woods rather than face certain death.
 
 ### Post-Combat Analysis
 
-**Creature Identification**: **Olivia's** Arcana check (17) identifies the creatures as **perytons** - unnatural monsters shaped by fel magic that consume human hearts. Their strategy involved knocking victims into the bog to let the wights kill them, making heart extraction easier.
+**Creature Identification**: **[Olivia](/player-characters/Olivia)'s** Arcana check (17) identifies the creatures as **perytons** - unnatural monsters shaped by fel magic that consume human hearts. Their strategy involved knocking victims into the bog to let the wights kill them, making heart extraction easier.
 
 **Loot Collection**: The party gathers trophies from the defeated perytons:
-- **Helisanna** takes antlers for stage decorations and potential mask-making
-- **Bru** collects various bones and skulls for props
-- **Elspeth** acquires feathers for her hair decoration project
+- **[Helisanna](/player-characters/Helisanna)** takes antlers for stage decorations and potential mask-making
+- **[Bru](/player-characters/Bru)** collects various bones and skulls for props
+- **[Elspeth](/player-characters/Elspeth)** acquires feathers for her hair decoration project
 
 ## Session Themes and Development
 
@@ -168,11 +168,11 @@ The party demonstrates improved tactical coordination, with members supporting e
 
 ### Character Moments
 
-**Red's Pacifist Struggles**: His reluctance to heal **Jasper** due to his Eldoran background shows ongoing character development around his beliefs versus practical necessity.
+**[Red](/player-characters/Red)'s Pacifist Struggles**: His reluctance to heal **[Jasper](/player-characters/Jasper)** due to his Eldoran background shows ongoing character development around his beliefs versus practical necessity.
 
-**Olivia's Heroism**: Her decision to rescue **Silas** rather than save herself demonstrates her protective nature and police background.
+**[Olivia](/player-characters/Olivia)'s Heroism**: Her decision to rescue **[Silas](/player-characters/Silas)** rather than save herself demonstrates her protective nature and police background.
 
-**Helisanna's Creativity**: Her use of **Command** to tactical advantage shows growing sophistication in spell usage.
+**[Helisanna](/player-characters/Helisanna)'s Creativity**: Her use of **Command** to tactical advantage shows growing sophistication in spell usage.
 
 **Team Bonding**: The various rescue operations and mutual support reinforce the party's growing trust and coordination.
 

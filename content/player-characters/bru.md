@@ -1,5 +1,5 @@
 ---
-title: "Felonias 'Bru' Bru"
+title: "Felonias Bru"
 date: "2024-08-05"
 description: "Chaotic goblin artificer with a love of explosives, fire, and mysterious beverages"
 summary: "Chaotic goblin artificer with a love of explosives, fire, and mysterious beverages"
@@ -8,7 +8,7 @@ featureimage: "bru.webp"
 
 ## Character Overview
 
-**Felonias "Bru" Bru** is a goblin Artificer (Artillerist) known for his chaotic energy, love of explosives, and obsession with a mysterious chunky alcoholic beverage called "Brown." Despite his unpredictable nature, he's a brilliant inventor and loyal friend.
+**Felonias [Bru](/player-characters/Bru)** is a goblin Artificer (Artillerist) known for his chaotic energy, love of explosives, and obsession with a mysterious chunky alcoholic beverage called "Brown." Despite his unpredictable nature, he's a brilliant inventor and loyal friend.
 
 ## Basic Information
 
@@ -20,7 +20,7 @@ featureimage: "bru.webp"
 
 ## Background
 
-Bru was formerly part of a criminal gang with [Silas](/player-characters/silas), participating in a heist that went wrong and resulted in the deaths of other gang members. This shared tragic past bonds him with [Silas](/player-characters/silas), though their relationship is often antagonistic on the surface.
+[Bru](/player-characters/Bru) was formerly part of a criminal gang with [[Silas](/player-characters/Silas)](/player-characters/silas), participating in a heist that went wrong and resulted in the deaths of other gang members. This shared tragic past bonds him with [[Silas](/player-characters/Silas)](/player-characters/silas), though their relationship is often antagonistic on the surface.
 
 ## Abilities and Equipment
 
@@ -47,7 +47,7 @@ Bru was formerly part of a criminal gang with [Silas](/player-characters/silas),
 ### Kevin (Homunculus)
 His loyal but high-strung mechanical servant who serves as comic relief and occasional sacrifice for dangerous tasks.
 
-### Silas Fairbanks
+### [Silas](/player-characters/Silas) Fairbanks
 Former partner in crime with a complex relationship built on shared trauma and mutual protection, despite frequent bickering.
 
 ### "Bru's Army"
@@ -57,12 +57,12 @@ A collection of magical creatures he's recruited:
 - Various other magical creatures attracted to his chaotic energy
 
 ### Crimson the Cardinal
-A mechanical cardinal familiar created as a memorial to Red, equipped with a jetpack instead of natural flight.
+A mechanical cardinal familiar created as a memorial to [Red](/player-characters/Red), equipped with a jetpack instead of natural flight.
 
 ## Signature Traits
 
 ### The Brown Obsession
-Bru is obsessed with a mysterious drink called "Brown" - described as a chunky, alcoholic beverage that he insists all alcohol should be. He frequently modifies drinks by adding dirt or other substances to make them "brown."
+[Bru](/player-characters/Bru) is obsessed with a mysterious drink called "Brown" - described as a chunky, alcoholic beverage that he insists all alcohol should be. He frequently modifies drinks by adding dirt or other substances to make them "brown."
 
 ### Explosive Solutions
 His go-to solution for most problems involves explosives, fireworks, or fire. This has led to both spectacular successes and dangerous mishaps.
@@ -71,15 +71,15 @@ His go-to solution for most problems involves explosives, fireworks, or fire. Th
 Despite his chaotic nature, he has shown surprising aptitude for organizing and leading his "army" of magical creatures.
 
 ### Technical Genius
-Behind the chaos, Bru is genuinely brilliant at magical engineering and has contributed to advanced projects including rocket ship modifications.
+Behind the chaos, [Bru](/player-characters/Bru) is genuinely brilliant at magical engineering and has contributed to advanced projects including rocket ship modifications.
 
 ## Character Development
 
 ### From Chaos to Leadership
-While maintaining his chaotic energy, Bru has grown into leadership roles, particularly with his magical creature army and technical projects.
+While maintaining his chaotic energy, [Bru](/player-characters/Bru) has grown into leadership roles, particularly with his magical creature army and technical projects.
 
 ### Loyalty and Protection
-His fierce loyalty to his friends, especially after Red's sacrifice, shows his deeper emotional connections beneath the comedic exterior.
+His fierce loyalty to his friends, especially after [Red](/player-characters/Red)'s sacrifice, shows his deeper emotional connections beneath the comedic exterior.
 
 ### Technical Innovation
 His inventions have become increasingly sophisticated, from simple fireworks to complex magical devices and theoretical rocket modifications.
@@ -92,7 +92,7 @@ His inventions have become increasingly sophisticated, from simple fireworks to 
 - Successful coordination of magical creatures in battle
 
 ### Technical Innovations
-- Advanced pyrotechnic systems for Helisanna's concerts
+- Advanced pyrotechnic systems for [Helisanna](/player-characters/Helisanna)'s concerts
 - Explosive fishing techniques that revolutionized local fishing
 - Contributions to rocket ship and advanced technology projects
 - Creation of memorial items and magical tattoos
@@ -104,7 +104,7 @@ His inventions have become increasingly sophisticated, from simple fireworks to 
 
 ## Current Status
 
-Bru continues to serve as the party's explosives expert and technical innovator, while maintaining his chaotic but loyal personality. His growing collection of magical creatures and increasing technical sophistication suggest continued character growth.
+[Bru](/player-characters/Bru) continues to serve as the party's explosives expert and technical innovator, while maintaining his chaotic but loyal personality. His growing collection of magical creatures and increasing technical sophistication suggest continued character growth.
 
 ### Current Projects
 - Managing and training his magical creature army

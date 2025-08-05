@@ -1,14 +1,14 @@
 ---
 title: "Skyhammer Clan"
-description: "Red's ancestral Goliath clan living in an advanced mountain settlement, building starships to combat the Eldoran Empire's cosmic dominance"
-summary: "Red's ancestral Goliath clan living in an advanced mountain settlement, building starships to combat the Eldoran Empire's cosmic dominance"
+description: "[Red](/player-characters/Red)'s ancestral Goliath clan living in an advanced mountain settlement, building starships to combat the Eldoran Empire's cosmic dominance"
+summary: "[Red](/player-characters/Red)'s ancestral Goliath clan living in an advanced mountain settlement, building starships to combat the Eldoran Empire's cosmic dominance"
 date: "2024-12-14"
 ---
 
 # Skyhammer Clan
 
 ## Overview
-The Skyhammer Clan is Red's (Thurnok Skyhammer's) ancestral Goliath community, survivors of an Imperial massacre who have rebuilt their civilization with advanced technology in a mountain stronghold atop Grimvar's Spine.
+The Skyhammer Clan is [Red](/player-characters/Red)'s (Thurnok Skyhammer's) ancestral Goliath community, survivors of an Imperial massacre who have rebuilt their civilization with advanced technology in a mountain stronghold atop Grimvar's Spine.
 
 ## Leadership
 
@@ -17,7 +17,7 @@ The Skyhammer Clan is Red's (Thurnok Skyhammer's) ancestral Goliath community, s
 - **Age**: Ancient, even by Goliath standards
 - **Responsibilities**: Overseeing the starship construction project and clan governance
 - **Knowledge**: Keeper of clan history and the secrets of bloodline-powered technology
-- **Personality**: Wise but burdened by the knowledge that their cosmic rebellion depends on Red's untested abilities
+- **Personality**: Wise but burdened by the knowledge that their cosmic rebellion depends on [Red](/player-characters/Red)'s untested abilities
 
 ## Settlement Description
 
@@ -55,16 +55,16 @@ The clan's most ambitious undertaking is constructing a spacecraft capable of re
 
 #### The Bloodline Problem
 - **Power Source**: Only someone of the main Skyhammer bloodline can power the spacecraft
-- **Lost Knowledge**: The specific method was known only to Red's birth parents
-- **The Trials**: Red must undergo the Worms Tunnel trials to unlock this ability or die in the attempt
+- **Lost Knowledge**: The specific method was known only to [Red](/player-characters/Red)'s birth parents
+- **The Trials**: [Red](/player-characters/Red) must undergo the Worms Tunnel trials to unlock this ability or die in the attempt
 
 ## Historical Background
 
 ### The Massacre
-When Red was an infant, Eldoran Knights attacked the Skyhammer village:
+When [Red](/player-characters/Red) was an infant, Eldoran Knights attacked the Skyhammer village:
 - **Warrior Losses**: Most of the clan's fighters were killed
 - **Intellectual Theft**: Scientists and technological knowledge were captured and taken
-- **Royal Escape**: Red's parents managed to hide him with the Cross family before being killed
+- **Royal Escape**: [Red](/player-characters/Red)'s parents managed to hide him with the Cross family before being killed
 - **Survivor Rebuilding**: The remaining clan members rebuilt in their current mountain location
 
 ### The Skyhammer Program
@@ -105,15 +105,15 @@ The Skyhammer clan has developed a unique culture that balances:
 ## The Worms Tunnel Trials
 
 ### Purpose
-- **Bloodline Verification**: Proving Red's legitimate royal heritage
+- **Bloodline Verification**: Proving [Red](/player-characters/Red)'s legitimate royal heritage
 - **Power Awakening**: Unlocking the hereditary abilities needed to power the starship
 - **Knowledge Recovery**: Potentially recovering the lost understanding of bloodline technology
 - **Survival Test**: Only true Skyhammer royalty can survive the trials
 
 ### The Stakes
-- **Success**: Red gains the ability to power their cosmic rebellion against Eldora
-- **Failure**: Red dies, and the clan loses their only hope of operating the starship
-- **Urgency**: Imperial knowledge of Red's survival makes time critical
+- **Success**: [Red](/player-characters/Red) gains the ability to power their cosmic rebellion against Eldora
+- **Failure**: [Red](/player-characters/Red) dies, and the clan loses their only hope of operating the starship
+- **Urgency**: Imperial knowledge of [Red](/player-characters/Red)'s survival makes time critical
 
 ## Relationships with the Party
 
@@ -124,16 +124,16 @@ The Skyhammer clan has developed a unique culture that balances:
 - **Strategic Partnership**: Mutual benefit in cosmic-scale conflict
 
 ### Concerns
-- **Red's Inexperience**: Uncertainty about his ability to survive the trials
+- **[Red](/player-characters/Red)'s Inexperience**: Uncertainty about his ability to survive the trials
 - **Outside Influence**: Concern about non-Goliath party members' motivations
-- **Imperial Threats**: Fear that Red's location may be compromised
+- **Imperial Threats**: Fear that [Red](/player-characters/Red)'s location may be compromised
 - **Timeline Pressure**: Urgency to complete trials before Imperial retaliation
 
 ## Campaign Significance
-The Skyhammer clan represents both Red's personal destiny and the broader resistance against Eldoran cosmic dominance. Their advanced technology and strategic position make them crucial allies in the escalating conflict, while Red's trials will determine whether the resistance gains the capability to challenge the Empire's space-based supremacy.
+The Skyhammer clan represents both [Red](/player-characters/Red)'s personal destiny and the broader resistance against Eldoran cosmic dominance. Their advanced technology and strategic position make them crucial allies in the escalating conflict, while [Red](/player-characters/Red)'s trials will determine whether the resistance gains the capability to challenge the Empire's space-based supremacy.
 
 ## Future Implications
 - **Cosmic Warfare**: Potential for space-based battles against Eldoran forces
 - **Technology Sharing**: Advanced clan knowledge could benefit the broader resistance
-- **Royal Destiny**: Red's acceptance or rejection of his heritage will shape his character arc
+- **Royal Destiny**: [Red](/player-characters/Red)'s acceptance or rejection of his heritage will shape his character arc
 - **Strategic Alliance**: The clan could become a major base of operations for anti-Imperial activities

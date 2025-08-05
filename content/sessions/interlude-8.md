@@ -18,12 +18,12 @@ The party experiences a surreal dream sequence where they're transformed into co
 After settling in for the evening at a tavern, the party falls into an unnaturally deep sleep. They awaken bound and gagged in what appears to be a kitchen, having been shrunk down to ingredient size. Each party member discovers they've been transformed into food items with special abilities:
 
 **Food Transformations**:
-- **Bru**: **Fermented Garlic Bulb** - Bold, stinky, aged to perfection and packing a punch
-- **Elspeth**: **Spiced Turnip Root** - Humble, earthy root with a sharp kick
-- **Jasper**: **Cured Wyvern Jerky** - Wrinkly, meat-smelling, tough and preserved
-- **Silas**: **Ashen Hell Pepper** - Scorched with black veins, grown in volcanic soil, causes hallucinations
-- **Helisanna**: **Aged Moon Milk Cheese** - Fine like wine, complex and aromatic
-- **Olivia**: **Celestial Prawn of the Ninth Sea** - The most special ingredient (rolled highest)
+- **[Bru](/player-characters/Bru)**: **Fermented Garlic Bulb** - Bold, stinky, aged to perfection and packing a punch
+- **[Elspeth](/player-characters/Elspeth)**: **Spiced Turnip Root** - Humble, earthy root with a sharp kick
+- **[Jasper](/player-characters/Jasper)**: **Cured Wyvern Jerky** - Wrinkly, meat-smelling, tough and preserved
+- **[Silas](/player-characters/Silas)**: **Ashen Hell Pepper** - Scorched with black veins, grown in volcanic soil, causes hallucinations
+- **[Helisanna](/player-characters/Helisanna)**: **Aged Moon Milk Cheese** - Fine like wine, complex and aromatic
+- **[Olivia](/player-characters/Olivia)**: **Celestial Prawn of the Ninth Sea** - The most special ingredient (rolled highest)
 
 ### The Cooking Show Setup
 
@@ -46,34 +46,34 @@ The first challenge takes place in a massive wok pan with fires raging around th
 
 ### Combat Highlights
 
-**Opening Assault**: **Helisanna** dominates with **Eldritch Blast**, knocking the golem back and dealing fire damage as it bounces off the wok sides.
+**Opening Assault**: **[Helisanna](/player-characters/Helisanna)** dominates with **Eldritch Blast**, knocking the golem back and dealing fire damage as it bounces off the wok sides.
 
 **Coordinated Attacks**: The party demonstrates excellent teamwork:
-- **Olivia** delivers devastating blows with her battle axe and **Divine Smite**
-- **Silas** eliminates enemies with precision psychic dagger strikes
-- **Bru** provides artillery support with his **Eldritch Cannon**
-- **Elspeth** contributes consistent damage despite lacking her usual equipment
+- **[Olivia](/player-characters/Olivia)** delivers devastating blows with her battle axe and **Divine Smite**
+- **[Silas](/player-characters/Silas)** eliminates enemies with precision psychic dagger strikes
+- **[Bru](/player-characters/Bru)** provides artillery support with his **Eldritch Cannon**
+- **[Elspeth](/player-characters/Elspeth)** contributes consistent damage despite lacking her usual equipment
 
 **Environmental Hazards**: As the combat progresses, the wok begins heating up, forcing dexterity saves to avoid fire damage from falling vegetables and hot surfaces.
 
-**Finishing Moves**: **Olivia** and **Jasper** coordinate to deliver the killing blow to the chili basil golem through spectacular teamwork.
+**Finishing Moves**: **[Olivia](/player-characters/Olivia)** and **[Jasper](/player-characters/Jasper)** coordinate to deliver the killing blow to the chili basil golem through spectacular teamwork.
 
 ## Round Two: La Cocina Combativa
 
 ### The Colosseum Arena
 
 The second round moves to an Italian-themed Colosseum with marinara sauce replacing lava in a checkerboard pattern. The arena features:
-- Red marinara "lava" squares that deal fire damage
+- [Red](/player-characters/Red) marinara "lava" squares that deal fire damage
 - Obstacles in the form of rolling meatballs
 - Various sauce types with different effects flooding the gutters
 
 ### The Rescue Mission
 
-**Red's Predicament**: **Silas** spots their missing party member **Red**, transformed into a **red leek**, bound and unconscious on a **crostini** (small bread) at the far end of the arena.
+**[Red](/player-characters/Red)'s Predicament**: **[Silas](/player-characters/Silas)** spots their missing party member **[Red](/player-characters/Red)**, transformed into a **red leek**, bound and unconscious on a **crostini** (small bread) at the far end of the arena.
 
-**The Bomb Threat**: **Olivia** investigates the area and discovers a **pit bomb** (olive with explosives) hidden behind the crostini with a burning wick.
+**The Bomb Threat**: **[Olivia](/player-characters/Olivia)** investigates the area and discovers a **pit bomb** (olive with explosives) hidden behind the crostini with a burning wick.
 
-**Kevin's Sacrifice**: **Bru's** homunculus **Kevin** attempts to defuse the bomb but fails spectacularly, resulting in his explosion. The announcer assures everyone Kevin is safe but "out of the running" for now.
+**Kevin's Sacrifice**: **[Bru](/player-characters/Bru)'s** homunculus **Kevin** attempts to defuse the bomb but fails spectacularly, resulting in his explosion. The announcer assures everyone Kevin is safe but "out of the running" for now.
 
 ### The Pasta Hydra Battle
 
@@ -84,18 +84,18 @@ The second round moves to an Italian-themed Colosseum with marinara sauce replac
 ### Epic Combat Sequence
 
 **Multi-Front Battle**: The party faces threats from multiple directions:
-- **Silas** climbs to the upper levels to engage olive assassins with spectacular knife throws
-- **Olivia**, **Jasper**, and **Bru** engage the pasta hydra in melee combat
-- **Helisanna** and **Elspeth** provide ranged support
+- **[Silas](/player-characters/Silas)** climbs to the upper levels to engage olive assassins with spectacular knife throws
+- **[Olivia](/player-characters/Olivia)**, **[Jasper](/player-characters/Jasper)**, and **[Bru](/player-characters/Bru)** engage the pasta hydra in melee combat
+- **[Helisanna](/player-characters/Helisanna)** and **[Elspeth](/player-characters/Elspeth)** provide ranged support
 
 **Hydra Mechanics**: The creature demonstrates classic hydra behavior - when heads are severed, two grow back in their place, escalating from five heads to eventually ten heads during the battle.
 
 **Critical Moments**:
-- **Olivia** gets her axe stuck in the creature but rips it free with determination
-- **Jasper** demonstrates incredible luck with multiple critical hits throughout the combat
-- **Silas** saves **Helisanna** from a green olive assassin with precise dagger throws
+- **[Olivia](/player-characters/Olivia)** gets her axe stuck in the creature but rips it free with determination
+- **[Jasper](/player-characters/Jasper)** demonstrates incredible luck with multiple critical hits throughout the combat
+- **[Silas](/player-characters/Silas)** saves **[Helisanna](/player-characters/Helisanna)** from a green olive assassin with precise dagger throws
 
-**Final Victory**: **Silas** delivers the killing blow by throwing a psychic dagger down the creature's throat, causing it to slice through the hydra from the inside.
+**Final Victory**: **[Silas](/player-characters/Silas)** delivers the killing blow by throwing a psychic dagger down the creature's throat, causing it to slice through the hydra from the inside.
 
 ## Judge Reactions and Intermission
 
@@ -124,9 +124,9 @@ The party demonstrates excellent tactical coordination despite being transformed
 ### Equipment Adaptations
 
 Players adapt to their transformed states:
-- **Silas** can still create psychic daggers
-- **Olivia** maintains her battle axe (apparently sleeping with it)
-- **Elspeth** shoots "toothpicks" instead of bolts for flavor
+- **[Silas](/player-characters/Silas)** can still create psychic daggers
+- **[Olivia](/player-characters/Olivia)** maintains her battle axe (apparently sleeping with it)
+- **[Elspeth](/player-characters/Elspeth)** shoots "toothpicks" instead of bolts for flavor
 - Spell abilities remain largely intact
 
 ## Session Themes and Style

@@ -11,7 +11,7 @@ date: "2025-01-01"
 
 ## 1. **Iron Claws Gang** *(Session 7)*
 **Criminal Organization | Tunnel Controllers**
-Ruthless criminal syndicate led by Helja Ungart that controls access to escape tunnels and charges emergency tolls during crises. Known enemies of both Olivia (old nemesis) and Silas (who stole their valuable orb). Represents organized crime taking advantage of chaos and the dangerous criminal underworld the party must navigate.
+Ruthless criminal syndicate led by Helja Ungart that controls access to escape tunnels and charges emergency tolls during crises. Known enemies of both [Olivia](/player-characters/Olivia) (old nemesis) and [Silas](/player-characters/Silas) (who stole their valuable orb). Represents organized crime taking advantage of chaos and the dangerous criminal underworld the party must navigate.
 
 ## 2. **Eldoran Knights & Paladins** *(Session 8)*
 **Religious Military Force | Imperial Enforcers**
@@ -19,7 +19,7 @@ Armed religious zealots embedded with violaceous crystals who enforce Eldoran re
 
 ## 3. **Doomfall** *(Session 1)*
 **Metal Band | Cultural Phenomenon**
-Helisanna's electric lute-powered metal band that launched the party to fame with transcendent performances. Their concerts feature purple-eyed audiences, magical enhancement, and Bru's synchronized pyrotechnics. Represents the party's entry into celebrity culture and their platform for influence beyond adventuring.
+[Helisanna](/player-characters/Helisanna)'s electric lute-powered metal band that launched the party to fame with transcendent performances. Their concerts feature purple-eyed audiences, magical enhancement, and [Bru](/player-characters/Bru)'s synchronized pyrotechnics. Represents the party's entry into celebrity culture and their platform for influence beyond adventuring.
 
 ## 4. **Steven Guild** *(Session 1)*
 **Merchant Organization | Caravan Operators**
@@ -31,13 +31,13 @@ Network of traveling magical practitioners who respond to supernatural threats a
 
 ## 6. **The Common Mug Tavern** *(Session 10)*
 **Social Hub | Political Theater**
-Central gathering place in Milstrom that serves as tavern, meeting hall, and courthouse. Hosted Red Lennon's show trials and serves as the heart of community political discourse. Represents how local establishments become focal points for both social connection and political control.
+Central gathering place in Milstrom that serves as tavern, meeting hall, and courthouse. Hosted [Red](/player-characters/Red) Lennon's show trials and serves as the heart of community political discourse. Represents how local establishments become focal points for both social connection and political control.
 
 ## 7. **High Forge Market Ward** *(Session 1)*
 **Dwarven Commercial District | Refugee Haven**
 The international trading sector of the dwarven city where foreigners are permitted to operate. Features the underground racing scene, entertainment venues, and serves as a cultural melting pot. Recently destroyed by dragon attacks, representing the vulnerability of cosmopolitan centers.
 
-## 8. **Red Lennon's Communist Collective** *(Session 10)*
+## 8. **[Red](/player-characters/Red) Lennon's Communist Collective** *(Session 10)*
 **Political Movement | Demonic Puppet State**
 Supernatural communist organization that took control of Milstrom through devil magic. Conducted show trials, demanded monthly sacrifices, and represented how legitimate political movements can be corrupted by supernatural forces. Demonstrates the intersection of ideology and otherworldly manipulation.
 
@@ -47,15 +47,15 @@ Faithful followers undertaking sacred missions to seal supernatural rifts and ma
 
 ## 10. **Underground Racing Circuit** *(Session 2)*
 **Illegal Sports Organization | High-Stakes Competition**
-Secretive racing league featuring 100+ participants in dangerous vehicle competitions. Includes roles for racers, mechanics, spotters, saboteurs, and law influencers. Represents underground culture, high-risk entertainment, and Elspeth's path back to professional recognition.
+Secretive racing league featuring 100+ participants in dangerous vehicle competitions. Includes roles for racers, mechanics, spotters, saboteurs, and law influencers. Represents underground culture, high-risk entertainment, and [Elspeth](/player-characters/Elspeth)'s path back to professional recognition.
 
-## 11. **Bru's Army** *(Session 14)*
+## 11. **[Bru](/player-characters/Bru)'s Army** *(Session 14)*
 **Magical Creature Military | Chaotic Good Organization**
-Growing collection of magical beings following Bru's leadership, including dimensional-shifting lambs, magical sheep, and potentially entire village populations. Features "upper middle management" positions and an army chef. Represents Bru's unexpected leadership abilities and growing influence.
+Growing collection of magical beings following [Bru](/player-characters/Bru)'s leadership, including dimensional-shifting lambs, magical sheep, and potentially entire village populations. Features "upper middle management" positions and an army chef. Represents [Bru](/player-characters/Bru)'s unexpected leadership abilities and growing influence.
 
 ## 12. **Church of Tyr** *(Session 3)*
 **Religious Institution | Justice System**
-Official religious organization that doubles as courthouse and legal authority. Provides sanctuary, official documentation, and moral guidance while struggling with the implications of divine justice versus mercy. Red's spiritual foundation and moral anchor in an increasingly chaotic world.
+Official religious organization that doubles as courthouse and legal authority. Provides sanctuary, official documentation, and moral guidance while struggling with the implications of divine justice versus mercy. [Red](/player-characters/Red)'s spiritual foundation and moral anchor in an increasingly chaotic world.
 
 ## 13. **Eldoran Space Force** *(Session 16)*
 **Military Space Program | Cosmic Defense**
@@ -67,7 +67,7 @@ Criminal organization mentioned in George's Project Purple Patch documentation. 
 
 ## 15. **Gaines Brewery Bakery and Bankery** *(Session 18)*
 **Family Business | Multi-Service Enterprise**
-Jasper's family business in Eldora offering VIP experiences combining brewing, baking, and banking services. The party received tickets that may provide future access to Eldoran territory and economic opportunities. Represents legitimate business success within the Empire.
+[Jasper](/player-characters/Jasper)'s family business in Eldora offering VIP experiences combining brewing, baking, and banking services. The party received tickets that may provide future access to Eldoran territory and economic opportunities. Represents legitimate business success within the Empire.
 
 ## 16. **The Golden Knights** *(Session 7)*
 **Mysterious Protectors | Dragon Fighters**

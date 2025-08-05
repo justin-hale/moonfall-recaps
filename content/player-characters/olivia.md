@@ -8,7 +8,7 @@ featureimage: "olivia.webp"
 
 ## Character Overview
 
-**Retired Detective Olivia Cooper** is a dwarf Paladin (Oath of Devotion) and former police detective whose investigative expertise and divine combat abilities make her the party's moral compass and tactical leader.
+**Retired Detective [Olivia](/player-characters/Olivia) Cooper** is a dwarf Paladin (Oath of Devotion) and former police detective whose investigative expertise and divine combat abilities make her the party's moral compass and tactical leader.
 
 ## Basic Information
 
@@ -16,12 +16,12 @@ featureimage: "olivia.webp"
 - **Class**: Paladin (Oath of Devotion)
 - **Player**: Ellis
 - **Profession**: Former Police Detective
-- **Family**: Related to Elspeth Cooper, has a missing grandson named George
+- **Family**: Related to [Elspeth](/player-characters/Elspeth) Cooper, has a missing grandson named George
 - **First Appearance**: Session 1
 
 ## Background
 
-Olivia served as a police detective before retirement, developing exceptional investigative skills and a strong sense of justice. Her personal mission to find her missing grandson George initially drove her involvement with the party, but she has since become deeply committed to their shared adventures.
+[Olivia](/player-characters/Olivia) served as a police detective before retirement, developing exceptional investigative skills and a strong sense of justice. Her personal mission to find her missing grandson George initially drove her involvement with the party, but she has since become deeply committed to their shared adventures.
 
 ### Personal Tragedy
 Her husband died in a cupcake explosion at his bakery, a traumatic memory that affects her deeply and represents the kind of senseless loss that drives her pursuit of justice.
@@ -95,7 +95,7 @@ Became the party's unofficial moral leader and strategic planner, particularly d
 
 ### Investigative Successes
 - **George's Rescue**: Successfully tracked and rescued her grandson from the Shadowfell
-- **Murder Mystery Solving**: Uncovered the truth behind Red's parents' deaths
+- **Murder Mystery Solving**: Uncovered the truth behind [Red](/player-characters/Red)'s parents' deaths
 - **Criminal Network Exposure**: Revealed connections between various criminal organizations
 - **Evidence Analysis**: Consistently provides crucial intelligence through investigation
 
@@ -112,11 +112,11 @@ Became the party's unofficial moral leader and strategic planner, particularly d
 
 ## Current Status
 
-Olivia continues to serve as the party's investigative specialist and moral compass while managing her complex feelings about George's association with the Twilight Company.
+[Olivia](/player-characters/Olivia) continues to serve as the party's investigative specialist and moral compass while managing her complex feelings about George's association with the Twilight Company.
 
 ### Equipment Status
 - **Detective Tools**: Magnifying glass and other investigative equipment
-- **Propulsion Shield**: Magical shield from Bru that pushes attackers away
+- **Propulsion Shield**: Magical shield from [Bru](/player-characters/Bru) that pushes attackers away
 - **Quilted Blankets**: Gifts from Magnolia representing comfort and community
 - **Battle Axe**: Enhanced through various magical effects and divine blessings
 
@@ -132,9 +132,9 @@ Olivia continues to serve as the party's investigative specialist and moral comp
 
 ## Notable Quotes and Moments
 
-- **Professional Introduction**: Insists on being called "Retired Detective Olivia Cooper" rather than first names
+- **Professional Introduction**: Insists on being called "Retired Detective [Olivia](/player-characters/Olivia) Cooper" rather than first names
 - **Zone of Truth Interrogations**: Consistently effective at extracting crucial information from suspects
 - **Wrestling Excellence**: Multiple instances of defeating opponents through grappling despite her age
 - **Moral Clarity**: Provides uncompromising ethical guidance during complex situations
 
-Olivia represents the intersection of mundane investigative skills and divine purpose, showing how professional dedication to justice can evolve into literal divine calling. Her combination of practical detective work and supernatural combat abilities makes her uniquely effective at both solving mysteries and fighting evil.
+[Olivia](/player-characters/Olivia) represents the intersection of mundane investigative skills and divine purpose, showing how professional dedication to justice can evolve into literal divine calling. Her combination of practical detective work and supernatural combat abilities makes her uniquely effective at both solving mysteries and fighting evil.

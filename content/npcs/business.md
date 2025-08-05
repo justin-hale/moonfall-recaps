@@ -21,7 +21,7 @@ Elite talent agent who scouts underground venues for exceptional performers, spe
 
 **Session Appearances:**
 
-- **Session 1:** First encounter scouting Helisanna at The Little Hovel underground metal venue
+- **Session 1:** First encounter scouting [Helisanna](/player-characters/Helisanna) at The Little Hovel underground metal venue
 - **Session 5:** Negotiates and delivers major 10,000 gold contract for Forge Heart concert
 - **Multiple references:** Maintains ongoing business relationship with Doomfall band management
 
@@ -35,10 +35,10 @@ Elite talent agent who scouts underground venues for exceptional performers, spe
 
 **Relationships with Player Characters:**
 
-- **Helisanna:** Primary client with exclusive representation for major performance opportunities
-- **Silas:** Conducts all business negotiations and contract management through him as band manager
-- **The Party (Collective):** Views them as Helisanna's support team and security for high-profile events
-- **Bru:** Appreciates his technical pyrotechnic contributions to performances
+- **[Helisanna](/player-characters/Helisanna):** Primary client with exclusive representation for major performance opportunities
+- **[Silas](/player-characters/Silas):** Conducts all business negotiations and contract management through him as band manager
+- **The Party (Collective):** Views them as [Helisanna](/player-characters/Helisanna)'s support team and security for high-profile events
+- **[Bru](/player-characters/Bru):** Appreciates his technical pyrotechnic contributions to performances
 
 **Major Contract Details:**
 The 10,000 gold Forge Heart contract represented significant industry breakthrough:
@@ -73,7 +73,7 @@ The 10,000 gold Forge Heart contract represented significant industry breakthrou
 - **Media Contacts:** Access to publicity and review networks
 - **Financial Backers:** Connections to investors interested in entertainment ventures
 
-**Current Status:** Continues managing Helisanna's entertainment career with access to increasingly prestigious venues and performance opportunities, represents pathway to major entertainment industry success.
+**Current Status:** Continues managing [Helisanna](/player-characters/Helisanna)'s entertainment career with access to increasingly prestigious venues and performance opportunities, represents pathway to major entertainment industry success.
 
 ---
 
@@ -121,9 +121,9 @@ Multi-faceted criminal entrepreneur who combines legitimate entertainment (radio
 
 **Relationships with Player Characters:**
 
-- **Elspeth:** Provided access to underground racing circuit and vehicle upgrade services
-- **Silas and Bru:** Successfully infiltrated his RV and stole criminal contract documentation
-- **The Party (Collective):** Awarded Elspeth magical rewards for racing victory while being robbed simultaneously
+- **[Elspeth](/player-characters/Elspeth):** Provided access to underground racing circuit and vehicle upgrade services
+- **[Silas](/player-characters/Silas) and [Bru](/player-characters/Bru):** Successfully infiltrated his RV and stole criminal contract documentation
+- **The Party (Collective):** Awarded [Elspeth](/player-characters/Elspeth) magical rewards for racing victory while being robbed simultaneously
 
 **Equipment and Resources:**
 
@@ -255,7 +255,7 @@ Operated neighborhood bodega providing essential goods and services to local com
 - **Session 2:** First mentioned as source of information about local criminal activities
 - **Session 7:** Evacuates with party during dragon attack, demonstrates community ties
 - **Session 8:** Establishes new shop location in Milstrom after evacuation
-- **Session 13:** Warned by Olivia about consequences of continued criminal involvement
+- **Session 13:** Warned by [Olivia](/player-characters/Olivia) about consequences of continued criminal involvement
 
 **Criminal Network Involvement:**
 
@@ -267,7 +267,7 @@ Operated neighborhood bodega providing essential goods and services to local com
 
 **Relationships with Player Characters:**
 
-- **Olivia:** Devastating revelation of criminal activity in someone she trusted as neighborhood merchant
+- **[Olivia](/player-characters/Olivia):** Devastating revelation of criminal activity in someone she trusted as neighborhood merchant
 - **The Party (Collective):** Assisted during dragon attack evacuation, provided information and supplies
 - **Community Impact:** Represents betrayal of trust and corruption of local business networks
 
@@ -294,7 +294,7 @@ Operated neighborhood bodega providing essential goods and services to local com
 - **Fresh Start Opportunity:** Relocation provides chance to escape criminal entanglements
 - **Community Integration:** Successfully rebuilt business relationships in new location
 
-**Olivia's Moral Intervention:**
+**[Olivia](/player-characters/Olivia)'s Moral Intervention:**
 
 - **Trust Betrayal:** Her discovery of his criminal involvement deeply affected her detective instincts
 - **Stern Warning:** Made clear that continued criminal activity would not be tolerated
@@ -309,14 +309,14 @@ Operated neighborhood bodega providing essential goods and services to local com
 - **Ongoing Vigilance:** Under informal monitoring to ensure continued legal compliance
 - **Economic Success:** Demonstrates ability to succeed through legitimate means
 
-**Character Development and Redemption:**
+**Character Development and [Red](/player-characters/Red)emption:**
 
 - **Forced Criminality:** Represents merchants coerced into illegal activities
 - **Second Chances:** Shows possibility of legitimate business success after criminal entanglement
 - **Community Impact:** His redemption demonstrates importance of supporting reformed individuals
 - **Trust Rebuilding:** Working to restore community confidence through consistent legitimate operation
 
-**Current Status:** Successfully operates legitimate business in Milstrom under Olivia's moral guidance, represents reformed merchant maintaining legal operations while avoiding criminal networks.
+**Current Status:** Successfully operates legitimate business in Milstrom under [Olivia](/player-characters/Olivia)'s moral guidance, represents reformed merchant maintaining legal operations while avoiding criminal networks.
 
 ---
 
@@ -397,7 +397,7 @@ Inherited Lotus Hotel and Casino from successful family line, though he lacks th
 
 **Session Appearances:**
 
-- **Session 8:** Provides Elspeth with 20 spare car parts and negotiates sponsorship deal
+- **Session 8:** Provides [Elspeth](/player-characters/Elspeth) with 20 spare car parts and negotiates sponsorship deal
 
 **Business Operations:**
 
@@ -411,7 +411,7 @@ Inherited Lotus Hotel and Casino from successful family line, though he lacks th
 - **Discounted Parts:** Provides ongoing discounts on vehicle components and modifications
 - **Brand Promotion:** Party agrees to promote Trevor's brand through racing activities
 - **Marketing Partnership:** Mutual benefit arrangement combining discount pricing with advertising
-- **Racing Support:** Ongoing technical support for Elspeth's racing career
+- **Racing Support:** Ongoing technical support for [Elspeth](/player-characters/Elspeth)'s racing career
 
 **Services Provided:**
 
@@ -483,7 +483,7 @@ Inherited Lotus Hotel and Casino from successful family line, though he lacks th
 
 **Professional Role:** Manages spa operations including maintenance, cleaning, and customer service. Demonstrates strong work ethic while balancing single parenthood responsibilities.
 
-**Personal Achievement:** Successfully maintains long-distance relationship with Silas despite demanding work schedule and childcare responsibilities.
+**Personal Achievement:** Successfully maintains long-distance relationship with [Silas](/player-characters/Silas) despite demanding work schedule and childcare responsibilities.
 
 ### Click and Clack - Professional Security
 

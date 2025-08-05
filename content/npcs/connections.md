@@ -8,38 +8,38 @@ featureimage: "family.webp"
 
 The beloved family members, romantic interests, and personal relationships that provide emotional stakes and drive character development throughout the campaign.
 
-## George - Olivia's Beloved Grandson
+## George - [Olivia](/player-characters/Olivia)'s Beloved Grandson
 
 **First Appearance:** Session 2 - "A Rock Show And A Briefcase" (mentioned as missing)  
 **Race:** Human (young adult)  
 **Profession:** Student/Researcher, Twilight Company Associate  
-**Affiliations:** Project Purple Patch investigation, Olivia's family, Finnegan's mentorship
+**Affiliations:** Project Purple Patch investigation, [Olivia](/player-characters/Olivia)'s family, Finnegan's mentorship
 
 **Physical Description:** Intelligent young man in his early twenties with curiosity about supernatural threats and dedication to protecting innocent people. Carries research materials and journals documenting his investigations.
 
 **Family Background and Relationship:**
-George represents Olivia's primary emotional anchor and motivation for many adventures. Their grandmother-grandson relationship demonstrates deep family bonds and mutual respect despite generational differences in approach to dangerous situations.
+George represents [Olivia](/player-characters/Olivia)'s primary emotional anchor and motivation for many adventures. Their grandmother-grandson relationship demonstrates deep family bonds and mutual respect despite generational differences in approach to dangerous situations.
 
 **Session Appearances:**
-- **Session 2:** First mentioned as missing, driving Olivia's desperate investigation
+- **Session 2:** First mentioned as missing, driving [Olivia](/player-characters/Olivia)'s desperate investigation
 - **Session 3:** His lockbox and journals discovered, revealing Project Purple Patch involvement and supernatural research
 - **Session 15-16:** Found trapped in Shadowfell during pilgrimage mission, rescued by party
-- **Session 16:** Emotional reunion with Olivia, reveals his activities and growing competence
+- **Session 16:** Emotional reunion with [Olivia](/player-characters/Olivia), reveals his activities and growing competence
 - **Session 17:** Provides enthusiastic exposition about Goliath clan research and historical context
 
 **Personal Development and Growth:**
 - **Academic Interest:** Genuine fascination with supernatural threats and historical research
 - **Moral Courage:** Willing to investigate dangerous situations to protect innocent people  
-- **Family Loyalty:** Deep love and respect for Olivia despite her concerns about his activities
+- **Family Loyalty:** Deep love and respect for [Olivia](/player-characters/Olivia) despite her concerns about his activities
 - **Professional Growth:** Transition from naive civilian to capable investigator and researcher
 - **Generational Perspective:** Comfortable with "shady" organizations when they serve greater good
 
 **Relationships with Other Characters:**
-- **Olivia:** Primary family relationship providing emotional motivation and protective instincts
+- **[Olivia](/player-characters/Olivia):** Primary family relationship providing emotional motivation and protective instincts
 - **Finnegan:** Mentor who taught him various skills including practical and social abilities
 - **Father Jacob:** Professional colleague during pilgrimage mission to close Shadowfell rifts
 - **The Party:** Grateful for rescue, impressed by their heroic actions and effectiveness
-- **Silas:** Amused rather than angry when pickpocketed during reunion (test of awareness)
+- **[Silas](/player-characters/Silas):** Amused rather than angry when pickpocketed during reunion (test of awareness)
 
 **Project Purple Patch Involvement:**
 - **Research Mission:** Investigation into missing Tyr pilgrims and supernatural disturbances
@@ -55,7 +55,7 @@ George represents Olivia's primary emotional anchor and motivation for many adve
 - **Survival Instincts:** Demonstrated ability to survive supernatural threats and dangerous situations
 - **Team Coordination:** Works effectively with various groups including religious and resistance organizations
 
-**Current Status:** Continues research and investigation work while maintaining close relationship with Olivia, represents successful rescue mission and family reunification.
+**Current Status:** Continues research and investigation work while maintaining close relationship with [Olivia](/player-characters/Olivia), represents successful rescue mission and family reunification.
 
 ---
 
@@ -103,7 +103,7 @@ The Embermore family represents successful inter-species integration with Goliat
 
 **Personal Trauma and Recovery:**
 - **Relationship Betrayal:** Discovered his "wife" was shapeshifting fiend using him for inheritance access
-- **Red Flag Recognition:** Realized numerous warning signs he had ignored about Iridesa's behavior
+- **[Red](/player-characters/Red) Flag Recognition:** Realized numerous warning signs he had ignored about Iridesa's behavior
 - **Family Guilt:** Felt responsible for allowing night hag into family circle
 - **Emotional Healing:** Required support from family during recovery from manipulation
 
@@ -130,16 +130,16 @@ The Embermore family represents successful inter-species integration with Goliat
 **Race:** Elf (twin sisters)  
 **Age:** Young adults  
 **Profession:** Students/Artists  
-**Relationships:** Family members, Helisanna fans
+**Relationships:** Family members, [Helisanna](/player-characters/Helisanna) fans
 
 **Personal Characteristics:**
 - **Gothic Aesthetic:** Distinctive dark clothing and artistic sensibilities
-- **Musical Appreciation:** Immediate fans of Helisanna's metal music
+- **Musical Appreciation:** Immediate fans of [Helisanna](/player-characters/Helisanna)'s metal music
 - **Twin Bond:** Close relationship and shared interests
 - **Family Integration:** Well-integrated into multi-generational family structure
 
 **Connection to Party:**
-- **Musical Fandom:** Enthusiastic appreciation for Helisanna's performance style
+- **Musical Fandom:** Enthusiastic appreciation for [Helisanna](/player-characters/Helisanna)'s performance style
 - **Cultural Bridge:** Represent younger generation's openness to outside influences
 - **Artistic Interest:** Drawn to creative expression and alternative aesthetics
 
@@ -147,79 +147,79 @@ The Embermore family represents successful inter-species integration with Goliat
 
 ---
 
-## Marion and Robert Cross - Red's Adoptive Parents
+## Marion and Robert Cross - [Red](/player-characters/Red)'s Adoptive Parents
 
 **First Appearance:** Session 11 - "You Only Live Once" (journal revelation)  
 **Race:** Human  
 **Profession:** Farmers, Guardians, Tyr Followers  
-**Relationships:** Red's adoptive parents, Twilight Company allies, Community members
+**Relationships:** [Red](/player-characters/Red)'s adoptive parents, Twilight Company allies, Community members
 
 **Physical Description:** Not directly described but represented loving family who provided normal childhood despite cosmic dangers surrounding their adopted son.
 
 **Background and Sacrifice:**
-Marion and Robert Cross were Tyr followers who made ultimate sacrifice to protect infant prince from Eldoran persecution. Their decision to adopt Red and raise him as their own son demonstrates extraordinary courage and compassion.
+Marion and Robert Cross were Tyr followers who made ultimate sacrifice to protect infant prince from Eldoran persecution. Their decision to adopt [Red](/player-characters/Red) and raise him as their own son demonstrates extraordinary courage and compassion.
 
 **Heroic Actions and Secret Mission:**
-- **Child Rescue:** Participated in hiding Red from Eldoran forces after Skyhammer clan massacre
-- **Identity Protection:** Raised Red without revealing his royal heritage or cosmic significance
+- **Child Rescue:** Participated in hiding [Red](/player-characters/Red) from Eldoran forces after Skyhammer clan massacre
+- **Identity Protection:** Raised [Red](/player-characters/Red) without revealing his royal heritage or cosmic significance
 - **Twilight Company Cooperation:** Worked with resistance organization to protect valuable child
 - **Normal Childhood:** Provided loving family environment despite ongoing dangers
-- **Ultimate Sacrifice:** Died protecting Red's identity when spy discovered their secret
+- **Ultimate Sacrifice:** Died protecting [Red](/player-characters/Red)'s identity when spy discovered their secret
 
 **Relationships and Community Impact:**
-- **Red (Thurnok):** Provided unconditional love and normal childhood experience
+- **[Red](/player-characters/Red) (Thurnok):** Provided unconditional love and normal childhood experience
 - **Twilight Company:** Allied with resistance organization for greater good
 - **Milstrom Community:** Respected family members contributing to local society
 - **Skyhammer Clan:** Grateful allies who entrusted them with most precious member
 
 **The Murder and Discovery:**
-- **Zeke's Infiltration:** Eldoran spy discovered their role in hiding Red
+- **Zeke's Infiltration:** Eldoran spy discovered their role in hiding [Red](/player-characters/Red)
 - **Poisoning Murder:** Killed by well contamination to simulate illness rather than obvious assassination
 - **Cover-up Success:** Their deaths appeared natural until party's investigation
 - **Evidence Recovery:** Magnolia's testimony and Zeke's journal revealed true circumstances
 - **Justice Delayed:** Murder only solved years later through party's detective work
 
 **Legacy and Impact:**
-- **Character Formation:** Their love and protection shaped Red's compassionate nature
-- **Moral Foundation:** Provided ethical grounding that influenced Red's heroic choices
+- **Character Formation:** Their love and protection shaped [Red](/player-characters/Red)'s compassionate nature
+- **Moral Foundation:** Provided ethical grounding that influenced [Red](/player-characters/Red)'s heroic choices
 - **Family Values:** Demonstrated power of chosen family and unconditional love
 - **Sacrifice Recognition:** Their heroism eventually acknowledged through party's investigation
-- **Ongoing Influence:** Red's protective instincts reflect their loving parenting
+- **Ongoing Influence:** [Red](/player-characters/Red)'s protective instincts reflect their loving parenting
 
 **Marion's Journal Contents:**
-- **Red's True Identity:** Revealed he was Prince Thurnok Skyhammer
+- **[Red](/player-characters/Red)'s True Identity:** Revealed he was Prince Thurnok Skyhammer
 - **Skyhammer History:** Detailed information about clan massacre and royal lineage
 - **Hiding Mission:** Explained Twilight Company's role in protection operation
-- **Love Documentation:** Extensive records of Red's childhood and development
+- **Love Documentation:** Extensive records of [Red](/player-characters/Red)'s childhood and development
 - **Warning Signs:** Final entries about suspicious activities and growing danger
 
-**Current Legacy:** Their sacrifice and love continue to influence Red's character development and party's understanding of family bonds transcending blood relationships.
+**Current Legacy:** Their sacrifice and love continue to influence [Red](/player-characters/Red)'s character development and party's understanding of family bonds transcending blood relationships.
 
 ---
 
-## Naomi ("Muscle Mommy") - Silas's Romantic Interest
+## Naomi ("Muscle Mommy") - [Silas](/player-characters/Silas)'s Romantic Interest
 
 **First Appearance:** Interlude VII - "The Lotus Hotel Hangover"  
 **Race:** Half-Orc  
 **Profession:** Spa Worker, Single Mother  
-**Relationships:** Silas (romantic), Julius (son), Lotus Hotel staff
+**Relationships:** [Silas](/player-characters/Silas) (romantic), Julius (son), Lotus Hotel staff
 
 **Physical Description:** Muscular half-orc spa worker with impressive physical strength who maintains demanding job while caring for infant son as single mother.
 
 **Personal Background:**
-Single mother working in hospitality industry while raising young son Julius. Represents stable relationship possibility for Silas despite his criminal lifestyle and chaotic party associations.
+Single mother working in hospitality industry while raising young son Julius. Represents stable relationship possibility for [Silas](/player-characters/Silas) despite his criminal lifestyle and chaotic party associations.
 
 **Romantic Relationship Development:**
-- **Initial Meeting:** Met Silas during party's casino vacation when spa was damaged by explosive incident
-- **Romantic Connection:** Successfully wooed by drunk Silas despite his typical social awkwardness
+- **Initial Meeting:** Met [Silas](/player-characters/Silas) during party's casino vacation when spa was damaged by explosive incident
+- **Romantic Connection:** Successfully wooed by drunk [Silas](/player-characters/Silas) despite his typical social awkwardness
 - **Ongoing Relationship:** Maintains long-distance contact through sending stone communication
-- **Contact Information:** Saved in Silas's magical communication device as "Muscle Mommy"
-- **Character Growth:** Represents Silas's capacity for genuine emotional connection beyond criminal activities
+- **Contact Information:** Saved in [Silas](/player-characters/Silas)'s magical communication device as "Muscle Mommy"
+- **Character Growth:** Represents [Silas](/player-characters/Silas)'s capacity for genuine emotional connection beyond criminal activities
 
 **Session Appearances:**
 - **Interlude VII:** First meeting during spa incident, romantic connection established
 - **Multiple references:** Ongoing relationship maintained through magical communication
-- **Character Development:** Represents Silas's personal growth and emotional maturity
+- **Character Development:** Represents [Silas](/player-characters/Silas)'s personal growth and emotional maturity
 
 **Family Situation:**
 - **Single Parenthood:** Raises son Julius while maintaining demanding spa work
@@ -234,18 +234,18 @@ Single mother working in hospitality industry while raising young son Julius. Re
 - **Future Planning:** Building stable life for son while maintaining romantic relationship
 
 **Connection to Party:**
-- **Silas's Development:** Represents his emotional growth and capacity for lasting relationships
-- **Social Integration:** Provides Silas with connections beyond criminal and adventuring circles
+- **[Silas](/player-characters/Silas)'s Development:** Represents his emotional growth and capacity for lasting relationships
+- **Social Integration:** Provides [Silas](/player-characters/Silas) with connections beyond criminal and adventuring circles
 - **Stability Factor:** Offers possibility of normal life and family connections
-- **Character Anchor:** Gives Silas personal investment in survival and responsible behavior
+- **Character Anchor:** Gives [Silas](/player-characters/Silas) personal investment in survival and responsible behavior
 
 **Communication and Relationship Maintenance:**
 - **Magical Contact:** Regular communication through sending stone technology
-- **Distance Challenges:** Manages relationship despite Silas's dangerous travel schedule
-- **Personal Acceptance:** Comfortable with Silas's unconventional lifestyle and associations
+- **Distance Challenges:** Manages relationship despite [Silas](/player-characters/Silas)'s dangerous travel schedule
+- **Personal Acceptance:** Comfortable with [Silas](/player-characters/Silas)'s unconventional lifestyle and associations
 - **Future Potential:** Relationship represents possibility of long-term commitment and family
 
-**Current Status:** Continues working at Lotus Hotel while maintaining romantic relationship with Silas through magical communication, represents stable personal connection for party member.
+**Current Status:** Continues working at Lotus Hotel while maintaining romantic relationship with [Silas](/player-characters/Silas) through magical communication, represents stable personal connection for party member.
 
 ---
 
@@ -314,31 +314,31 @@ Bori's family represents innocent civilians caught in supernatural circumstances
 
 ---
 
-## The Children of Jasper's Business
+## The Children of [Jasper](/player-characters/Jasper)'s Business
 
-**First Appearance:** Winter Solstice Special (mentioned in Jasper's background)  
+**First Appearance:** Winter Solstice Special (mentioned in [Jasper](/player-characters/Jasper)'s background)  
 **Location:** Eldoran - Gaines Brewery, Bakery, and Bankery  
-**Relationship:** Dependents of Jasper's family business  
-**Significance:** Primary motivation for Jasper's return home
+**Relationship:** Dependents of [Jasper](/player-characters/Jasper)'s family business  
+**Significance:** Primary motivation for [Jasper](/player-characters/Jasper)'s return home
 
 **Background and Business Relationship:**
-Children who depend on Jasper's unique combination business for essential services including food, financial services, and community support. Represent his civilian responsibilities and connections to normal life.
+Children who depend on [Jasper](/player-characters/Jasper)'s unique combination business for essential services including food, financial services, and community support. Represent his civilian responsibilities and connections to normal life.
 
-**Jasper's Protective Relationship:**
+**[Jasper](/player-characters/Jasper)'s Protective Relationship:**
 - **Community Service:** Provides essential services to vulnerable children
 - **Financial Support:** Banking services help families manage resources
 - **Food Security:** Bakery operations ensure consistent nutrition access
 - **Social Stability:** Business serves as community anchor and support system
-- **Personal Motivation:** Their welfare drives Jasper's decisions about military service vs. civilian life
+- **Personal Motivation:** Their welfare drives [Jasper](/player-characters/Jasper)'s decisions about military service vs. civilian life
 
 **Impact on Character Development:**
-- **Moral Compass:** Children's needs provide ethical framework for Jasper's choices
+- **Moral Compass:** Children's needs provide ethical framework for [Jasper](/player-characters/Jasper)'s choices
 - **Civilian Identity:** Represents life beyond military service and combat
 - **Community Responsibility:** Demonstrates commitment to protecting vulnerable populations
 - **Future Planning:** Influences decisions about continued adventuring vs. family business
 - **Personal Growth:** Shows capacity for nurturing and protective instincts
 
-**Current Status:** Continue depending on Jasper's business operations after his return from adventuring, represent successful transition from military to civilian protective role.
+**Current Status:** Continue depending on [Jasper](/player-characters/Jasper)'s business operations after his return from adventuring, represent successful transition from military to civilian protective role.
 
 ---
 
@@ -346,13 +346,13 @@ Children who depend on Jasper's unique combination business for essential servic
 
 ### The Skyhammer Royal Family
 
-**Relationship:** Red's birth family and royal heritage  
+**Relationship:** [Red](/player-characters/Red)'s birth family and royal heritage  
 **Leadership:** Elder Ragar and clan council  
 **Location:** Mountain stronghold with advanced technology  
-**Significance:** Red's cosmic destiny and bloodline importance
+**Significance:** [Red](/player-characters/Red)'s cosmic destiny and bloodline importance
 
 **Family Connections:**
-- **Royal Lineage:** Red as Prince Thurnok Skyhammer with hereditary responsibilities
+- **Royal Lineage:** [Red](/player-characters/Red) as Prince Thurnok Skyhammer with hereditary responsibilities
 - **Clan Loyalty:** Extended family network supporting technological advancement
 - **Bloodline Significance:** Genetic requirements for powering advanced spacecraft technology
 - **Sacrifice Expectations:** Family duty requiring ultimate personal sacrifice

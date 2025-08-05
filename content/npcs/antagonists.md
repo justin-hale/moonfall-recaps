@@ -25,10 +25,10 @@ The primary villains and cosmic threats that have shaped the party's journey, ra
 - **Multiple references:** Connected to party's nightmares and supernatural encounters throughout campaign
 
 **Relationships with Player Characters:**
-- **Helisanna:** Made direct bargain with her regarding Bori's fate, sealed with handshake creating potential future claims
+- **[Helisanna](/player-characters/Helisanna):** Made direct bargain with her regarding Bori's fate, sealed with handshake creating potential future claims
 - **The Party (Collective):** Views them as useful pawns in cosmic game, tests their moral choices and decision-making
-- **Bru:** Knows his name without introduction, suggesting supernatural awareness of party members
-- **Silas:** Recognized his "creepy voice" from unknown prior encounters
+- **[Bru](/player-characters/Bru):** Knows his name without introduction, suggesting supernatural awareness of party members
+- **[Silas](/player-characters/Silas):** Recognized his "creepy voice" from unknown prior encounters
 
 **Connections to Other NPCs:**
 - **Toonlock:** Primary antagonistic relationship - stole Toonlock's totem through ancient game, used it to invade his realm
@@ -67,18 +67,18 @@ The primary villains and cosmic threats that have shaped the party's journey, ra
 
 **Session Appearances:**
 - **Session 7:** First mentioned controlling tunnel access during dragon attack evacuation
-- **Session 11:** Referenced in connection with Silas's past criminal activities
+- **Session 11:** Referenced in connection with [Silas](/player-characters/Silas)'s past criminal activities
 - **Session 23:** Revealed as primary architect of bounty system targeting party members
 - **Session 24:** Confirmed as effective shadow ruler of High Forge operating under dragon authority
 
 **Relationships with Player Characters:**
-- **Silas:** Primary nemesis - he stole the cosmic dragon orb from her organization, earning largest bounty
-- **Olivia:** "Old nemesis" from Olivia's detective days, suggesting long history of cat-and-mouse games
-- **Bru:** Former gang member who participated in heist against her organization
-- **The Party (Collective):** All carry significant bounties, but views Silas as priority target
+- **[Silas](/player-characters/Silas):** Primary nemesis - he stole the cosmic dragon orb from her organization, earning largest bounty
+- **[Olivia](/player-characters/Olivia):** "Old nemesis" from [Olivia](/player-characters/Olivia)'s detective days, suggesting long history of cat-and-mouse games
+- **[Bru](/player-characters/Bru):** Former gang member who participated in heist against her organization
+- **The Party (Collective):** All carry significant bounties, but views [Silas](/player-characters/Silas) as priority target
 
 **Connections to Other NPCs:**
-- **"Everything" (Dragon):** Former possessor of communication orb before Silas's theft
+- **"Everything" (Dragon):** Former possessor of communication orb before [Silas](/player-characters/Silas)'s theft
 - **Roger and Bounty Hunters:** Employs extensive network to track and capture targets
 - **Iron Claws Organization:** Commands loyalty through combination of fear, respect, and profit-sharing
 - **Dragons:** Operates as human administrator for dragon-controlled High Forge
@@ -98,7 +98,7 @@ The primary villains and cosmic threats that have shaped the party's journey, ra
 - **Political Influence:** Works with occupying dragons while maintaining criminal independence
 - **Adaptive Leadership:** Successfully transitioned from independent crime lord to dragon administrator
 
-**Current Status:** Actively hunting party members with significant resources, particularly focused on recovering stolen dragon orb and eliminating Silas.
+**Current Status:** Actively hunting party members with significant resources, particularly focused on recovering stolen dragon orb and eliminating [Silas](/player-characters/Silas).
 
 ---
 
@@ -127,8 +127,8 @@ The primary villains and cosmic threats that have shaped the party's journey, ra
 - **Space-Based Power:** Ability to project force across solar system through satellite network
 
 **Relationships with Player Characters:**
-- **Jasper:** Former loyal soldier who deserted after moral awakening, now considers him traitor
-- **Red (Thurnok):** Primary target of systematic genocide against Skyhammer clan
+- **[Jasper](/player-characters/Jasper):** Former loyal soldier who deserted after moral awakening, now considers him traitor
+- **[Red](/player-characters/Red) (Thurnok):** Primary target of systematic genocide against Skyhammer clan
 - **The Party (Collective):** Views as obstacles to universal religious conversion
 - **Eric:** Elite champion who served as her direct representative and enforcer
 
@@ -167,37 +167,37 @@ The primary villains and cosmic threats that have shaped the party's journey, ra
 **Physical Description:** Maintained cover as ordinary local resident while conducting long-term surveillance. Lived in woodland cottage that served as safe house and communication center.
 
 **Session Appearances:**
-- **Session 11:** First mentioned in Magnolia's testimony about night of Red's parents' death
+- **Session 11:** First mentioned in Magnolia's testimony about night of [Red](/player-characters/Red)'s parents' death
 - **Session 13:** Cottage discovered, journal reveals full extent of crimes and recent escape
 
 **Relationships with Player Characters:**
-- **Red (Thurnok):** Primary target - murdered his adoptive parents and conducted surveillance for years
+- **[Red](/player-characters/Red) (Thurnok):** Primary target - murdered his adoptive parents and conducted surveillance for years
 - **The Party (Collective):** Subject of their investigation and pursuit for justice
-- **Olivia:** Her detective skills uncovered evidence of his espionage and murder
+- **[Olivia](/player-characters/Olivia):** Her detective skills uncovered evidence of his espionage and murder
 
 **Connections to Other NPCs:**
-- **Marion and Robert Cross:** Murdered Red's adoptive parents when they learned too much
-- **Magnolia Redguard:** Witnessed his departure from murder scene
+- **Marion and Robert Cross:** Murdered [Red](/player-characters/Red)'s adoptive parents when they learned too much
+- **Magnolia [Red](/player-characters/Red)guard:** Witnessed his departure from murder scene
 - **Eldoran Intelligence:** Reports to imperial spy network about Goliath movements
-- **Skyhammer Clan:** His intelligence contributed to imperial attacks on Red's people
+- **Skyhammer Clan:** His intelligence contributed to imperial attacks on [Red](/player-characters/Red)'s people
 
 **Criminal Activities and Methods:**
 - **Well Poisoning:** Contaminated family water supply to simulate illness rather than obvious murder
-- **Long-term Surveillance:** Monitored Red's development and Goliath clan movements in mountains
+- **Long-term Surveillance:** Monitored [Red](/player-characters/Red)'s development and Goliath clan movements in mountains
 - **Cover Maintenance:** Successfully posed as local resident for years without detection
 - **Intelligence Gathering:** Provided regular reports to Eldoran Empire about regional threats
-- **Witness Elimination:** Killed Red's parents when they discovered his true identity
+- **Witness Elimination:** Killed [Red](/player-characters/Red)'s parents when they discovered his true identity
 
 **Intelligence Operations:**
-- **Target Assessment:** Determined Red's significance to Skyhammer clan technology
+- **Target Assessment:** Determined [Red](/player-characters/Red)'s significance to Skyhammer clan technology
 - **Movement Tracking:** Monitored Goliath activities and technological development
 - **Threat Analysis:** Evaluated local resistance to imperial expansion
 - **Communication Networks:** Maintained contact with imperial intelligence services
 - **Escape Planning:** Prepared extraction routes and maintained operational security
 
 **Evidence of Crimes:**
-- **Murder Confession:** Journal explicitly describes poisoning Red's parents
-- **Surveillance Records:** Detailed observations of Red and Goliath movements
+- **Murder Confession:** Journal explicitly describes poisoning [Red](/player-characters/Red)'s parents
+- **Surveillance Records:** Detailed observations of [Red](/player-characters/Red) and Goliath movements
 - **Imperial Communications:** Evidence of ongoing contact with Eldoran spy network
 - **Escape Preparations:** Recent entries indicate awareness of exposure and flight preparations
 
@@ -207,7 +207,7 @@ The primary villains and cosmic threats that have shaped the party's journey, ra
 
 ## Red Lennon - The Infernal Commissar
 
-**First Appearance:** Session 10 - "The Red Scare"  
+**First Appearance:** Session 10 - "The [Red](/player-characters/Red) Scare"  
 **Race:** Devil (Likely Pit Fiend or Greater Devil specialized in political corruption)  
 **Profession:** Political Manipulator, Infernal Revolutionary, Diabolic Overlord  
 **Affiliations:** The Nine Hells, Milstrom Party apparatus, Corrupted political followers
@@ -222,19 +222,19 @@ The primary villains and cosmic threats that have shaped the party's journey, ra
 
 **Political Control Methods:**
 - **Show Trials:** Public tribunals resembling communist political persecution
-- **Red Armbands:** Visible symbols of allegiance worn by corrupted followers
+- **[Red](/player-characters/Red) Armbands:** Visible symbols of allegiance worn by corrupted followers
 - **Execution Schedules:** Used fear and violence to maintain control over dissidents
 - **Supernatural Corruption:** Enhanced normal political manipulation with infernal power
 - **Collective Identity:** Imposed revolutionary ideology through magical compulsion
 
 **Relationships with Player Characters:**
-- **Red (Thurnok):** Name created ironic parallel between good and evil versions of "Red"
+- **[Red](/player-characters/Red) (Thurnok):** Name created ironic parallel between good and evil versions of "[Red](/player-characters/Red)"
 - **The Party (Collective):** Their shrine cleansing directly disrupted his power base
-- **Olivia:** Her detective instincts recognized supernatural elements in political control
+- **[Olivia](/player-characters/Olivia):** Her detective instincts recognized supernatural elements in political control
 
 **Connections to Other NPCs:**
 - **Willemay Hargreave:** Primary political opponent sentenced to execution for dissent
-- **Roscoe:** Information broker who revealed Red Lennon's true diabolic nature
+- **Roscoe:** Information broker who revealed [Red](/player-characters/Red) Lennon's true diabolic nature
 - **Tobias and Citizens:** Successfully corrupted local population through supernatural influence
 - **Forest Devils:** Connected to shrine corruption that anchored his power
 
@@ -243,7 +243,7 @@ The primary villains and cosmic threats that have shaped the party's journey, ra
 - **Supernatural Compulsion:** Enhanced normal propaganda with diabolic mental influence
 - **Violence and Terror:** Combined political persecution with supernatural fear effects
 - **Environmental Corruption:** Linked personal power to shrine corruption in local forest
-- **Symbolic Control:** Red armbands and imagery created visible signs of diabolic allegiance
+- **Symbolic Control:** [Red](/player-characters/Red) armbands and imagery created visible signs of diabolic allegiance
 
 **Defeat and Aftermath:**
 - **Shrine Cleansing:** Party's actions severed connection between his power and environmental corruption
@@ -278,10 +278,10 @@ The primary villains and cosmic threats that have shaped the party's journey, ra
 - **Religious Fanaticism:** Divine fervor enhanced combat effectiveness and pain tolerance
 
 **Relationships with Player Characters:**
-- **Jasper:** Called for his military assistance against Goliaths, deeply betrayed when he refused
+- **[Jasper](/player-characters/Jasper):** Called for his military assistance against Goliaths, deeply betrayed when he refused
 - **The Party (Collective):** Multiple combat encounters establishing her as recurring military threat
-- **Olivia:** Received healing from her during cooperative shadow combat
-- **Red:** Indirectly targeted through systematic campaign against his clan
+- **[Olivia](/player-characters/Olivia):** Received healing from her during cooperative shadow combat
+- **[Red](/player-characters/Red):** Indirectly targeted through systematic campaign against his clan
 
 **Military Mission and Ideology:**
 - **Religious Supremacy:** Believed extinguishing other gods was necessary for Eldora's validity
@@ -298,8 +298,8 @@ The primary villains and cosmic threats that have shaped the party's journey, ra
 - **Intimidation Factor:** Reputation and appearance created psychological warfare advantages
 
 **Final Confrontation:**
-- **Skyhammer Assault:** Led attack on Red's ancestral village during technological crisis
-- **Jasper's Betrayal:** Shocked when former ally chose to fight against her
+- **Skyhammer Assault:** Led attack on [Red](/player-characters/Red)'s ancestral village during technological crisis
+- **[Jasper](/player-characters/Jasper)'s Betrayal:** Shocked when former ally chose to fight against her
 - **Party Coordination:** Defeated through combined tactical assault and healing coordination
 - **Equipment Recovery:** Her death provided party with advanced Eldoran technology
 
@@ -318,8 +318,8 @@ The primary villains and cosmic threats that have shaped the party's journey, ra
 
 **Session Appearances:**
 - **Session 7:** Dragon orb first mentioned as stolen item causing Iron Claws pursuit
-- **Session 11:** Olivia's contact with orb reveals cosmic entity that knows her name
-- **Session 24:** Direct extended communication established through Silas
+- **Session 11:** [Olivia](/player-characters/Olivia)'s contact with orb reveals cosmic entity that knows her name
+- **Session 24:** Direct extended communication established through [Silas](/player-characters/Silas)
 
 **Communication and Manipulation:**
 - **Telepathic Contact:** Speaks directly into minds of those touching communication orb
@@ -329,8 +329,8 @@ The primary villains and cosmic threats that have shaped the party's journey, ra
 - **Diplomatic Deception:** Presents reasonable facade while harboring conquest agenda
 
 **Relationships with Player Characters:**
-- **Silas:** Primary communicator walking dangerous diplomatic tightrope
-- **Olivia:** First contact resulted in psychic damage and recognition of her name
+- **[Silas](/player-characters/Silas):** Primary communicator walking dangerous diplomatic tightrope
+- **[Olivia](/player-characters/Olivia):** First contact resulted in psychic damage and recognition of her name
 - **Helja:** Former possessor of communication device, offers to "eat" her for party
 - **The Party:** Views as potential allies or tools for dimensional rift opening
 
@@ -394,8 +394,8 @@ The primary villains and cosmic threats that have shaped the party's journey, ra
 
 **Relationships with Player Characters:**
 - **The Party (Collective):** Viewed them as obstacles to holiday corruption
-- **Red:** His Dispel Magic removed protective wards allowing real Caspian to intervene
-- **Jasper:** His combat effectiveness proved crucial in defeating her
+- **[Red](/player-characters/Red):** His Dispel Magic removed protective wards allowing real Caspian to intervene
+- **[Jasper](/player-characters/Jasper):** His combat effectiveness proved crucial in defeating her
 
 **Connection to Real Caspian:**
 - **Identity Theft:** Perfect knowledge of Caspian's appearance and mannerisms
@@ -404,7 +404,7 @@ The primary villains and cosmic threats that have shaped the party's journey, ra
 - **Personal Vendetta:** Unclear motivation for targeting specific individual and celebration
 
 **Defeat and Resolution:**
-- **Ward Removal:** Red's successful Dispel Magic allowed real Caspian to manifest
+- **Ward Removal:** [Red](/player-characters/Red)'s successful Dispel Magic allowed real Caspian to manifest
 - **Crystal Prison:** Real Caspian trapped Negacast for party to deliver killing blows
 - **Team Finishing Move:** Coordinated decapitation strikes revealed construct/summoned nature
 - **Dissolution:** Entity dissolved into snow and ash with screaming skull core

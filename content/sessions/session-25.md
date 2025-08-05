@@ -15,24 +15,24 @@ The party continues their journey toward High Forge while dealing with the after
 
 ### Silas's Joel Headshot Business
 
-**Silas** initiates a downtime activity to sell the autographed **Joel** headshots the party acquired during their interdimensional adventures. Working with **Tien** (the tiefling trader who has established an arcane shop in the area), Silas successfully negotiates a deal:
+**[Silas](/player-characters/Silas)** initiates a downtime activity to sell the autographed **Joel** headshots the party acquired during their interdimensional adventures. Working with **Tien** (the tiefling trader who has established an arcane shop in the area), [Silas](/player-characters/Silas) successfully negotiates a deal:
 
 **The Transaction**:
-- **7 autographed Joel headshots** (including Red's and Jasper's from their belongings)
+- **7 autographed Joel headshots** (including [Red](/player-characters/Red)'s and [Jasper](/player-characters/Jasper)'s from their belongings)
 - **200 gold each** for a total of **1,400 gold**
 - Payment split between **700 gold in coin** and **700 gold in violessence crystals and arcane components**
 - The arcane materials go directly toward their **rocket ship schematics project**
 
-**Tien's Background Knowledge**: Tien recognizes Joel as a member of the legendary **Steve Squad** but admits he's more of a **Helisanna Doomfall** fan, having several of her MP3s. The transaction proceeds smoothly due to **Olivia's** **Zone of Truth** verification of authenticity.
+**Tien's Background Knowledge**: Tien recognizes Joel as a member of the legendary **Steve Squad** but admits he's more of a **[Helisanna](/player-characters/Helisanna) Doomfall** fan, having several of her MP3s. The transaction proceeds smoothly due to **[Olivia](/player-characters/Olivia)'s** **Zone of Truth** verification of authenticity.
 
 ### Engineering Progress
 
-**Bru** and **Elspeth** continue their downtime work on advanced projects:
+**[Bru](/player-characters/Bru)** and **[Elspeth](/player-characters/Elspeth)** continue their downtime work on advanced projects:
 
 **Pocket Village Construction**:
-- **Bru**: Rolls **22** on his Intelligence check (needed 22) for invention
-- **Elspeth**: Rolls **18** on her Arcana check (needed 18) for construction
-- **Helisanna** provides bardic inspiration to enhance their work
+- **[Bru](/player-characters/Bru)**: Rolls **22** on his Intelligence check (needed 22) for invention
+- **[Elspeth](/player-characters/Elspeth)**: Rolls **18** on her Arcana check (needed 18) for construction
+- **[Helisanna](/player-characters/Helisanna)** provides bardic inspiration to enhance their work
 - **Successfully complete another milestone** toward the pocket village project
 
 **Project Status**: The pocket village construction requires three more successful sessions to complete if the rolls continue to go well.
@@ -50,7 +50,7 @@ The party encounters **Scarlett**, a younger version of the scientist they met i
 
 ## Gathering Intelligence at the Refugee Camp
 
-**Helisanna** conducts reconnaissance at the growing refugee camp, which has expanded significantly and developed semi-permanent structures since their last visit.
+**[Helisanna](/player-characters/Helisanna)** conducts reconnaissance at the growing refugee camp, which has expanded significantly and developed semi-permanent structures since their last visit.
 
 ### Important Information Gathered
 
@@ -78,7 +78,7 @@ The party encounters **Scarlett**, a younger version of the scientist they met i
 
 ## Meeting Lark - The Inside Contact
 
-**Helisanna** encounters **Lark**, a muscular woman with an **Iron Claws tattoo** who offers crucial assistance:
+**[Helisanna](/player-characters/Helisanna)** encounters **Lark**, a muscular woman with an **Iron Claws tattoo** who offers crucial assistance:
 
 ### Lark's Background and Offer
 
@@ -89,7 +89,7 @@ The party encounters **Scarlett**, a younger version of the scientist they met i
 
 **Intelligence Shared**:
 - **Taco Cat bounty**: **$50,000 dead or alive**
-- **Silas specifically** has an enormous price on his head from **Helja**
+- **[Silas](/player-characters/Silas) specifically** has an enormous price on his head from **Helja**
 - **Iron Claws** are actively searching for the party
 - Lark knows **safe tunnel routes** and can guide them into the city
 
@@ -97,7 +97,7 @@ The party encounters **Scarlett**, a younger version of the scientist they met i
 
 ## Van Upgrades Attempt
 
-**Elspeth** and **Silas** visit **Mr. X's** garage to acquire defensive upgrades for the Vroomfall before entering dangerous territory.
+**[Elspeth](/player-characters/Elspeth)** and **[Silas](/player-characters/Silas)** visit **Mr. X's** garage to acquire defensive upgrades for the Vroomfall before entering dangerous territory.
 
 ### Available Upgrades and Pricing
 
@@ -115,12 +115,12 @@ The party encounters **Scarlett**, a younger version of the scientist they met i
 
 ### Sponsorship Negotiation Failure
 
-**Silas** attempts to negotiate a sponsorship deal, emphasizing **Elspeth's** racing achievements:
+**[Silas](/player-characters/Silas)** attempts to negotiate a sponsorship deal, emphasizing **[Elspeth](/player-characters/Elspeth)'s** racing achievements:
 - **King of the Hill race winner**
 - **High Forge Grand Prix champion**
 - **Team Cooper** (legitimate racing) and **Team Taco Cat** (underground racing)
 
-**Critical Error**: When **Silas** mentions the **Taco Cat** name, **Mr. X** immediately recognizes them as wanted criminals with a **$50,000 bounty** and refuses any business association. He becomes nervous and asks them to leave quickly to avoid bringing trouble to his shop.
+**Critical Error**: When **[Silas](/player-characters/Silas)** mentions the **Taco Cat** name, **Mr. X** immediately recognizes them as wanted criminals with a **$50,000 bounty** and refuses any business association. He becomes nervous and asks them to leave quickly to avoid bringing trouble to his shop.
 
 **Final Decision**: The party cannot afford the upgrades at current prices and decides to return later when they have more resources or when the bounty situation improves.
 
@@ -145,29 +145,29 @@ As the party prepares for their long rest by the river, they're surrounded by th
 ### Combat Highlights
 
 **Round 1 - Initial Assault**:
-- **Helisanna** attempts **Suggestion** on the leader but he makes his save
-- **Elspeth** spots multiple enemies through perception and engages with her magical gun, dealing **17 damage** to the closest threat
-- **Silas** uses stealth advantage to attack from the van, dealing **18 damage** and tripping an enemy prone with his **psychic daggers**
+- **[Helisanna](/player-characters/Helisanna)** attempts **Suggestion** on the leader but he makes his save
+- **[Elspeth](/player-characters/Elspeth)** spots multiple enemies through perception and engages with her magical gun, dealing **17 damage** to the closest threat
+- **[Silas](/player-characters/Silas)** uses stealth advantage to attack from the van, dealing **18 damage** and tripping an enemy prone with his **psychic daggers**
 
 **Round 2 - Escalating Violence**:
-- **Bru** deploys his **Eldritch Cannon** in **Force Ballista** mode and attempts **Firebolt** attacks
+- **[Bru](/player-characters/Bru)** deploys his **Eldritch Cannon** in **Force Ballista** mode and attempts **Firebolt** attacks
 - Enemy archers target the party through the van windows but miss their shots
-- A **mounted knight** on a mechanical horse attacks **Elspeth** with lance and mace, dealing significant damage
+- A **mounted knight** on a mechanical horse attacks **[Elspeth](/player-characters/Elspeth)** with lance and mace, dealing significant damage
 
 **Round 3 - Desperate Defense**:
-- The **heavily armored leader** climbs onto the van roof and attacks **Elspeth** directly
-- **Multiple mace hits** with advantage knock **Elspeth unconscious** (death saves required)
-- **Helisanna** emerges from the van and uses **Eldritch Blast** with **Repelling Blast** to knock the leader off the van roof
+- The **heavily armored leader** climbs onto the van roof and attacks **[Elspeth](/player-characters/Elspeth)** directly
+- **Multiple mace hits** with advantage knock **[Elspeth](/player-characters/Elspeth) unconscious** (death saves required)
+- **[Helisanna](/player-characters/Helisanna)** emerges from the van and uses **Eldritch Blast** with **Repelling Blast** to knock the leader off the van roof
 
 **Round 4 - Turning the Tide**:
-- **Silas** dramatically leaps from the van onto the fallen leader, dealing **27 damage** with his first attack enhanced by **bardic inspiration**
-- Using **Elspeth's blood** on his dagger, **Silas** delivers an emotional finishing blow: *"She may have been an idiot yesterday, but that's still my goddamn friend"*
-- **Bru** eliminates another enemy with his **Eldritch Cannon** and **Firebolt** combination
+- **[Silas](/player-characters/Silas)** dramatically leaps from the van onto the fallen leader, dealing **27 damage** with his first attack enhanced by **bardic inspiration**
+- Using **[Elspeth](/player-characters/Elspeth)'s blood** on his dagger, **[Silas](/player-characters/Silas)** delivers an emotional finishing blow: *"She may have been an idiot yesterday, but that's still my goddamn friend"*
+- **[Bru](/player-characters/Bru)** eliminates another enemy with his **Eldritch Cannon** and **Firebolt** combination
 
 **Final Round - Cleanup**:
-- **Helisanna** uses **Command** to force the last fleeing enemy to return
-- **Silas** eliminates the final bounty hunter with coordinated **psychic dagger** attacks
-- **Olivia** provides crucial healing to **Elspeth**, bringing her back to consciousness
+- **[Helisanna](/player-characters/Helisanna)** uses **Command** to force the last fleeing enemy to return
+- **[Silas](/player-characters/Silas)** eliminates the final bounty hunter with coordinated **psychic dagger** attacks
+- **[Olivia](/player-characters/Olivia)** provides crucial healing to **[Elspeth](/player-characters/Elspeth)**, bringing her back to consciousness
 
 ### Post-Combat Investigation
 
@@ -186,14 +186,14 @@ As the party prepares for their long rest by the river, they're surrounded by th
 
 ### Elspeth's Learning Experience
 
-**Elspeth** learns harsh lessons about operational security when dealing with wanted status:
+**[Elspeth](/player-characters/Elspeth)** learns harsh lessons about operational security when dealing with wanted status:
 - **Never volunteer group affiliations** when conducting business
 - **Use cover identities** consistently when interacting with strangers
 - **Operational security** is crucial when multiple groups want you dead
 
 ### Silas's Emotional Moment
 
-**Silas** demonstrates genuine care for his companions when he dramatically defends the unconscious **Elspeth**, showing character growth from purely self-interested to protective of his found family.
+**[Silas](/player-characters/Silas)** demonstrates genuine care for his companions when he dramatically defends the unconscious **[Elspeth](/player-characters/Elspeth)**, showing character growth from purely self-interested to protective of his found family.
 
 ### Team Coordination
 
@@ -205,7 +205,7 @@ The combat showcases the party's growing tactical sophistication:
 
 ## Psychological Warfare and Message Sending
 
-After the battle, **Silas** proposes leaving the bounty hunters' bodies outside **Mr. X's** garage as retaliation for refusing to do business with them. The party compromises by loading the bodies in their van and dumping them at the shop with a clear message about what happens to those who cross them.
+After the battle, **[Silas](/player-characters/Silas)** proposes leaving the bounty hunters' bodies outside **Mr. X's** garage as retaliation for refusing to do business with them. The party compromises by loading the bodies in their van and dumping them at the shop with a clear message about what happens to those who cross them.
 
 ## Session Themes
 

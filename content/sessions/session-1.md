@@ -9,23 +9,23 @@ podcastlink: "https://creators.spotify.com/pod/show/topher-hooper/episodes/C4-E1
 
 **Location:** High Forge, Market Ward – “The Cog and Steam” Tavern
 ### Party Members
-- **Helisanna Doomfall** – Electric lute-playing bard and frontwoman of Doomfall.
-- **Silas** – Scheming halfling rogue and manager of the band.
-- **Bru** – Goblin artificer and chaos gremlin with a flair for pyrotechnics.
-- **Red (formerly Blue)** – Goliath cleric, pacifist healer, and protector.
-- **Olivia** – Elderly paladin with a cop-like sense of justice.
-- **Elspeth** – Artificer gunslinger with a mechanical companion, BoxBox.
+- **[Helisanna](/player-characters/Helisanna) Doomfall** – Electric lute-playing bard and frontwoman of Doomfall.
+- **[Silas](/player-characters/Silas)** – Scheming halfling rogue and manager of the band.
+- **[Bru](/player-characters/Bru)** – Goblin artificer and chaos gremlin with a flair for pyrotechnics.
+- **[Red](/player-characters/Red) (formerly Blue)** – Goliath cleric, pacifist healer, and protector.
+- **[Olivia](/player-characters/Olivia)** – Elderly paladin with a cop-like sense of justice.
+- **[Elspeth](/player-characters/Elspeth)** – Artificer gunslinger with a mechanical companion, BoxBox.
 ### Opening Scene: Chaos at the Tavern
 The party is split between eating dinner and running a shell game when a Goliath barges into the Cog and Steam tavern shouting about “Bartley P. Thatch.” Chaos breaks out:
 - A beer stein brains the Goliath.
 - A full-on brawl begins.
-- **Bru** magically engineers fart-scented peanuts and lobs them into the crowd.
-- **Olivia** tries to intimidate the crowd but is punched and takes 4 damage.
-- **Silas** steals 10 silver during the commotion and stealths away.
-- **Elspeth** tries to back Olivia up with intimidation and BoxBox tackles a brawler.
-- **Red** nervously assesses the situation and casts Guidance on Olivia.
-- **Bru** sets off a fireworks cannon that creates fire-show chaos, followed by him throwing chairs and shouting “Fire!” while Kevin runs around screaming.
-Eventually, the tavern clears out thanks to a fire suppression system and Olivia and Elspeth’s crowd control. They leave the tavern in disarray.
+- **[Bru](/player-characters/Bru)** magically engineers fart-scented peanuts and lobs them into the crowd.
+- **[Olivia](/player-characters/Olivia)** tries to intimidate the crowd but is punched and takes 4 damage.
+- **[Silas](/player-characters/Silas)** steals 10 silver during the commotion and stealths away.
+- **[Elspeth](/player-characters/Elspeth)** tries to back [Olivia](/player-characters/Olivia) up with intimidation and BoxBox tackles a brawler.
+- **[Red](/player-characters/Red)** nervously assesses the situation and casts Guidance on [Olivia](/player-characters/Olivia).
+- **[Bru](/player-characters/Bru)** sets off a fireworks cannon that creates fire-show chaos, followed by him throwing chairs and shouting “Fire!” while Kevin runs around screaming.
+Eventually, the tavern clears out thanks to a fire suppression system and [Olivia](/player-characters/Olivia) and [Elspeth](/player-characters/Elspeth)’s crowd control. They leave the tavern in disarray.
 ### Post-Brawl: Recruitment Offer
 Outside, a figure named **Dirk** from the **Stephen Guild** offers the party a job:
 - Guard a caravan along the Gold Road to Eldoran.
@@ -34,27 +34,27 @@ Outside, a figure named **Dirk** from the **Stephen Guild** offers the party a j
 The group is noncommittal and skeptical about the rate.
 ### Evening Activities
 The party splits up:
-### 🎸 Helisanna
+### 🎸 [Helisanna](/player-characters/Helisanna)
 - Investigates **The Little Hovel**, a dive metal club.
 - Signs up to perform a set at 1 AM after scoping out terrible opening acts.
 - Gains the attention of **Sandra Talks**, a sharply dressed talent agent scouting for a show.
-### 🎲 Silas & Bru
+### 🎲 [Silas](/player-characters/Silas) & [Bru](/player-characters/Bru)
 - Run a card cheating scam on local gamblers.
-- Bru acts as spotter (poorly); Silas uses psychic dice and sleight of hand to win big.
+- [Bru](/player-characters/Bru) acts as spotter (poorly); [Silas](/player-characters/Silas) uses psychic dice and sleight of hand to win big.
 - They win enough gold to buy burgers and reflect on their sloppy success.
-### 🕶️ Red & Elspeth
+### 🕶️ [Red](/player-characters/Red) & [Elspeth](/player-characters/Elspeth)
 - Tag along to the Little Hovel to watch over the group.
-- Red awkwardly wallflowers but eventually joins the others near the stage.
-- Elspeth probes for underground racing contacts but doesn’t find much.
+- [Red](/player-characters/Red) awkwardly wallflowers but eventually joins the others near the stage.
+- [Elspeth](/player-characters/Elspeth) probes for underground racing contacts but doesn’t find much.
 ### Concert of the Century
-Helisanna headlines the final act at The Little Hovel with support from Bru and Red:
-- **Bru** engineers stage pyrotechnics synced to the set.
-- **Red** uses Thaumaturgy to enhance the flames with purple coloration.
-- **Helisanna** delivers a transcendent metal performance enhanced by Guidance and Enhance Ability from Red.
+[Helisanna](/player-characters/Helisanna) headlines the final act at The Little Hovel with support from [Bru](/player-characters/Bru) and [Red](/player-characters/Red):
+- **[Bru](/player-characters/Bru)** engineers stage pyrotechnics synced to the set.
+- **[Red](/player-characters/Red)** uses Thaumaturgy to enhance the flames with purple coloration.
+- **[Helisanna](/player-characters/Helisanna)** delivers a transcendent metal performance enhanced by Guidance and Enhance Ability from [Red](/player-characters/Red).
 - Audience members’ eyes glow purple, magic fills the air, and a surreal, euphoric concert atmosphere takes over.
 - Performance rolls exceed 24. The show is an unforgettable success.
 ### Massive Payday
-- **Silas** negotiates a last-minute, high-profile gig with Sandra Talks for **10,000 gold**:
+- **[Silas](/player-characters/Silas)** negotiates a last-minute, high-profile gig with Sandra Talks for **10,000 gold**:
 - 1,000 gold up front in a suitcase.
 - 6,000 upon arrival at the show.
 - 3,000 after the show.

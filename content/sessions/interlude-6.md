@@ -20,27 +20,27 @@ The session begins with a recap of the party's journey through **The Hollow** sw
 The massive creature, wielding an uprooted tree as a club, engaged the party in brutal combat:
 
 **Opening Moves**:
-- **Jasper** charges in with his greatsword, dealing solid damage while invoking Eldora's name
-- **Red** casts **Spirit Guardians**, surrounding himself with spectral Goliath warriors
-- **Elspeth** opens fire with her magical gun, dealing consistent damage
+- **[Jasper](/player-characters/Jasper)** charges in with his greatsword, dealing solid damage while invoking Eldora's name
+- **[Red](/player-characters/Red)** casts **Spirit Guardians**, surrounding himself with spectral Goliath warriors
+- **[Elspeth](/player-characters/Elspeth)** opens fire with her magical gun, dealing consistent damage
 
 **Tactical Highlights**:
-- **Helisanna** successfully casts **Tasha's Hideous Laughter**, incapacitating the ogre for a crucial turn
-- **Silas** struggles with his attacks but eventually lands significant hits
-- **Bru** deploys his **Eldritch Cannon** and uses **Faerie Fire**, outlining the creature in blue light for advantage
+- **[Helisanna](/player-characters/Helisanna)** successfully casts **Tasha's Hideous Laughter**, incapacitating the ogre for a crucial turn
+- **[Silas](/player-characters/Silas)** struggles with his attacks but eventually lands significant hits
+- **[Bru](/player-characters/Bru)** deploys his **Eldritch Cannon** and uses **Faerie Fire**, outlining the creature in blue light for advantage
 
-**Devastating Counterattack**: The ogre performs a massive tree swing that catches multiple party members, dealing 25 damage to those who fail their strength saves and knocking **Red** prone.
+**Devastating Counterattack**: The ogre performs a massive tree swing that catches multiple party members, dealing 25 damage to those who fail their strength saves and knocking **[Red](/player-characters/Red)** prone.
 
 **Final Assault**:
-- **Olivia** delivers a spectacular finishing blow, dealing 51 damage with a critical hit enhanced by **Divine Smite**
+- **[Olivia](/player-characters/Olivia)** delivers a spectacular finishing blow, dealing 51 damage with a critical hit enhanced by **Divine Smite**
 - She describes cutting the ogre's legs out from under him, then repeatedly smashing his head with a goblin skull while using her battle axe
 
 ## Post-Combat and Loot
 
 After defeating the guardian, the party takes trophies:
-- **Elspeth** carves off **ogre ivory** (teeth/bone) for crafting purposes
-- **Red** demonstrates his new **Returning** weapon enchantment on his tomahawk
-- **Bru** provides everyone with temporary hit points using his cannon's protective mode
+- **[Elspeth](/player-characters/Elspeth)** carves off **ogre ivory** (teeth/bone) for crafting purposes
+- **[Red](/player-characters/Red)** demonstrates his new **Returning** weapon enchantment on his tomahawk
+- **[Bru](/player-characters/Bru)** provides everyone with temporary hit points using his cannon's protective mode
 
 ## Return to Toonlock's Realm
 
@@ -56,13 +56,13 @@ Two massive (15-foot tall) humanoid creatures resembling **Tweedledee and Tweedl
 - Coordinated assault on the front-line fighters
 
 **Party Performance**:
-- **Helisanna** attempts **Command** but fails against their wisdom saves
-- **Silas** flanks effectively, dealing 28 damage with sneak attacks and precision strikes
-- **Red** supports with **Emboldening Bond** and **Spiritual Weapon**
-- **Jasper** rages and delivers consistent greatsword damage
-- **Olivia** devastates one creature with 49 damage using **Divine Smite** and weapon mastery
-- **Bru** provides artillery support with his **Force Ballista** and **Firebolt**
-- **Elspeth** and **BoxBox** coordinate to deliver the killing blow on the second creature
+- **[Helisanna](/player-characters/Helisanna)** attempts **Command** but fails against their wisdom saves
+- **[Silas](/player-characters/Silas)** flanks effectively, dealing 28 damage with sneak attacks and precision strikes
+- **[Red](/player-characters/Red)** supports with **Emboldening Bond** and **Spiritual Weapon**
+- **[Jasper](/player-characters/Jasper)** rages and delivers consistent greatsword damage
+- **[Olivia](/player-characters/Olivia)** devastates one creature with 49 damage using **Divine Smite** and weapon mastery
+- **[Bru](/player-characters/Bru)** provides artillery support with his **Force Ballista** and **Firebolt**
+- **[Elspeth](/player-characters/Elspeth)** and **BoxBox** coordinate to deliver the killing blow on the second creature
 
 ## Joel's Dramatic Rescue
 
@@ -97,15 +97,15 @@ As **Toonlock** begins drawing magical sigils, the astral tree fights back, mani
 - **Massive reach** allowing it to attack multiple targets
 
 **Tactical Combat**:
-- **Silas** demonstrates exceptional skill with 43 damage from a critical sneak attack
-- **Olivia** uses **Shining Smite** to give the entire party advantage on all attacks
-- **Helisanna** uses **Dissonant Whispers** to force the creature to move and provoke opportunity attacks
-- **Red** supports with **Spiritual Weapon** and healing while maintaining **Emboldening Bond**
-- **Jasper** adapts to ranged combat when the creature moves away
-- **Bru** deals consistent damage with **Force Ballista** and **Catapult**
-- **Elspeth** lands a critical hit for 25 damage with her magical gun
+- **[Silas](/player-characters/Silas)** demonstrates exceptional skill with 43 damage from a critical sneak attack
+- **[Olivia](/player-characters/Olivia)** uses **Shining Smite** to give the entire party advantage on all attacks
+- **[Helisanna](/player-characters/Helisanna)** uses **Dissonant Whispers** to force the creature to move and provoke opportunity attacks
+- **[Red](/player-characters/Red)** supports with **Spiritual Weapon** and healing while maintaining **Emboldening Bond**
+- **[Jasper](/player-characters/Jasper)** adapts to ranged combat when the creature moves away
+- **[Bru](/player-characters/Bru)** deals consistent damage with **Force Ballista** and **Catapult**
+- **[Elspeth](/player-characters/Elspeth)** lands a critical hit for 25 damage with her magical gun
 
-**Finishing Move**: **Red** delivers the killing blow with his **Returning Tomahawk**, describing a slow-motion throw that wedges into the creature before exploding with magical force.
+**Finishing Move**: **[Red](/player-characters/Red)** delivers the killing blow with his **Returning Tomahawk**, describing a slow-motion throw that wedges into the creature before exploding with magical force.
 
 ## Crowley's Final Threat
 
@@ -117,14 +117,14 @@ Just as **Toonlock** is about to complete the ritual, time freezes around everyo
 
 **Threats and Revelations**:
 - He has captured **Caspian** and is holding her in his realm
-- He knows all their names, including **Red's** true name (**Thurnok**)
+- He knows all their names, including **[Red](/player-characters/Red)'s** true name (**Thurnok**)
 - He makes it clear this is personal now that they've interfered with his plans
 
 **Character Interactions**:
-- **Olivia** insists on "Retired Detective Olivia Cooper" rather than first names
-- **Silas** refuses to engage in conversation due to **Crowley's** "creepy voice"
-- **Helisanna** points out his poor definition of "friend"
-- **Bru** notes that **Crowley** knew his name without being told
+- **[Olivia](/player-characters/Olivia)** insists on "Retired Detective [Olivia](/player-characters/Olivia) Cooper" rather than first names
+- **[Silas](/player-characters/Silas)** refuses to engage in conversation due to **Crowley's** "creepy voice"
+- **[Helisanna](/player-characters/Helisanna)** points out his poor definition of "friend"
+- **[Bru](/player-characters/Bru)** notes that **Crowley** knew his name without being told
 
 ## Ritual Completion
 
@@ -147,7 +147,7 @@ Back in **Toonlock's** damaged stronghold, the grateful host provides rewards fo
 - **Misty Step** spell once per day
 - One **level 1 Divination or Enchantment spell** once per day
 
-**Silas** immediately chooses **Comprehend Languages** as his additional spell, demonstrating strategic thinking for future adventures.
+**[Silas](/player-characters/Silas)** immediately chooses **Comprehend Languages** as his additional spell, demonstrating strategic thinking for future adventures.
 
 ## Session Themes and Development
 
@@ -158,12 +158,12 @@ The session effectively escalates tension from environmental challenges through 
 ### Character Growth
 
 Each party member demonstrates their evolving abilities and personalities:
-- **Olivia's** devastating paladin abilities and professional demeanor
-- **Silas's** precision combat and strategic thinking
-- **Red's** growing confidence with divine magic and weapon skills
-- **Helisanna's** tactical spellcasting and performance abilities
-- **Bru's** artillery expertise and creative problem-solving
-- **Elspeth's** consistent damage output and mechanical reliability
+- **[Olivia](/player-characters/Olivia)'s** devastating paladin abilities and professional demeanor
+- **[Silas](/player-characters/Silas)'s** precision combat and strategic thinking
+- **[Red](/player-characters/Red)'s** growing confidence with divine magic and weapon skills
+- **[Helisanna](/player-characters/Helisanna)'s** tactical spellcasting and performance abilities
+- **[Bru](/player-characters/Bru)'s** artillery expertise and creative problem-solving
+- **[Elspeth](/player-characters/Elspeth)'s** consistent damage output and mechanical reliability
 
 ### Moral Complexity
 

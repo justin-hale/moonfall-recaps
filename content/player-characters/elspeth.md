@@ -8,19 +8,19 @@ featureimage: "elspeth.webp"
 
 ## Character Overview
 
-**Elspeth Cooper** is a dwarf Artificer (Battle Smith) / Paladin and former professional racer who was controversially disqualified from the racing circuit. She seeks to clear her name while using her technical expertise and combat skills to support her companions.
+**[Elspeth](/player-characters/Elspeth) Cooper** is a dwarf Artificer (Battle Smith) / Paladin and former professional racer who was controversially disqualified from the racing circuit. She seeks to clear her name while using her technical expertise and combat skills to support her companions.
 
 ## Basic Information
 
 - **Race**: Dwarf
 - **Class**: Artificer (Battle Smith) / Paladin
 - **Player**: Ali
-- **Family**: Related to Retired Detective Olivia Cooper
+- **Family**: Related to Retired Detective [Olivia](/player-characters/Olivia) Cooper
 - **First Appearance**: Session 1
 
 ## Background
 
-Elspeth was a professional racer who was disqualified from the circuit for alleged vehicle tampering and overpowering. She believes she was framed and that her car had been sabotaged by someone else. This controversy led her to the underground racing scene in High Forge, where she met the rest of the party.
+[Elspeth](/player-characters/Elspeth) was a professional racer who was disqualified from the circuit for alleged vehicle tampering and overpowering. She believes she was framed and that her car had been sabotaged by someone else. This controversy led her to the underground racing scene in High Forge, where she met the rest of the party.
 
 ## Abilities and Equipment
 
@@ -44,7 +44,7 @@ Elspeth was a professional racer who was disqualified from the circuit for alleg
 ## Key Relationships
 
 ### BoxBox
-Her steel defender companion, an automaton that serves as both combat ally and technical assistant. BoxBox has been captured and rescued multiple times, showing Elspeth's protective nature toward her creation.
+Her steel defender companion, an automaton that serves as both combat ally and technical assistant. BoxBox has been captured and rescued multiple times, showing [Elspeth](/player-characters/Elspeth)'s protective nature toward her creation.
 
 ### Olivia Cooper
 Family member (specific relationship unclear) who shares her investigative instincts and protective nature.
@@ -60,7 +60,7 @@ Developed a relationship with a red-haired guard she met during a Twilight Compa
 ## Character Development
 
 ### Professional Vindication
-Throughout the campaign, Elspeth works to restore her reputation in the racing community while proving her technical competence through various challenges.
+Throughout the campaign, [Elspeth](/player-characters/Elspeth) works to restore her reputation in the racing community while proving her technical competence through various challenges.
 
 ### Combat Evolution
 Her multiclass progression shows growth from pure artificer to someone willing to take divine oaths, suggesting deeper moral convictions developing over time.
@@ -87,7 +87,7 @@ Often serves as the party's technical expert and voice of reason, particularly d
 
 ## Current Status
 
-Elspeth continues to travel with the party as they navigate increasingly dangerous political and supernatural threats. Her technical expertise and racing skills have proven invaluable, and she has established herself as both a formidable combatant and reliable team member.
+[Elspeth](/player-characters/Elspeth) continues to travel with the party as they navigate increasingly dangerous political and supernatural threats. Her technical expertise and racing skills have proven invaluable, and she has established herself as both a formidable combatant and reliable team member.
 
 ### Equipment Status
 - **The Warden's Signet**: Magical ring providing advantages for vehicle operations

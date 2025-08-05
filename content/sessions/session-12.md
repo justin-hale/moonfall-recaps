@@ -9,76 +9,76 @@ podcastlink: "https://creators.spotify.com/pod/profile/topher-hooper/episodes/C4
 
 ## Into the Dark Woods
 
-The session begins as the party prepares to pursue the Alpha Wolf that has just dragged **Magnolia Redguard** into the forest. **Red** activates his **Large Form** ability, growing to 12 feet tall, and immediately darts into the woods after the wolves, driven by determination to rescue Magnolia despite having no particular attachment to her.
+The session begins as the party prepares to pursue the Alpha Wolf that has just dragged **Magnolia [Red](/player-characters/Red)guard** into the forest. **[Red](/player-characters/Red)** activates his **Large Form** ability, growing to 12 feet tall, and immediately darts into the woods after the wolves, driven by determination to rescue Magnolia despite having no particular attachment to her.
 
-Using his survival skills in the darkness, Red manages to pick up a blood trail despite the challenging conditions. The trail shows broken branches and blood splatters leading deeper into the woods, though the pace makes it difficult to catch up quickly.
+Using his survival skills in the darkness, [Red](/player-characters/Red) manages to pick up a blood trail despite the challenging conditions. The trail shows broken branches and blood splatters leading deeper into the woods, though the pace makes it difficult to catch up quickly.
 
 ## The Pack Gathers
 
-The rest of the party quickly mobilizes to follow Red's pursuit:
-- **Silas Fairbanks** takes a moment to be healed by **Retired Detective Olivia Cooper** before rushing after Red
-- **Felonias Bru** and Silas ride on the back of Olivia's summoned goat for speed
-- **Elspeth Cooper** and **Helisanna** follow on foot, with Elspeth considering riding her steel defender **BoxBox**
-- **Red** casts a light cantrip above himself, creating a beacon for the others to follow
+The rest of the party quickly mobilizes to follow [Red](/player-characters/Red)'s pursuit:
+- **[Silas](/player-characters/Silas) Fairbanks** takes a moment to be healed by **Retired Detective [Olivia](/player-characters/Olivia) Cooper** before rushing after [Red](/player-characters/Red)
+- **Felonias [Bru](/player-characters/Bru)** and [Silas](/player-characters/Silas) ride on the back of [Olivia](/player-characters/Olivia)'s summoned goat for speed
+- **[Elspeth](/player-characters/Elspeth) Cooper** and **[Helisanna](/player-characters/Helisanna)** follow on foot, with [Elspeth](/player-characters/Elspeth) considering riding her steel defender **BoxBox**
+- **[Red](/player-characters/Red)** casts a light cantrip above himself, creating a beacon for the others to follow
 
-The party converges as they track the wolves deeper into the forest, with the goat-mounted riders able to keep pace with Red's enhanced speed.
+The party converges as they track the wolves deeper into the forest, with the goat-mounted riders able to keep pace with [Red](/player-characters/Red)'s enhanced speed.
 
 ## Wolf Negotiations
 
-Upon reaching a clearing, the party discovers three wolves surrounding what appears to be Magnolia's badly injured body. The confrontation quickly becomes complex when **Helisanna** casts **Command** on the alpha wolf, forcing it to approach. This reveals that the wolf can walk on two legs and shows clear signs of intelligence.
+Upon reaching a clearing, the party discovers three wolves surrounding what appears to be Magnolia's badly injured body. The confrontation quickly becomes complex when **[Helisanna](/player-characters/Helisanna)** casts **Command** on the alpha wolf, forcing it to approach. This reveals that the wolf can walk on two legs and shows clear signs of intelligence.
 
-**Silas** attempts to communicate with the wolves and realizes through an insight check that they possess unusual intelligence. Using his **Psychic Phone** telepathic connection, he establishes communication with the alpha wolf, who reveals himself to be **Frankie** - a werewolf who transforms between human and wolf form.
+**[Silas](/player-characters/Silas)** attempts to communicate with the wolves and realizes through an insight check that they possess unusual intelligence. Using his **Psychic Phone** telepathic connection, he establishes communication with the alpha wolf, who reveals himself to be **Frankie** - a werewolf who transforms between human and wolf form.
 
 ## An Unlikely Alliance
 
-Through Silas's telepathic link (which he shares with Red and Elspeth), the party learns crucial information:
+Through [Silas](/player-characters/Silas)'s telepathic link (which he shares with [Red](/player-characters/Red) and [Elspeth](/player-characters/Elspeth)), the party learns crucial information:
 - Frankie and his pack have been driven to attack the town due to food scarcity caused by devils corrupting the forest
 - The devils have been taking wolves as well as humans
 - There's a shrine in the woods that has been compromised by devil activity
 - Frankie is reluctant to eat humans, finding it disturbing
 
-**Elspeth** steps forward to negotiate, using her natural diplomatic instincts despite her lack of charisma training. Through persuasion and the promise of healing, the party successfully recruits Frankie as an ally. **Red** heals both Frankie and another injured wolf, cementing their alliance.
+**[Elspeth](/player-characters/Elspeth)** steps forward to negotiate, using her natural diplomatic instincts despite her lack of charisma training. Through persuasion and the promise of healing, the party successfully recruits Frankie as an ally. **[Red](/player-characters/Red)** heals both Frankie and another injured wolf, cementing their alliance.
 
-**Retired Detective Olivia Cooper** heroically wrestles Magnolia away from one of the wolves in a display of impressive athletics, showcasing her "water aerobics" training to great effect.
+**Retired Detective [Olivia](/player-characters/Olivia) Cooper** heroically wrestles Magnolia away from one of the wolves in a display of impressive athletics, showcasing her "water aerobics" training to great effect.
 
 ## Preparing for War
 
-The party stabilizes and heals **Magnolia**, bringing her back to consciousness. However, they face a dilemma about what to do with her, as she's technically a communist revolutionary scheduled to execute an innocent woman. After debate about tying her to a tree or bringing her along, they ultimately decide to send her back to town on Olivia's summoned goat.
+The party stabilizes and heals **Magnolia**, bringing her back to consciousness. However, they face a dilemma about what to do with her, as she's technically a communist revolutionary scheduled to execute an innocent woman. After debate about tying her to a tree or bringing her along, they ultimately decide to send her back to town on [Olivia](/player-characters/Olivia)'s summoned goat.
 
 **Frankie** explains that while he'd like to bring his pack to fight the devils, they're too frightened after suffering heavy losses. He agrees to accompany the party alone, warning them that time is limited as his transformation won't last indefinitely.
 
-The party takes a short rest to recover, with **Helisanna** providing bardic inspiration to Silas, Elspeth, and Red using her musical abilities. **Bru** notably doesn't receive inspiration, continuing their playful antagonistic relationship.
+The party takes a short rest to recover, with **[Helisanna](/player-characters/Helisanna)** providing bardic inspiration to [Silas](/player-characters/Silas), [Elspeth](/player-characters/Elspeth), and [Red](/player-characters/Red) using her musical abilities. **[Bru](/player-characters/Bru)** notably doesn't receive inspiration, continuing their playful antagonistic relationship.
 
 ## The Corrupted Shrine
 
-The party approaches a cavern marked by glowing red runic symbols along the stone walls. **Red** and **Olivia**, with their divine connections, feel the strong presence of infernal corruption emanating from the area. The group decides on a stealthy approach rather than charging in.
+The party approaches a cavern marked by glowing red runic symbols along the stone walls. **[Red](/player-characters/Red)** and **[Olivia](/player-characters/Olivia)**, with their divine connections, feel the strong presence of infernal corruption emanating from the area. The group decides on a stealthy approach rather than charging in.
 
-Rolling an impressive group stealth check (with Silas achieving a remarkable total of 30), the party successfully infiltrates the cavern undetected. They discover a massive chamber containing:
+Rolling an impressive group stealth check (with [Silas](/player-characters/Silas) achieving a remarkable total of 30), the party successfully infiltrates the cavern undetected. They discover a massive chamber containing:
 - **Four figures**: Three devils positioned around a large altar, and one figure floating above it
 - The floating figure is identified as **Ophelia**, an elven communist the party had previously captured and released
-- **Red's** exceptional religion check (natural 20, total 25) allows him to identify the three devil types: a healer, a damage dealer, and a tank
+- **[Red](/player-characters/Red)'s** exceptional religion check (natural 20, total 25) allows him to identify the three devil types: a healer, a damage dealer, and a tank
 
-Red recognizes the ritual taking place as one that will strengthen the devils' hold on this reality, making immediate action necessary.
+[Red](/player-characters/Red) recognizes the ritual taking place as one that will strengthen the devils' hold on this reality, making immediate action necessary.
 
 ## Devil Combat - Opening Moves
 
-**Initiative Order**: Red (17), Silas (16), Elspeth (15), Frankie (14), Bru (12), Helisanna (8), Olivia (6)
+**Initiative Order**: [Red](/player-characters/Red) (17), [Silas](/player-characters/Silas) (16), [Elspeth](/player-characters/Elspeth) (15), Frankie (14), [Bru](/player-characters/Bru) (12), [Helisanna](/player-characters/Helisanna) (8), [Olivia](/player-characters/Olivia) (6)
 
 The party gets the jump on the devils, launching their assault:
 
-**Red** begins by casting **Emboldening Bond**, connecting Silas, Helisanna, and (reluctantly) Bru with divine energy that allows them to add d4 to their rolls.
+**[Red](/player-characters/Red)** begins by casting **Emboldening Bond**, connecting [Silas](/player-characters/Silas), [Helisanna](/player-characters/Helisanna), and (reluctantly) [Bru](/player-characters/Bru) with divine energy that allows them to add d4 to their rolls.
 
-**Silas** moves to engage the healer devil, throwing daggers with sneak attack damage despite rolling poorly on damage dice. His **Vex** weapon mastery ensures his follow-up attack will have advantage.
+**[Silas](/player-characters/Silas)** moves to engage the healer devil, throwing daggers with sneak attack damage despite rolling poorly on damage dice. His **Vex** weapon mastery ensures his follow-up attack will have advantage.
 
-**Elspeth** charges in with **BoxBox**, positioning her steel defender to protect allies while attempting diplomacy one final time. When this fails, she attacks the minor devil with her gun, landing one hit out of multiple attempts.
+**[Elspeth](/player-characters/Elspeth)** charges in with **BoxBox**, positioning her steel defender to protect allies while attempting diplomacy one final time. When this fails, she attacks the minor devil with her gun, landing one hit out of multiple attempts.
 
 **Frankie** proves his worth immediately, delivering a devastating critical hit with his bite and claw attacks against the brute devil, dealing significant damage and establishing himself as a valuable ally.
 
-**Bru** attempts to use **Color Spray** on the brute but discovers the devil has too many hit points for the spell to take effect. The devil merely enjoys the colorful display.
+**[Bru](/player-characters/Bru)** attempts to use **Color Spray** on the brute but discovers the devil has too many hit points for the spell to take effect. The devil merely enjoys the colorful display.
 
-**Helisanna** tries **Tasha's Hideous Laughter** on the minor devil but fails to overcome its wisdom save despite using cutting words to modify the roll.
+**[Helisanna](/player-characters/Helisanna)** tries **Tasha's Hideous Laughter** on the minor devil but fails to overcome its wisdom save despite using cutting words to modify the roll.
 
-**Olivia** charges the minor devil with her battle axe, landing a solid hit enhanced by **Divine Smite** for radiant damage, though failing to knock the devil prone with her **Topple** weapon mastery.
+**[Olivia](/player-characters/Olivia)** charges the minor devil with her battle axe, landing a solid hit enhanced by **Divine Smite** for radiant damage, though failing to knock the devil prone with her **Topple** weapon mastery.
 
 ## Devil Retaliation
 
@@ -86,45 +86,45 @@ The devils respond with devastating area-of-effect attacks:
 
 The **Infernal Ravager** releases a massive **hellfire explosion** in a 20-foot radius, forcing dexterity saves from most of the party. The 27 fire damage (half on successful save) severely injures multiple party members:
 - Several party members fail their saves and take full damage
-- **Red** uses his **Stone's Endurance** racial ability to reduce some damage
+- **[Red](/player-characters/Red)** uses his **Stone's Endurance** racial ability to reduce some damage
 - The party's health pools are significantly depleted
 
-The **Brute** devil attacks **Frankie** with multiple strikes while emanating **necrotic damage** to nearby creatures, further wearing down the party.
+The **[Bru](/player-characters/Bru)te** devil attacks **Frankie** with multiple strikes while emanating **necrotic damage** to nearby creatures, further wearing down the party.
 
 The **Minor Devil** attempts to inflict **bane** on nearby enemies and tries to corrupt allies while healing itself and the brute for substantial amounts.
 
 ## Mid-Combat Healing and Recovery
 
-**Red** recognizes the dire situation and uses his **Channel Divinity: Balm of Peace**, allowing him to move his full distance while healing any creature within 5 feet during his movement. This strategic ability lets him heal multiple party members:
-- **Silas** receives healing dice
-- **Olivia** gets healed from near-death
-- **Bru** and **Helisanna** also benefit from the divine healing
+**[Red](/player-characters/Red)** recognizes the dire situation and uses his **Channel Divinity: Balm of Peace**, allowing him to move his full distance while healing any creature within 5 feet during his movement. This strategic ability lets him heal multiple party members:
+- **[Silas](/player-characters/Silas)** receives healing dice
+- **[Olivia](/player-characters/Olivia)** gets healed from near-death
+- **[Bru](/player-characters/Bru)** and **[Helisanna](/player-characters/Helisanna)** also benefit from the divine healing
 
-Red supplements this with **Healing Word** on himself, demonstrating the crucial role of battlefield healing.
+[Red](/player-characters/Red) supplements this with **Healing Word** on himself, demonstrating the crucial role of battlefield healing.
 
-However, the **Ravager** follows up with another area explosion, dealing 27 fire damage again and downing both **Olivia** and **Frankie**, showing just how deadly these devil encounters can be.
+However, the **Ravager** follows up with another area explosion, dealing 27 fire damage again and downing both **[Olivia](/player-characters/Olivia)** and **Frankie**, showing just how deadly these devil encounters can be.
 
 ## Turning the Tide
 
 The party rallies with impressive teamwork:
 
-**Silas** eliminates the **Infernal Ravager** with precise dagger throws, using his advantage from **Vex** and dealing substantial sneak attack damage in a cinematic jumping attack over Elspeth.
+**[Silas](/player-characters/Silas)** eliminates the **Infernal Ravager** with precise dagger throws, using his advantage from **Vex** and dealing substantial sneak attack damage in a cinematic jumping attack over [Elspeth](/player-characters/Elspeth).
 
-**Elspeth** rushes to revive **Olivia**, throwing herself protectively over the fallen paladin while using her healing abilities. **BoxBox** provides consistent damage against the remaining devils.
+**[Elspeth](/player-characters/Elspeth)** rushes to revive **[Olivia](/player-characters/Olivia)**, throwing herself protectively over the fallen paladin while using her healing abilities. **BoxBox** provides consistent damage against the remaining devils.
 
-**Bru** finally gets his **Eldritch Cannon** back online (having been without it due to no long rest), deploying a **Force Ballista** that provides both consistent damage and tactical positioning with its push effect.
+**[Bru](/player-characters/Bru)** finally gets his **Eldritch Cannon** back online (having been without it due to no long rest), deploying a **Force Ballista** that provides both consistent damage and tactical positioning with its push effect.
 
-**Helisanna** shifts to her **Warlock** abilities, casting **Hex** and then **Eldritch Blast** with devastating effect, landing a critical hit that eliminates the **Minor Devil** with a spectacular display of force energy.
+**[Helisanna](/player-characters/Helisanna)** shifts to her **Warlock** abilities, casting **Hex** and then **Eldritch Blast** with devastating effect, landing a critical hit that eliminates the **Minor Devil** with a spectacular display of force energy.
 
 ## Final Confrontation
 
-With only the **Brute** devil remaining, the party focuses fire:
+With only the **[Bru](/player-characters/Bru)te** devil remaining, the party focuses fire:
 
-**Olivia**, revived and furious, channels her **Divine Strike** and **Imbued Weapon** abilities to deal massive radiant damage. Her attacks cut through the devil "like infernal butter," showcasing the devastating effectiveness of paladin abilities against fiends.
+**[Olivia](/player-characters/Olivia)**, revived and furious, channels her **Divine Strike** and **Imbued Weapon** abilities to deal massive radiant damage. Her attacks cut through the devil "like infernal butter," showcasing the devastating effectiveness of paladin abilities against fiends.
 
 **Frankie**, despite being knocked unconscious and briefly reverting to human form, proves his mettle throughout the fight with consistent high damage.
 
-The final devil falls to **Olivia's** righteous fury as she delivers the killing blow, demonstrating the "bloodthirsty Olivia" persona that emerges when fighting evil.
+The final devil falls to **[Olivia](/player-characters/Olivia)'s** righteous fury as she delivers the killing blow, demonstrating the "bloodthirsty [Olivia](/player-characters/Olivia)" persona that emerges when fighting evil.
 
 ## Resolution and Aftermath
 
@@ -140,17 +140,17 @@ Eleanor's divine magic successfully purifies the shrine, causing:
 
 The session showcases significant character development:
 
-**Red** emerges as a crucial support character, his divine healing abilities proving essential for party survival. His religious knowledge also proves invaluable for understanding the threats they face.
+**[Red](/player-characters/Red)** emerges as a crucial support character, his divine healing abilities proving essential for party survival. His religious knowledge also proves invaluable for understanding the threats they face.
 
-**Olivia** displays a fierce protective instinct and righteous fury against evil, establishing her as a formidable frontline fighter when her divine abilities are properly utilized.
+**[Olivia](/player-characters/Olivia)** displays a fierce protective instinct and righteous fury against evil, establishing her as a formidable frontline fighter when her divine abilities are properly utilized.
 
-**Elspeth** continues her role as the party's heart, rushing to help fallen allies and attempting diplomatic solutions even in dire circumstances.
+**[Elspeth](/player-characters/Elspeth)** continues her role as the party's heart, rushing to help fallen allies and attempting diplomatic solutions even in dire circumstances.
 
-**Silas** demonstrates tactical thinking and adaptability, using his psychic abilities for communication and his combat skills for precise strikes.
+**[Silas](/player-characters/Silas)** demonstrates tactical thinking and adaptability, using his psychic abilities for communication and his combat skills for precise strikes.
 
-**Bru** struggles without his signature abilities but adapts by working with his cannon and providing what support he can.
+**[Bru](/player-characters/Bru)** struggles without his signature abilities but adapts by working with his cannon and providing what support he can.
 
-**Helisanna** shows her versatility by switching between bard and warlock abilities as the situation demands.
+**[Helisanna](/player-characters/Helisanna)** shows her versatility by switching between bard and warlock abilities as the situation demands.
 
 ## Technical and Strategic Notes
 

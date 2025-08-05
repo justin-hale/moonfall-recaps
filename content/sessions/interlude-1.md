@@ -31,10 +31,10 @@ Following sounds of distress, the party discovered:
 - When reunited, both spirits embraced and disappeared into the water, leaving behind the **Maiden Mask**
 
 #### The Princess Mask Effect
-**Bru** was chosen to wear the Maiden Mask, which compelled him to feel and act like a "pretty princess" for the remainder of the evening. While his appearance remained unchanged, his behavior and mindset were magically altered.
+**[Bru](/player-characters/Bru)** was chosen to wear the Maiden Mask, which compelled him to feel and act like a "pretty princess" for the remainder of the evening. While his appearance remained unchanged, his behavior and mindset were magically altered.
 
 #### The Amphitheater Performance
-The guiding light led the party to an abandoned amphitheater where Bru was spotlighted on stage. They discovered they needed to collect four additional masks to complete a theatrical performance, with specific roles assigned to each party member.
+The guiding light led the party to an abandoned amphitheater where [Bru](/player-characters/Bru) was spotlighted on stage. They discovered they needed to collect four additional masks to complete a theatrical performance, with specific roles assigned to each party member.
 
 #### The Mask Collection Trials
 
@@ -50,27 +50,27 @@ The guiding light led the party to an abandoned amphitheater where Bru was spotl
 - The challenge required selecting the correct devil mask "wreathed in flame"
 - Choosing the wrong mask (black) triggered a **mimic attack**
 - All the gold in the cave was revealed to be mimics (earning the phrase "Oops, all mimics")
-- **Silas** was handcuffed to prevent theft, showing unusual restraint
+- **[Silas](/player-characters/Silas)** was handcuffed to prevent theft, showing unusual restraint
 
 **The Knight Mask - Pond Retrieval:**
 - A mask lay at the bottom of a pond
-- **Olivia** volunteered to retrieve it, tied to a rope for safety
+- **[Olivia](/player-characters/Olivia)** volunteered to retrieve it, tied to a rope for safety
 - The mask was guarded by an **ooze creature**
-- The party successfully extracted Olivia and retreated rather than fight the ooze
+- The party successfully extracted [Olivia](/player-characters/Olivia) and retreated rather than fight the ooze
 
 **The Jester Mask - Musical Monkey:**
 - A field of flowers contained a **monkey wearing a jester mask**
 - The creature constantly jumped around, frustrating the party
-- **Helisanna** used her musical abilities to entrance the monkey
+- **[Helisanna](/player-characters/Helisanna)** used her musical abilities to entrance the monkey
 - While it danced to her music, they stole the mask without violence
 
 #### The Final Performance
 Returning to the amphitheater with all five masks, the party performed assigned roles:
-- **Red**: The Fool
-- **Bru**: The Princess (Maiden)
-- **Olivia**: The Knight  
-- **Helisanna**: The Devil
-- **Elspeth**: The Fawn
+- **[Red](/player-characters/Red)**: The Fool
+- **[Bru](/player-characters/Bru)**: The Princess (Maiden)
+- **[Olivia](/player-characters/Olivia)**: The Knight  
+- **[Helisanna](/player-characters/Helisanna)**: The Devil
+- **[Elspeth](/player-characters/Elspeth)**: The Fawn
 
 The performance was successful, with ghostly audience members joining the show. They were awarded their prize mask.
 
@@ -80,7 +80,7 @@ The invisible maitre d' made pointed comments about identity and transformation:
 - References to "fall from grace" 
 - Implications about wanting to reclaim one's true self
 
-These comments particularly stung one party member who felt they were being attacked for past events, and also resonated with **Silas**, whose identity constantly shifts as part of his nature.
+These comments particularly stung one party member who felt they were being attacked for past events, and also resonated with **[Silas](/player-characters/Silas)**, whose identity constantly shifts as part of his nature.
 
 ---
 
@@ -88,7 +88,7 @@ These comments particularly stung one party member who felt they were being atta
 
 ### Pre-Session Preparation
 
-The party takes a long rest in the astral tree village, where they're celebrated as heroes for ending the nightly monster attacks. The grateful villagers, including the newly reunited couple Rowan and Isla, provide food and shelter. Red, Bru, and Elspeth receive heroic inspiration, feeling particularly pumped for the challenges ahead.
+The party takes a long rest in the astral tree village, where they're celebrated as heroes for ending the nightly monster attacks. The grateful villagers, including the newly reunited couple Rowan and Isla, provide food and shelter. [Red](/player-characters/Red), [Bru](/player-characters/Bru), and [Elspeth](/player-characters/Elspeth) receive heroic inspiration, feeling particularly pumped for the challenges ahead.
 
 ### The Gothic Convent
 
@@ -103,19 +103,19 @@ The party encounters their first vampire nun tending a garden of nightshade and 
 #### Garden Battle
 The initial confrontation erupts when the gardening nun reveals her true nature. The combat showcases effective teamwork:
 
-- **Jasper** leads the assault with his greatsword, using reckless attacks to great effect
-- **Olivia** delivers devastating blows with her battle axe, using weapon mastery to knock enemies prone and following up with Divine Smite
-- **Silas** strikes from stealth with precision psychic daggers
-- **Bru** provides tactical support with his eldritch cannon's protective mode, granting temporary hit points
-- **Elspeth** coordinates attacks with BoxBox while using her magical gun
-- **Red** attempts to maintain Spirit Guardians but loses concentration after taking damage
+- **[Jasper](/player-characters/Jasper)** leads the assault with his greatsword, using reckless attacks to great effect
+- **[Olivia](/player-characters/Olivia)** delivers devastating blows with her battle axe, using weapon mastery to knock enemies prone and following up with Divine Smite
+- **[Silas](/player-characters/Silas)** strikes from stealth with precision psychic daggers
+- **[Bru](/player-characters/Bru)** provides tactical support with his eldritch cannon's protective mode, granting temporary hit points
+- **[Elspeth](/player-characters/Elspeth)** coordinates attacks with BoxBox while using her magical gun
+- **[Red](/player-characters/Red)** attempts to maintain Spirit Guardians but loses concentration after taking damage
 
 The party successfully eliminates the nuns outside the convent, with additional vampire spawn joining the fray from various directions.
 
 ### The Courtyard Investigation
 
 #### Scaling the Walls
-**Olivia** successfully climbs a 15-foot wall to scout the inner courtyard, discovering:
+**[Olivia](/player-characters/Olivia)** successfully climbs a 15-foot wall to scout the inner courtyard, discovering:
 - A pedestal statue of a supplicant figure holding a silver key shaped like a heart
 - A canopy of dead trees with blood-dripping purple leaves
 - Angel statues covering their faces around the courtyard's perimeter
@@ -123,31 +123,31 @@ The party successfully eliminates the nuns outside the convent, with additional 
 The rest of the party eventually joins her atop the wall, with various degrees of success in their climbing attempts.
 
 #### The Angel Statues Threat
-**Bru's** exceptional perception reveals the true danger: the angel statues move when not being observed directly, positioning themselves to attack. These creatures prove to be weeping angel-like entities that strike with stone fists and attempt to grapple party members.
+**[Bru](/player-characters/Bru)'s** exceptional perception reveals the true danger: the angel statues move when not being observed directly, positioning themselves to attack. These creatures prove to be weeping angel-like entities that strike with stone fists and attempt to grapple party members.
 
 ### The Courtyard Battle
 
 #### Angel Assault
 The encounter with the angels becomes a test of tactical awareness and creative problem-solving:
 
-- **Helisanna** successfully uses Tasha's Hideous Laughter to make one vampire fall from the trees
-- **Red** casts Spirit Guardians, creating protective Goliath warriors with tomahawks
-- **Elspeth and Olivia** become grappled by stone hands, taking significant damage
-- **Bru** discovers the angels' weakness to thunder damage, using Shatter spell to devastating effect
+- **[Helisanna](/player-characters/Helisanna)** successfully uses Tasha's Hideous Laughter to make one vampire fall from the trees
+- **[Red](/player-characters/Red)** casts Spirit Guardians, creating protective Goliath warriors with tomahawks
+- **[Elspeth](/player-characters/Elspeth) and [Olivia](/player-characters/Olivia)** become grappled by stone hands, taking significant damage
+- **[Bru](/player-characters/Bru)** discovers the angels' weakness to thunder damage, using Shatter spell to devastating effect
 
 #### Creative Solutions
 The party demonstrates excellent problem-solving:
-- **Red** uses his Large Form ability to break free from a stone grip, though taking damage in the process
-- **Bru's** insight about the Shatter spell's effectiveness against stone creatures turns the tide
-- **Kevin** (Bru's minion) helps by maintaining line of sight on statues
+- **[Red](/player-characters/Red)** uses his Large Form ability to break free from a stone grip, though taking damage in the process
+- **[Bru](/player-characters/Bru)'s** insight about the Shatter spell's effectiveness against stone creatures turns the tide
+- **Kevin** ([Bru](/player-characters/Bru)'s minion) helps by maintaining line of sight on statues
 - The group forms a defensive circle to maintain visual contact with all remaining angels
 
 ### Key Discoveries and Rewards
 
 #### Items Acquired
 - **Silver heart-shaped key** from the courtyard pedestal
-- **Bloody purple orchid** collected by Bru from the garden
-- **Stone angel hand choker** fashioned from a destroyed statue for Helisanna
+- **Bloody purple orchid** collected by [Bru](/player-characters/Bru) from the garden
+- **Stone angel hand choker** fashioned from a destroyed statue for [Helisanna](/player-characters/Helisanna)
 - **Devil mask** and various other accessories from previous challenges
 
 #### Tactical Lessons
@@ -160,12 +160,12 @@ The session demonstrates the party's growing tactical sophistication, particular
 ### Character Development
 
 #### Combat Roles Solidifying
-- **Jasper** emerges as a reliable frontline damage dealer with his barbarian abilities
-- **Olivia** proves devastatingly effective against undead with her paladin smites
-- **Bru** shows tactical brilliance with his spell selection and environmental awareness
-- **Elspeth** continues to be a versatile combatant with gun and BoxBox coordination
-- **Red** serves as the team's backbone with healing and support magic
-- **Silas** maintains his role as the precision striker from stealth
+- **[Jasper](/player-characters/Jasper)** emerges as a reliable frontline damage dealer with his barbarian abilities
+- **[Olivia](/player-characters/Olivia)** proves devastatingly effective against undead with her paladin smites
+- **[Bru](/player-characters/Bru)** shows tactical brilliance with his spell selection and environmental awareness
+- **[Elspeth](/player-characters/Elspeth)** continues to be a versatile combatant with gun and BoxBox coordination
+- **[Red](/player-characters/Red)** serves as the team's backbone with healing and support magic
+- **[Silas](/player-characters/Silas)** maintains his role as the precision striker from stealth
 
 #### Team Dynamics
 The session showcases excellent communication and mutual support, with party members covering for each other's weaknesses and building on each other's strengths.
