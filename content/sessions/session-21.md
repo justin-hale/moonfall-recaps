@@ -17,7 +17,7 @@ The party embarks on an impressive speedrun of village problems, helping multipl
 
 **Elder Bryn's Driftwood Dilemma**: The party assists Elder Bryn in collecting driftwood for his mystical rituals, though they're amused to discover he's been searching in trash cans instead of the obvious location - the beach.
 
-**Finnick's Fishing Solution**: [Bru](/player-characters/Bru) provides a creative solution to Finnick's fishing pole problem by giving him dynamite, leading to explosive fishing success and lots of laughter by the water.
+**Finnick's Fishing Solution**: [Bru](/player-characters/bru) provides a creative solution to Finnick's fishing pole problem by giving him dynamite, leading to explosive fishing success and lots of laughter by the water.
 
 **The Love Triangle Resolution**: The party plays matchmaker between Isla, a Goliath herbalist with unique absorbing eyes, and Rowan, an elven hunter who's been at the village for about 100 years. They help gather supplies for gifts and encourage both parties to express their feelings.
 
@@ -29,13 +29,13 @@ The party embarks on an impressive speedrun of village problems, helping multipl
 
 ### The Cave Investigation
 
-When young Thomas mentions strange sounds from a nearby cave, [Silas](/player-characters/Silas) investigates and discovers Sol waiting inside. Sol reveals the true nature of their situation: the villagers are trapped by monstrous creatures that attack every night, and the only way to escape is to defeat these abominations.
+When young Thomas mentions strange sounds from a nearby cave, [Silas](/player-characters/silas) investigates and discovers Sol waiting inside. Sol reveals the true nature of their situation: the villagers are trapped by monstrous creatures that attack every night, and the only way to escape is to defeat these abominations.
 
 ### The Prophecy Vision
 
 Elder Bryn performs a driftwood-burning ritual that creates mystical visions in the steam. The ceremony reveals two possible futures:
-- **Failure**: [Red](/player-characters/Red) is killed by the abominations, his blood opens a portal, and the monsters escape to terrorize other realms
-- **Success**: [Red](/player-characters/Red) defeats the monsters, lighting a portal that allows everyone to escape
+- **Failure**: [Red](/player-characters/red) is killed by the abominations, his blood opens a portal, and the monsters escape to terrorize other realms
+- **Success**: [Red](/player-characters/red) defeats the monsters, lighting a portal that allows everyone to escape
 
 ### The Village's History
 
@@ -68,11 +68,11 @@ The party pursues the monsters to a platform near the original portal location, 
 
 ### Combat Highlights
 
-- [Silas](/player-characters/Silas) delivers devastating sneak attacks, including an anime-style finishing move on Boog where he plunges a dagger between the creature's eyes
+- [Silas](/player-characters/silas) delivers devastating sneak attacks, including an anime-style finishing move on Boog where he plunges a dagger between the creature's eyes
 - Helisana uses tactical Eldritch Blast with Repelling Blast to knock enemies off the tree branches
-- [Elspeth](/player-characters/Elspeth) and BoxBox coordinate attacks with her gun and his force-empowered tools
-- [Red](/player-characters/Red) provides crucial healing support with mass healing word and his channel divinity abilities
-- [Bru](/player-characters/Bru) contributes with his force ballista and explosive spells
+- [Elspeth](/player-characters/elspeth) and BoxBox coordinate attacks with her gun and his force-empowered tools
+- [Red](/player-characters/red) provides crucial healing support with mass healing word and his channel divinity abilities
+- [Bru](/player-characters/bru) contributes with his force ballista and explosive spells
 
 The battle becomes increasingly desperate as the monsters use diverse saving throw attacks (wisdom for fear, dexterity for area effects, constitution for sonic attacks, intelligence for psychic damage), testing every aspect of the party's defenses.
 
@@ -102,7 +102,7 @@ The successful completion of both the social challenges and combat encounters de
 
 - Elder Bryn's confession about looking for driftwood in trash cans instead of the beach
 - The party's exasperation with villagers who won't solve their own obvious problems
-- [Silas](/player-characters/Silas)'s anime-style finishing move on Boog with the dramatic one-liner
+- [Silas](/player-characters/silas)'s anime-style finishing move on Boog with the dramatic one-liner
 - The romantic development between Rowan and Isla through the crisis
 - Sol's mysterious presence and hints about greater challenges ahead
 

@@ -3,19 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://moonfallsessions.com/sessions/session-28/</loc>
-    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+    <loc>http://moonfallsessions.com/</loc>
+    <lastmod>2025-08-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://moonfallsessions.com/</loc>
-    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+    <loc>http://moonfallsessions.com/sessions/session-29/</loc>
+    <lastmod>2025-08-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://moonfallsessions.com/sessions/</loc>
+    <lastmod>2025-08-15T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://moonfallsessions.com/player-characters/bru/</loc>
+    <lastmod>2025-08-05T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://moonfallsessions.com/player-characters/</loc>
+    <lastmod>2025-08-05T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://moonfallsessions.com/sessions/session-28/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -154,12 +172,6 @@
   </url>
   <url>
     <loc>http://moonfallsessions.com/player-characters/jasper/</loc>
-    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://moonfallsessions.com/player-characters/</loc>
     <lastmod>2024-12-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -346,12 +358,6 @@
   </url>
   <url>
     <loc>http://moonfallsessions.com/player-characters/elspeth/</loc>
-    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://moonfallsessions.com/player-characters/bru/</loc>
     <lastmod>2024-08-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

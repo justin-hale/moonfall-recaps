@@ -13,7 +13,7 @@ podcastlink: "https://creators.spotify.com/pod/profile/topher-hooper/episodes/C4
 
 ## Arrival in the Astral Sea
 
-The party finds themselves on floating islands connected by psionic chains and tree roots in what **[Bru](/player-characters/Bru)** identifies as the **Astral Sea**. The landscape consists of:
+The party finds themselves on floating islands connected by psionic chains and tree roots in what **[Bru](/player-characters/bru)** identifies as the **Astral Sea**. The landscape consists of:
 
 - Massive floating fragments held together by magical roots and chains
 - A dying city-sized tree (**Matthew Broadtwig**) that serves as the anchor point
@@ -34,11 +34,11 @@ The party encounters **Scarlet**, a short blonde elf who maintains the world's s
 
 ### Matthew Broadtwig - The Dying World Tree
 
-**[Bru](/player-characters/Bru)** discovers a massive tree that speaks telepathically, revealing itself as **Matthew Broadtwig**:
+**[Bru](/player-characters/bru)** discovers a massive tree that speaks telepathically, revealing itself as **Matthew Broadtwig**:
 
 - A sentient tree the size of a city whose roots hold the floating islands together
 - Dying due to insufficient light from the pale star and general world decay
-- Gives **[Bru](/player-characters/Bru)** a **seed** to plant in their world, claiming it will stabilize their reality
+- Gives **[Bru](/player-characters/bru)** a **seed** to plant in their world, claiming it will stabilize their reality
 - Explains that when he dies, the world will completely fall apart
 - Part of a complex relationship triangle with **Scarlet** and **Marcus**
 
@@ -49,14 +49,14 @@ The party encounters **Scarlet**, a short blonde elf who maintains the world's s
 The party investigates **Marcus's** tower, discovering:
 
 **Workshop Contents**:
-- **Time gun schematics** (stolen by **[Helisanna](/player-characters/Helisanna)**) showing how to use explosions to tear through space-time
+- **Time gun schematics** (stolen by **[Helisanna](/player-characters/helisanna)**) showing how to use explosions to tear through space-time
 - Detailed journals documenting thousands of time travel attempts
 - Evidence of multiple timeline iterations where the three survivors tried different approaches
 - Photographs showing **Marcus** and **Scarlet** had children in some timelines who died from the experiments
 
 **Magical Technology**:
 - **Violessence crystals** similar to but more advanced than Eldoran technology
-- **[Red](/player-characters/Red)'s** exceptional perception (Natural 20) reveals these crystals are artificially created rather than naturally occurring
+- **[Red](/player-characters/red)'s** exceptional perception (Natural 20) reveals these crystals are artificially created rather than naturally occurring
 - A **multidimensional radio** that picks up communications from other realities
 - Time bubbles floating throughout the tower showing scenes from different timelines and realities
 
@@ -64,10 +64,10 @@ The party investigates **Marcus's** tower, discovering:
 
 ### The Rock-Off Challenge
 
-The party meets **Marcus**, a arrogant chronomancer wearing a beret and working on timeline calculations. When he dismisses them as "simple minds," **[Helisanna](/player-characters/Helisanna)** challenges him to a musical duel:
+The party meets **Marcus**, a arrogant chronomancer wearing a beret and working on timeline calculations. When he dismisses them as "simple minds," **[Helisanna](/player-characters/helisanna)** challenges him to a musical duel:
 
 **Performance Results**:
-- **[Helisanna](/player-characters/Helisanna)** rolls 30 on performance, completely overwhelming **Marcus**
+- **[Helisanna](/player-characters/helisanna)** rolls 30 on performance, completely overwhelming **Marcus**
 - Her purple magical tendrils force him to play backup to her lead
 - **Marcus** concedes defeat and agrees to listen to their questions
 
@@ -94,10 +94,10 @@ The party meets **Marcus**, a arrogant chronomancer wearing a beret and working 
 
 ### The Bathroom Heist
 
-Despite repeated warnings not to enter the back room, **[Bru](/player-characters/Bru)** inevitably infiltrates what turns out to be a bathroom containing:
+Despite repeated warnings not to enter the back room, **[Bru](/player-characters/bru)** inevitably infiltrates what turns out to be a bathroom containing:
 - A **pedestal** with dramatic lighting
 - An **iron flask** of mysterious but obviously significant importance
-- **[Bru](/player-characters/Bru)** successfully performs an Indiana Jones-style swap and steals the flask
+- **[Bru](/player-characters/bru)** successfully performs an Indiana Jones-style swap and steals the flask
 - Uses the actual bathroom facilities, discovering an advanced bidet system
 ## Items Acquired and Revelations
 
@@ -105,9 +105,9 @@ Despite repeated warnings not to enter the back room, **[Bru](/player-characters
 
 - **Magical Paint Set** (from **Scarlet**): Can alter reality by painting changes on maps or canvases
 - **World Tree Seed** (from **Matthew**): Intended to stabilize their home reality when planted
-- **Multidimensional Radio** (stolen by **[Red](/player-characters/Red)**): Receives communications across realities
-- **Time Gun Schematics** (stolen by **[Helisanna](/player-characters/Helisanna)**): Complete plans for time travel technology
-- **Iron Flask** (stolen by **[Bru](/player-characters/Bru)**): Mysterious container of unknown but significant contents
+- **Multidimensional Radio** (stolen by **[Red](/player-characters/red)**): Receives communications across realities
+- **Time Gun Schematics** (stolen by **[Helisanna](/player-characters/helisanna)**): Complete plans for time travel technology
+- **Iron Flask** (stolen by **[Bru](/player-characters/bru)**): Mysterious container of unknown but significant contents
 - **Advanced Violessence Crystals**: More efficient power sources than known technology
 
 ### Critical Intelligence
@@ -128,7 +128,7 @@ Despite repeated warnings not to enter the back room, **[Bru](/player-characters
 
 After delivering his cautionary tale, **Marcus** opens a portal to send them home:
 - Transports them to a snowy mountaintop outside a Goliath village
-- Near the cave system where **[Red](/player-characters/Red)'s** trials originally began
+- Near the cave system where **[Red](/player-characters/red)'s** trials originally began
 - The party is now equipped with powerful magical items and crucial knowledge
 
 ### The Lesson Learned
@@ -143,7 +143,7 @@ The visit serves as **Sol's** intended warning about the dangers of:
 
 ### Bru's Chaos Theory
 
-**[Bru](/player-characters/Bru)** continues his pattern of doing exactly what he's told not to do, successfully stealing the mysterious iron flask despite repeated warnings. His natural curiosity and disregard for authority consistently drives plot advancement.
+**[Bru](/player-characters/bru)** continues his pattern of doing exactly what he's told not to do, successfully stealing the mysterious iron flask despite repeated warnings. His natural curiosity and disregard for authority consistently drives plot advancement.
 
 ### Helisanna's Growing Power
 
@@ -151,7 +151,7 @@ Her musical abilities prove capable of overwhelming even experienced magical pra
 
 ### Red's Technical Insight
 
-**[Red](/player-characters/Red)'s** exceptional understanding of crystal technology provides crucial intelligence about the relationship between their world's violessence and the advanced power sources they've discovered.
+**[Red](/player-characters/red)'s** exceptional understanding of crystal technology provides crucial intelligence about the relationship between their world's violessence and the advanced power sources they've discovered.
 
 ### Moral Complexity
 
@@ -163,14 +163,14 @@ The session explores themes of unintended consequences, the dangers of perfectio
 
 1. **Eldora's Crystal Collection**: The cautionary tale suggests **Eldora's** violessence gathering could lead to similar reality-shattering consequences
 2. **Time Gun Technology**: The party now possesses the knowledge to create time travel technology, presenting both opportunity and extreme danger
-3. **Iron Flask Mystery**: **[Bru](/player-characters/Bru)'s** stolen artifact likely contains something of cosmic significance
+3. **Iron Flask Mystery**: **[Bru](/player-characters/bru)'s** stolen artifact likely contains something of cosmic significance
 4. **World Tree Planting**: **Matthew's** seed represents either salvation or another potential disaster for their reality
 
 ### Enhanced Capabilities
 
 The party's new magical items provide significant advantages:
 - Reality-altering paint for creative problem-solving
-- Advanced power sources for **[Bru](/player-characters/Bru)'s** inventions
+- Advanced power sources for **[Bru](/player-characters/bru)'s** inventions
 - Multidimensional communication capabilities
 - Potential for growing their own world-stabilizing tree
 

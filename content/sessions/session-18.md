@@ -21,15 +21,15 @@ The session opens with the village of Milstrom in full winter solstice celebrati
 - Various festive decorations and gatherings
 
 ### Party Activities
-- **[Silas](/player-characters/Silas) and [Bru](/player-characters/Bru)** operate a sketchy ice skate rental business, stealing townspeople's skates and relabeling them with their own branding
-- **[Red](/player-characters/Red)** joins the snowman building contest with local children Billy, Jimmy, and Timmy, using his height advantage to build massive snowballs
-- **[Elspeth](/player-characters/Elspeth)** sets up a tinkering booth making sleds and ball-throwing devices for free (much to [Silas](/player-characters/Silas)'s dismay)
-- **[Helisanna](/player-characters/Helisanna)** explores the beer garden and festivities
-- **[Olivia](/player-characters/Olivia)** observes the celebration
+- **[Silas](/player-characters/silas) and [Bru](/player-characters/bru)** operate a sketchy ice skate rental business, stealing townspeople's skates and relabeling them with their own branding
+- **[Red](/player-characters/red)** joins the snowman building contest with local children Billy, Jimmy, and Timmy, using his height advantage to build massive snowballs
+- **[Elspeth](/player-characters/elspeth)** sets up a tinkering booth making sleds and ball-throwing devices for free (much to [Silas](/player-characters/silas)'s dismay)
+- **[Helisanna](/player-characters/helisanna)** explores the beer garden and festivities
+- **[Olivia](/player-characters/olivia)** observes the celebration
 
-### Introduction of [Jasper](/player-characters/Jasper) Gaines
+### Introduction of [Jasper](/player-characters/jasper) Gaines
 
-A new character enters the scene: **[Jasper](/player-characters/Jasper) Gaines**, a human barbarian wearing Eldoran armor with dull crystal embellishments. He arrives leading a wagon full of beer casks for the tavern, demonstrating his connection to the local community through his friendship with Roscoe.
+A new character enters the scene: **[Jasper](/player-characters/jasper) Gaines**, a human barbarian wearing Eldoran armor with dull crystal embellishments. He arrives leading a wagon full of beer casks for the tavern, demonstrating his connection to the local community through his friendship with Roscoe.
 
 ## The Corrupted Solstice Attack
 
@@ -43,13 +43,13 @@ A sudden, unnatural winter storm descends upon the town, filled with pellets of 
 
 ### The Impostor Revealed
 
-From atop the church, a scantily clad water genasi in a bikini (despite the winter weather) reveals herself as **"Caspian"**. However, [Elspeth](/player-characters/Elspeth)'s religion knowledge (rolling an 18) reveals this is likely an impostor, as the real Caspian is known to be fully clothed and complains about magical image distortions.
+From atop the church, a scantily clad water genasi in a bikini (despite the winter weather) reveals herself as **"Caspian"**. However, [Elspeth](/player-characters/elspeth)'s religion knowledge (rolling an 18) reveals this is likely an impostor, as the real Caspian is known to be fully clothed and complains about magical image distortions.
 
 The impostor declares: *"Listen up, you wankers! I've turned evil now. I am Caspian Shores. I need to ruin your solstice."*
 
 ### Initial Combat
 
-[Jasper](/player-characters/Jasper) immediately attacks the impostor (dubbed "Negacast") with his hand axes, dealing significant damage. The impostor retaliates by creating snow fists that attack [Jasper](/player-characters/Jasper), then disappears while promising more chaos.
+[Jasper](/player-characters/jasper) immediately attacks the impostor (dubbed "Negacast") with his hand axes, dealing significant damage. The impostor retaliates by creating snow fists that attack [Jasper](/player-characters/jasper), then disappears while promising more chaos.
 
 ## Three Crisis Points
 
@@ -62,11 +62,11 @@ The party must split their attention to handle three simultaneous magical attack
 The massive 30-foot Yule tree becomes bewitched, with its decorative ribbons transforming into deadly tendrils that pierce villagers and transform them into Christmas ornaments that get pulled onto the tree.
 
 **Combat Highlights**:
-- [Helisanna](/player-characters/Helisanna) uses Misty Step to get to high ground and attacks with Eldritch Blast
-- [Olivia](/player-characters/Olivia) charges in with her battle axe, dealing massive damage with critical hits and Divine Smite
-- [Jasper](/player-characters/Jasper) follows up with devastating greatsword attacks using his berserker rage
+- [Helisanna](/player-characters/helisanna) uses Misty Step to get to high ground and attacks with Eldritch Blast
+- [Olivia](/player-characters/olivia) charges in with her battle axe, dealing massive damage with critical hits and Divine Smite
+- [Jasper](/player-characters/jasper) follows up with devastating greatsword attacks using his berserker rage
 - The party discovers a corrupted crystal tree topper that's controlling the magic
-- [Helisanna](/player-characters/Helisanna) destroys the crystal with psychic damage Eldritch Blasts, breaking the enchantment
+- [Helisanna](/player-characters/helisanna) destroys the crystal with psychic damage Eldritch Blasts, breaking the enchantment
 
 **Resolution**: The tree is toppled and the crystal destroyed, freeing all the ornament-people and returning them to normal.
 
@@ -74,13 +74,13 @@ The massive 30-foot Yule tree becomes bewitched, with its decorative ribbons tra
 
 **Location**: The snowman contest field
 
-All the snowmen built for the contest come to life and begin attacking the children who built them. The party discovers that destroying individual snowmen only causes their snow to flow back to the giant snowman [Red](/player-characters/Red) had built with the children.
+All the snowmen built for the contest come to life and begin attacking the children who built them. The party discovers that destroying individual snowmen only causes their snow to flow back to the giant snowman [Red](/player-characters/red) had built with the children.
 
 **Combat Highlights**:
-- [Olivia](/player-characters/Olivia) lights her battle axe on fire using lamp oil to combat the snow creatures
-- [Jasper](/player-characters/Jasper) performs an incredible flaming sword strike, sliding on the ice and lighting his blade mid-attack with bardic inspiration
+- [Olivia](/player-characters/olivia) lights her battle axe on fire using lamp oil to combat the snow creatures
+- [Jasper](/player-characters/jasper) performs an incredible flaming sword strike, sliding on the ice and lighting his blade mid-attack with bardic inspiration
 - The party realizes they need to destroy the controlling crystal rather than the snowmen themselves
-- [Olivia](/player-characters/Olivia) delivers the killing blow to the crystal with Divine Smite
+- [Olivia](/player-characters/olivia) delivers the killing blow to the crystal with Divine Smite
 
 **Resolution**: All snowmen return to normal snow once their controlling crystal is destroyed.
 
@@ -91,9 +91,9 @@ All the snowmen built for the contest come to life and begin attacking the child
 The carolers become possessed with milky white eyes and begin singing Norwegian death metal that mind-controls anyone who listens. Those affected begin joining the horrible song against their will.
 
 **Combat Highlights**:
-- Only [Jasper](/player-characters/Jasper) (rolling a 21 perception) spots the controlling crystal above the stage
-- [Jasper](/player-characters/Jasper) charges through the mind-control effect with a successful charisma save
-- [Olivia](/player-characters/Olivia) summons her fey ram Bob and uses Fey Step to teleport directly to the action
+- Only [Jasper](/player-characters/jasper) (rolling a 21 perception) spots the controlling crystal above the stage
+- [Jasper](/player-characters/jasper) charges through the mind-control effect with a successful charisma save
+- [Olivia](/player-characters/olivia) summons her fey ram Bob and uses Fey Step to teleport directly to the action
 - The party coordinates attacks while resisting the mind-control effects
 - Multiple party members fall under the song's influence and attack their allies
 - The crystal is eventually destroyed, freeing all the carolers
@@ -109,15 +109,15 @@ The party converges on the ice skating rink for the final confrontation with Neg
 **Key Combat Elements**:
 - The ice rink becomes a battlefield with treacherous frozen terrain
 - Negacast uses ice-based magic to restrain and attack the party
-- [Olivia](/player-characters/Olivia) lands a devastating critical hit with Divine Smite (40 damage total)
-- [Jasper](/player-characters/Jasper) deals consistent damage with his berserker rage
-- [Elspeth](/player-characters/Elspeth) provides ranged support while BoxBox engages in melee
+- [Olivia](/player-characters/olivia) lands a devastating critical hit with Divine Smite (40 damage total)
+- [Jasper](/player-characters/jasper) deals consistent damage with his berserker rage
+- [Elspeth](/player-characters/elspeth) provides ranged support while BoxBox engages in melee
 
 ### The Protective Tattoos
 
-During combat, the party notices strange tattoos on Negacast's abdomen. [Elspeth](/player-characters/Elspeth)'s arcana check (17) identifies these as **sigils of warding** designed to keep out outside observation and presence.
+During combat, the party notices strange tattoos on Negacast's abdomen. [Elspeth](/player-characters/elspeth)'s arcana check (17) identifies these as **sigils of warding** designed to keep out outside observation and presence.
 
-**[Red](/player-characters/Red)'s Crucial Role**: [Red](/player-characters/Red) successfully uses Dispel Magic to remove the protective tattoos, rolling exactly the DC needed (15) after using inspiration to reroll.
+**[Red](/player-characters/red)'s Crucial Role**: [Red](/player-characters/red) successfully uses Dispel Magic to remove the protective tattoos, rolling exactly the DC needed (15) after using inspiration to reroll.
 
 ### The Real Caspian's Arrival
 
@@ -130,8 +130,8 @@ Once the protective wards are dispelled:
 ### Team Finishing Move
 
 The party coordinates a spectacular team attack:
-- [Helisanna](/player-characters/Helisanna) blasts [Jasper](/player-characters/Jasper) with Eldritch Blast to propel him forward
-- [Jasper](/player-characters/Jasper) and [Olivia](/player-characters/Olivia) perform simultaneous cross-decapitation strikes
+- [Helisanna](/player-characters/helisanna) blasts [Jasper](/player-characters/jasper) with Eldritch Blast to propel him forward
+- [Jasper](/player-characters/jasper) and [Olivia](/player-characters/olivia) perform simultaneous cross-decapitation strikes
 - The attack reveals Negacast wasn't actually Caspian but some kind of construct or summoned being
 - Negacast dissolves into snow and ash, with a screaming skull at its core that also disintegrates
 
@@ -143,7 +143,7 @@ The real Caspian thanks the party and:
 - Heals all the injured villagers
 - Completely reverses all the corruption (booze returns, proper gifts restored, etc.)
 - Gives each party member beautiful crystal figurines as rewards
-- Gives [Elspeth](/player-characters/Elspeth) an autographed copy of her favorite Caspian novel
+- Gives [Elspeth](/player-characters/elspeth) an autographed copy of her favorite Caspian novel
 - Helps restore the celebration atmosphere
 
 ### Gift Exchange Tradition
@@ -151,12 +151,12 @@ The real Caspian thanks the party and:
 The party participates in a "White Owlbear" gift exchange (their world's version of White Elephant):
 
 **Gifts Exchanged**:
-- **[Helisanna](/player-characters/Helisanna) receives**: [Silas](/player-characters/Silas)'s "one crime carried out on your behalf" coupon
-- **[Jasper](/player-characters/Jasper) receives**: [Olivia](/player-characters/Olivia)'s detective magnifying glass  
-- **[Elspeth](/player-characters/Elspeth) receives**: VIP tickets for 10 to "Gaines Brewery Bakery and Bankery" in Eldora
-- **[Olivia](/player-characters/Olivia) receives**: [Helisanna](/player-characters/Helisanna)'s bottle of Emmervale Elixir from High Forge
-- **[Red](/player-characters/Red) receives**: [Elspeth](/player-characters/Elspeth)'s custom train track with mini Vroomfall and Doomfall cars
-- **[Silas](/player-characters/Silas) and [Bru](/player-characters/Bru)'s exchange**: Deferred to next session
+- **[Helisanna](/player-characters/helisanna) receives**: [Silas](/player-characters/silas)'s "one crime carried out on your behalf" coupon
+- **[Jasper](/player-characters/jasper) receives**: [Olivia](/player-characters/olivia)'s detective magnifying glass  
+- **[Elspeth](/player-characters/elspeth) receives**: VIP tickets for 10 to "Gaines Brewery Bakery and Bankery" in Eldora
+- **[Olivia](/player-characters/olivia) receives**: [Helisanna](/player-characters/helisanna)'s bottle of Emmervale Elixir from High Forge
+- **[Red](/player-characters/red) receives**: [Elspeth](/player-characters/elspeth)'s custom train track with mini Vroomfall and Doomfall cars
+- **[Silas](/player-characters/silas) and [Bru](/player-characters/bru)'s exchange**: Deferred to next session
 
 ### Celebration Continues
 
@@ -186,7 +186,7 @@ As Caspian prepares to leave town using the Winter King's magic to travel on the
 - Excellent teamwork displayed across multiple simultaneous combat encounters
 - Creative problem-solving with environmental obstacles (ice, fire, crystals)
 - Strong coordination in the final team attack sequence
-- Growing acceptance of [Jasper](/player-characters/Jasper) as a temporary or permanent party member
+- Growing acceptance of [Jasper](/player-characters/jasper) as a temporary or permanent party member
 
 ### Red's Growth
 - Successfully used Dispel Magic at a crucial moment
@@ -197,8 +197,8 @@ As Caspian prepares to leave town using the Winter King's magic to travel on the
 ## Combat and Mechanical Highlights
 
 ### New 2024 D&D Rules in Action
-- [Jasper](/player-characters/Jasper)'s barbarian abilities showcased the improved skill system (using Strength for Perception)
-- Mount combat mechanics with [Olivia](/player-characters/Olivia) and Bob the ram
+- [Jasper](/player-characters/jasper)'s barbarian abilities showcased the improved skill system (using Strength for Perception)
+- Mount combat mechanics with [Olivia](/player-characters/olivia) and Bob the ram
 - Creative use of environmental factors (fire, ice, crystals)
 - Effective use of bardic inspiration and team coordination
 
@@ -211,10 +211,10 @@ As Caspian prepares to leave town using the Winter King's magic to travel on the
 ## Ongoing Plot Threads
 
 1. **Crowley's Master Plan**: The fae entity appears to be targeting powerful magical beings systematically
-2. **Eldoran Relations**: [Jasper](/player-characters/Jasper)'s presence and heroics improve relations between Milstrom and Eldora
+2. **Eldoran Relations**: [Jasper](/player-characters/jasper)'s presence and heroics improve relations between Milstrom and Eldora
 3. **Gaines Brewery Mystery**: The tickets suggest potential future adventures in Eldora
 4. **Caspian's Fate**: Her capture by Crowley may require future rescue efforts
-5. **Party Composition**: [Jasper](/player-characters/Jasper)'s potential permanent addition to the group
+5. **Party Composition**: [Jasper](/player-characters/jasper)'s potential permanent addition to the group
 
 ## Session Themes
 
@@ -222,7 +222,7 @@ This session expertly balanced holiday festivities with serious threats, showcas
 - **Community Spirit**: The importance of protecting celebration and tradition
 - **Teamwork**: Multiple simultaneous threats requiring coordination
 - **Good vs. Corruption**: The contrast between genuine celebration and twisted imitations  
-- **New Alliances**: [Jasper](/player-characters/Jasper)'s integration and improved Eldoran relations
+- **New Alliances**: [Jasper](/player-characters/jasper)'s integration and improved Eldoran relations
 - **Growing Threats**: Crowley's expanding influence and mysterious master plan
 
 The winter solstice setting provided an excellent backdrop for both heartwarming community moments and dramatic magical combat, while the cliffhanger ending sets up significant future plot developments involving Crowley's schemes.

@@ -1,5 +1,5 @@
 ---
-title: "[Silas](/player-characters/Silas) Fairbanks"
+title: "[Silas](/player-characters/silas) Fairbanks"
 date: "2024-08-05"
 description: "Scheming halfling rogue with psychic abilities and a dangerous criminal past"
 summary: "Scheming halfling rogue with psychic abilities and a dangerous criminal past"
@@ -8,7 +8,7 @@ featureimage: "silas.webp"
 
 ## Character Overview
 
-**[Silas](/player-characters/Silas) Fairbanks** is a halfling Rogue (Soulknife) who serves as the band's manager while harboring a dangerous criminal past. His psychic abilities and scheming nature make him invaluable for both legitimate business and illegal operations.
+**[Silas](/player-characters/silas) Fairbanks** is a halfling Rogue (Soulknife) who serves as the band's manager while harboring a dangerous criminal past. His psychic abilities and scheming nature make him invaluable for both legitimate business and illegal operations.
 
 ## Basic Information
 
@@ -21,10 +21,10 @@ featureimage: "silas.webp"
 
 ## Background
 
-[Silas](/player-characters/Silas) was previously part of the **Sisyphus Circle**, a criminal gang that attempted to steal a dragon orb from the **Iron Claws** organization. The heist went catastrophically wrong, resulting in the deaths of other gang members and leaving [Silas](/player-characters/Silas) as one of the few survivors along with [Bru](/player-characters/Bru).
+[Silas](/player-characters/silas) was previously part of the **Sisyphus Circle**, a criminal gang that attempted to steal a dragon orb from the **Iron Claws** organization. The heist went catastrophically wrong, resulting in the deaths of other gang members and leaving [Silas](/player-characters/silas) as one of the few survivors along with [Bru](/player-characters/bru).
 
 ### The Dragon Orb Heist
-The theft of a glass orb containing the cosmic dragon **"Everything"** from Helja and the Iron Claws has made [Silas](/player-characters/Silas) a high-priority target with the largest bounty on his head among the party members.
+The theft of a glass orb containing the cosmic dragon **"Everything"** from Helja and the Iron Claws has made [Silas](/player-characters/silas) a high-priority target with the largest bounty on his head among the party members.
 
 ## Abilities and Equipment
 
@@ -44,11 +44,11 @@ The theft of a glass orb containing the cosmic dragon **"Everything"** from Helj
 - **The Dragon Orb**: Dangerous cosmic communication device containing the entity "Everything"
 - **Silver and Amethyst Necklace**: Stolen Tyr priest jewelry
 - **Professional Thief Tools**: Lockpicks and other criminal equipment
-- **Spell Wrought Tattoo**: Memorial gift from [Bru](/player-characters/Bru) providing spell slot recovery
+- **Spell Wrought Tattoo**: Memorial gift from [Bru](/player-characters/bru) providing spell slot recovery
 
 ## Key Relationships
 
-### [Bru](/player-characters/Bru) (Felonias)
+### [Bru](/player-characters/bru) (Felonias)
 Former partner in the Sisyphus Circle with a relationship built on shared trauma and mutual protection. Their bond is tested by frequent bickering but remains strong.
 
 ### "Muscle Mommy" Naomi
@@ -113,7 +113,7 @@ Increasingly serves as the party's strategic planner and negotiator, particularl
 
 ## Current Status
 
-[Silas](/player-characters/Silas) continues to balance legitimate band management with criminal activities while being actively hunted by the Iron Claws for the dragon orb theft.
+[Silas](/player-characters/silas) continues to balance legitimate band management with criminal activities while being actively hunted by the Iron Claws for the dragon orb theft.
 
 ### The Dragon Orb Situation
 - **Cosmic Communication**: Maintains dangerous contact with the entity "Everything"
@@ -135,7 +135,7 @@ Increasingly serves as the party's strategic planner and negotiator, particularl
 ## Future Concerns
 
 ### The Dragon Threat
-The cosmic entity "Everything" represents a solar system-level threat that could use [Silas](/player-characters/Silas) as a conduit for invasion.
+The cosmic entity "Everything" represents a solar system-level threat that could use [Silas](/player-characters/silas) as a conduit for invasion.
 
 ### Criminal Consequences
 His theft of the dragon orb has made him a permanent target for one of the most powerful criminal organizations in the region.
@@ -146,4 +146,4 @@ Balancing legitimate business success with criminal skills and contacts creates 
 ### Relationship Maintenance
 Managing his romance with Naomi while living a dangerous criminal lifestyle presents ongoing challenges.
 
-[Silas](/player-characters/Silas) represents the classic "gentleman thief" archetype evolved into a modern criminal entrepreneur, showing how illegal skills can serve heroic purposes while creating dangerous complications. His psychic abilities and criminal expertise make him uniquely valuable for both infiltration and combat operations.
+[Silas](/player-characters/silas) represents the classic "gentleman thief" archetype evolved into a modern criminal entrepreneur, showing how illegal skills can serve heroic purposes while creating dangerous complications. His psychic abilities and criminal expertise make him uniquely valuable for both infiltration and combat operations.

@@ -8,7 +8,7 @@ featureimage: "jasper.webp"
 
 ## Character Overview
 
-**Lieutenant [Jasper](/player-characters/Jasper) Gaines** is a human Barbarian (Path of the Berserker) and former Eldoran soldier who deserted the Empire to fight alongside the party. He struggles with PTSD from his military service while running a family business.
+**Lieutenant [Jasper](/player-characters/jasper) Gaines** is a human Barbarian (Path of the Berserker) and former Eldoran soldier who deserted the Empire to fight alongside the party. He struggles with PTSD from his military service while running a family business.
 
 ## Basic Information
 
@@ -22,7 +22,7 @@ featureimage: "jasper.webp"
 
 ## Background
 
-[Jasper](/player-characters/Jasper) served as a Lieutenant in the Eldoran military but suffered trauma from his service. He operates a family business that combines brewing, baking, and banking services. His friendship with Roscoe led him to deliver beer supplies to Milstrom, where he first encountered the party.
+[Jasper](/player-characters/jasper) served as a Lieutenant in the Eldoran military but suffered trauma from his service. He operates a family business that combines brewing, baking, and banking services. His friendship with Roscoe led him to deliver beer supplies to Milstrom, where he first encountered the party.
 
 ## Military Service and Desertion
 
@@ -33,7 +33,7 @@ featureimage: "jasper.webp"
 - Developed PTSD from his service experiences
 
 ### The Moral Choice
-During the Skyhammer clan battle, [Jasper](/player-characters/Jasper) faced a critical decision when fellow Eldoran Knight Eric called for him to help kill the Goliaths. Instead of following military orders, he chose to protect innocent people, shouting "I won't let you kill them" and attacking Eric instead.
+During the Skyhammer clan battle, [Jasper](/player-characters/jasper) faced a critical decision when fellow Eldoran Knight Eric called for him to help kill the Goliaths. Instead of following military orders, he chose to protect innocent people, shouting "I won't let you kill them" and attacking Eric instead.
 
 ### Consequences of Desertion
 - Officially AWOL from the Eldoran military
@@ -62,12 +62,12 @@ During the Skyhammer clan battle, [Jasper](/player-characters/Jasper) faced a cr
 ## Key Relationships
 
 ### Roscoe
-Long-standing friendship that led to [Jasper](/player-characters/Jasper)'s introduction to the party. Roscoe represents a connection to civilian life and normalcy.
+Long-standing friendship that led to [Jasper](/player-characters/jasper)'s introduction to the party. Roscoe represents a connection to civilian life and normalcy.
 
 ### The Party
 - **Moral Alignment**: Shared values about protecting innocent people
 - **Combat Coordination**: Effective teamwork in dangerous situations
-- **Emotional Support**: Provided comfort during [Red](/player-characters/Red)'s memorial service
+- **Emotional Support**: Provided comfort during [Red](/player-characters/red)'s memorial service
 
 ### Family Business
 Operates "Gaines Brewery, Bakery, and Bankery" which serves his local community and provides care for children who depend on his services.
@@ -75,13 +75,13 @@ Operates "Gaines Brewery, Bakery, and Bankery" which serves his local community 
 ## Character Development
 
 ### Military to Civilian Transition
-[Jasper](/player-characters/Jasper)'s journey from soldier to deserter shows his moral growth and willingness to prioritize human decency over institutional loyalty.
+[Jasper](/player-characters/jasper)'s journey from soldier to deserter shows his moral growth and willingness to prioritize human decency over institutional loyalty.
 
 ### Trauma Processing
 His PTSD from military service affects his decisions and ultimately leads to his departure from the party when violence triggers too many painful memories.
 
 ### Leadership Moments
-Despite his trauma, [Jasper](/player-characters/Jasper) demonstrated natural leadership and moral courage when facing difficult choices.
+Despite his trauma, [Jasper](/player-characters/jasper) demonstrated natural leadership and moral courage when facing difficult choices.
 
 ## Notable Achievements
 
@@ -102,11 +102,11 @@ Despite his trauma, [Jasper](/player-characters/Jasper) demonstrated natural lea
 ## Departure and Legacy
 
 ### Reasons for Leaving
-[Jasper](/player-characters/Jasper) left the party in Session 24 due to:
+[Jasper](/player-characters/jasper) left the party in Session 24 due to:
 - PTSD triggered by recent violence and warfare
 - Feeling that his strength caused more destruction than good
 - Desire to return to his family business and the children who depend on him
-- Traumatic memories from [Red](/player-characters/Red)'s sacrifice reminding him of wartime losses
+- Traumatic memories from [Red](/player-characters/red)'s sacrifice reminding him of wartime losses
 
 ### Parting Gifts
 - **Eldoran Armor**: Left crystal-embedded protection for the party's use
@@ -114,11 +114,11 @@ Despite his trauma, [Jasper](/player-characters/Jasper) demonstrated natural lea
 - **Open Invitation**: Promise of assistance if the party visits Eldoran
 
 ### Olivia's Counsel
-[Olivia](/player-characters/Olivia) encouraged [Jasper](/player-characters/Jasper) to seek mental health support and talk to someone about his trauma, showing understanding of his psychological struggles.
+[Olivia](/player-characters/olivia) encouraged [Jasper](/player-characters/jasper) to seek mental health support and talk to someone about his trauma, showing understanding of his psychological struggles.
 
 ## Current Status
 
-[Jasper](/player-characters/Jasper) has returned to Eldoran to resume operation of his family business. His status as a deserter remains unclear, though the death of the only witness (Eric) may protect him from immediate consequences.
+[Jasper](/player-characters/jasper) has returned to Eldoran to resume operation of his family business. His status as a deserter remains unclear, though the death of the only witness (Eric) may protect him from immediate consequences.
 
 ### Business Operations
 - **Gaines Brewery, Bakery, and Bankery**: Unique combination business serving the local community
@@ -137,4 +137,4 @@ Despite his trauma, [Jasper](/player-characters/Jasper) demonstrated natural lea
 
 ## Character Themes
 
-[Jasper](/player-characters/Jasper)'s story explores themes of moral courage, the costs of military service, and the difficulty of transitioning from soldier to civilian life. His choice to desert the Empire for moral principles demonstrates character growth and the power of found family relationships over institutional loyalty.
+[Jasper](/player-characters/jasper)'s story explores themes of moral courage, the costs of military service, and the difficulty of transitioning from soldier to civilian life. His choice to desert the Empire for moral principles demonstrates character growth and the power of found family relationships over institutional loyalty.

@@ -55,8 +55,8 @@ Marcus created revolutionary time travel device with fatal flaw:
 - **Violessence Technology:** Access to advanced crystal-powered magical systems
 
 **The Musical Defeat:**
-- **[Helisanna](/player-characters/Helisanna)'s Challenge:** Challenged to musical duel when he dismissed party as "simple minds"
-- **Complete Overwhelm:** [Helisanna](/player-characters/Helisanna)'s 30 performance roll devastated his arrogance
+- **[Helisanna](/player-characters/helisanna)'s Challenge:** Challenged to musical duel when he dismissed party as "simple minds"
+- **Complete Overwhelm:** [Helisanna](/player-characters/helisanna)'s 30 performance roll devastated his arrogance
 - **Purple Magic Domination:** Her magical tendrils forced him to play backup to her lead
 - **Ego Destruction:** Conceded defeat and agreed to listen to party's questions
 - **Knowledge Sharing:** Provided crucial warnings about time travel dangers after humiliation
@@ -118,7 +118,7 @@ Provided **Magical Paint Set** with reality-altering capabilities:
 - **Artistic Magic:** Requires genuine artistic skill to achieve maximum effectiveness
 - **Reality Respect:** Comes with implicit warnings about overuse and unintended consequences
 
-**Artistic Philosophy and [Red](/player-characters/Red)emption:**
+**Artistic Philosophy and [Red](/player-characters/red)emption:**
 - **Skill Repurposing:** Transformed assassination abilities into life-preserving art
 - **Community Responsibility:** Uses talents to maintain world stability for innocent refugees
 - **Creative Expression:** Finds fulfillment through artistic creation rather than destruction
@@ -407,18 +407,18 @@ Professional entertainment animal trained for magic shows and casino performance
 #### The Dimensional Trio - Planar Lambs
 **Abilities:** Transport beings to other planes through touch or proximity  
 **Destinations:** Various realms including Nine Hells, heavenly realms, robotic futures  
-**Leadership:** Chose [Bru](/player-characters/Bru) as their military commander, forming "[Bru](/player-characters/Bru)'s Army"
+**Leadership:** Chose [Bru](/player-characters/bru) as their military commander, forming "[Bru](/player-characters/bru)'s Army"
 
 **Collective Impact:**
 - **Reality Anchor:** Provide connection to multiple dimensions and realms
-- **Military Resource:** Serve as [Bru](/player-characters/Bru)'s supernatural army with dimensional capabilities
+- **Military Resource:** Serve as [Bru](/player-characters/bru)'s supernatural army with dimensional capabilities
 - **Transportation Network:** Enable party access to otherwise impossible locations
 - **Magical Defense:** Supernatural abilities useful for community protection
 - **Cosmic Connection:** Link between material world and broader multiverse
 
 ### Luminar - The Fallen Moon Goddess
 
-**First Appearance:** Session 16 - "[Olivia](/player-characters/Olivia)'s Decision" (death witnessed)  
+**First Appearance:** Session 16 - "[Olivia](/player-characters/olivia)'s Decision" (death witnessed)  
 **Race:** Deity (Lunar/Celestial Domain)  
 **Profession:** Moon Goddess, Celestial Guardian, Divine Protector  
 **Status:** Deceased (murdered by Eldora's artificial moon)
@@ -459,9 +459,9 @@ Celestial being captured and systematically tortured by vampires for unknown per
 - **Corrupted Eyes:** Should shine like sun but glowed blood-red from madness
 - **Black Stole:** Diabolic restraint literally stitched into skin for control
 
-**Rescue and [Red](/player-characters/Red)emption:**
+**Rescue and [Red](/player-characters/red)emption:**
 - **Party Diplomacy:** Team chose compassion over combat when angel attacked
-- **Healing Gesture:** [Red](/player-characters/Red)'s decision to heal rather than fight demonstrated good intentions
+- **Healing Gesture:** [Red](/player-characters/red)'s decision to heal rather than fight demonstrated good intentions
 - **Truth Revelation:** Zone of Truth and honest communication calmed the angel
 - **Surgical Liberation:** Careful removal of corrupted restraints and healing of wounds
 - **Divine Ascension:** Freed angel destroyed convent roof and ascended to heavenly realm

@@ -35,8 +35,8 @@ Toonlock tested the party through three major challenges to prove their worthine
 **Relationships with Player Characters:**
 - **The Party (Collective):** Chose them as champions after observing their potential and moral flexibility
 - **Individual Assessment:** Provided personalized trials testing each member's unique strengths
-- **[Helisanna](/player-characters/Helisanna):** Particularly interested in her supernatural musical abilities and patron connections
-- **[Red](/player-characters/Red):** Appreciated his healing nature and protective instincts toward others
+- **[Helisanna](/player-characters/helisanna):** Particularly interested in her supernatural musical abilities and patron connections
+- **[Red](/player-characters/red):** Appreciated his healing nature and protective instincts toward others
 
 **Connections to Other NPCs:**
 - **Crowley:** Primary antagonist who cheated to steal Toonlock's totem and invaded his realm
@@ -86,7 +86,7 @@ Eleanor leads a wandering coven dedicated to environmental restoration and magic
 **Session Appearances:**
 - **Session 8:** First meeting with caravan, contracts party for Hearth Seed mission and blight cleansing
 - **Session 12:** Provides crucial assistance in shrine cleansing and devil portal closing
-- **Session 13:** Successfully closes shrine portal using ancestral amulet, provides portal-closing device to [Red](/player-characters/Red)
+- **Session 13:** Successfully closes shrine portal using ancestral amulet, provides portal-closing device to [Red](/player-characters/red)
 - **Session 15:** Her amulet becomes crucial tool for party's future dimensional rift encounters
 
 **Environmental Restoration Mission:**
@@ -96,10 +96,10 @@ Eleanor leads a wandering coven dedicated to environmental restoration and magic
 - **Ecosystem Recovery:** Her intervention restored natural balance after party eliminated devils
 
 **Relationships with Player Characters:**
-- **[Red](/player-characters/Red) (Thurnok):** Entrusted him with family's portal-closing amulet, recognizing his divine connection and protective nature
+- **[Red](/player-characters/red) (Thurnok):** Entrusted him with family's portal-closing amulet, recognizing his divine connection and protective nature
 - **The Party (Collective):** Professional relationship based on environmental contract work
 - **Frankie:** Performed complex curse-breaking ritual to cure his lycanthropy
-- **[Jasper](/player-characters/Jasper):** Benefited from her lycanthropy expertise during werewolf encounters
+- **[Jasper](/player-characters/jasper):** Benefited from her lycanthropy expertise during werewolf encounters
 
 **Connections to Other NPCs:**
 - **Frankie the Werewolf:** Primary beneficiary of her curse-breaking abilities
@@ -140,7 +140,7 @@ Offered Frankie three choices for dealing with his werewolf curse:
 
 ## Roscoe - The Eccentric Intelligence Broker
 
-**First Appearance:** Session 10 - "The [Red](/player-characters/Red) Scare"  
+**First Appearance:** Session 10 - "The [Red](/player-characters/red) Scare"  
 **Race:** Warforged (extensively self-modified)  
 **Profession:** Information Broker, Master Distiller, Underground Network Coordinator  
 **Affiliations:** Milstrom underground, Former military (possibly Peaceforged unit), SHIELD connection
@@ -151,29 +151,29 @@ Offered Frankie three choices for dealing with his werewolf curse:
 Likely former member of Peaceforged unit with psychic hive-mind connection to entity called SHIELD. His current eccentric behavior may result from severed military connections or voluntary personality modification to escape regimented existence.
 
 **Session Appearances:**
-- **Session 10:** First encounter trading information for alcohol, reveals [Red](/player-characters/Red) Lennon's true diabolic nature
-- **Session 11:** Provides [Red](/player-characters/Red)'s true identity through Marion Cross's journal, conducts Everclear ceremony
+- **Session 10:** First encounter trading information for alcohol, reveals [Red](/player-characters/red) Lennon's true diabolic nature
+- **Session 11:** Provides [Red](/player-characters/red)'s true identity through Marion Cross's journal, conducts Everclear ceremony
 - **Session 13:** Continues information services and philosophical guidance
-- **Session 23:** Reunites with party, maintains connections with [Jasper](/player-characters/Jasper) through beer deliveries
-- **Winter Solstice Special:** Established friendship with [Jasper](/player-characters/Jasper) who delivers beer supplies
+- **Session 23:** Reunites with party, maintains connections with [Jasper](/player-characters/jasper) through beer deliveries
+- **Winter Solstice Special:** Established friendship with [Jasper](/player-characters/jasper) who delivers beer supplies
 
 **The Identity Revelation Ceremony:**
-Orchestrated elaborate drinking ritual using magically potent Everclear to reveal [Red](/player-characters/Red)'s true heritage:
-- **Psychological Testing:** Used telepathic message to assess [Red](/player-characters/Red)'s trust in companions
+Orchestrated elaborate drinking ritual using magically potent Everclear to reveal [Red](/player-characters/red)'s true heritage:
+- **Psychological Testing:** Used telepathic message to assess [Red](/player-characters/red)'s trust in companions
 - **Social Pressure:** Required all party members to drink his specially crafted alcohol
 - **Sacred Truth:** Provided Marion Cross's journal only after trust-building ceremony
 - **Emotional Impact:** Created moment of vulnerability and honesty among party members
 
 **Relationships with Player Characters:**
-- **[Red](/player-characters/Red) (Thurnok):** Revealed his true identity as Prince Thurnok Skyhammer through mother's journal
-- **[Jasper](/player-characters/Jasper):** Close personal friend who regularly delivers beer to Roscoe's tavern operations
+- **[Red](/player-characters/red) (Thurnok):** Revealed his true identity as Prince Thurnok Skyhammer through mother's journal
+- **[Jasper](/player-characters/jasper):** Close personal friend who regularly delivers beer to Roscoe's tavern operations
 - **The Party (Collective):** Primary intelligence source and philosophical guide for supernatural threats
-- **[Bru](/player-characters/Bru):** Shares appreciation for unusual alcoholic beverages and technical innovation
-- **[Silas](/player-characters/Silas):** Recognizes his criminal expertise and provides underground network connections
+- **[Bru](/player-characters/bru):** Shares appreciation for unusual alcoholic beverages and technical innovation
+- **[Silas](/player-characters/silas):** Recognizes his criminal expertise and provides underground network connections
 
 **Connections to Other NPCs:**
-- **Marion Cross:** Preserved her journal containing [Red](/player-characters/Red)'s true heritage and family history
-- **[Red](/player-characters/Red) Lennon:** Provided crucial intelligence about diabolic political infiltration
+- **Marion Cross:** Preserved her journal containing [Red](/player-characters/red)'s true heritage and family history
+- **[Red](/player-characters/red) Lennon:** Provided crucial intelligence about diabolic political infiltration
 - **Milstrom Citizens:** Serves as community information hub and social gathering point
 - **Underground Networks:** Maintains connections with various resistance and criminal organizations
 
@@ -205,7 +205,7 @@ Orchestrated elaborate drinking ritual using magically potent Everclear to revea
 - **Escape Routes:** Essential for party's ability to avoid hostile forces
 - **Smuggling Networks:** Connections with various underground transportation operations
 
-**Current Role and Status:** Continues operating as Milstrom's primary information broker while maintaining beer delivery friendship with [Jasper](/player-characters/Jasper), serves as party's most reliable source for intelligence about supernatural and political threats.
+**Current Role and Status:** Continues operating as Milstrom's primary information broker while maintaining beer delivery friendship with [Jasper](/player-characters/jasper), serves as party's most reliable source for intelligence about supernatural and political threats.
 
 ---
 
@@ -234,10 +234,10 @@ Former Twilight Company member who remained in High Forge after dragon attack to
 - **Supply Lines:** Manages procurement of explosives materials and resistance equipment
 
 **Relationships with Player Characters:**
-- **[Bru](/player-characters/Bru):** Shares technical interests and recognizes his voice through radio transmission
+- **[Bru](/player-characters/bru):** Shares technical interests and recognizes his voice through radio transmission
 - **The Party (Collective):** Former Twilight Company allies who provided tunnel maps during evacuation
-- **[Silas](/player-characters/Silas):** Appreciates his criminal expertise and strategic thinking
-- **[Red](/player-characters/Red):** Worked with him during emergency evacuation operations
+- **[Silas](/player-characters/silas):** Appreciates his criminal expertise and strategic thinking
+- **[Red](/player-characters/red):** Worked with him during emergency evacuation operations
 
 **Connections to Other NPCs:**
 - **Mira:** Current partner in resistance operations, handles communications
@@ -369,9 +369,9 @@ Serves as primary assistant and representative for the Winter King, handling dip
 
 **Relationships with Player Characters:**
 - **The Party (Collective):** Grateful for their defense of winter solstice celebration
-- **[Red](/player-characters/Red):** His Dispel Magic proved crucial for her ability to intervene against Negacast
-- **[Olivia](/player-characters/Olivia):** Appreciated her protective instincts toward community traditions
-- **[Elspeth](/player-characters/Elspeth):** Provided autographed book as reward for engineering expertise
+- **[Red](/player-characters/red):** His Dispel Magic proved crucial for her ability to intervene against Negacast
+- **[Olivia](/player-characters/olivia):** Appreciated her protective instincts toward community traditions
+- **[Elspeth](/player-characters/elspeth):** Provided autographed book as reward for engineering expertise
 
 **Connections to Other NPCs:**
 - **The Winter King:** Primary employer and source of authority for winter magic operations
@@ -410,7 +410,7 @@ Serves as primary assistant and representative for the Winter King, handling dip
 **Gifts and Recognition:**
 Provided rewards recognizing party's heroic actions:
 - **Crystal Figurines:** Beautiful magical items for all party members
-- **Autographed Novel:** Personalized gift for [Elspeth](/player-characters/Elspeth) showing attention to individual interests
+- **Autographed Novel:** Personalized gift for [Elspeth](/player-characters/elspeth) showing attention to individual interests
 - **Healing Services:** Restored all injured villagers after Negacast's defeat
 - **Corruption Reversal:** Fixed all damaged gifts and celebration elements
 
@@ -443,7 +443,7 @@ Designed comprehensive testing protocol for potential cosmic heroes:
 4. **Portal Access:** Grants entry to astral tree network only after successful completion
 
 **Relationships with Player Characters:**
-- **[Red](/player-characters/Red) (Thurnok):** Approved his answer about protecting others, recognized genuine heroic nature
+- **[Red](/player-characters/red) (Thurnok):** Approved his answer about protecting others, recognized genuine heroic nature
 - **The Party (Collective):** Tested their worthiness and granted access to cosmic travel network
 - **Individual Assessment:** Evaluated each member's contribution to group success
 - **Ongoing Guidance:** Continues providing advice about cosmic threats and preparedness
@@ -513,8 +513,8 @@ Former werewolf who led pack of wolves driven to attack human settlements due to
 - **Strategic Thinking:** Capable of complex planning and negotiation despite bestial form
 
 **Relationships with Player Characters:**
-- **[Silas](/player-characters/Silas):** Established telepathic communication and negotiated initial alliance
-- **[Red](/player-characters/Red) (Thurnok):** Received crucial healing during first encounter, establishing trust
+- **[Silas](/player-characters/silas):** Established telepathic communication and negotiated initial alliance
+- **[Red](/player-characters/red) (Thurnok):** Received crucial healing during first encounter, establishing trust
 - **The Party (Collective):** Deep gratitude creates unshakeable loyalty and respect
 - **Eleanor:** Beneficiary of her curse-breaking expertise and magical healing
 
@@ -564,18 +564,18 @@ Eleanor offered three options, party chose complete healing:
 
 ## Companion Creatures and Familiars
 
-### Kevin - [Bru](/player-characters/Bru)'s Loyal Homunculus
+### Kevin - [Bru](/player-characters/bru)'s Loyal Homunculus
 
 **First Appearance:** Session 1 - "Dinner and Nightcap"  
 **Race:** Homunculus (Artificial Construct)  
 **Profession:** Minion, Assistant, Sacrifice Volunteer  
-**Affiliations:** [Bru](/player-characters/Bru), "[Bru](/player-characters/Bru)'s Army"
+**Affiliations:** [Bru](/player-characters/bru), "[Bru](/player-characters/bru)'s Army"
 
-**Physical Description:** Small artificial creature created by [Bru](/player-characters/Bru)'s artificer abilities, demonstrates loyalty despite frequent dangerous assignments.
+**Physical Description:** Small artificial creature created by [Bru](/player-characters/bru)'s artificer abilities, demonstrates loyalty despite frequent dangerous assignments.
 
 **Personality and Behavior:**
 - **Perpetual Panic:** Often runs around screaming during chaotic situations
-- **Loyal Service:** Follows [Bru](/player-characters/Bru)'s commands regardless of personal danger
+- **Loyal Service:** Follows [Bru](/player-characters/bru)'s commands regardless of personal danger
 - **Sacrifice Willingness:** Volunteers for dangerous tasks including bomb defusal
 - **Comic Relief:** Provides humor through dramatic reactions to situations
 
@@ -583,61 +583,61 @@ Eleanor offered three options, party chose complete healing:
 - **Bomb Defusal Attempt:** Heroically tried to defuse pit bomb during racing event
 - **Combat Support:** Assists during battles through distraction and minor combat abilities
 - **Reconnaissance:** Provides scouting and information gathering services
-- **Emotional Support:** Represents [Bru](/player-characters/Bru)'s capacity for creating loyal companions
+- **Emotional Support:** Represents [Bru](/player-characters/bru)'s capacity for creating loyal companions
 
-### BoxBox - [Elspeth](/player-characters/Elspeth)'s Steel Defender
+### BoxBox - [Elspeth](/player-characters/elspeth)'s Steel Defender
 
 **First Appearance:** Session 1 - "Dinner and Nightcap"  
 **Race:** Steel Defender (Magical Construct)  
 **Profession:** Combat Companion, Technical Assistant  
-**Affiliations:** [Elspeth](/player-characters/Elspeth) Cooper, Racing support
+**Affiliations:** [Elspeth](/player-characters/elspeth) Cooper, Racing support
 
 **Abilities and Services:**
 - **Combat Effectiveness:** Reliable damage dealer and tactical support
-- **Technical Assistance:** Helps with [Elspeth](/player-characters/Elspeth)'s engineering and racing projects
-- **Loyalty:** Unwavering dedication to [Elspeth](/player-characters/Elspeth)'s safety and success
+- **Technical Assistance:** Helps with [Elspeth](/player-characters/elspeth)'s engineering and racing projects
+- **Loyalty:** Unwavering dedication to [Elspeth](/player-characters/elspeth)'s safety and success
 - **Versatility:** Adapts to various roles including combat, racing, and exploration
 
-**Rescue History:** Has been captured and rescued multiple times, demonstrating [Elspeth](/player-characters/Elspeth)'s protective nature toward her creation.
+**Rescue History:** Has been captured and rescued multiple times, demonstrating [Elspeth](/player-characters/elspeth)'s protective nature toward her creation.
 
-### Bob the Ram (B-A-A-A-A-B) - [Olivia](/player-characters/Olivia)'s Fey Mount
+### Bob the Ram (B-A-A-A-A-B) - [Olivia](/player-characters/olivia)'s Fey Mount
 
 **First Appearance:** Session 14 - "Ascending Grimvar's Spine"  
 **Race:** Fey Ram  
 **Profession:** Mount, Romantic Lead  
-**Affiliations:** [Olivia](/player-characters/Olivia) Cooper, Bessie the Lightning Ewe
+**Affiliations:** [Olivia](/player-characters/olivia) Cooper, Bessie the Lightning Ewe
 
 **Romantic Achievement:** Successfully wooed Bessie the Lightning Ewe, resulting in creation of "more perfect goat" offspring that replaced Old Myrtle as village oracle.
 
 **Services:**
-- **Mount Combat:** Provides [Olivia](/player-characters/Olivia) with enhanced mobility and tactical options
-- **Fey Step Access:** Enables [Olivia](/player-characters/Olivia)'s teleportation abilities through fey connection
+- **Mount Combat:** Provides [Olivia](/player-characters/olivia) with enhanced mobility and tactical options
+- **Fey Step Access:** Enables [Olivia](/player-characters/olivia)'s teleportation abilities through fey connection
 - **Comic Relief:** Romantic subplot with magical sheep provides entertainment
 - **Transportation:** Reliable mount for difficult terrain and emergency situations
 
-### Crimson the Cardinal - [Bru](/player-characters/Bru)'s Memorial Familiar
+### Crimson the Cardinal - [Bru](/player-characters/bru)'s Memorial Familiar
 
-**First Appearance:** Session 22 - "The [Red](/player-characters/Red)'s Last Flight"  
+**First Appearance:** Session 22 - "The [Red](/player-characters/red)'s Last Flight"  
 **Race:** Mechanical Cardinal (Construct)  
 **Profession:** Familiar, Memorial Symbol  
-**Affiliations:** [Bru](/player-characters/Bru), Memory of [Red](/player-characters/Red)
+**Affiliations:** [Bru](/player-characters/bru), Memory of [Red](/player-characters/red)
 
 **Special Characteristics:**
 - **Jetpack Flight:** Artificial propulsion instead of natural bird flight
-- **Memorial Purpose:** Created as tribute to [Red](/player-characters/Red)'s memory and sacrifice
-- **Technical Innovation:** Represents [Bru](/player-characters/Bru)'s emotional response through engineering
+- **Memorial Purpose:** Created as tribute to [Red](/player-characters/red)'s memory and sacrifice
+- **Technical Innovation:** Represents [Bru](/player-characters/bru)'s emotional response through engineering
 - **Symbolic Value:** Maintains connection to lost party member
 
 ### Bru's Army - The Magical Creature Collective
 
 **Formation:** Sessions 14-21  
-**Leadership:** Felonias "[Bru](/player-characters/Bru)" [Bru](/player-characters/Bru)  
+**Leadership:** Felonias "[Bru](/player-characters/bru)" [Bru](/player-characters/bru)  
 **Members:** Three dimensional-shifting lambs, Gus the cliff-climber, Jeffrey as "upper middle management"
 
 **Magical Abilities:**
 - **Dimensional Shifting:** Three lambs can transport beings to other planes temporarily
 - **Cliff Climbing:** Gus provides access to otherwise unreachable locations
-- **Military Organization:** [Bru](/player-characters/Bru) attempts to train them in formation fighting
+- **Military Organization:** [Bru](/player-characters/bru) attempts to train them in formation fighting
 - **Chaos Factor:** Their magical abilities often create unpredictable situations
 
-**Current Status:** Continue following [Bru](/player-characters/Bru) as loyal magical creature army, provide both combat support and comic relief through their chaotic magical abilities and [Bru](/player-characters/Bru)'s military leadership attempts.
+**Current Status:** Continue following [Bru](/player-characters/bru) as loyal magical creature army, provide both combat support and comic relief through their chaotic magical abilities and [Bru](/player-characters/bru)'s military leadership attempts.

@@ -29,15 +29,15 @@ The party arrives at what they believe is the third V production facility, only 
 The war-forged supervisor proves to be remarkably friendly and helpful:
 - Offers tea to the "visitors" despite their suspicious behavior
 - Genuinely concerned about his work and the facility
-- **[Ohma](/player-characters/Ohma)** struggles to convince him to evacuate, showing his moral conflict about potentially killing an innocent being
-- **[Helisanna](/player-characters/Helisanna)** eventually uses intimidation enhanced by **Eldritch Blast** to force the robot to leave for his own safety
+- **[Ohma](/player-characters/ohma)** struggles to convince him to evacuate, showing his moral conflict about potentially killing an innocent being
+- **[Helisanna](/player-characters/helisanna)** eventually uses intimidation enhanced by **Eldritch Blast** to force the robot to leave for his own safety
 
 ### Bomb Disposal Crisis
 
 With multiple bombs on different timers and no clear target:
-- **[Helisanna](/player-characters/Helisanna)** retrieves and disposes of one [bomb](https://tenor.com/view/batman-running-bomb-nope-no-gif-17677689) by throwing it into the Under Lake, causing fish to die from the explosion
+- **[Helisanna](/player-characters/helisanna)** retrieves and disposes of one [bomb](https://tenor.com/view/batman-running-bomb-nope-no-gif-17677689) by throwing it into the Under Lake, causing fish to die from the explosion
 - **The party keeps their original bomb** planted at Victor's facility but questions whether they should destroy it
-- **[Silas](/player-characters/Silas)** tracks down the Iron Claws informant (**Pascal Gross**) for intelligence
+- **[Silas](/player-characters/silas)** tracks down the Iron Claws informant (**Pascal Gross**) for intelligence
 
 ## Intelligence Gathering from Pascal
 
@@ -51,7 +51,7 @@ Through interrogation of Pascal, the party learns crucial information:
 
 ### Pascal's Elimination
 
-After extracting all useful information, **[Silas](/player-characters/Silas)** kills Pascal with a psychic dagger to the head, justifying it as "justice for the old man" Pascal had murdered. The party searches his belongings and finds a picture of his brother and a [hoagie](https://hips.hearstapps.com/digitalspyuk.cdnds.net/17/20/1494922104-ross-sandwich.gif?crop=0.75xw:1xh;center,top&resize=1200:*).
+After extracting all useful information, **[Silas](/player-characters/silas)** kills Pascal with a psychic dagger to the head, justifying it as "justice for the old man" Pascal had murdered. The party searches his belongings and finds a picture of his brother and a [hoagie](https://hips.hearstapps.com/digitalspyuk.cdnds.net/17/20/1494922104-ross-sandwich.gif?crop=0.75xw:1xh;center,top&resize=1200:*).
 
 ## Victor's Communication Device
 
@@ -59,13 +59,13 @@ After extracting all useful information, **[Silas](/player-characters/Silas)** k
 
 The party returns to headquarters to find Victor gone and a note reading "Off to get sulfur. Be back later. Take a helmet." The [helmet](https://static1.cbrimages.com/wordpress/wp-content/uploads/2017/12/x2-cerebro-professor-xavier.jpg) is actually an ornate crown with embedded antennae that doesn't look ridiculous.
 
-**[Silas](/player-characters/Silas)** tests the device first:
+**[Silas](/player-characters/silas)** tests the device first:
 - **Intelligence check of 22** reveals its function as a telepathic enhancement
 - **Doubles his psychic connection capacity** from 3 to 6 people
 - **Allows conference call-style telepathic communication** instead of requiring him to relay messages
 - **Maintains the same mile-range limitation**
 
-**[Helisanna](/player-characters/Helisanna)** attempts to use it but fails her wisdom save, experiencing a terrifying sensation of being pulled into a "black hole" before using her **Guarded Mind** feature to break free.
+**[Helisanna](/player-characters/helisanna)** attempts to use it but fails her wisdom save, experiencing a terrifying sensation of being pulled into a "black hole" before using her **Guarded Mind** feature to break free.
 
 ## Lady Corwin's Heist Plan
 
@@ -77,7 +77,7 @@ The party returns to headquarters to find Victor gone and a note reading "Off to
 - **Captain Corwin** (her cousin) commands the gold transport convoy
 - The party will disguise themselves as the official escort team
 - **Forged documents** will establish their credentials
-- **[Bru](/player-characters/Bru), [Elspeth](/player-characters/Elspeth), and [Olivia](/player-characters/Olivia)** are assigned to acquire the transport truck
+- **[Bru](/player-characters/bru), [Elspeth](/player-characters/elspeth), and [Olivia](/player-characters/olivia)** are assigned to acquire the transport truck
 - The main group infiltrates **Vault 7** at the royal vaults
 
 **The Route**:
@@ -97,7 +97,7 @@ The party returns to headquarters to find Victor gone and a note reading "Off to
 
 ### Silas's Masterwork
 
-**[Silas](/player-characters/Silas)** creates perfect forged documents with a **30 total** on his forgery check:
+**[Silas](/player-characters/silas)** creates perfect forged documents with a **30 total** on his forgery check:
 - **Six official escort team certificates** in dwarven bureaucratic style
 - **Properly aged and worn** to appear legitimate
 - **Uses real Iron Claws names** from their previous encounters
@@ -106,9 +106,9 @@ The party returns to headquarters to find Victor gone and a note reading "Off to
 ### Identity Preparation
 
 The party establishes their fake identities:
-- **[Silas](/player-characters/Silas)**: **Rothgar Childress** - muscle with red braided beard and X-shaped scar
-- **[Ohma](/player-characters/Ohma)**: **Ziggurat** - elder statesman advisor in concealing robes
-- **[Helisanna](/player-characters/Helisanna)**: **Befar Iron Will** - additional muscle for the operation
+- **[Silas](/player-characters/silas)**: **Rothgar Childress** - muscle with red braided beard and X-shaped scar
+- **[Ohma](/player-characters/ohma)**: **Ziggurat** - elder statesman advisor in concealing robes
+- **[Helisanna](/player-characters/helisanna)**: **Befar Iron Will** - additional muscle for the operation
 
 ## Infiltrating the Royal Vaults
 
@@ -125,14 +125,14 @@ The royal vaults represent the pinnacle of dwarven bureaucracy and craftsmanship
 The party encounters **Jonathan and Jessica**, two guards dealing with relationship drama:
 - **Jonathan** is stuck in the friend zone, pining after Jessica
 - **Jessica** is interested in someone named Brad
-- **[Silas](/player-characters/Silas)** encourages Jonathan to "go boldly and decisively"
+- **[Silas](/player-characters/silas)** encourages Jonathan to "go boldly and decisively"
 - **The guards become distracted** planning their first date, providing perfect cover
 
 ### Vault 7 Access
 
 **The Approach**: The party successfully convinces the administrative clerk they're the expected escort team with their forged documents.
 
-**Lock Picking**: **[Silas](/player-characters/Silas)** successfully opens Vault 7's complex lock mechanism after determining the magical protections have been disabled (likely by Lady Corwin's sabotage).
+**Lock Picking**: **[Silas](/player-characters/silas)** successfully opens Vault 7's complex lock mechanism after determining the magical protections have been disabled (likely by Lady Corwin's sabotage).
 
 ## The Treasure Trove Discovery
 
@@ -147,7 +147,7 @@ Vault 7 contains an incredible array of valuables:
 
 ### The Historical Map
 
-**[Silas](/player-characters/Silas)'s history check** reveals a massive map made of precious stones showing:
+**[Silas](/player-characters/silas)'s history check** reveals a massive map made of precious stones showing:
 - **The entire region** including cities that no longer exist
 - **Five circular purple dots** around a harbor area
 - **A dragon symbol** marking what they recognize as modern-day Greyport
@@ -161,11 +161,11 @@ As the party marvels at their discovery and prepares to load the gold, they hear
 
 ### Moral Complexity
 
-**[Ohma](/player-characters/Ohma)** demonstrates genuine concern for innocent beings like the war-forged supervisor, showing his ethical nature conflicts with the violent necessities of their mission.
+**[Ohma](/player-characters/ohma)** demonstrates genuine concern for innocent beings like the war-forged supervisor, showing his ethical nature conflicts with the violent necessities of their mission.
 
 ### Silas's Criminal Evolution
 
-**[Silas](/player-characters/Silas)** shows both his growing competence as a criminal mastermind and his capacity for cold-blooded murder when he deems it justified.
+**[Silas](/player-characters/silas)** shows both his growing competence as a criminal mastermind and his capacity for cold-blooded murder when he deems it justified.
 
 ### Team Coordination
 

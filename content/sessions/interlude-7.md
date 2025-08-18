@@ -30,13 +30,13 @@ The party decides to clean up at the spa after their recent adventures:
 
 ### The Mud Bath Prank
 
-**[Silas](/player-characters/Silas)** and **[Bru](/player-characters/Bru)** devise an elaborate prank to scare **[Red](/player-characters/Red)** while he's relaxing in the mud bath. They plan to hide underwater and emerge as "mud monsters" while setting off explosives for dramatic effect.
+**[Silas](/player-characters/silas)** and **[Bru](/player-characters/bru)** devise an elaborate prank to scare **[Red](/player-characters/red)** while he's relaxing in the mud bath. They plan to hide underwater and emerge as "mud monsters" while setting off explosives for dramatic effect.
 
 **Execution**:
 - Both succeed on stealth rolls to hide in the mud undetected
-- **[Bru](/player-characters/Bru)** rigs fireworks from **[Helisanna](/player-characters/Helisanna)'s** stage equipment
+- **[Bru](/player-characters/bru)** rigs fireworks from **[Helisanna](/player-characters/helisanna)'s** stage equipment
 - The explosives work too well, creating a massive mess that covers the entire spa area
-- Mud gets blown everywhere, including into the hot tub where **[Silas](/player-characters/Silas)** and **[Jasper](/player-characters/Jasper)** are soaking
+- Mud gets blown everywhere, including into the hot tub where **[Silas](/player-characters/silas)** and **[Jasper](/player-characters/jasper)** are soaking
 
 **Consequences**: A **muscular half-orc spa worker** (later revealed as **Naomi**) has to shut down the entire spa for deep cleaning, forcing everyone to evacuate.
 
@@ -44,15 +44,15 @@ The party decides to clean up at the spa after their recent adventures:
 
 ### Helisanna's Performance
 
-**[Helisanna](/player-characters/Helisanna)** signs up for open mic night at the bar, performing solo acoustic versions of her metal songs including "Ogre Skulls" and teasing "Vampire Viscera." Her performance goes well despite the dark subject matter, with the audience appreciating the musical quality.
+**[Helisanna](/player-characters/helisanna)** signs up for open mic night at the bar, performing solo acoustic versions of her metal songs including "Ogre Skulls" and teasing "Vampire Viscera." Her performance goes well despite the dark subject matter, with the audience appreciating the musical quality.
 
 ### Silas's Scam
 
-While **[Helisanna](/player-characters/Helisanna)** performs, **[Silas](/player-characters/Silas)** runs a charity scam, claiming she has a deadly disease and collecting donations for her "treatment." His deception roll of 24 convinces the entire bar, earning them 80 gold in sympathy donations.
+While **[Helisanna](/player-characters/helisanna)** performs, **[Silas](/player-characters/silas)** runs a charity scam, claiming she has a deadly disease and collecting donations for her "treatment." His deception roll of 24 convinces the entire bar, earning them 80 gold in sympathy donations.
 
 ### Jasper's Gambling Disaster
 
-**[Jasper](/player-characters/Jasper)** immediately heads to the casino and plays a dice game called "craps" (fantasy version). True to his all-or-nothing barbarian nature:
+**[Jasper](/player-characters/jasper)** immediately heads to the casino and plays a dice game called "craps" (fantasy version). True to his all-or-nothing barbarian nature:
 - He loses 29 gold in the first few rounds
 - Decides to bet everything (95 gold) on red
 - Loses everything in spectacular fashion
@@ -63,16 +63,16 @@ While **[Helisanna](/player-characters/Helisanna)** performs, **[Silas](/player-
 The party visits the upscale shop **Paraseldora** to dress for the evening:
 
 **Outfit Choices**:
-- **[Olivia](/player-characters/Olivia)**: Sharp three-piece pinstripe suit with fedora and feather
-- **[Red](/player-characters/Red)**: Ornate kimono-style robes with large beaded necklace
-- **[Bru](/player-characters/Bru)**: Comic version of a white suit similar to Colonel Sanders
-- **[Helisanna](/player-characters/Helisanna)**: Gothic dress with ornate black cloak and "peekaboo action"
-- **[Silas](/player-characters/Silas)**: White summer suit with black tie and straw hat (Colonel Sanders style)
-- **[Jasper](/player-characters/Jasper)**: Settles for a robe after his gambling losses
+- **[Olivia](/player-characters/olivia)**: Sharp three-piece pinstripe suit with fedora and feather
+- **[Red](/player-characters/red)**: Ornate kimono-style robes with large beaded necklace
+- **[Bru](/player-characters/bru)**: Comic version of a white suit similar to Colonel Sanders
+- **[Helisanna](/player-characters/helisanna)**: Gothic dress with ornate black cloak and "peekaboo action"
+- **[Silas](/player-characters/silas)**: White summer suit with black tie and straw hat (Colonel Sanders style)
+- **[Jasper](/player-characters/jasper)**: Settles for a robe after his gambling losses
 
 ## The Fateful Toast
 
-The evening culminates when **Marvin Jr. Jr. Jr.** joins them for celebratory shots of top-shelf blue alcohol. Despite **[Elspeth](/player-characters/Elspeth)'s** paranoid suspicions about being roofied, everyone except **[Olivia](/player-characters/Olivia)** drinks the shots, leading to a complete blackout.
+The evening culminates when **Marvin Jr. Jr. Jr.** joins them for celebratory shots of top-shelf blue alcohol. Despite **[Elspeth](/player-characters/elspeth)'s** paranoid suspicions about being roofied, everyone except **[Olivia](/player-characters/olivia)** drinks the shots, leading to a complete blackout.
 
 ## The Hangover Morning
 
@@ -87,25 +87,25 @@ The party wakes up in their completely trashed hotel suite with no memory of the
 - Ungodly amount of snacks covering all surfaces
 - **BoxBox** hanging from the chandelier tied up with a feather boa
 - Mattress and blanket fort in the corner
-- **[Bru](/player-characters/Bru)** wearing only a shirt as pants (legs through arm holes)
+- **[Bru](/player-characters/bru)** wearing only a shirt as pants (legs through arm holes)
 
 ### The Baby Mystery
 
-**[Jasper](/player-characters/Jasper)** discovers a **half-orc baby** named **Julius** in **[Olivia](/player-characters/Olivia)'s** room, crying in a bassinet. The party initially panics, thinking **[Olivia](/player-characters/Olivia)** has been turned into a baby, before realizing it's a completely different person.
+**[Jasper](/player-characters/jasper)** discovers a **half-orc baby** named **Julius** in **[Olivia](/player-characters/olivia)'s** room, crying in a bassinet. The party initially panics, thinking **[Olivia](/player-characters/olivia)** has been turned into a baby, before realizing it's a completely different person.
 
 ### The Bathroom Surprise
 
-**[Bru](/player-characters/Bru)** and **[Elspeth](/player-characters/Elspeth)** investigate loud snoring and discover **FooFoo Cuddly Poop**, a massive **owlbear**, sleeping peacefully in the jacuzzi tub.
+**[Bru](/player-characters/bru)** and **[Elspeth](/player-characters/elspeth)** investigate loud snoring and discover **FooFoo Cuddly Poop**, a massive **owlbear**, sleeping peacefully in the jacuzzi tub.
 
 ### Matching Tattoos
 
-**[Bru](/player-characters/Bru)** and **[Helisanna](/player-characters/Helisanna)** wake up with matching **"Live, Laugh, Love"** tramp stamps in loopy script, apparently gotten while blackout drunk.
+**[Bru](/player-characters/bru)** and **[Helisanna](/player-characters/helisanna)** wake up with matching **"Live, Laugh, Love"** tramp stamps in loopy script, apparently gotten while blackout drunk.
 
 ## The Investigation Begins
 
-### Missing [Olivia](/player-characters/Olivia)
+### Missing [Olivia](/player-characters/olivia)
 
-The party initially believes **[Olivia](/player-characters/Olivia)** is dead because her room is suspiciously neat compared to the chaos elsewhere. They search frantically while dealing with the immediate crises.
+The party initially believes **[Olivia](/player-characters/olivia)** is dead because her room is suspiciously neat compared to the chaos elsewhere. They search frantically while dealing with the immediate crises.
 
 ### The Owlbear Situation
 
@@ -114,16 +114,16 @@ The party initially believes **[Olivia](/player-characters/Olivia)** is dead bec
 The party successfully lures **FooFoo** out of the bathroom using:
 - Bags of snacks as bait
 - A feather boa as a cat toy
-- **[Silas](/player-characters/Silas)'s** psychic daggers formed into mobile-like lights
+- **[Silas](/player-characters/silas)'s** psychic daggers formed into mobile-like lights
 
 ### Surveillance Footage
 
 **Click** and **Clack** (the Warforged) show the party security footage revealing their theft of **FooFoo** the previous night. The footage shows:
-- **[Olivia](/player-characters/Olivia)** was alive and with them during the initial tour
-- **[Bru](/player-characters/Bru)** and **[Silas](/player-characters/Silas)** had an owlbear race, with **[Bru](/player-characters/Bru)** riding **FooFoo** and **[Silas](/player-characters/Silas)** riding **[Red](/player-characters/Red)** (in owlbear form)
+- **[Olivia](/player-characters/olivia)** was alive and with them during the initial tour
+- **[Bru](/player-characters/bru)** and **[Silas](/player-characters/silas)** had an owlbear race, with **[Bru](/player-characters/bru)** riding **FooFoo** and **[Silas](/player-characters/silas)** riding **[Red](/player-characters/red)** (in owlbear form)
 - **Kevin** was used as a sushi roll lure to entice **FooFoo** to race
-- **[Elspeth](/player-characters/Elspeth)** officiated the race
-- **[Bru](/player-characters/Bru)** won the race with a roll of 19 vs **[Silas](/player-characters/Silas)'s** 18
+- **[Elspeth](/player-characters/elspeth)** officiated the race
+- **[Bru](/player-characters/bru)** won the race with a roll of 19 vs **[Silas](/player-characters/silas)'s** 18
 
 ## The Angry Gnome Incident
 
@@ -152,7 +152,7 @@ The party returns the chips to avoid conflict with the gnome's vengeful friends:
 
 ### The Truth Emerges
 
-**[Olivia](/player-characters/Olivia)** is discovered perfectly alive and well, having:
+**[Olivia](/player-characters/olivia)** is discovered perfectly alive and well, having:
 - Avoided drinking the roofied shot entirely
 - Gone to bed early after the **Mad Goon** concert
 - Scheduled and enjoyed a relaxing 2-hour massage appointment
@@ -166,14 +166,14 @@ The party returns the chips to avoid conflict with the gnome's vengeful friends:
 
 ### Silas and Naomi
 
-The party learns that **[Silas](/player-characters/Silas)** had successfully wooed **Naomi**, the muscular half-orc spa worker and single mother to baby **Julius**. Despite his anxiety about whether drunk [Silas](/player-characters/Silas) was more charming than sober [Silas](/player-characters/Silas), the party helps boost his confidence:
+The party learns that **[Silas](/player-characters/silas)** had successfully wooed **Naomi**, the muscular half-orc spa worker and single mother to baby **Julius**. Despite his anxiety about whether drunk [Silas](/player-characters/silas) was more charming than sober [Silas](/player-characters/silas), the party helps boost his confidence:
 
 **Support Spells**:
-- **[Helisanna](/player-characters/Helisanna)** casts **Enhanced Ability** for advantage on all Charisma checks
-- **[Red](/player-characters/Red)** provides **Emboldening Bond** and **Guidance**
-- **[Elspeth](/player-characters/Elspeth)** serves as wingwoman
+- **[Helisanna](/player-characters/helisanna)** casts **Enhanced Ability** for advantage on all Charisma checks
+- **[Red](/player-characters/red)** provides **Emboldening Bond** and **Guidance**
+- **[Elspeth](/player-characters/elspeth)** serves as wingwoman
 
-**Successful Reconnection**: **Naomi** agrees to continue seeing **[Silas](/player-characters/Silas)**, who saves her contact information as "Muscle Mommy" in his sending stone.
+**Successful Reconnection**: **Naomi** agrees to continue seeing **[Silas](/player-characters/silas)**, who saves her contact information as "Muscle Mommy" in his sending stone.
 
 ## Session Resolution
 
@@ -182,17 +182,17 @@ The party learns that **[Silas](/player-characters/Silas)** had successfully woo
 **Marvin Jr. Jr. Jr.** comps the party an additional night at the casino as an apology for the accidental drugging, giving them opportunities to:
 - Actually remember a **Mad Goon** concert
 - Explore more of the casino amenities
-- Continue the **[Silas](/player-characters/Silas)/Naomi** romance subplot
+- Continue the **[Silas](/player-characters/silas)/Naomi** romance subplot
 
 ### Character Development
 
-**[Silas](/player-characters/Silas)** achieves what the party considers "the high point of his career" by successfully maintaining a relationship with someone clearly out of his league. The running joke about **Naomi** calling him "Sugar Bear" becomes a permanent character detail.
+**[Silas](/player-characters/silas)** achieves what the party considers "the high point of his career" by successfully maintaining a relationship with someone clearly out of his league. The running joke about **Naomi** calling him "Sugar Bear" becomes a permanent character detail.
 
 ## Notable Character Moments
 
 ### Bru's Chaos
 
-**[Bru](/player-characters/Bru)** demonstrates his natural affinity for mayhem through:
+**[Bru](/player-characters/bru)** demonstrates his natural affinity for mayhem through:
 - The explosive mud bath prank
 - Stealing and racing an owlbear while blackout drunk
 - His inexplicable ability to find and befriend dangerous animals
@@ -200,29 +200,29 @@ The party learns that **[Silas](/player-characters/Silas)** had successfully woo
 
 ### Jasper's Gambling Problem
 
-**[Jasper](/player-characters/Jasper)'s** immediate loss of all his money establishes him as an "all gas, no brakes" character who makes impulsive decisions without considering consequences.
+**[Jasper](/player-characters/jasper)'s** immediate loss of all his money establishes him as an "all gas, no brakes" character who makes impulsive decisions without considering consequences.
 
 ### Red's Peer Pressure Susceptibility
 
-**[Red](/player-characters/Red)** continues his pattern of being easily influenced by the group, drinking despite his usual abstinence when pressured by his companions.
+**[Red](/player-characters/red)** continues his pattern of being easily influenced by the group, drinking despite his usual abstinence when pressured by his companions.
 
 ### Olivia's Responsibility
 
-**[Olivia](/player-characters/Olivia)** demonstrates her mature, responsible nature by avoiding the party's chaos and maintaining her commitments (massage appointment) while still helping care for **Julius**.
+**[Olivia](/player-characters/olivia)** demonstrates her mature, responsible nature by avoiding the party's chaos and maintaining her commitments (massage appointment) while still helping care for **Julius**.
 
 ## Running Gags and Callbacks
 
 ### Bru's Name Mystery
 
-The ongoing mystery of **[Bru](/player-characters/Bru)'s** real first name continues, with increasingly ridiculous guesses including "Colonel," "Fart," and **[Silas](/player-characters/Silas)'s** fabricated "Piss Whistle."
+The ongoing mystery of **[Bru](/player-characters/bru)'s** real first name continues, with increasingly ridiculous guesses including "Colonel," "Fart," and **[Silas](/player-characters/silas)'s** fabricated "Piss Whistle."
 
 ### The Brown Obsession
 
-**[Bru](/player-characters/Bru)'s** love of the mysterious drink "Brown" reaches new heights as he modifies even premium shots to include it, maintaining that all Brown is "chewy."
+**[Bru](/player-characters/bru)'s** love of the mysterious drink "Brown" reaches new heights as he modifies even premium shots to include it, maintaining that all Brown is "chewy."
 
 ### Jasper's Suspicious Behavior
 
-The party begins building a case that **[Jasper](/player-characters/Jasper)** might be a werewolf based on:
+The party begins building a case that **[Jasper](/player-characters/jasper)** might be a werewolf based on:
 - His destroyed robes (from transformation?)
 - His mention of "handling many orphans" in ominous ways
 - His love of magic shows (supposedly a werewolf trait)
@@ -234,4 +234,4 @@ This interlude successfully captures classic "hangover" comedy while advancing c
 
 **Ellis (Taylor)** effectively uses the hangover premise to explore character dynamics through both their blackout actions and their sober attempts to piece together the night, creating memorable moments that will likely be referenced throughout future sessions.
 
-The **[Silas](/player-characters/Silas)/Naomi** romance subplot provides genuine character development while the various mysteries (baby, owlbear, angry gnome) create a perfect blend of comedy and adventure that showcases each character's problem-solving approach.
+The **[Silas](/player-characters/silas)/Naomi** romance subplot provides genuine character development while the various mysteries (baby, owlbear, angry gnome) create a perfect blend of comedy and adventure that showcases each character's problem-solving approach.

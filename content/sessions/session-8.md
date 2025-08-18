@@ -15,39 +15,39 @@ The party finally leaves the deep tunnels under High Forge, emerging into the da
 
 ## 🧪 A Wave of Revelations
 
-The session opens with a retrospective on **[Silas](/player-characters/Silas)’ backstory**:
-- [Silas](/player-characters/Silas) and [Bru](/player-characters/Bru) were once part of a gang that stole a powerful artifact from the criminal syndicate **The Iron Claws**.
+The session opens with a retrospective on **[Silas](/player-characters/silas)’ backstory**:
+- [Silas](/player-characters/silas) and [Bru](/player-characters/bru) were once part of a gang that stole a powerful artifact from the criminal syndicate **The Iron Claws**.
 - The stolen item is a **glass orb containing a dragon**, which is extremely dangerous if mishandled (e.g. stored in a Bag of Holding).
-- The Iron Claws are now actively pursuing [Silas](/player-characters/Silas) by name—meaning his current identity has been compromised.
+- The Iron Claws are now actively pursuing [Silas](/player-characters/silas) by name—meaning his current identity has been compromised.
 
 Other shocking reveals include:
-- **[Olivia](/player-characters/Olivia)’s friend**, Bo Dega, is implicated in drug smuggling—using produce to transport a dangerous eye-drop drug called "V".
-- [Olivia](/player-characters/Olivia) is devastated to learn her local bodega may have been a front for narcotics.
+- **[Olivia](/player-characters/olivia)’s friend**, Bo Dega, is implicated in drug smuggling—using produce to transport a dangerous eye-drop drug called "V".
+- [Olivia](/player-characters/olivia) is devastated to learn her local bodega may have been a front for narcotics.
 
 ## 💰 Loot Recap & Equipment Shopping
 
 The group discusses gold totals:
 - Everyone received **2,000g**, contributed **666g** each for a **Bag of Holding**, leaving **1,334g** remaining per player.
-- [Olivia](/player-characters/Olivia), [Elspeth](/player-characters/Elspeth), and others consider what items to buy. Common and uncommon items are approved.
+- [Olivia](/player-characters/olivia), [Elspeth](/player-characters/elspeth), and others consider what items to buy. Common and uncommon items are approved.
 - Clarifications about heavy armor proficiencies are made, especially with updated 2024 rules.
 - Healing potions are recommended for low-slot clerics.
 
 ## 🌄 Traveling Toward Milstrom
 
-The party travels with the caravan toward **Milstrom**, [Red](/player-characters/Red)'s hometown.
+The party travels with the caravan toward **Milstrom**, [Red](/player-characters/red)'s hometown.
 
-- **Bo** questions what’s next for him after High Forge. [Olivia](/player-characters/Olivia) tries to keep him on the moral path.
-- **[Silas](/player-characters/Silas) confesses** he's rattled that his “clean” identity was discovered by the Iron Claws.
+- **Bo** questions what’s next for him after High Forge. [Olivia](/player-characters/olivia) tries to keep him on the moral path.
+- **[Silas](/player-characters/silas) confesses** he's rattled that his “clean” identity was discovered by the Iron Claws.
 - The party confirms the town's name is **Milstrom**, though it takes a while to recall.
 
 ## 🛑 Paladin Encounter: Religious Persecution
 
-A disturbing road encounter introduces **Eldoran paladins**—human knights wielding weapons and armor embedded with **violessence crystals** (the same material powering [Elspeth](/player-characters/Elspeth)’s racer).
+A disturbing road encounter introduces **Eldoran paladins**—human knights wielding weapons and armor embedded with **violessence crystals** (the same material powering [Elspeth](/player-characters/elspeth)’s racer).
 
 - They are **forcing refugees to swear allegiance to Empress Eldora**, demanding abandonment of their former gods.
 - A knight accosts a dwarven monk who refuses to forsake **Tyr**.
-- [Olivia](/player-characters/Olivia), [Elspeth](/player-characters/Elspeth), and [Red](/player-characters/Red) intervene—[Olivia](/player-characters/Olivia) tries diplomacy, [Elspeth](/player-characters/Elspeth) supports, and [Silas](/player-characters/Silas) pretends she’s a senile grandma to de-escalate.
-- [Silas](/player-characters/Silas) rolls a **29 deception**, diffusing the situation.
+- [Olivia](/player-characters/olivia), [Elspeth](/player-characters/elspeth), and [Red](/player-characters/red) intervene—[Olivia](/player-characters/olivia) tries diplomacy, [Elspeth](/player-characters/elspeth) supports, and [Silas](/player-characters/silas) pretends she’s a senile grandma to de-escalate.
+- [Silas](/player-characters/silas) rolls a **29 deception**, diffusing the situation.
 - The monk, named **Hoboken**, joins the caravan under the party’s protection.
 
 ## ⛺ Campsite Revelations and Side Missions
@@ -65,12 +65,12 @@ The caravan stops for the night at a seasonal festival site turned refugee camp.
 ### Silas
 - Takes Frederick under his wing, probing him for intelligence.
 - Learns that **Project Purple Patch**, a mysterious effort related to missing Tyr pilgrims, seems centered around Milstrom.
-- Confirms that **[Red](/player-characters/Red)’s family was likely involved in the coven**—raising more mystery around their deaths.
-- Discusses promoting another **[Helisanna](/player-characters/Helisanna) concert** to earn gold.
+- Confirms that **[Red](/player-characters/red)’s family was likely involved in the coven**—raising more mystery around their deaths.
+- Discusses promoting another **[Helisanna](/player-characters/helisanna) concert** to earn gold.
 
 ### Elspeth
 - Acquires 20 spare car parts from **Trevor**, a mechanic merchant.
-- [Silas](/player-characters/Silas) negotiates a **sponsorship deal** for discounted parts in exchange for promoting Trevor’s brand.
+- [Silas](/player-characters/silas) negotiates a **sponsorship deal** for discounted parts in exchange for promoting Trevor’s brand.
 
 ## 🧭 Arrival of Tien & Tiefling Lore Drop
 
@@ -85,7 +85,7 @@ The party meets **Tien**, their employer from the Steven Guild.
 The party is approached by **Eleanor**, a halfling hedge mage from **Eleanor’s Wandering Coven**:
 - She asks for help taking a **Hearth Seed** to a **Druidic Altar** near Milstrom to counteract a mysterious **blight** affecting the area.
 - She implies that this may be linked to deeper corruption or the nearby **hell rift**.
-- [Red](/player-characters/Red) is visibly disturbed—his hometown is falling apart.
+- [Red](/player-characters/red) is visibly disturbed—his hometown is falling apart.
 
 ## 📋 The Milstrom To-Do List
 
@@ -93,9 +93,9 @@ The session ends with the party compiling a running list of objectives in Milstr
 - Investigate the **blight** and help restore the Druidic altar.
 - Locate the **hell rift** and determine its threat.
 - Investigate the **disappearance of Mayor Jed Carter**.
-- Follow leads on **Project Purple Patch** and the **missing Tyr pilgrims**, possibly linked to [Red](/player-characters/Red)’s family.
+- Follow leads on **Project Purple Patch** and the **missing Tyr pilgrims**, possibly linked to [Red](/player-characters/red)’s family.
 - Figure out the new **government structure** of Milstrom.
-- Set up a **[Helisanna](/player-characters/Helisanna) concert** for funds and influence.
+- Set up a **[Helisanna](/player-characters/helisanna) concert** for funds and influence.
 - Reconnect with **Finnegan**, a go-between for the Twilight Company.
 
 Fred also returns, having located **100 MP3 blanks** and assisting with acquiring them for the next concert.
@@ -104,4 +104,4 @@ Fred also returns, having located **100 MP3 blanks** and assisting with acquirin
 
 ## 🌙 Final Thoughts
 
-The party rests under the stars as Bo's caravan and Tien's family merge with their group. [Helisanna](/player-characters/Helisanna) is drunk, [Red](/player-characters/Red) is contemplative, [Silas](/player-characters/Silas) is scheming, and [Olivia](/player-characters/Olivia) remains ever vigilant. With their next destination looming, Milstrom promises answers—but also deeper mystery and danger.
+The party rests under the stars as Bo's caravan and Tien's family merge with their group. [Helisanna](/player-characters/helisanna) is drunk, [Red](/player-characters/red) is contemplative, [Silas](/player-characters/silas) is scheming, and [Olivia](/player-characters/olivia) remains ever vigilant. With their next destination looming, Milstrom promises answers—but also deeper mystery and danger.

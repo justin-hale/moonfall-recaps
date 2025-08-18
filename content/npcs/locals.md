@@ -19,11 +19,11 @@ The community leaders, craftspeople, guards, and residents who form the backbone
 
 **Session Appearances:**
 - **Session 8:** Encountered during Eldoran paladin confrontation, defended by party
-- **Session 9:** Warned about Crowley and fae bargains by [Olivia](/player-characters/Olivia)
+- **Session 9:** Warned about Crowley and fae bargains by [Olivia](/player-characters/olivia)
 
 **Relationships with Player Characters:**
 - **The Party (Collective):** Grateful for protection from Eldoran religious persecution
-- **[Olivia](/player-characters/Olivia):** Received warnings about supernatural threats and fae bargains
+- **[Olivia](/player-characters/olivia):** Received warnings about supernatural threats and fae bargains
 
 **Role in Community:** Serves as settlement's moral compass and spiritual advisor, mediates disputes with fairness and wisdom, provides guidance to local guard on matters of justice.
 
@@ -44,10 +44,10 @@ The community leaders, craftspeople, guards, and residents who form the backbone
 
 **Session Appearances:**
 - **Session 20:** First encounter at Lakeshore Vale, fishing rod stolen by Tanner
-- **Session 21:** Benefits from [Bru](/player-characters/Bru)'s explosive fishing techniques
+- **Session 21:** Benefits from [Bru](/player-characters/bru)'s explosive fishing techniques
 
 **Relationships with Player Characters:**
-- **[Bru](/player-characters/Bru):** Introduced him to dynamite fishing, revolutionizing his fishing success
+- **[Bru](/player-characters/bru):** Introduced him to dynamite fishing, revolutionizing his fishing success
 - **The Party:** Provided information about village problems and residents
 
 **Village Role:** Cornerstone of local economy providing fresh fish daily, knowledge of waterways makes him valuable for transport and weather forecasting.
@@ -60,7 +60,7 @@ The community leaders, craftspeople, guards, and residents who form the backbone
 
 ## Tobias - Blacksmith
 
-**First Appearance:** Session 10 - "The [Red](/player-characters/Red) Scare"  
+**First Appearance:** Session 10 - "The [Red](/player-characters/red) Scare"  
 **Race:** Human  
 **Profession:** Blacksmith, Town Council Member  
 **Affiliations:** Craftsmen's Guild, Milstrom Town Council
@@ -68,14 +68,14 @@ The community leaders, craftspeople, guards, and residents who form the backbone
 **Physical Description:** Milstrom's primary metalworker whose forge serves as social hub.
 
 **Session Appearances:**
-- **Session 10:** First mentioned [Red](/player-characters/Red) Lennon's collectivist movement to party
+- **Session 10:** First mentioned [Red](/player-characters/red) Lennon's collectivist movement to party
 - **Session 14:** Tool trading involved in resolving village romance subplot
 
 **Role in Community:** Political influence as guild member and town council participant, provides essential metalworking services, maintains social gathering place.
 
 **Services:** Metalworking, custom commissions, appraisal services, local political information, tool and equipment repair.
 
-**Current Status:** Continues blacksmithing operations, participates in Milstrom's political recovery from [Red](/player-characters/Red) Lennon's control.
+**Current Status:** Continues blacksmithing operations, participates in Milstrom's political recovery from [Red](/player-characters/red) Lennon's control.
 
 ---
 

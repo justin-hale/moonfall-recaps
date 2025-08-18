@@ -1,5 +1,5 @@
 ---
-title: "[Helisanna](/player-characters/Helisanna) Doomfall"
+title: "[Helisanna](/player-characters/helisanna) Doomfall"
 date: "2024-08-05"
 description: "Human bard/warlock and metal music frontwoman with supernatural influence over her audience"
 summary: "Human bard/warlock and metal music frontwoman with supernatural influence over her audience"
@@ -8,7 +8,7 @@ featureimage: "helisanna.webp"
 
 ## Character Overview
 
-**[Helisanna](/player-characters/Helisanna) Doomfall** is a human Bard (College of Lore) / Warlock and the frontwoman of the metal band "Doomfall." Her performances have supernatural effects on audiences, causing their eyes to glow purple and creating devoted followers.
+**[Helisanna](/player-characters/helisanna) Doomfall** is a human Bard (College of Lore) / Warlock and the frontwoman of the metal band "Doomfall." Her performances have supernatural effects on audiences, causing their eyes to glow purple and creating devoted followers.
 
 ## Basic Information
 
@@ -20,7 +20,7 @@ featureimage: "helisanna.webp"
 
 ## Background
 
-[Helisanna](/player-characters/Helisanna) created her current persona after experiencing grief from "losing her former self." She made a warlock pact with an androgynous entity in a dark place with purple flames, gaining her supernatural musical abilities and signature guitar-axe.
+[Helisanna](/player-characters/helisanna) created her current persona after experiencing grief from "losing her former self." She made a warlock pact with an androgynous entity in a dark place with purple flames, gaining her supernatural musical abilities and signature guitar-axe.
 
 ## Abilities and Equipment
 
@@ -45,8 +45,8 @@ featureimage: "helisanna.webp"
 ## Key Relationships
 
 ### The Band "Doomfall"
-- **[Silas](/player-characters/Silas)**: Manager and booking agent (maintains professional distance)
-- **[Bru](/player-characters/Bru)**: Technical support and pyrotechnics (also maintains professional distance)
+- **[Silas](/player-characters/silas)**: Manager and booking agent (maintains professional distance)
+- **[Bru](/player-characters/bru)**: Technical support and pyrotechnics (also maintains professional distance)
 - **The Party**: Considers them employees rather than friends, though this creates tension
 
 ### Her Warlock Patron
@@ -62,7 +62,7 @@ featureimage: "helisanna.webp"
 ## Signature Traits
 
 ### Professional Distance
-[Helisanna](/player-characters/Helisanna) maintains that she needs to "keep it professional" with her bandmates, viewing them as employees rather than friends. This creates ongoing tension, particularly with [Bru](/player-characters/Bru) who desires closer relationships.
+[Helisanna](/player-characters/helisanna) maintains that she needs to "keep it professional" with her bandmates, viewing them as employees rather than friends. This creates ongoing tension, particularly with [Bru](/player-characters/bru) who desires closer relationships.
 
 ### Supernatural Performances
 Her concerts regularly feature:
@@ -94,7 +94,7 @@ Her musical career has flourished with increasingly lucrative contracts and grow
 - **Transcendent Performances**: Multiple concerts where magical effects enhanced the experience
 - **Major Contracts**: 10,000 gold contract with Sandra Talks for high-profile performances
 - **Underground Fame**: Recognition in both legitimate and underground music scenes
-- **Technical Innovation**: Integration of [Bru](/player-characters/Bru)'s pyrotechnics with her magical performances
+- **Technical Innovation**: Integration of [Bru](/player-characters/bru)'s pyrotechnics with her magical performances
 
 ### Combat Contributions
 - **Crowd Control**: Successfully incapacitated powerful enemies with Sleep and Hideous Laughter
@@ -109,7 +109,7 @@ Her musical career has flourished with increasingly lucrative contracts and grow
 
 ## Current Status
 
-[Helisanna](/player-characters/Helisanna) continues to balance her musical career with adventuring, though the supernatural effects of her performances create ongoing complications. Her growing power and influence make her both an asset and a potential threat.
+[Helisanna](/player-characters/helisanna) continues to balance her musical career with adventuring, though the supernatural effects of her performances create ongoing complications. Her growing power and influence make her both an asset and a potential threat.
 
 ### Performance Repertoire
 - **"Ogre Skulls"**: One of her signature metal songs
@@ -118,7 +118,7 @@ Her musical career has flourished with increasingly lucrative contracts and grow
 
 ### Equipment Status
 - **Guitar-Axe Pact Weapon**: Transforms between musical instrument and combat weapon
-- **Stage Equipment**: Advanced pyrotechnic systems created with [Bru](/player-characters/Bru)
+- **Stage Equipment**: Advanced pyrotechnic systems created with [Bru](/player-characters/bru)
 - **Recording Materials**: MP3-like magical stones for recording performances
 
 ### Ongoing Concerns

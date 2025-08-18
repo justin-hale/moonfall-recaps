@@ -15,19 +15,19 @@ The professional racers, mechanics, organizers, and underground circuit particip
 **Profession:** Professional Racer  
 **Affiliations:** Major racist team sponsorship, Professional racist circuit
 
-**Physical Description:** Professional racer with team sponsorship backing, described as more successful than [Elspeth](/player-characters/Elspeth) in current racing scene.
+**Physical Description:** Professional racer with team sponsorship backing, described as more successful than [Elspeth](/player-characters/elspeth) in current racing scene.
 
 **Session Appearances:**
-- **Session 2:** First mentioned as [Elspeth](/player-characters/Elspeth)'s former associate encouraging her return to racing
+- **Session 2:** First mentioned as [Elspeth](/player-characters/elspeth)'s former associate encouraging her return to racing
 - **Session 4:** Target of party's sabotage operations during underground race
 - **Session 5:** Competes in Highforge Sprint, affected by party's sabotage attempts
 
 **Relationships with Player Characters:**
-- **[Elspeth](/player-characters/Elspeth):** Former racing colleague who encourages her return despite her disqualification
-- **[Silas](/player-characters/Silas):** Successfully drugged by him during pre-race sabotage operations
+- **[Elspeth](/player-characters/elspeth):** Former racing colleague who encourages her return despite her disqualification
+- **[Silas](/player-characters/silas):** Successfully drugged by him during pre-race sabotage operations
 - **The Party:** Viewed as competitor to be neutralized during racing events
 
-**Racing Background:** Maintained position in legitimate racing while [Elspeth](/player-characters/Elspeth) went underground, has backing of major racing organization, skilled enough to compete at professional level.
+**Racing Background:** Maintained position in legitimate racing while [Elspeth](/player-characters/elspeth) went underground, has backing of major racing organization, skilled enough to compete at professional level.
 
 **Current Status:** Continues competing in professional racing circuits, though party's sabotage operations may have affected recent performance.
 

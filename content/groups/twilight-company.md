@@ -43,7 +43,7 @@ The organization operates through small cells with limited knowledge of the broa
 - **Background**: Previously involved in drug trafficking ("V" distribution)
 - **Status**: Reformed after party intervention, now focus on legitimate resistance work
 
-#### George ([Olivia](/player-characters/Olivia)'s Grandson)
+#### George ([Olivia](/player-characters/olivia)'s Grandson)
 - **Role**: Project Purple Patch investigator
 - **Specialization**: Supernatural phenomena research
 - **Mission**: Investigating planar instabilities and religious sites
@@ -87,10 +87,10 @@ Comprehensive information gathering on Imperial activities:
 - Personal motivation (family persecution, ideological opposition, etc.)
 
 ### Current Associates
-- **[Silas](/player-characters/Silas) Fairbanks**: Operating under alias "Martin Birchwood"
+- **[Silas](/player-characters/silas) Fairbanks**: Operating under alias "Martin Birchwood"
 - **The Party**: Contracted for various sabotage and investigation missions
-- **[Red](/player-characters/Red)**: Special interest due to his heritage and divine connections
-- **[Olivia](/player-characters/Olivia)**: Respected for her investigative skills and family connections
+- **[Red](/player-characters/red)**: Special interest due to his heritage and divine connections
+- **[Olivia](/player-characters/olivia)**: Respected for her investigative skills and family connections
 
 ## Resources and Capabilities
 - **Underground Networks**: Extensive tunnel systems and hidden routes

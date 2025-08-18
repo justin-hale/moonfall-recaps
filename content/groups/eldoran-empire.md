@@ -98,7 +98,7 @@ The Empire employs systematic methods for territorial acquisition:
 ### Systematic God Elimination
 Eldora's ultimate goal involves the destruction of competing deities:
 - **Luminar**: Successfully killed the moon goddess through celestial warfare
-- **Tyr**: Potential target, threatening [Red](/player-characters/Red)'s divine connection
+- **Tyr**: Potential target, threatening [Red](/player-characters/red)'s divine connection
 - **Seasonal Powers**: Targeting figures like Caspian and the Winter King
 - **Local Deities**: Elimination of regional and tribal gods
 

@@ -20,15 +20,15 @@ The spiritual leaders, politicians, and authority figures whose decisions and be
 **Session Appearances:**
 - **Session 15:** His journal discovered at abandoned campsite
 - **Session 16:** Rescued from Shadowfell with George and other pilgrims
-- **Session 17:** Provides information about [Red](/player-characters/Red)'s background and Skyhammer history
+- **Session 17:** Provides information about [Red](/player-characters/red)'s background and Skyhammer history
 
 **Relationships with Player Characters:**
-- **[Red](/player-characters/Red) (Thurnok):** Shared religious connection through Tyr worship
+- **[Red](/player-characters/red) (Thurnok):** Shared religious connection through Tyr worship
 - **George:** Worked with him on pilgrimage mission
 - **The Party:** Grateful for rescue from Shadowfell imprisonment
 
 **Connections to Other NPCs:**
-- **George:** Led pilgrimage group that included [Olivia](/player-characters/Olivia)'s grandson
+- **George:** Led pilgrimage group that included [Olivia](/player-characters/olivia)'s grandson
 - **Mother Asuka:** Mentioned as religious mission partner
 - **Lacuna and Demons:** Primary opponents during shrine corruption
 
@@ -59,10 +59,10 @@ The spiritual leaders, politicians, and authority figures whose decisions and be
 
 ## Willemay Hargreave - Political Dissenter
 
-**First Appearance:** Session 10 - "The [Red](/player-characters/Red) Scare"  
+**First Appearance:** Session 10 - "The [Red](/player-characters/red) Scare"  
 **Race:** Elf  
 **Profession:** Political Activist, Dissenter  
-**Affiliations:** Reform movement in Milstrom, Opposition to [Red](/player-characters/Red) Lennon
+**Affiliations:** Reform movement in Milstrom, Opposition to [Red](/player-characters/red) Lennon
 
 **Physical Description:** Elven woman devoted to Tyr, sentenced to execution for "counter-revolutionary activity."
 
@@ -70,14 +70,14 @@ The spiritual leaders, politicians, and authority figures whose decisions and be
 - **Session 10:** Witnessed at public trial, sentenced to execution for dissent
 - **Session 11:** Execution scheduled for dawn, party's actions allow her survival
 
-**Political Activities:** Questioning [Red](/player-characters/Red) Lennon's regime, warning about creeping authoritarianism, advocating for democratic council system.
+**Political Activities:** Questioning [Red](/player-characters/red) Lennon's regime, warning about creeping authoritarianism, advocating for democratic council system.
 
 **Connections to Other NPCs:**
-- **[Red](/player-characters/Red) Lennon:** Primary political opponent who sentenced her to death
+- **[Red](/player-characters/red) Lennon:** Primary political opponent who sentenced her to death
 - **Roscoe:** Provided information about her dissent and religious alignment
 - **Boone Rockwell:** Political ally advocating for governmental reform
 
-**Current Status:** Survived [Red](/player-characters/Red) Lennon's regime due to party's shrine cleansing, continues advocating for democratic reform in Milstrom.
+**Current Status:** Survived [Red](/player-characters/red) Lennon's regime due to party's shrine cleansing, continues advocating for democratic reform in Milstrom.
 
 ---
 
@@ -99,6 +99,6 @@ The spiritual leaders, politicians, and authority figures whose decisions and be
 - **Willemay Hargreave:** Political ally in reform movement
 - **Milstrom Citizens:** Represents established order and political continuity
 
-**Current Role:** Helps guide Milstrom's transition from [Red](/player-characters/Red) Lennon's diabolic control to legitimate democratic governance.
+**Current Role:** Helps guide Milstrom's transition from [Red](/player-characters/red) Lennon's diabolic control to legitimate democratic governance.
 
 **Current Status:** Active in Milstrom politics, working on month-long deliberation process for new governmental structure.

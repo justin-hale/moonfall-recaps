@@ -9,7 +9,7 @@ podcastlink: "https://creators.spotify.com/pod/profile/topher-hooper/episodes/C4
 
 ## Opening Recap
 
-The session began with the party recounting their previous adventures. They had recently dealt with Magnolia's drug-addled state, discovered that Zeke was the murderer of [Red](/player-characters/Red)'s parents, found Zeke's journal after he burned down his own house, and learned he had fled to Eldoran. The party also negotiated with Tien's caravan to wait for their return for 200 gold, and Bo Dega set up shop in the town they had recently helped liberate.
+The session began with the party recounting their previous adventures. They had recently dealt with Magnolia's drug-addled state, discovered that Zeke was the murderer of [Red](/player-characters/red)'s parents, found Zeke's journal after he burned down his own house, and learned he had fled to Eldoran. The party also negotiated with Tien's caravan to wait for their return for 200 gold, and Bo Dega set up shop in the town they had recently helped liberate.
 
 ## The Pilgrimage Begins
 
@@ -34,25 +34,25 @@ The party took on the task of helping Jeffrey round up his six sheep:
 #### **Bessie** - The Lightning Ewe
 - A massive, muscular ewe perched on a cliff
 - Could shoot lightning and jump 100 feet in the air
-- **Strategy**: [Olivia](/player-characters/Olivia) summoned her fey ram companion **Bob** (spelled B-A-A-A-A-B) to seduce Bessie
+- **Strategy**: [Olivia](/player-characters/olivia) summoned her fey ram companion **Bob** (spelled B-A-A-A-A-B) to seduce Bessie
 - **Outcome**: Romantic success - Bob and Bessie retreated to the barn for intimate activities, creating a new "more perfect goat" offspring
 
 #### **Gus** - The Cliff Climber
 - A ram who enjoyed climbing near-vertical cliff faces
-- **Strategy**: [Helisanna](/player-characters/Helisanna) used the *Levitate* spell to float Gus down from the cliffside
+- **Strategy**: [Helisanna](/player-characters/helisanna) used the *Levitate* spell to float Gus down from the cliffside
 - **Outcome**: Successfully delivered to the barn via magical levitation
 
 #### **The Lamb Trio** - The Dimensional Pranksters
 When the party entered the forest to find the three lambs, strange dimensional effects began occurring:
 - **Dimensional Displacement**: Touching or being near the lambs caused party members to be transported to other planes temporarily
-  - **[Helisanna](/player-characters/Helisanna)**: Heard whispers about "the dark one" calling and needing to be fed
-  - **[Bru](/player-characters/Bru)**: Heard messages about being expected and needing to go "further afield"
-  - **[Elspeth](/player-characters/Elspeth)**: Repeatedly heard the word "racist" 
-  - **[Red](/player-characters/Red)**: Witnessed the endless war in the Nine Hells with demons fighting devils
-  - **[Olivia](/player-characters/Olivia)**: Saw a robotic apocalypse with organized automatons
+  - **[Helisanna](/player-characters/helisanna)**: Heard whispers about "the dark one" calling and needing to be fed
+  - **[Bru](/player-characters/bru)**: Heard messages about being expected and needing to go "further afield"
+  - **[Elspeth](/player-characters/elspeth)**: Repeatedly heard the word "racist" 
+  - **[Red](/player-characters/red)**: Witnessed the endless war in the Nine Hells with demons fighting devils
+  - **[Olivia](/player-characters/olivia)**: Saw a robotic apocalypse with organized automatons
   - **Various party members**: Some were transported to heavenly realms with angels and golden forests
 
-- **Resolution**: The party successfully persuaded the lambs to join "[Bru](/player-characters/Bru)'s Army" after they chose [Bru](/player-characters/Bru) as their leader
+- **Resolution**: The party successfully persuaded the lambs to join "[Bru](/player-characters/bru)'s Army" after they chose [Bru](/player-characters/bru) as their leader
 
 #### **Old Myrtle** - The Wise Oracle
 The final sheep was found in a cave, revealed to be far more than an ordinary animal:
@@ -88,7 +88,7 @@ The session concluded with a spectacular magical event:
 
 ## Rewards and Setup
 
-The party received **Woolen Cloaks of the Mountain Guardians** providing cold resistance. The session ended with the formation of "**[Bru](/player-characters/Bru)'s Army**" - consisting of:
+The party received **Woolen Cloaks of the Mountain Guardians** providing cold resistance. The session ended with the formation of "**[Bru](/player-characters/bru)'s Army**" - consisting of:
 - The three dimensional-shifting lambs
 - Gus the cliff-climber  
 - Jeffrey as "upper middle management" and army chef
@@ -98,11 +98,11 @@ The stage was set for the party to continue their pilgrimage up Grimvar's Spine,
 
 ## Notable Character Moments
 
-- **[Bru](/player-characters/Bru)** established himself as a natural leader of magical creatures, forming his "evil army"
-- **[Olivia](/player-characters/Olivia)** successfully played matchmaker between her summoned mount and Bessie
-- **[Helisanna](/player-characters/Helisanna)** demonstrated practical magic use with the levitation of Gus
-- **[Silas](/player-characters/Silas)** showed his investigative skills in tracking and survival
-- **[Red](/player-characters/Red)** experienced visions of the Nine Hells, providing cosmic context
-- **[Elspeth](/player-characters/Elspeth)** dealt with mysterious accusations of being a "racist" from Old Myrtle
+- **[Bru](/player-characters/bru)** established himself as a natural leader of magical creatures, forming his "evil army"
+- **[Olivia](/player-characters/olivia)** successfully played matchmaker between her summoned mount and Bessie
+- **[Helisanna](/player-characters/helisanna)** demonstrated practical magic use with the levitation of Gus
+- **[Silas](/player-characters/silas)** showed his investigative skills in tracking and survival
+- **[Red](/player-characters/red)** experienced visions of the Nine Hells, providing cosmic context
+- **[Elspeth](/player-characters/elspeth)** dealt with mysterious accusations of being a "racist" from Old Myrtle
 
 The session successfully blended comedy with darker undertones about dimensional instability and cosmic threats, setting up future adventures while providing memorable character interactions and problem-solving scenarios.
