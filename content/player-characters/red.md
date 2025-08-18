@@ -1,5 +1,5 @@
 ---
-title: "[Red](/player-characters/red) (Thurnok Skyhammer)"
+title: "Red (Thurnok Skyhammer)"
 date: "2024-08-05"
 description: "Goliath cleric and lost prince who made the ultimate sacrifice to save his people"
 summary: "Goliath cleric and lost prince who made the ultimate sacrifice to save his people"

@@ -1,5 +1,5 @@
 ---
-title: "[Helisanna](/player-characters/helisanna) Doomfall"
+title: "Helisanna Doomfall"
 date: "2024-08-05"
 description: "Human bard/warlock and metal music frontwoman with supernatural influence over her audience"
 summary: "Human bard/warlock and metal music frontwoman with supernatural influence over her audience"

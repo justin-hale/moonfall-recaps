@@ -327,24 +327,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://moonfallsessions.com/player-characters/helisanna/</loc>
-    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://moonfallsessions.com/player-characters/red/</loc>
-    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://moonfallsessions.com/player-characters/silas/</loc>
-    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://moonfallsessions.com/sessions/session-1/</loc>
     <lastmod>2024-08-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -363,13 +345,31 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://moonfallsessions.com/player-characters/helisanna/</loc>
+    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://moonfallsessions.com/npcs/</loc>
     <lastmod>2024-08-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://moonfallsessions.com/player-characters/red/</loc>
+    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://moonfallsessions.com/player-characters/olivia/</loc>
+    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://moonfallsessions.com/player-characters/silas/</loc>
     <lastmod>2024-08-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

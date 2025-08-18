@@ -3,7 +3,7 @@ title: "Session 29: Truckgust F-150th"
 date: 2025-08-15
 description: "The party takes on a special heist mission to steal a Ford F-150 while dancing golems create chaos in the vaults."
 summary: "The party takes on a special heist mission to steal a Ford F-150 while dancing golems create chaos in the vaults."
-featureimage: "S4E29.png"
+featureimage: "C4E29.webp"
 podcastlink: "https://creators.spotify.com/pod/profile/topher-hooper/episodes/C4E29-Truckgust-150th-e36lb3o"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "[Silas](/player-characters/silas) Fairbanks"
+title: "Silas Fairbanks"
 date: "2024-08-05"
 description: "Scheming halfling rogue with psychic abilities and a dangerous criminal past"
 summary: "Scheming halfling rogue with psychic abilities and a dangerous criminal past"

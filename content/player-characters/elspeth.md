@@ -8,7 +8,7 @@ featureimage: "elspeth.webp"
 
 ## Character Overview
 
-**[Elspeth](/player-characters/elspeth) Cooper** is a dwarf Artificer (Battle Smith) / Paladin and former professional racer who was controversially disqualified from the racing circuit. She seeks to clear her name while using her technical expertise and combat skills to support her companions.
+**ElspethCooper** is a dwarf Artificer (Battle Smith) / Paladin and former professional racer who was controversially disqualified from the racing circuit. She seeks to clear her name while using her technical expertise and combat skills to support her companions.
 
 ## Basic Information
 
