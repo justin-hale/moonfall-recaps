@@ -4,18 +4,36 @@
 
   <url>
     <loc>http://moonfallsessions.com/</loc>
-    <lastmod>2025-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://moonfallsessions.com/sessions/session-29/</loc>
-    <lastmod>2025-08-15T00:00:00+00:00</lastmod>
+    <loc>http://moonfallsessions.com/sessions/session-32/</loc>
+    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://moonfallsessions.com/sessions/</loc>
+    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://moonfallsessions.com/sessions/session-31/</loc>
+    <lastmod>2025-08-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://moonfallsessions.com/sessions/session-30/</loc>
+    <lastmod>2025-08-22T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://moonfallsessions.com/sessions/session-29/</loc>
     <lastmod>2025-08-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
