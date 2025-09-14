@@ -11,13 +11,13 @@ podcastlink: "https://creators.spotify.com/pod/profile/topher-hooper/episodes/C4
 
 The session began with the group catching up on personal matters and discussing various topics ranging from Luke's upcoming week off from work to pursue game development, to vehicle preferences (Ford F-150 product placement continues), to Nashville traffic complaints and pizza preferences. The conversation revealed character insights about gaming, work-life balance, and regional pizza styles.
 
-## Investigation at Ratty's Piland
+## Investigation at Rattie's Pie Land
 
 ### Meeting Detective Chalk Rock
-The party encountered recently hired detective **Chalk Rock**, a 16-year-old dwarf with an unhealthy obsession with retired detective **Olivia Cooper**. Chalk Rock had been investigating the disappearance of **April Bonal**, leading the party to **Ratty's Piland**, a pizza establishment owned by the tortle **Bernardo**.
+The party encountered recently hired detective **Chalk Rock**, a 16-year-old dwarf with an unhealthy obsession with retired detective **Olivia Cooper**. Chalk Rock had been investigating the disappearance of **April Bonal**, leading the party to **Rattie's Pie Land**, a pizza establishment owned by the tortle **Beonardo**.
 
 ### The Pizza Place Investigation
-At Ratty's Piland, the party discovered:
+At Rattie's Pie Land, the party discovered:
 - The establishment had been closed for about a week
 - Dust had settled on surfaces, but some had been recently disturbed
 - Footprints led to a sewer grate in the kitchen
@@ -26,9 +26,9 @@ At Ratty's Piland, the party discovered:
 
 ### The Great Pizza Debate
 The party engaged in extensive discussions about pizza quality and regional preferences:
-- Ratty's Piland served thin crust pizza with no cheese and excessive tomato sauce
+- Rattie's Pie Land served thin crust pizza with no cheese and excessive tomato sauce
 - This sparked debates about proper pizza preparation and toppings
-- **Ma** (Ohma Kapua) experienced his first taste of proper pizza later in the session
+- **Ohma** experienced his first taste of proper pizza later in the session
 - Plans were made to establish their own pizza establishment in their pocket dimension
 
 ## Sewer Exploration and Discoveries
@@ -36,13 +36,13 @@ The party engaged in extensive discussions about pizza quality and regional pref
 ### Following the Trail
 The party descended into the sewers following the footprints, where they discovered an underground encampment with:
 - **April Bonal** - the missing person they were searching for
-- **Bernardo** - Ma's fellow monk from their order, running the pizza place above
+- **Beonardo** - Ohma's fellow monk from their order, running the pizza place above
 - **Casey Bones** - another member of their group
 
 ### Reunion and Information Exchange
-**Ma** was reunited with **Bernardo**, learning that:
-- Bernardo had been following leads about the fallen moon goddess
-- He had been making authentic pizza in the sewers after taking over Ratty's Piland
+**Ohma** was reunited with **Beonardo**, learning that:
+- Beonardo had been following leads about the fallen moon goddess
+- He had been making authentic pizza in the sewers after taking over Rattie's Pie Land
 - The original owner had disappeared six months prior
 - April had recently escaped from laboratory experiments
 
@@ -61,12 +61,12 @@ The party refined their plan to use **Helisanna's** musical influence to counter
 - The goal was to defeat Kang in musical combat and then eliminate him
 
 ### Character Development
-**Ma's** first experience with proper pizza became a transcendent moment, awakening a deep appreciation for the combination of bread, cheese, and sauce. This led to extensive discussion about pizza preferences and the establishment of pizza-related goals for the party's pocket dimension.
+**Ohma's** first experience with proper pizza became a transcendent moment, awakening a deep appreciation for the combination of bread, cheese, and sauce. This led to extensive discussion about pizza preferences and the establishment of pizza-related goals for the party's pocket dimension.
 
 ## The Approach to Combat
 
 ### Journey to the Nightclub
-The party followed **Bernardo** and **April** through the sewer system toward the underground nightclub where Kang One was performing. The session built tension as they prepared for a confrontation that would determine control over the city's raver population.
+The party followed **Beonardo** and **April** through the sewer system toward the underground nightclub where Kang One was performing. The session built tension as they prepared for a confrontation that would determine control over the city's raver population.
 
 ### Combat Preparation
 As they approached the nightclub, the party could feel the pulsing music and see the glow of the underground establishment. The session ended with initiative being rolled as they prepared to face:
