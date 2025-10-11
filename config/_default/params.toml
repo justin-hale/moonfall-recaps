@@ -20,7 +20,6 @@ replyByEmail = false
 disableImageOptimization = false
 disableImageOptimizationMD = false
 disableTextInHeader = false
-# backgroundImageWidth = 1200
 
 defaultBackgroundImage = "halftone.svg" # used as default for background images 
 # defaultFeaturedImage = "moonfall.jpg" # used as default for featured images in all articles
